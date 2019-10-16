@@ -72,10 +72,10 @@ social-network-links:
   rss: true
 # email: "someone@example.com"
 # facebook: deanattali
-  github: https://github.com/xuanwang91
+#  github: https://github.com/xuanwang91
 #  twitter: daattali
 #  reddit: yourname
-  linkedin: www.linkedin.com/in/xwang2
+#  linkedin: www.linkedin.com/in/xwang2
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -86,13 +86,13 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-  google scholar: https://scholar.google.com/citations?user=_IVJi6UAAAAJ&hl=en
+#  google scholar: https://scholar.google.com/citations?user=_IVJi6UAAAAJ&hl=en
 
 # Select which share links to show in posts
 share-links-active:
-  github: true
-  linkedin: true
-  google scholar: true
+#  github: true
+#  linkedin: true
+#  google scholar: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
