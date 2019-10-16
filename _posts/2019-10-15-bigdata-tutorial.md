@@ -3,21 +3,25 @@ layout: post
 title: IEEE Big Data 2019 Tutorial
 ---
 
-Taming Unstructured Big Data: Automated Information Extraction from Massive Text
+# Taming Unstructured Big Data: Automated Information Extraction from Massive Text
+
 Xuan Wang, Yu Zhang, Qi Li, Jiawei Han
+
 Department of Computer Science, University of Illinois at Urbana-Champaign, Urbana, IL, USA
-Time: December 9-12, 2019
-Location: Los Angeles, CA, USA
+
+Time: **December 9-12, 2019**
+
+Location: **Los Angeles, CA, USA**
 
 
-Slides: 
+## Slides: 
 
 
-Abstract:
+## Abstract:
 Text data is a powerful information source that covers almost every aspect of our life. Automated information extraction has attracted considerable attention with various approaches developed to mine structured knowledge from un- structured text. In this tutorial, we present an organized picture of automated information extraction from massive text to answer the need of a systematic review and comparison of the techniques. We first introduce major tasks of information extraction such as named entity recognition and relation extraction. Then we introduce downstream applications such as heterogeneous in- formation network construction and claim mining that utilize the extracted information. Specifically, we focus on the methods that are scalable, effective, minimum supervised and working on various kinds of text (e.g., news and biomedical science). We also demonstrate on a real-world dataset, PubMed that includes over 29 million biomedical literature, how the heterogeneous information network can be constructed and how the scientific claims can be automatically retrieved based on automated infor- mation extraction. The covered topics will be interesting to both advanced researchers and beginners in data mining, text mining, natural language processing and machine learning.
 
 
-Outline:
+## Outline:
 Introduction
 •
 – Motivations
@@ -84,4 +88,4 @@ tion?
 – Future Directions
 
 
-Presenters:
+## Presenters:
