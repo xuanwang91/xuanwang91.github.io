@@ -35,7 +35,7 @@ Text data is a powerful information source that covers almost every aspect of ou
     - Handcrafted Features
   - Modern Neural Models
     - Bidirectional Long Short-term Memory (BiLSTM)-based Models
-    - Language Model and Contextualized Representa- tions
+    - Language Model and Contextualized Representations
     - End-to-end Neural Models
   - Distantly Supervised Methods
     - Entity Typing
