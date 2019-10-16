@@ -22,70 +22,69 @@ Text data is a powerful information source that covers almost every aspect of ou
 
 
 ## Outline:
-Introduction
-•
-– Motivations
-– Overview of automatic information extraction from
-massive text
-– Application of utilizing the extracted information
-Named Entity Recognition
-– What is Named Entity Recognition (NER)?
-– Traditional Supervised Methods
-∗ CorNLL03 Shared Task
-∗ Sequence Labeling Framework
-∗ Conditional Random Fields (CRFs) ∗ Handcrafted Features
-– Modern Neural Models
-∗ Bidirectional Long Short-term Memory (BiLSTM)-based Models
-∗ Language Model and Contextualized Representa- tions
-∗ End-to-end Neural Models
-– Distantly Supervised Methods
-∗ Entity Typing
-∗ Learning from Domain-Specific Dictionaries
-Relation Extraction
-– What is Relation Extraction (RE)? – Supervised Methods
-∗ Multi-relational Embedding
-∗ Position-aware Neural Models
-∗ Dependency-path-based Neural Models
-– Pattern-based Methods
-∗ Sequential Textual Patterns
-∗ Patterns with Linguistic Features
-∗ Synonym Pattern Grouping
-– Open-domain Approaches
-∗ How to exploit local structure?
-∗ How to exploit global consistency? ∗ High-arity OpenIE
-– Weakly-supervised Methods
-∗ Bootstrapping Methods
-∗ Pattern-enhanced Embedding Learning
-• Heterogeneous Information Network Construction
-– What is a Heterogenous Information Network
-(HIN)?
-– Network-based Document Summarization
-∗ What is a concept map?
-∗ Constructing Concept Maps from Text
-– Factual Network Construction and Exploration
-∗ Network Construction
-∗ Factual Knowledge Exploration
-• Claim Mining
-– What is a claim?
-– Comparison between Opinion Mining, Argument
-Mining and Claim Mining
-– Context-independent claim mining
-∗ What is context-independent claim mining?
-∗ Supervised Machine Learning Methods
-– Context-dependent claim mining
-∗ What is a topic and a context-dependent claim? ∗ Supervised Machine Learning Methods
-∗ Weakly/Distantly-supervised Methods
-∗ Unsupervised Claim Mining
-• System Demos
-– Named Entity Recognition & APIs
-– Open Relation Extraction & APIs – Scientific Claim Mining & APIs – BioText Mining Demo.
-• Summary and Future Directions
-– Summary
-∗ Principles and Techniques
-∗ Advantages and Limitations
-∗ How to choose a method based on your applica-
-tion?
-– Future Directions
+- Introduction
+  – Motivations
+  – Overview of automatic information extraction from massive text
+  – Application of utilizing the extracted information
+- Named Entity Recognition
+  – What is Named Entity Recognition (NER)?
+  – Traditional Supervised Methods
+    - CorNLL03 Shared Task
+    - Sequence Labeling Framework
+    - Conditional Random Fields (CRFs) ∗ Handcrafted Features
+  – Modern Neural Models
+    - Bidirectional Long Short-term Memory (BiLSTM)-based Models
+    - Language Model and Contextualized Representa- tions
+    - End-to-end Neural Models
+  – Distantly Supervised Methods
+    - Entity Typing
+    - Learning from Domain-Specific Dictionaries
+- Relation Extraction
+  – What is Relation Extraction (RE)? – Supervised Methods
+    - Multi-relational Embedding
+    - Position-aware Neural Models
+    - Dependency-path-based Neural Models
+  – Pattern-based Methods
+    - Sequential Textual Patterns
+    - Patterns with Linguistic Features
+    - Synonym Pattern Grouping
+  – Open-domain Approaches
+    - How to exploit local structure?
+    - How to exploit global consistency? 
+    - High-arity OpenIE
+  – Weakly-supervised Methods
+    - Bootstrapping Methods
+    - Pattern-enhanced Embedding Learning
+- Heterogeneous Information Network Construction
+  – What is a Heterogenous Information Network (HIN)?
+  – Network-based Document Summarization
+    - What is a concept map?
+    - Constructing Concept Maps from Text
+  – Factual Network Construction and Exploration
+    - Network Construction
+    - Factual Knowledge Exploration
+- Claim Mining
+  – What is a claim?
+  – Comparison between Opinion Mining, Argument Mining and Claim Mining
+  – Context-independent claim mining
+    - What is context-independent claim mining?
+    - Supervised Machine Learning Methods
+  – Context-dependent claim mining
+    - What is a topic and a context-dependent claim? 
+    - Supervised Machine Learning Methods
+    - Weakly/Distantly-supervised Methods
+    - Unsupervised Claim Mining
+- System Demos
+  – Named Entity Recognition & APIs
+  – Open Relation Extraction & APIs 
+  – Scientific Claim Mining & APIs 
+  – BioText Mining Demo
+- Summary and Future Directions
+  – Summary
+    - Principles and Techniques
+    - Advantages and Limitations
+    - How to choose a method based on your application?
+  – Future Directions
 
 
 ## Presenters:
