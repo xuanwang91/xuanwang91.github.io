@@ -31,7 +31,8 @@ Text data is a powerful information source that covers almost every aspect of ou
   - Traditional Supervised Methods
     - CorNLL03 Shared Task
     - Sequence Labeling Framework
-    - Conditional Random Fields (CRFs) ∗ Handcrafted Features
+    - Conditional Random Fields (CRFs) 
+    - Handcrafted Features
   - Modern Neural Models
     - Bidirectional Long Short-term Memory (BiLSTM)-based Models
     - Language Model and Contextualized Representa- tions
