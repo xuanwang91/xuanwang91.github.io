@@ -114,9 +114,9 @@ share-links-active:
 # whether or not you want to allow users to opt out of tracking.
 
 #matomo:
-#  site_id: "9"
-#  uri: "demo.wiki.pro"
-#  opt-out: true
+site_id: "9"
+uri: "demo.wiki.pro"
+opt-out: true
 
 # --- Comments --- #
 
