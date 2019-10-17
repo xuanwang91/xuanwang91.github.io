@@ -21,8 +21,8 @@ description: Welcome to Xuan's Homepage!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Awards: "awards"
   Publications: "publications"
+  Awards: "awards"
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #   - Learn markdown: "http://www.markdowntutorial.com/"
