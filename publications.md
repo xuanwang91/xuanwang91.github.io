@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Please find a full list of my publications on [Google Scholar](https://scholar.google.com/citations?user=_IVJi6UAAAAJ&hl=en) and [DBLP](https://dblp.uni-trier.de/pers/hd/w/Wang_0008:Xuan).
+For a full list of my publications, please see my [Google Scholar](https://scholar.google.com/citations?user=_IVJi6UAAAAJ&hl=en) and [DBLP](https://dblp.uni-trier.de/pers/hd/w/Wang_0008:Xuan).
 
 ## Selected Publications
 ### 2019
