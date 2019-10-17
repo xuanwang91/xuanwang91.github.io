@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Honors and Awards
 ---
 
 ## 2015
