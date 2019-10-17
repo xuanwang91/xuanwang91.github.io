@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About Me
+title: Short Bio
 ---
+Welcome to Xuan's Homepage!
 
 I am a 3rd-year Ph.D. student in Dr. [Jiawei Han](http://hanj.cs.illinois.edu/)’s [Data Mining Group](http://dm1.cs.uiuc.edu/) at [CS@Illinois](http://www.cs.uiuc.edu/). I received my B.S. in [Biological Science](https://life.tsinghua.edu.cn/publish/smkx/index.html) from Tsinghua University (THU), China. I received a Master in [Biochemistry](https://mcb.illinois.edu/departments/biochemistry/) and a Master in [Statistics](https://stat.illinois.edu) from UIUC.
 
