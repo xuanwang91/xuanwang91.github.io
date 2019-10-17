@@ -1,7 +1,3 @@
----
-layout: page
----
-
 ## 2015
 - Biochemistry Student Travel Grant Award, University of Illinois at Urbana-Champaign
 
