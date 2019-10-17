@@ -2,7 +2,7 @@
 layout: page
 ---
 
- 
+A list of honors and awards.
 
 ## 2015
 - Biochemistry Student Travel Grant Award, University of Illinois at Urbana-Champaign
