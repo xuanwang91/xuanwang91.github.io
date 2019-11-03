@@ -9,7 +9,7 @@ Xuan Wang, Yu Zhang, Qi Li, Jiawei Han
 
 Department of Computer Science, University of Illinois at Urbana-Champaign, Urbana, IL, USA
 
-Time: **December 9-12, 2019**
+Time: **10:05am-12:10pm, Wednesday, December 11, 2019**
 
 Location: **Los Angeles, CA, USA**
 
