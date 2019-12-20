@@ -8,9 +8,7 @@ date: 2020-01-06
 location: "La Jolla, CA"
 ---
 
-**Class Time**: Mondays, 11AM to 12PM.
-**Room**: CSE 2154
-**Piazza**: piazza.com/ucsd/winter2020/cse191cap
+**Class Time**: Mondays 11AM to 12PM.  **Room**: CSE 2154.  **Piazza**: [piazza.com/ucsd/winter2020/cse191cap](piazza.com/ucsd/winter2020/cse191cap)
 
 Lecture Schedule
 ======
@@ -18,7 +16,7 @@ Lecture Schedule
 (tentative)
 
 Date | Topic & Slides | Homework | Practice Contest | Additional Notes
-01/06 | Intro and STL | Problem Set #0 | |
+01/06 | Intro and STL | Problem Set #0 |  | [Solutions](https://www.dropbox.com/s/bvnmp0ruki3bk9j/problemset0_solutions.pdf?dl=0)
 01/13 | Ad Hoc, Simulation, & Search | Problem Set #1 | |
 01/20 | No Class (MLK Day) | |
 01/27 | Dynamic Programming (Simple) | Problem Set #2 |  
@@ -33,8 +31,34 @@ Date | Topic & Slides | Homework | Practice Contest | Additional Notes
 Homework
 ======
 
-#### Problem Set #0
-- Problem 1: TBD
+Fill in this [Google Form](https://forms.gle/5EC2TpK4sYRJEW1q9) before you work on homework. Don't worry if you filled wrong information. Just fill another one. Only the last one counts.
+
+**Problem Set #0**
+- [POJ 1000: A+B Problem](http://poj.org/problem?id=1000) - 0 Point
+- [POJ 1004: Financial Management](http://poj.org/problem?id=1004) - 0 Point
+- [POJ 1477: Box of Bricks](http://poj.org/problem?id=1477) - 1 Point
+- [POJ 3030: Nasty Hacks](http://poj.org/problem?id=3030) - 1 Point
+- [POJ 3096: Surprising Strings](http://poj.org/problem?id=3096) - 2 Points
+- [POJ 3852: String LD](http://poj.org/problem?id=3852) - 2 Points
+- [POJ 1917: Automatic Poetry](http://poj.org/problem?id=1917) - 3 Points
+- [POJ 2719: Faulty Odometer](http://poj.org/problem?id=2719) - 3 Points
+- [POJ 2413: How many Fibs?](http://poj.org/problem?id=2413) - 5 Points
+- [POJ 1338: Ugly Numbers](http://poj.org/problem?id=1338) - 6 Points
+- [POJ 2354: Titanic](http://poj.org/problem?id=2354) - 8 Points
+
+**Problem Set #1**
+
+**Problem Set #2**
+
+**Problem Set #3**
+
+**Problem Set #4**
+
+**Problem Set #5**
+
+**Problem Set #6**
+
+**Problem Set #7**
 
 
 Overview
