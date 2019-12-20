@@ -2,13 +2,26 @@
 title: "2020-Winter-CSE191-Introduction to Competitive Algorithmic Programming"
 collection: teaching
 type: "Undergraduate Seminar"
-permalink: /teaching/2020-winter-CSE190-CAP
+permalink: /2020-winter-CSE190-CAP
 venue: "UCSD, CSE"
 date: 2020-01-06
 location: "La Jolla, CA"
 ---
 
 **Class Time**: Mondays 11AM to 12PM.  **Room**: CSE 2154.  **Piazza**: [piazza.com/ucsd/winter2020/cse191cap](piazza.com/ucsd/winter2020/cse191cap)
+
+Overview
+======
+
+This course introduces the algorithms and concepts necessary to compete effectively in the ACM International Collegiate Programming Contest (ICPC) and similar contests. It is highly recommended for students intending to compete in the ICPC Southern California (SoCal) Regional contest. The course requires weekly completion of short problem sets. Topics covered include standard library classes and data structures useful for programming contest problems, basic complexity analysis, dynamic programming, graph algorithms, number theory, combinatorics, computational geometry, combinatorial games, and competitive programming contest strategy.
+
+Prerequisites
+======
+
+CSE 30, must have programming competency in C++, Java, or Python. (CSE 100 highly recommended)
+
+Most importantly, eagerness to learn and practice
+
 
 Lecture Schedule
 ======
@@ -28,10 +41,18 @@ Date | Topic & Slides | Homework | Practice Contest | Additional Notes
 03/09 | Network Flow |  Problem Set #7 | 
 
 
-Homework
+Homework and Grading Policy
 ======
 
-Fill in this [Google Form](https://forms.gle/5EC2TpK4sYRJEW1q9) before you work on homework. Don't worry if you filled wrong information. Just fill another one. Only the last one counts.
+You are required to solve the problem on the online judge site and provide the instructor with your online judge usernames for validation of your submission. Please fill in this [Google Form](https://forms.gle/5EC2TpK4sYRJEW1q9) before you work on homework. Don't worry if you filled wrong information. Just fill another one. Only the last one counts.
+
+This course provides a pass/fail grade. **Passing the course requires completion of at least 6 of the 8 problem sets**, with the possibility of **substituting up to 2 problem sets with practice contests** --- you have to **solve at least one problem in these "substituting" practice contests**.
+
+Completion of a problem set requires obtaining a total score of **at least 4 points** for the problem set. You can calculate your score on a problem set by summing the point value next to each problem you have solved. You may not use points from one problem set to fulfill the score requirements for another. Problem sets must be completed by 11:59 PM on the last date of Winter Quarter. That is, **11:59PM March 21, 2020**. **No extensions** will be given for any reason.
+
+We encourage you to solve as many problems from each problem set as you have time to solve, even if you have completed the minimum requirements. The more practice you get in, the better your skills will become and the better you will perform during tryouts and official competitions.
+
+Starting from Mar 2, we will calculate your grades by a web scraper and will send emails to notify you about your status at a weekly basis. 
 
 **Problem Set #0**
 - [POJ 1000: A+B Problem](http://poj.org/problem?id=1000) - 0 Point
@@ -59,42 +80,6 @@ Fill in this [Google Form](https://forms.gle/5EC2TpK4sYRJEW1q9) before you work 
 **Problem Set #6**
 
 **Problem Set #7**
-
-
-Overview
-======
-
-This course introduces the algorithms and concepts necessary to compete effectively in the ACM International Collegiate Programming Contest (ICPC) and similar contests. It is highly recommended for students intending to compete in the ICPC Southern California (SoCal) Regional contest. The course requires weekly completion of short problem sets. Topics covered include standard library classes and data structures useful for programming contest problems, basic complexity analysis, dynamic programming, graph algorithms, number theory, combinatorics, computational geometry, combinatorial games, and competitive programming contest strategy.
-
-Prerequisites
-======
-
-CSE 30, must have programming competency in C++, Java, or Python. (CSE 100 highly recommended)
-
-Most importantly, eagerness to learn and practice
-
-Assignments and Grading
-======
-
-Each week, we will release one problem set, consisting of some number of problems on a combination of online judge sites, including, but not limited to: Peking Online Judge (POJ), University of Valladoid Online Judge (UVa), Sphere Online Judge (SPOJ), and Open Kattis. You are required to solve the problem on the online judge site and provide the instructor with your online judge usernames for validation of your submission.
-
-Completion of a problem set requires obtaining a total score of **at least 4 points** for the problem set. You can calculate your score on a problem set by summing the point value next to each problem you have solved. You may not use points from one problem set to fulfill the score requirements for another. 
-
-Problem sets must be completed by 11:59 PM on the last date of Winter Quarter. That is, **11:59PM March 21, 2020**. **No extensions** will be given for any reason.
-
-We encourage you to solve as many problems from each problem set as you have time to solve, even if you have completed the minimum requirements. The more practice you get in, the better your skills will become and the better you will perform during tryouts and official competitions.
-
-This course provides a pass/fail grade. Passing the course requires completion of at least 6 of the 8 problem sets, with the possibility of substituting up to 2 problem sets with practice contests --- you have to solve at least one problem in practice contests.
-
-Starting from Mar 2, we will calculate your grades by a web scraper and will send emails to notify you about your status at a weekly basis. 
-
-
-Piazza page: https://piazza.com/class#fall2016/cs491cap
-
-
-
-Grading Policy
-
 
 Resources
 ======
