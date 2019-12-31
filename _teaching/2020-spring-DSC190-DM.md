@@ -28,9 +28,9 @@ Teaching Assistants
 Lecture Schedule
 ======
 
-Date | Topic & Slides | Homework | Practice Contest | Additional Notes
-03/26 | Introduction | | |
-... | | | |
+Date | Topic & Slides 
+03/26 | Introduction
+... | ...
 
 Homework
 ======
