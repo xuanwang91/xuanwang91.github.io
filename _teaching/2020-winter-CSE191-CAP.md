@@ -8,7 +8,7 @@ date: 2020-01-06
 location: "La Jolla, CA"
 ---
 
-**Class Time**: Mondays 11AM to 12PM.  **Room**: CSE 2154.  **Piazza**: [piazza.com/ucsd/winter2020/cse191cap](piazza.com/ucsd/winter2020/cse191cap)
+**Class Time**: Mondays 11AM to 12PM.  **Room**: CSE 2154.  **Piazza**: [piazza.com/ucsd/winter2020/cse191cap](https://piazza.com/ucsd/winter2020/cse191cap)
 
 Overview
 ======
