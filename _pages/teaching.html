@@ -8,6 +8,11 @@ author_profile: true
 {% include base_path %}
 
 
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
 <h2>Conference Tutorials</h2>
 
 <ul>
@@ -19,8 +24,3 @@ author_profile: true
 <li> Building Structured Databases of Factual Knowledge from Massive Text Corpora. Xiang Ren, Meng Jiang, Jingbo Shang and Jiawei Han. <b>SIGMOD</b> 2017. </li>
 <li> <a href="http://xren7.web.engr.illinois.edu/www17tutorial.html">Constructing Structured Information Networks from Massive Text Corpora</a>. Xiang Ren, Meng Jiang, Jingbo Shang and Jiawei Han. <b>WWW</b> 2017. </li>
 </ul>
-
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
