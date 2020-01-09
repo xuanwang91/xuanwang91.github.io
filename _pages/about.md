@@ -16,3 +16,8 @@ My research focuses on developing principled *data-driven* approaches, with *lit
 My research has been recognized by many prestigious awards, including Computer Science Excellence Scholarship from CS@Illinois, Grand Prize of Yelp Dataset Challenge in 2015, Google PhD Fellowship in Structured Data and Database Management in 2017, and C.W. Gear Outstanding Graduate Award in 2018.
 
 In addition, I love competitive programming contests, such as ACM/ICPC, Topcoder Open, Google Codejam, Facebook Hackercup, etc. I'm now a coach of the UCSD's ICPC team and I enjoy mentoring and coaching students.
+
+
+### My Schedule
+
+You can find my schedule [here](https://calendar.google.com/calendar/embed?src=5k0ift9l47qhd7l06ugfegc4f0%40group.calendar.google.com&ctz=America%2FLos_Angeles).
