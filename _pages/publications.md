@@ -43,7 +43,7 @@ author_profile: true
 * [DPPred: An Effective Prediction Framework with Concise Discriminative Patterns](https://arxiv.org/abs/1610.09778). Jingbo Shang, Meng Jiang, Wenzhu Tong, Jinfeng Xiao, Jian Peng, and Jiawei Han. **TKDE** 2018. [[code](https://github.com/shangjingbo1226/DPPred)]
 * Cross-type Biomedical Named Entity Recognition with Deep Multi-Task Learning. Xuan Wang, Yu Zhang, Xiang Ren, Yuhao Zhang, Marinka Zitnik, Jingbo Shang, Curtis Langlotz, and Jiawei Han. **Bioinformatics** 2018
 * Entity Set Search of Scientific Literature: An Unsupervised Ranking Approach. Jiaming Shen, Jinfeng Xiao, Xinwei He, Jingbo Shang, Saurabh Sinha and Jiawei Han. **SIGIR** 2018.
-* Open Information Extraction with Global Structure Constraints. Qi Zhu, Xiang Ren, Jingbo Shang, Yu Zhang, Frank F. Xu and Jiawei Han. ***WWW** 2018 (Best Poster Award runner-up). 
+* Open Information Extraction with Global Structure Constraints. Qi Zhu, Xiang Ren, Jingbo Shang, Yu Zhang, Frank F. Xu and Jiawei Han. **WWW** 2018 (Best Poster Award runner-up). 
 
 ### 2017
 
