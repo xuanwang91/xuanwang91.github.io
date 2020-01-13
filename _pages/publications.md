@@ -17,6 +17,10 @@ author_profile: true
 * [Contrast Subgraph Mining from Coherent Cores](https://arxiv.org/abs/1802.06189). Jingbo Shang, Xiyao Shi, Meng Jiang, Liyuan Liu, Timothy Hanratty, and Jiawei Han. arXiv:1802.06189. [[code](https://github.com/shangjingbo1226/ContrastSubgraphMining)]
 * [Meta-Path Guided Embedding for Similarity Search in Large-Scale Heterogeneous Information Networks](https://arxiv.org/abs/1610.09769). Jingbo Shang\*, Meng Qu\*, Jialu Liu, Lance M. Kaplan, Jiawei Han, and Jian Peng. arXiv:1610.09769 [[code](https://github.com/shangjingbo1226/ESim)]
 
+### 2020
+
+* NetTaxo: Automated Topic Taxonomy Construction from Large-Scale Text-Rich Network. Jingbo Shang\*, Xinyang Zhang\*, Liyuan Liu, Sha Li and Jiawei Han. **WWW** 2020
+
 ### 2019
 
 * Distantly Supervised Biomedical Named Entity Recognition with Dictionary Expansion. Xuan Wang\*, Yu Zhang\*, Qi Li, Xiang Ren, Jingbo Shang, Jiawei Han. **BIBM** 2019.
