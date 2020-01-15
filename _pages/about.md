@@ -17,7 +17,7 @@ I'm broadly interested in Data Mining Problems and Applications:
 - Text Mining, Information Extraction, and Natural Language Processing
 - Structured Mining in Large-Scale Text-Rich Networks
 - Understanding and Improving Deep Neural Networks
-- Interdisciplinary Applications (e.g., Biomedical, Smart Building, ...)
+- Interdisciplinary Applications (e.g., Biomedical, IoT, ...)
 
 Most of my research focus on (1) developing principled data-driven approaches with light human effort and (2) building effective and robust machine learning models in an efficient way.
 
