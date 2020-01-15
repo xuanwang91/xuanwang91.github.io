@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Jingbo's Homepage"
+title: "Welcome to Jingbo's Homepage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,15 +9,36 @@ redirect_from:
 ---
 
 
-I'm an Assistant Professor at University of California, San Diego, jointly appointed by Computer Science and Halıcıoğlu Data Science Institute. I obtained my Ph.D. from Department of Computer Science, University of Illinois at Urbana-Champaign, advised Prof. [Jiawei Han](http://hanj.cs.illinois.edu/). I received my B.E. from Computer Science Department, Shanghai Jiao Tong University (SJTU), China, where I was a member of the 2010 [ACM Honored class](http://acm.sjtu.edu.cn/), now part of Zhiyuan College in SJTU. 
+I'm an Assistant Professor at UCSD jointly appointed by Computer Science and Halıcıoğlu Data Science Institute. I obtained my Ph.D. from UIUC advised Prof. Jiawei Han in 2019. I received my B.E. from SJTU in 2014. I'm also a coach of the UCSD's ACM-ICPC team.
 
-My research focuses on developing principled *data-driven* approaches, with *little human curation and labeling*, to transform unstructured text data into structured heterogeneous information networks, on which actionable knowledge can be further uncovered flexibly and effectively based on user's instructions.
+## Research Interests
 
-My research has been recognized by many prestigious awards, including Computer Science Excellence Scholarship from CS@Illinois, Grand Prize of Yelp Dataset Challenge in 2015, Google PhD Fellowship in Structured Data and Database Management in 2017, and C.W. Gear Outstanding Graduate Award in 2018.
+I'm broadly interested in Data Mining Problems and Applications:
+- Text Mining, Information Extraction, and Natural Language Processing
+- Structured Mining in Large-Scale Text-Rich Networks
+- Understanding and Improving Deep Neural Networks
+- Interdisciplinary Applications (e.g., Biomedical, Smart Building, ...)
 
-In addition, I love competitive programming contests, such as ACM/ICPC, Topcoder Open, Google Codejam, Facebook Hackercup, etc. I'm now a coach of the UCSD's ICPC team and I enjoy mentoring and coaching students.
+Most of my research focus on (1) developing principled data-driven approaches with light human effort and (2) building effective and robust machine learning models in an efficient way.
 
 
-### My Schedule
+
+## My Schedule
 
 You can find my schedule [here](https://calendar.google.com/calendar/embed?src=5k0ift9l47qhd7l06ugfegc4f0%40group.calendar.google.com&ctz=America%2FLos_Angeles).
+
+
+## Perspective Students
+
+I'm actively recruiting students who are excited about doing fun research. My lab has openings for PhD students and research internship opportunities for master/undergrad students (UCSD or external). Please check the following items before sending me an email.
+
+- **Applicants for UCSD PhD Program**: Please make sure that you have applied online and select my name as one of the faculty members that you wish to work with.
+- **Research Internship Opportunities**:
+    * **If you are currently at UCSD**: I only take students who (1) have relevant research experiences or have strong background in math/stats/physics; and (2) could devote enough time on research. Please highlight these in your email including a time plan.
+    * **If you are not at UCSD** (e.g., Summer Internship): Visitors are mostly recommended by my collaborators and have their own funding support. The minimal duration of stay at UCSD is 12 weeks (preferably 6 months - 1 year). Please indicate the time range in your email.
+
+**In your email**, please include the following items:
+- Title as "Prospective Student: YourName - YourAffliation"
+- Briefly introduce yourself, including education background, research experiences, and programming skills.
+- Briefly explain your motivations and expectations of working with me.
+- Include a PDF version of your CV.
