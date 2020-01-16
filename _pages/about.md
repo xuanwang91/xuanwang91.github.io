@@ -28,7 +28,7 @@ Most of my research focus on (1) developing principled data-driven approaches wi
 You can find my schedule [here](https://calendar.google.com/calendar/embed?src=5k0ift9l47qhd7l06ugfegc4f0%40group.calendar.google.com&ctz=America%2FLos_Angeles).
 
 
-## Perspective Students
+## Prospective Students
 
 I'm actively recruiting students who are excited about doing fun research. My lab has openings for PhD students and research internship opportunities for master/undergrad students (UCSD or external). Please check the following items before sending me an email.
 
