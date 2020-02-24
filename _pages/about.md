@@ -19,13 +19,13 @@ I'm broadly interested in Data Mining Problems and Applications:
 - Understanding and Improving Deep Neural Networks
 - Interdisciplinary Applications (e.g., Biomedical, IoT, ...)
 
-Most of my research focus on (1) developing principled data-driven approaches with light human effort and (2) building effective and robust machine learning models in an efficient way.
+Most of my research projects focus on (1) developing principled data-driven approaches with light human effort and (2) building effective and robust machine learning models in an efficient way.
 
 
 
 ## My Schedule
 
-You can find my schedule [here](https://calendar.google.com/calendar/embed?src=5k0ift9l47qhd7l06ugfegc4f0%40group.calendar.google.com&ctz=America%2FLos_Angeles).
+You can find my schedule [here](https://calendar.google.com/calendar/embed?src=5k0ift9l47qhd7l06ugfegc4f0%40group.calendar.google.com&ctz=America%2FLos_Angeles). The "Week" view will present you the details of slots.
 
 
 ## Prospective Students
@@ -34,11 +34,13 @@ I'm actively recruiting students who are excited about doing fun research. My la
 
 - **Applicants for UCSD PhD Program**: Please make sure that you have applied online and select my name as one of the faculty members that you wish to work with.
 - **Research Internship Opportunities**:
-    * **If you are currently at UCSD**: I only take students who (1) have relevant research experiences or have strong background in math/stats/physics; and (2) could devote enough time on research. Please highlight these in your email including a time plan.
-    * **If you are not at UCSD** (e.g., Summer Internship): Visitors are mostly recommended by my collaborators and have their own funding support. The minimal duration of stay at UCSD is 12 weeks (preferably 6 months - 1 year). Please indicate the time range in your email.
+    * **If you are currently at UCSD**: I only take students who (1) have a clear research problem/objective and some initial ideas; (2) have relevant research experiences or have strong background in math/stats/physics; and (3) could devote enough time on research. Please highlight these in your email including a time plan.
+    * **If you are not at UCSD** (e.g., Summer Internship): Visitors are mostly recommended by my collaborators and have their own funding support. The minimum duration of stay at UCSD is 12 weeks (preferably 6 months - 1 year). Please indicate the time range in your email.
 
 **In your email**, please include the following items:
 - Title as "Prospective Student: YourName - YourAffliation"
+- Briefly introduce what research problem that you are interested in. What are the current state-of-the-art solutions and why do you think you can further improve over them?
 - Briefly introduce yourself, including education background, research experiences, and programming skills.
 - Briefly explain your motivations and expectations of working with me.
 - Include a PDF version of your CV.
+
