@@ -15,6 +15,7 @@ Location: **Los Angeles, CA, USA**
 
 
 ## Slides: 
+Our tutorial slides can be downloaded [here](http://hanj.cs.illinois.edu/pdf/bigdata19tuto_slides.pdf).
 
 
 ## Abstract:
@@ -87,5 +88,3 @@ Text data is a powerful information source that covers almost every aspect of ou
     - How to choose a method based on your application?
   - Future Directions
 
-
-## Presenters:
