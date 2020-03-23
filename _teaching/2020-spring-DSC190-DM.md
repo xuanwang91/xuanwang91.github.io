@@ -8,12 +8,13 @@ date: 2020-03-25
 location: "La Jolla, CA"
 ---
 
-**Class Time**: Tuesdays and Thursdays, 9:30AM to 10:50AM.  **Room**: [https://ucsd.zoom.us/j/3897245678](https://ucsd.zoom.us/j/3897245678).  **Piazza**: [piazza.com/ucsd/spring2020/dsc190a00](https://piazza.com/ucsd/spring2020/dsc190a00)
+**Class Time**: Tuesdays and Thursdays, 9:30AM to 10:50AM.  **Room**: [https://ucsd.zoom.us/j/632116245](https://ucsd.zoom.us/j/632116245).  **Piazza**: [piazza.com/ucsd/spring2020/dsc190a00](https://piazza.com/ucsd/spring2020/dsc190a00)
+
 
 Online Lecturing
 ======
 
-Due to the COVID-19, this course will be delivered over Zoom: [https://ucsd.zoom.us/j/3897245678](https://ucsd.zoom.us/j/3897245678)
+Due to the COVID-19, this course will be delivered over Zoom: [https://ucsd.zoom.us/j/632116245](https://ucsd.zoom.us/j/632116245)
 
 Overview
 ======
