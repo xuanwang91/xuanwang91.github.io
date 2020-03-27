@@ -38,6 +38,20 @@ TAs and Tutors
 - **Teaching Assistants**: Ria Aggarwal and Dheeraj Mekala
 - **Tutors**: Zhenyu Bi and Yang Li
 
+Office Hours
+======
+
+- Monday 8 - 9:30 AM: Ria Aggarwal [https://ucsd.zoom.us/j/7575561942](https://ucsd.zoom.us/j/7575561942)
+- Monday 4 - 5 PM: Zhenyu Bi [https://ucsd.zoom.us/j/6198663088](https://ucsd.zoom.us/j/6198663088)
+- Tuesday 11 AM - 12:30 PM: Dheeraj Mekala [https://ucsd.zoom.us/j/513621310](https://ucsd.zoom.us/j/513621310)
+- Wednesday 10 AM - 12 PM: Yang Li [https://ucsd.zoom.us/j/7558015559](https://ucsd.zoom.us/j/7558015559)
+- Wednesday 12 - 1:30 PM: Ria Aggarwal [https://ucsd.zoom.us/j/7575561942](https://ucsd.zoom.us/j/7575561942)
+- Thursday 11 AM - 12:30 PM: Dheeraj Mekala [https://ucsd.zoom.us/j/513621310](https://ucsd.zoom.us/j/513621310)
+- Friday 8 - 9 AM: Zhenyu Bi [https://ucsd.zoom.us/j/6198663088](https://ucsd.zoom.us/j/6198663088)
+- Friday 9 AM - 12:30 PM: Jingbo Shang [https://ucsd.zoom.us/my/jshang](https://ucsd.zoom.us/my/jshang)
+
+Note: all times are in **Pacific Time**.
+
 Grading
 ======
 
@@ -58,7 +72,7 @@ Week | Date        | Topic & Slides                                             
 2    | 04/09 (Thu) | Supervised - Support Vector Machine                             |
 3    | 04/14 (Tue) | Supervised - Naive Bayes and Decision Tree                      |
 3    | 04/16 (Thu) | Supervised - Ensemble Learning: Bagging and Boosting            | 
-4    | 04/21 (Tue) | Cluster Analysis - K-means Clustering & its Variants            | HW2 Due
+4    | 04/21 (Tue) | Cluster Analysis - K-Means Clustering & its Variants            | HW2 Due
 4    | 04/23 (Thu) | Cluster Analysis - "Soft" Clustering: Gaussian Mixture          |
 5    | 04/28 (Tue) | Cluster Analysis - Density-based Clustering: DBScan             |
 5    | 04/30 (Thu) | Cluster Analysis - Principle Component Analysis                 |
