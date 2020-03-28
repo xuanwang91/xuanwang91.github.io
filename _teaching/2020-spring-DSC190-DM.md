@@ -44,7 +44,7 @@ Office Hours
 - Monday 8 - 9:30 AM: Ria Aggarwal [https://ucsd.zoom.us/j/7575561942](https://ucsd.zoom.us/j/7575561942)
 - Monday 4 - 5 PM: Zhenyu Bi [https://ucsd.zoom.us/j/6198663088](https://ucsd.zoom.us/j/6198663088)
 - Tuesday 11 AM - 12:30 PM: Dheeraj Mekala [https://ucsd.zoom.us/j/513621310](https://ucsd.zoom.us/j/513621310)
-- Wednesday 10 AM - 12 PM: Yang Li [https://ucsd.zoom.us/j/7558015559](https://ucsd.zoom.us/j/7558015559)
+- Wednesday 4 - 6 PM: Yang Li [https://ucsd.zoom.us/j/7558015559](https://ucsd.zoom.us/j/7558015559)
 - Wednesday 12 - 1:30 PM: Ria Aggarwal [https://ucsd.zoom.us/j/7575561942](https://ucsd.zoom.us/j/7575561942)
 - Thursday 11 AM - 12:30 PM: Dheeraj Mekala [https://ucsd.zoom.us/j/513621310](https://ucsd.zoom.us/j/513621310)
 - Friday 8 - 9 AM: Zhenyu Bi [https://ucsd.zoom.us/j/6198663088](https://ucsd.zoom.us/j/6198663088)
