@@ -66,7 +66,7 @@ Lecture Schedule
 ======
 
 Week | Date        | Topic & Slides                                                  | Events
-1    | 03/31 (Tue) | Introduction: Data Types, Tasks, and Evaluations                | HW1 out
+1    | 03/31 (Tue) | [Introduction: Data Types, Tasks, and Evaluations](https://www.dropbox.com/s/8ktrdg4po8t7wjm/lecture0_intro.pdf?dl=1)                | HW1 out
 1    | 04/02 (Thu) | Supervised - Least-Squares Regression and Logistic Regression   |
 2    | 04/07 (Tue) | Supervised - Overfitting and Regularization                     | HW1 Due, HW2 out
 2    | 04/09 (Thu) | Supervised - Support Vector Machine                             |
