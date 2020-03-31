@@ -65,20 +65,20 @@ Grading
 Lecture Schedule
 ======
 
-Week | Date        | Topic & Slides                                                  | Homework
-1    | 03/31 (Tue) | Introduction: Data Types, Tasks, and Evaluations                | 
+Week | Date        | Topic & Slides                                                  | Events
+1    | 03/31 (Tue) | Introduction: Data Types, Tasks, and Evaluations                | HW1 out
 1    | 04/02 (Thu) | Supervised - Least-Squares Regression and Logistic Regression   |
-2    | 04/07 (Tue) | Supervised - Overfitting and Regularization                     | HW1 Due
+2    | 04/07 (Tue) | Supervised - Overfitting and Regularization                     | HW1 Due, HW2 out
 2    | 04/09 (Thu) | Supervised - Support Vector Machine                             |
 3    | 04/14 (Tue) | Supervised - Naive Bayes and Decision Tree                      |
 3    | 04/16 (Thu) | Supervised - Ensemble Learning: Bagging and Boosting            | 
-4    | 04/21 (Tue) | Cluster Analysis - K-Means Clustering & its Variants            | HW2 Due
+4    | 04/21 (Tue) | Cluster Analysis - K-Means Clustering & its Variants            | HW2 Due, HW3 out
 4    | 04/23 (Thu) | Cluster Analysis - "Soft" Clustering: Gaussian Mixture          |
 5    | 04/28 (Tue) | Cluster Analysis - Density-based Clustering: DBScan             |
-5    | 04/30 (Thu) | Cluster Analysis - Principle Component Analysis                 |
+5    | 04/30 (Thu) | Cluster Analysis - Principle Component Analysis                 | DM Challenge out (tentative)
 6    | 05/05 (Tue) | Pattern Analysis - Frequent Pattern and Association Rules       |
 6    | 05/07 (Thu) | Midterm                                                         |
-7    | 05/12 (Tue) | Recommender System - Collaborative Filtering                    | HW3 Due
+7    | 05/12 (Tue) | Recommender System - Collaborative Filtering                    | HW3 Due, HW4 out
 7    | 05/14 (Thu) | Recommender System - Latent Factor Models                       |
 8    | 05/19 (Tue) | Text Mining - Zipf's Law, Bags-of-words, and TF-IDF             |
 8    | 05/21 (Thu) | Text Mining - Pre-processing and Low-dimensional Representation |
