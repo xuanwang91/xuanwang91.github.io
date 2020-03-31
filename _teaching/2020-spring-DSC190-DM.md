@@ -35,8 +35,8 @@ Math, Stats, and Coding: `(CSE 12 or DSC 40B) and (CSE 15L or DSC 80) and (CSE 1
 TAs and Tutors
 ======
 
-- **Teaching Assistants**: Ria Aggarwal and Dheeraj Mekala
-- **Tutors**: Zhenyu Bi and Yang Li
+- **Teaching Assistants**: Ria Aggarwal (r2aggarw AT eng.ucsd.edu) and Dheeraj Mekala (dmekala AT eng.ucsd.edu)
+- **Tutors**: Zhenyu Bi (z1bi AT ucsd.edu) and Yang Li (yang AT ucsd.edu)
 
 Office Hours
 ======
