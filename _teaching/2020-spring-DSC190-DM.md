@@ -66,7 +66,7 @@ Lecture Schedule
 ======
 
 Week | Date        | Topic & Slides                                                  | Events
-1    | 03/31 (Tue) | [Introduction: Data Types, Tasks, and Evaluations](https://www.dropbox.com/s/8ktrdg4po8t7wjm/lecture0_intro.pdf?dl=1)                | HW1 out
+1    | 03/31 (Tue) | [Introduction: Data Types, Tasks, and Evaluations](https://www.dropbox.com/s/8ktrdg4po8t7wjm/lecture0_intro.pdf?dl=1) [recording](https://www.dropbox.com/sh/8sf4vfl881vjrbr/AACegM1GSKg7QVSOEjKWby5Ja?dl=0) | HW1 out
 1    | 04/02 (Thu) | Supervised - Least-Squares Regression and Logistic Regression   |
 2    | 04/07 (Tue) | Supervised - Overfitting and Regularization                     | HW1 Due, HW2 out
 2    | 04/09 (Thu) | Supervised - Support Vector Machine                             |
@@ -90,23 +90,12 @@ Week | Date        | Topic & Slides                                             
 Homework (24%)
 ======
 
-Your lowest (of four) homework grades is dropped (or one homework can be skipped).
+Your lowest (of four) homework grades is dropped (or one homework can be skipped). Gradescope code: `M665VN`. 
 
-### HW1: Concepts and Evaluations (8%)
-
-This homework mainly focuses on the data mining concepts and how to evaluate different tasks.
-
-### HW2: Regression and Classification (8%)
-
-This homework mainly focuses on regression and classification tasks.
-
-### HW3: Cluster and Pattern Analysis (8%)
-
-This homework mainly focuses on clustering methods and frequent pattern mining methods.
-
-### HW4: Applications (8%)
-
-This homework mainly focuses on recommender system, text mining, and network mining.
+- **[HW1: Concepts and Evaluations (8%)](https://www.dropbox.com/s/mh82m8j5kig46sk/DSC190-Spring20-HW1.pdf?dl=1).** This homework mainly focuses on the data mining concepts and how to evaluate different tasks.
+- **HW2: Regression and Classification (8%).** This homework mainly focuses on regression and classification tasks.
+- **HW3: Cluster and Pattern Analysis (8%).** This homework mainly focuses on clustering methods and frequent pattern mining methods.
+- **HW4: Applications (8%).** This homework mainly focuses on recommender system, text mining, and network mining.
 
 Midterm (26%)
 ======
