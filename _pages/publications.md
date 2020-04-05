@@ -19,7 +19,9 @@ author_profile: true
 
 ### 2020
 
-* NetTaxo: Automated Topic Taxonomy Construction from Large-Scale Text-Rich Network. Jingbo Shang\*, Xinyang Zhang\*, Liyuan Liu, Sha Li and Jiawei Han. **WWW** 2020
+* Contextualized Weak Supervision for Text Classification. Dheeraj Mekala, Jingbo Shang. **ACL** 2020.
+* Empower Entity Set Expansion via Language Model Probing. Yunyi Zhang, Jiaming Shen, Jingbo Shang and Jiawei Han. **ACL** 2020.
+* NetTaxo: Automated Topic Taxonomy Construction from Large-Scale Text-Rich Network. Jingbo Shang\*, Xinyang Zhang\*, Liyuan Liu, Sha Li and Jiawei Han. **WWW** 2020.
 
 ### 2019
 
