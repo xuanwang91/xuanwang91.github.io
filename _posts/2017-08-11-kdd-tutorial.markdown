@@ -25,14 +25,13 @@ Entity-Relation-Attribute (ERA) structures, forming structured networks between 
 
 ## Slides
 
-We provide the *preliminary* versions of slides [here](https://www.dropbox.com/s/k0qruxo0gtspgf1/KDD17-tutorial.pdf?dl=1). Separated slides for each part can be found in the following sections. The *final* version will be updated after the tutorial.
+We provide the *preliminary* versions of slides [here](https://www.dropbox.com/s/cf5a2b5qh8eo6wk/KDD17-tutorial.pdf?dl=1). Separated slides for each part can be found in the following sections. The *final* version will be updated after the tutorial.
 
 
 ### Introduction
-[[slides](https://www.dropbox.com/s/5ca3hh4osfkejyw/KDD17-tutorial-Intro.pdf?dl=1)]
 
 ### Part I. Entity Extraction through Phrase Mining 
-[[slides](https://www.dropbox.com/s/2bl3rj1fo8n6utq/KDD17-tutorial-part1.pdf?dl=1)][[AutoPhrase](https://github.com/shangjingbo1226/AutoPhrase)][[SegPhrase](https://github.com/shangjingbo1226/SegPhrase)][[ToPMine](http://web.engr.illinois.edu/~elkishk2/code/ToPMine.zip)]
+[[AutoPhrase](https://github.com/shangjingbo1226/AutoPhrase)][[SegPhrase](https://github.com/shangjingbo1226/SegPhrase)][[ToPMine](http://web.engr.illinois.edu/~elkishk2/code/ToPMine.zip)]
 
 - Jingbo Shang, Jialu Liu, Meng Jiang, Xiang Ren, Clare R Voss, Jiawei Han, "[Automated Phrase Mining from Massive Text Corpora](https://arxiv.org/abs/1702.04457)", submitted to TKDE, under review. 
 - Jialu Liu, Jingbo Shang, and Jiawei Han, "[Phrase Mining from Massive Text and Its Applications](http://www.morganclaypool.com/doi/abs/10.2200/S00759ED1V01Y201702DMK013)", Synthesis Lectures on Data Mining and Knowledge Discovery, Morgan & Claypool Publishers, 2017.
@@ -40,7 +39,7 @@ We provide the *preliminary* versions of slides [here](https://www.dropbox.com/s
 - Ahmed El-Kishky, Yanglei Song, Chi Wang, Clare R. Voss, and Jiawei Han, "[Scalable Topical Phrase Mining from Text Corpora](http://hanj.cs.illinois.edu/pdf/vldb15_ael-kishky.pdf)", PVLDB 8(3): 305 - 316, 2015. Also, in Proc. 2015 Int. Conf. on Very Large Data Bases (VLDB'15), Kohala Coast, Hawaii, Sept. 2015.
 
 ### Part II. Typing Entities and Relations
-[[slides](https://www.dropbox.com/s/33brgzj1vzt4bc1/KDD17-tutorial-part2.pdf?dl=1)][[ReHession](https://github.com/LiyuanLucasLiu/ReHession)][[CoType](https://github.com/shanzhenren/CoType)][[AFET](https://github.com/shanzhenren/AFET)][[PLE](https://github.com/shanzhenren/PLE)][[ClusType](https://github.com/shanzhenren/ClusType)]
+[[ReHession](https://github.com/LiyuanLucasLiu/ReHession)][[CoType](https://github.com/shanzhenren/CoType)][[AFET](https://github.com/shanzhenren/AFET)][[PLE](https://github.com/shanzhenren/PLE)][[ClusType](https://github.com/shanzhenren/ClusType)]
 
 - Liyuan Liu, Xiang Ren, Qi Zhu, Shi Zhi, Huan Gui, Heng Ji and Jiawei Han, "[Heterogeneous Supervision for Relation Extraction: A Representation Learning Approach](http://hanj.cs.illinois.edu/pdf/emnlp17_lliu.pdf)",  in Proc. of 2017 Conf. on  Empirical Methods in Natural Language Processing (EMNLP'17), Copenhagen, Denmark, Sept. 2017
 - Xiang Ren, Zeqiu Wu, Wenqi He, Meng Qu, Clare Voss, Heng Ji, Tarek Abdelzaher and Jiawei Han, "[CoType: Joint Extraction of Typed Entities and Relations with Knowledge Bases](http://hanj.cs.illinois.edu/pdf/www17_xren.pdf)", in Proc. of 2017 World-Wide Web Conf. (WWW'17), Perth, Australia, Apr. 2017.
@@ -49,12 +48,12 @@ We provide the *preliminary* versions of slides [here](https://www.dropbox.com/s
 - Xiang Ren, Ahmed El-Kishky, Chi Wang, Fangbo Tao, Clare R. Voss, Heng Ji, Jiawei Han, "[ClusType: Effective Entity Recognition and Typing by Relation Phrase-Based Clustering](http://hanj.cs.illinois.edu/pdf/kdd15_xren.pdf)", in Proc. of 2015 ACM SIGKDD Int. Conf. on Knowledge Discovery and Data Mining (KDD'15), Sydney, Australia, Aug. 2015
 
 ### Part III. Pattern-based Methods for Attribute Discovery
-[[slides](https://www.dropbox.com/s/92rie6xniacm6gj/KDD17-tutorial-part3.pdf?dl=1)][[MetaPAD](https://github.com/mjiang89/MetaPAD)]
+[[MetaPAD](https://github.com/mjiang89/MetaPAD)]
 
 - Meng Jiang, Jingbo Shang, Taylor Cassidy, Xiang Ren, Lance Kaplan, Timothy Hanratty and Jiawei Han, "[MetaPAD: Meta Patten Discovery from Massive Text Corpora](http://hanj.cs.illinois.edu/pdf/kdd17_mjiang.pdf)", in Proc. of 2017 ACM SIGKDD Int. Conf. on Knowledge Discovery and Data Mining (KDD'17), Halifax, Nova Scotia, Canada, Aug. 2017
 
 ### Part IV. Structure Discovery from Text: Application Exploration
-[[slides](https://www.dropbox.com/s/22lrfr3tabwm37c/KDD17-tutorial-part4.pdf?dl=1)][[SetExpan](https://github.com/mickeystroller/SetExpan)][[DPE](https://github.com/mnqu/DPE)][[LAKI](https://github.com/remenberl/Latent-Keyphrase-Inference)]
+[[SetExpan](https://github.com/mickeystroller/SetExpan)][[DPE](https://github.com/mnqu/DPE)][[LAKI](https://github.com/remenberl/Latent-Keyphrase-Inference)]
 
 - Huan Gui, Qi Zhu, Liyuan Liu, Aston Zhang, and Jiawei Han, "Expert Finding in Heterogeneous BibliographicNetworks with Locally-trained Embeddings", submitted for publication
 - Jiaming Shen, Zeqiu Wu, Dongming Lei, Jingbo Shang, Xiang Ren, Jiawei Han, "[SetExpan: Corpus-based Set Expansion via Context Feature Selection and Rank Ensemble](http://hanj.cs.illinois.edu/pdf/ecmlkdd17_jshen.pdf)",  in Proc. of 2017 European Conf. on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECMLPKDD'17), Skopje, Macedonia, Sept. 2017
@@ -63,7 +62,6 @@ We provide the *preliminary* versions of slides [here](https://www.dropbox.com/s
 - Jialu Liu, Xiang Ren, Jingbo Shang, Taylor Cassidy, Clare Voss and Jiawei Han, "[Representing Documents via Latent Keyphrase Inference](http://hanj.cs.illinois.edu/pdf/www16_jliu.pdf)", in Proc. of 2016 Int. World-Wide Web Conf. (WWW'16), Montreal, Canada, April 2016
 
 ### Summary and Future Directions
-[[slides](https://www.dropbox.com/s/ujunlspj0ahi54b/KDD17-tutorial-Summary.pdf?dl=0)]
 
 
 ## Presenters
