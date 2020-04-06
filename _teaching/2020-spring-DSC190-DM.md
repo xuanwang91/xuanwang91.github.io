@@ -68,9 +68,9 @@ Lecture Schedule
 **Recording Note**: Please download the recording video for the full length. Dropbox website will only show you the first one hour.
 
 Week | Date        | Topic & Slides                                                  | Events
-1    | 03/31 (Tue) | Introduction: Data Types, Tasks, and Evaluations [[slides](https://www.dropbox.com/s/8ktrdg4po8t7wjm/lecture0_intro.pdf?dl=1)] [[recording](https://www.dropbox.com/sh/8sf4vfl881vjrbr/AACegM1GSKg7QVSOEjKWby5Ja?dl=0)] | HW1 out
+1    | 03/31 (Tue) | Introduction: Data Types, Tasks, and Evaluations [[slides](https://www.dropbox.com/s/8ktrdg4po8t7wjm/lecture0_intro.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/8sf4vfl881vjrbr/AACegM1GSKg7QVSOEjKWby5Ja?dl=0)] | HW1 out
 1    | 04/02 (Thu) | Supervised - Least-Squares Regression and Logistic Regression [[slides](https://www.dropbox.com/s/aokgf4oxsf353d7/lecture1_least_square_and_logistic.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/ncqhd1tkcu6sh2a/AAAE-fIOzigqgRJngkOKm8vma?dl=0)]   |
-2    | 04/07 (Tue) | Supervised - Overfitting and Regularization                     | HW1 Due, HW2 out
+2    | 04/07 (Tue) | Supervised - Overfitting and Regularization [[slides](https://www.dropbox.com/s/utx11qqs3p5fxgv/lecture2_overfitting.pdf?dl=0)]                    | HW1 Due, HW2 out
 2    | 04/09 (Thu) | Supervised - Support Vector Machine                             |
 3    | 04/14 (Tue) | Supervised - Naive Bayes and Decision Tree                      |
 3    | 04/16 (Thu) | Supervised - Ensemble Learning: Bagging and Boosting            | 
