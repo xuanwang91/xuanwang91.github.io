@@ -70,7 +70,7 @@ Lecture Schedule
 Week | Date        | Topic & Slides                                                  | Events
 1    | 03/31 (Tue) | Introduction: Data Types, Tasks, and Evaluations [[slides](https://www.dropbox.com/s/8ktrdg4po8t7wjm/lecture0_intro.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/8sf4vfl881vjrbr/AACegM1GSKg7QVSOEjKWby5Ja?dl=0)] | HW1 out
 1    | 04/02 (Thu) | Supervised - Least-Squares Regression and Logistic Regression [[slides](https://www.dropbox.com/s/aokgf4oxsf353d7/lecture1_least_square_and_logistic.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/ncqhd1tkcu6sh2a/AAAE-fIOzigqgRJngkOKm8vma?dl=0)]   |
-2    | 04/07 (Tue) | Supervised - Overfitting and Regularization [[slides](https://www.dropbox.com/s/utx11qqs3p5fxgv/lecture2_overfitting.pdf?dl=0)]                    | HW1 Due, HW2 out
+2    | 04/07 (Tue) | Supervised - Overfitting and Regularization [[slides](https://www.dropbox.com/s/utx11qqs3p5fxgv/lecture2_overfitting.pdf?dl=0)] [[annotated slides](https://www.dropbox.com/s/hlk4hvkwsdnyv1d/%5Bannotated%5Dlecture2_overfitting.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/l43nkim25n2yamk/AAD3dBCwfYYVm3jakmGUijx8a?dl=0)]                    | HW1 Due, HW2 out
 2    | 04/09 (Thu) | Supervised - Support Vector Machine                             |
 3    | 04/14 (Tue) | Supervised - Naive Bayes and Decision Tree                      |
 3    | 04/16 (Thu) | Supervised - Ensemble Learning: Bagging and Boosting            | 
@@ -112,4 +112,15 @@ TBD. It will be a individual-based data mining competition with quantitative eva
 Project (25%)
 ======
 
-TBD. It will be a team-based open-ended project.
+- **Choice 1: Team-Based Open-Ended Project**
+    - 1 to 4 members per team. More members, higher expectation.
+    - Define your own research problem and justify its importance
+    - Come up with your hypothesis and find some datasets for verification
+    - Design your own models or try a large variety of existing models
+    - Write a 4 to 8 pages report (research-paper like)
+    - Submit your codes
+- **Choice 2: Individual-Based Deep Dive into Data Mining Methods**
+    - [Tentative plan](https://www.dropbox.com/s/pixbz0yvfzqd31j/Project%20Choice%202%20Plan.pdf?dl=0)
+    - Implement 4 models learned from this course from scratch.
+    - Skeleton codes will be provided. Your work is more like "filling in blanks".
+    - Write a 4-page report (1 page per model) describing your interesting findings.
