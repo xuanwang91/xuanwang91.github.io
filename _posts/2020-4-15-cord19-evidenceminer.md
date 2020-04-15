@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Comprehensive Named Entity Recognition (NER) on CORD-19 with Distant or Weak Supervision
+title: Automatic Textual Evidence Mining for COVID-19
 ---
 
 <span style="color:red">**Note: This dataset is updated on 16:50pm Thursday, April 9, 2020**. </span>
