@@ -13,8 +13,8 @@ On *March 16th, 2020*, White House released this [Call to Action to the Tech Com
 
 
 ## Contact
-Our team for creating this CORD-NER dataset:
-- **Xuan Wang** ([xwang174@illinois.edu](xwang174@illinois.edu)): Please contact me if you have any questions or suggestions related to this CORD-NER dataset.
+Our team for creating this EvidenceMiner for COVID-19:
+- **Xuan Wang** ([xwang174@illinois.edu](xwang174@illinois.edu)): Please contact me if you have any questions or suggestions for this system.
 - **Weili Liu** ([weilil2@illinois.edu](xs22@illinois.edu))
 - **Aabhas Chauhan** ([aabhasc2@illinois.edu](bl17@illinois.edu))
 - **Yingjun Guan** ([yingjun2@illinois.edu](yingjun2@illinois.edu))
