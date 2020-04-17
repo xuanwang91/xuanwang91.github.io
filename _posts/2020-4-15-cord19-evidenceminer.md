@@ -14,7 +14,7 @@ Below is the overal architecture of the EvidenceMiner system. It consists of two
 ![architecture](https://github.com/xuanwang91/xuanwang91.github.io/blob/master/img/architecture.png?raw=True)
 
 
-## EvidenceMiner: Results
+## EvidenceMiner: Results on COVID-19
 
 ### Textual Evidence Retrieval
 
