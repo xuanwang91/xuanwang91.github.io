@@ -14,7 +14,12 @@ Below is the overal architecture of the EvidenceMiner system. It consists of two
 ![architecture](https://github.com/xuanwang91/xuanwang91.github.io/blob/master/img/architecture.png?raw=True)
 
 
-## EvidenceMiner: Evidence Retrieval Results
+## EvidenceMiner: Results
+
+### Textual Evidence Retrieval
+
+### Case Studies
+
 
 
 ## Contact
