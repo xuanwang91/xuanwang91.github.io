@@ -73,7 +73,7 @@ Week | Date        | Topic & Slides                                             
 2    | 04/07 (Tue) | Supervised - Overfitting and Regularization [[slides](https://www.dropbox.com/s/utx11qqs3p5fxgv/lecture2_overfitting.pdf?dl=0)] [[annotated slides](https://www.dropbox.com/s/hlk4hvkwsdnyv1d/%5Bannotated%5Dlecture2_overfitting.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/l43nkim25n2yamk/AAD3dBCwfYYVm3jakmGUijx8a?dl=0)]                    | HW1 Due, HW2 out
 2    | 04/09 (Thu) | Supervised - Support Vector Machine [[slides](https://www.dropbox.com/s/m2jsrmyxxx3alr0/lecture3_svm.pdf?dl=0)] [[annotated slides](https://www.dropbox.com/s/spacnme2i2dncyc/%5Bannotated%5Dlecture3_svm.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/xuuybzcrr3bop66/AADSM2luNTwLnP27tIgVuPhRa?dl=0)] |
 3    | 04/14 (Tue) | Supervised - Naive Bayes and Decision Tree [[slides](https://www.dropbox.com/s/xpd8yc1s9nccjpx/lecture4_nb_and_dt.pdf?dl=0)] [[annotated slides](https://www.dropbox.com/s/give0uiop3sibiq/%5Bannotated%5Dlecture4_nb_and_dt.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/hv5ce2dtiutewxh/AADn5br5Oz5vAMKaFCuTsbrHa?dl=0)] |
-3    | 04/16 (Thu) | Supervised - Ensemble Learning: Bagging and Boosting [[slides](https://www.dropbox.com/s/devszefh407l6s7/lecture5_ensemble.pdf?dl=0)]           | 
+3    | 04/16 (Thu) | Supervised - Ensemble Learning: Bagging and Boosting [[slides](https://www.dropbox.com/s/devszefh407l6s7/lecture5_ensemble.pdf?dl=0)] [[annotated slides](https://www.dropbox.com/s/r4mrovlxn5mzs2k/%5Bannotated%5D_lecture5_ensemble.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/6pqdnfmn0t822sk/AABpHxtLcfp4Ufo8GY9Dj123a?dl=0)] | 
 4    | 04/21 (Tue) | Cluster Analysis - K-Means Clustering & its Variants            | HW2 Due, HW3 out
 4    | 04/23 (Thu) | Cluster Analysis - "Soft" Clustering: Gaussian Mixture          |
 5    | 04/28 (Tue) | Cluster Analysis - Density-based Clustering: DBScan             |
@@ -112,6 +112,8 @@ TBD. It will be a individual-based data mining competition with quantitative eva
 Project (25%)
 ======
 
+Instructions for both choices are available [here](https://www.dropbox.com/s/15gociykle5sigl/Project%20Instructions.pdf?dl=0).
+
 - **Choice 1: Team-Based Open-Ended Project**
     - 1 to 4 members per team. More members, higher expectation.
     - Define your own research problem and justify its importance
@@ -120,7 +122,6 @@ Project (25%)
     - Write a 4 to 8 pages report (research-paper like)
     - Submit your codes
 - **Choice 2: Individual-Based Deep Dive into Data Mining Methods**
-    - [Tentative plan](https://www.dropbox.com/s/pixbz0yvfzqd31j/Project%20Choice%202%20Plan.pdf?dl=0)
     - Implement 4 models learned from this course from scratch.
     - Skeleton codes will be provided. Your work is more like "filling in blanks".
     - Write a 4-page report (1 page per model) describing your interesting findings.
