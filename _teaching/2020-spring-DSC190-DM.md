@@ -67,7 +67,7 @@ Lecture Schedule
 
 **Recording Note**: Please download the recording video for the full length. Dropbox website will only show you the first one hour.
 
-**HW Note**: All HWs due before the lecture time 9:30 AM in the morning. 
+**HW Note**: All HWs due before the lecture time 9:30 AM PT in the morning. 
 
 Week | Date        | Topic & Slides                                                  | Events
 1    | 03/31 (Tue) | Introduction: Data Types, Tasks, and Evaluations [[slides](https://www.dropbox.com/s/8ktrdg4po8t7wjm/lecture0_intro.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/8sf4vfl881vjrbr/AACegM1GSKg7QVSOEjKWby5Ja?dl=0)] | HW1 out
