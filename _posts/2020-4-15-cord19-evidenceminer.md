@@ -19,7 +19,7 @@ Below is the overal architecture of the EvidenceMiner system. It consists of two
 ### Textual Evidence Retrieval
 
 Method | nDCG@1 | nDCG@5 | nDCG@10
------------------------------------
+--- | --- | --- | --- | ---
 BM25 | 0.714 | 0.720 | 0.746 
 LitSense | 0.599 | 0.624 | 0.658 
 EvidenceMiner | **0.855** | **0.861** | **0.889**
