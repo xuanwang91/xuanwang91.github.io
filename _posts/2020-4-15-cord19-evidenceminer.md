@@ -30,7 +30,7 @@ EvidenceMiner | **0.855** | **0.861** | **0.889**
 
 ![covid-19-masks](https://github.com/xuanwang91/xuanwang91.github.io/blob/master/img/covid-19-masks.png?raw=True)
 
-![covid-19-remdesivir](https://github.com/xuanwang91/xuanwang91.github.io/blob/master/img/covid-19-remdesivir?raw=True)
+![covid-19-remdesivir](https://github.com/xuanwang91/xuanwang91.github.io/blob/master/img/covid-19-remdesivir.png?raw=True)
 
 
 ## Contact
