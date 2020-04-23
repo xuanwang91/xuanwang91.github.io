@@ -9,7 +9,7 @@ On *March 16th, 2020*, White House released this [Call to Action to the Tech Com
 ## EvidenceMiner: System Architecture
 Our EvidenceMiner system on COVID-19 can be found [here]().
 
-Below is the overal architecture of the EvidenceMiner system. It consists of two major components: an open information extraction pipeline and a textual evidence retrieval and analysis pipeline. The open information extraction pipeline includes two functional modules: (1) distantly supervised NER, and (2) meta-pattern-based open information extraction; whereas the textual evidence retrieval and analysis pipeline includes three functional modules: (1) textual evidence search, (2) annotation result visualization in the original document, and (3) the most frequent entity and relation summarization. More details of the EvidenceMiner system can be found in our [ACL paper]().
+Below is the overal architecture of the EvidenceMiner system. It consists of two major components: an open information extraction pipeline and a textual evidence retrieval and analysis pipeline. The open information extraction pipeline includes two functional modules: (1) distantly supervised NER, and (2) meta-pattern-based open information extraction; whereas the textual evidence retrieval and analysis pipeline includes three functional modules: (1) textual evidence search, (2) annotation result visualization in the original document, and (3) the most frequent entity and relation summarization. More details of the EvidenceMiner system can be found in our [paper]().
 
 ![architecture](https://github.com/xuanwang91/xuanwang91.github.io/blob/master/img/architecture.png?raw=True)
 
