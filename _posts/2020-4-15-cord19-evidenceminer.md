@@ -26,7 +26,11 @@ EvidenceMiner | **0.855** | **0.861** | **0.889**
 
 ### Case Studies
 
-![sars-cov-2-uv.png](https://github.com/xuanwang91/xuanwang91.github.io/blob/master/img/sars-cov-2-uv.png?raw=True)
+![sars-cov-2-uv](https://github.com/xuanwang91/xuanwang91.github.io/blob/master/img/sars-cov-2-uv.png?raw=True)
+
+![covid-19-masks](https://github.com/xuanwang91/xuanwang91.github.io/blob/master/img/covid-19-masks.png?raw=True)
+
+![covid-19-remdesivir](https://github.com/xuanwang91/xuanwang91.github.io/blob/master/img/covid-19-remdesivir?raw=True)
 
 
 ## Contact
