@@ -26,7 +26,7 @@ EvidenceMiner | **0.855** | **0.861** | **0.889**
 
 ### Case Studies
 
-In the first case, scientists want to study if ultraviolet (UV) can kill the SARS-COV-2 virus. In the top-retrieved results shown below, we see many supporting sentences, such as "Ultraviolet-C (UV-C) radiation represents an alternative to chemical inactivation methods", "We discuss 2 such modalities, respirators (face masks) and ultraviolet (UV) light" and "Boeing is also exploring a prototype self-sanitizing lavatory that uses ultraviolet light to kill 99.99% of pathogens 48".
+In the first case, scientists want to study if ultraviolet (UV) can kill the SARS-COV-2 virus. In the top-retrieved results shown below, we see many supporting sentences, such as "Ultraviolet-C (UV-C) radiation represents an alternative to chemical inactivation methods", "We discuss 2 such modalities, respirators (face masks) and ultraviolet (UV) light" and "Boeing is also exploring a prototype self-sanitizing lavatory that uses ultraviolet light to kill 99.99% of pathogens".
 
 ![sars-cov-2-uv](https://github.com/xuanwang91/xuanwang91.github.io/blob/master/img/sars-cov-2-uv.png?raw=True)
 
