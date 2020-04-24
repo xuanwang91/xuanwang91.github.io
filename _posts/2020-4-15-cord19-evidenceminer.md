@@ -26,15 +26,15 @@ EvidenceMiner | **0.855** | **0.861** | **0.889**
 
 ### Case Studies
 
-In the first case, the scientists want to study if ultraviolet (UV) can kill the SARS-COV-2 virus. In the top results showed below, we see many supporting sentences, such as "Ultraviolet-C (UV-C) radiation represents an alternative to chemical inactivation methods", "We discuss 2 such modalities, respirators (face masks) and ultraviolet (UV) light" and "Boeing is also exploring a prototype self-sanitizing lavatory that uses ultraviolet light to kill 99.99\% of pathogens 48".
+In the first case, scientists want to study if ultraviolet (UV) can kill the SARS-COV-2 virus. In the top-retrieved results shown below, we see many supporting sentences, such as "Ultraviolet-C (UV-C) radiation represents an alternative to chemical inactivation methods", "We discuss 2 such modalities, respirators (face masks) and ultraviolet (UV) light" and "Boeing is also exploring a prototype self-sanitizing lavatory that uses ultraviolet light to kill 99.99\% of pathogens 48".
 
 ![sars-cov-2-uv](https://github.com/xuanwang91/xuanwang91.github.io/blob/master/img/sars-cov-2-uv.png?raw=True)
 
-In the second case, the users are interested to see if wearing masks can help prevent the COVID-19 spreading. This is a hot debating topic currently. In the top results showed below, we see many related statements, among them are clearly two opposite opinions. For example, some statements support the use of masks to prevent the virus, such as "COVID-19 is transmitted by saliva droplets, ..., which can be prevented by wearing masks". While other statements are against the effectiveness of wearing masks, such as "Although surgical masks are in widespread use ..., there is no evidence that wearing these masks can prevent the acquisition of COVID-19 ...". An interesting future work is to classify the opinions by their semantic polarity and even further generate some summarization of the evidence retrieval results.
+In the second case, people are interested to see if wearing masks can help prevent the COVID-19 spreading. This is a hot debating topic currently. In the top-retrieved results shown below, we see many related statements, among them are clearly two opposite opinions. For example, some statements support the use of masks to prevent the virus, such as "COVID-19 is transmitted by saliva droplets, ..., which can be prevented by wearing masks". While other statements are against the effectiveness of wearing masks, such as "Although surgical masks are in widespread use ..., there is no evidence that wearing these masks can prevent the acquisition of COVID-19 ...". An interesting future work is to classify the opinions by their semantic polarity and even automatically generate summarizations of the evidence retrieval results.
 
 ![covid-19-masks](https://github.com/xuanwang91/xuanwang91.github.io/blob/master/img/covid-19-masks.png?raw=True)
 
-In the third case, the doctors want to study if remdesivir is a potential drug treatment for COVID-19. Remdesivir is currently a very actively studied drug that can be repurposed for COVID-19 treatment. Similarly, in the top results showed below, we can see many sentences regarding the clinical trials for remdesivir against COVID-19.
+In the third case, doctors want to study if remdesivir is a potential drug treatment for COVID-19. Remdesivir is currently a very actively studied drug that has the potential to be repurposed for COVID-19 treatment. Similarly, in the top-retrieved results shown below, we can see many sentences regarding the clinical trials for remdesivir against COVID-19.
 
 ![covid-19-remdesivir](https://github.com/xuanwang91/xuanwang91.github.io/blob/master/img/covid-19-remdesivir.png?raw=True)
 
