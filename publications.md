@@ -6,7 +6,8 @@ For a full list of my publications, please see my [Google Scholar](https://schol
 
 ## Selected Publications
 ### 2020
-1. **Xuan Wang**, Yingjun Guan, Weili Liu, Aabhas Chauhan, Enyi Jiang, Qi Li, David Liem, Dibakar Sigdel, John Caufield, Peipei Ping and Jiawei Han, "EVIDENCEMINER: Textual Evidence Discovery for Life Sciences", in Proc. 2020 Annual Conf. of the Association for Computational Linguistics (ACL’20) (System demo), Seattle, WA, July 2020
+1. Yu Zhang, Yu Meng, Jiaxin Huang, Frank F. Xu, **Xuan Wang** and Jiawei Han, “Minimally Supervised Categorization of Text with Metadata”, in Proc. 2020 ACM SIGIR Int. Conf. on Research and development in Information Retrieval (SIGIR’20), Xi’an, China, July 2020 
+2. **Xuan Wang**, Yingjun Guan, Weili Liu, Aabhas Chauhan, Enyi Jiang, Qi Li, David Liem, Dibakar Sigdel, John Caufield, Peipei Ping and Jiawei Han, "EVIDENCEMINER: Textual Evidence Discovery for Life Sciences", in Proc. 2020 Annual Conf. of the Association for Computational Linguistics (ACL’20) (System demo), Seattle, WA, July 2020
 
 ### 2019
 1. **Xuan Wang\***, Yu Zhang\*, Qi Li, Xiang Ren, Jingbo Shang, and Jiawei Han, "[Distantly Supervised Biomedical Named Entity Recognition with Dictionary Expansion]()", in Proc. 2019 IEEE Int. Conf. on Bioinformatics and Biomedicine (IEEE-BIBM’19), San Diego, CA, Nov. 2019
