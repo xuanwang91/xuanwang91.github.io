@@ -9,6 +9,10 @@ author_profile: true
 A selection of my <b>awards</b> and <b>media coverages</b>, sorted by time.
 </p>
 
+### <center>2019</center>
+
+🏆 IEEEXtreme 13.0 **World Champion**
+
 ### <center>2018</center>
 
 🏆 IEEEXtreme 12.0 **World Champion** [[Details](https://ieeextreme.org/wp-content/uploads/2018/11/IEEEXtreme-12.0-Global-Ranking.pdf)]

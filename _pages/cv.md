@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
+* Ph.D in Computer Science, University of Illinois, Urbana-Champaign, 2019
 * B.E. in Computer Science, Shanghai Jiao Tong University, 2014
-* Ph.D in Computer Science, University of Illinois, Urbana-Champion, 2019
 
 Work experience
 ======
