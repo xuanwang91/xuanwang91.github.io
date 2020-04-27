@@ -104,18 +104,22 @@ Your lowest (of four) homework grades is dropped (or one homework can be skipped
 Midterm (26%)
 ======
 
-TBD. It will cover all lectures given before the Midterm.
+It is an open-book, take-home exam, which covers all lectures given before the Midterm. Most of the questions will be open-ended. Some of them might be slightly more difficult than homework. You will have 24 hours to complete the midterm, which is expected for about 2 hours.
 
 Data Mining Challenge (25%)
 ======
 
-TBD. It will be a individual-based data mining competition with quantitative evaluation.
+It is a individual-based data mining competition with quantitative evaluation. The challenge runs **from April 30 0:00:01 AM to May 17 4:59:59 PM PT**. Note that the time displayed on Kaggle is in UTC, not PT.
+
+Challenge Statement, Dataset, and Details: here (to appear soon).
+Kaggle challenge link: [https://www.kaggle.com/c/ucsd-spring20-dsc190-intro-to-data-mining](https://www.kaggle.com/c/ucsd-spring20-dsc190-intro-to-data-mining)
 
 Project (25%)
 ======
 
-Instructions for both choices are available [here](https://www.dropbox.com/s/15gociykle5sigl/Project%20Instructions.pdf?dl=0).
+Instructions for both choices are available [here](https://www.dropbox.com/s/15gociykle5sigl/Project%20Instructions.pdf?dl=0). 
 
+Here is a quick overview:
 - **Choice 1: Team-Based Open-Ended Project**
     - 1 to 4 members per team. More members, higher expectation.
     - Define your own research problem and justify its importance
@@ -123,7 +127,10 @@ Instructions for both choices are available [here](https://www.dropbox.com/s/15g
     - Design your own models or try a large variety of existing models
     - Write a 4 to 8 pages report (research-paper like)
     - Submit your codes
+    - Up to 5% bonus for working demos/apps towards the total course grade.
 - **Choice 2: Individual-Based Deep Dive into Data Mining Methods**
-    - Implement 4 models learned from this course from scratch.
+    - Implement a few models learned from this course from scratch.
     - Skeleton codes will be provided. Your work is more like "filling in blanks".
-    - Write a 4-page report (1 page per model) describing your interesting findings.
+    - Each model has a point associated with it. 6 points required.
+    - Write a report (pages based on points) describing your interesting findings.
+    - Up to 5% bonus towards the total course grade. Roughly 1 point, 1%.
