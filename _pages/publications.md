@@ -13,8 +13,8 @@ author_profile: true
 
 ### 2020
 
-* Contextualized Weak Supervision for Text Classification. Dheeraj Mekala, Jingbo Shang. **ACL** 2020.
-* Empower Entity Set Expansion via Language Model Probing. Yunyi Zhang, Jiaming Shen, Jingbo Shang and Jiawei Han. **ACL** 2020.
+* [Contextualized Weak Supervision for Text Classification](). Dheeraj Mekala, Jingbo Shang. **ACL** 2020. [code]
+* [Empower Entity Set Expansion via Language Model Probing](https://www.dropbox.com/s/bu0tla6zmhbep3o/%5BACL%2720%5DEmpower%20Entity%20Set%20Expansion%20via%20Language%20Model%20Probing.pdf?dl=1). Yunyi Zhang, Jiaming Shen, Jingbo Shang and Jiawei Han. **ACL** 2020. [[code](https://github.com/yzhan238/CGExpan)]
 * [NetTaxo: Automated Topic Taxonomy Construction from Large-Scale Text-Rich Network](https://www.dropbox.com/s/v3qq76nb5ybsz5c/2020_WWW_NetTaxo.pdf?dl=1). Jingbo Shang\*, Xinyang Zhang\*, Liyuan Liu, Sha Li and Jiawei Han. **WWW** 2020. [[code](https://github.com/xinyangz/NetTaxo)] [[slides](https://www.dropbox.com/s/sz3v2md8pm7v0mq/2020_WWW_NetTaxo-slides.pdf?dl=0)] [[presentation video](https://www.dropbox.com/s/fjauidea6ayt8lm/2020_WWW_NetTaxo-video.mp4?dl=0)]
 
 ### 2019
@@ -67,5 +67,5 @@ author_profile: true
 * [Mining Quality Phrases from Massive Text Corpora](https://www.dropbox.com/s/9mis5qt4d44iysp/%5BSIGMOD%2715%5DMining%20Quality%20Phrases%20from%20Massive%20Text%20Corpora.pdf?dl=1). Jialu Liu\*, Jingbo Shang\*, Chi Wang, Xiang Ren and Jiawei Han. **SIGMOD** 2015. [[code](https://github.com/shangjingbo1226/SegPhrase)]
 * [Detecting Urban Black Holes Based on Human Mobility Data](https://www.dropbox.com/s/n3udf673f334e54/%5BSIGSPATIAL%2715%5DDetecting%20Urban%20Black%20Holes%20Based%20on%20Human%20Mobility%20Data.pdf?dl=1). Liang Hong, Yu Zheng, Duncan Yung, Jingbo Shang, and Lei Zou. **SIGSPATIAL** 2015.
 * [Inferring gas consumption and pollution emission of vehicles throughout a city](https://www.dropbox.com/s/75tg0s7yndpv0jb/%5BKDD%2714%5DInferring%20Gas%20Consumption%20and%20Pollution%20Emission%20of%20Vehicles%20Throughout%20a%20City.pdf?dl=1). Jingbo Shang, Yu Zheng, Wenzhu Tong, Eric Chang, Yong Yu. **KDD** 2014.
-* [A Parallel and Efficient Algorithm for Learning to Match](https://arxiv.org/abs/1410.6414). Jingbo Shang, Tianqi Chen, Hang Li, Zhengdong Lu, Yong Yu. **ICDM** 2014. [[code](https://github.com/shangjingbo1226/PL2M)] [[short version](https://www.dropbox.com/s/ofsvcipyby13aw3/%5BICDM%2714%5DA%20Parallel%20and%20Efficient%20Algorithm%20for%20Learning%20to%20Match.pdf?dl=0)]
+* [A Parallel and Efficient Algorithm for Learning to Match](https://arxiv.org/abs/1410.6414). Jingbo Shang, Tianqi Chen, Hang Li, Zhengdong Lu, Yong Yu. **ICDM** 2014. [[code](https://github.com/shangjingbo1226/PL2M)] [[short version](https://www.dropbox.com/s/ofsvcipyby13aw3/%5BICDM%2714%5DA%20Parallel%20and%20Efficient%20Algorithm%20for%20Learning%20to%20Match.pdf?dl=1)]
 * [Constrained Question Recommendation in MOOCs via Submodularity](https://www.dropbox.com/s/luqef6zi2mo7u36/%5BCIKM%2714-short%20paper%5DConstrained%20Question%20Recommendation%20in%20MOOCs%20via%20Submodularity.pdf?dl=1). Diyi Yang, Jingbo Shang, and Carolyn Rose. **CIKM** 2014 (short).
