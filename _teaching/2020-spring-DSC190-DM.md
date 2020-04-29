@@ -117,7 +117,7 @@ Kaggle challenge link: [https://www.kaggle.com/c/ucsd-spring20-dsc190-intro-to-d
 Project (25%)
 ======
 
-Instructions for both choices are available [here](https://www.dropbox.com/s/15gociykle5sigl/Project%20Instructions.pdf?dl=0). 
+Instructions for both choices are available [here](https://www.dropbox.com/s/15gociykle5sigl/Project%20Instructions.pdf?dl=0). Project **due on Jun 7**.
 
 Here is a quick overview:
 - **Choice 1: Team-Based Open-Ended Project**
