@@ -112,7 +112,7 @@ Data Mining Challenge (25%)
 It is a individual-based data mining competition with quantitative evaluation. The challenge runs **from April 30 0:00:01 AM to May 17 4:59:59 PM PT**. Note that the time displayed on Kaggle is in UTC, not PT.
 
 - Challenge Statement, Dataset, and Details: [here](https://www.dropbox.com/s/hogx3ovlnx2o0vf/DSC%20190_%20Intro%20to%20Data%20Mining%20%E2%80%93%20Data%20Mining%20Challenge.pdf?dl=0).
-- Kaggle challenge link: [https://www.kaggle.com/c/ucsd-spring20-dsc190-intro-to-data-mining](https://www.kaggle.com/c/ucsd-spring20-dsc190-intro-to-data-mining)
+- Kaggle challenge link: [https://www.kaggle.com/t/f7cbcf2b349e461ca7650289f109caed](https://www.kaggle.com/t/f7cbcf2b349e461ca7650289f109caed)
 
 Project (25%)
 ======
