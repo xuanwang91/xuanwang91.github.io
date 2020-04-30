@@ -79,7 +79,7 @@ Week | Date        | Topic & Slides                                             
 4    | 04/21 (Tue) | Cluster Analysis - K-Means Clustering & its Variants [[slides](https://www.dropbox.com/s/xfcrq46af1uoial/lecture6_kmeans.pdf?dl=0)] [[annotated slides](https://www.dropbox.com/s/ho42sful2wmcnp8/%5Bannotated%5Dlecture6_kmeans.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/ssmz8lmo7hq0gur/AABDGopCweY9unZIepNtjs7oa?dl=0)]          | HW2 Due, HW3 out
 4    | 04/23 (Thu) | Cluster Analysis - "Soft" Clustering: Gaussian Mixture [[slides](https://www.dropbox.com/s/507g6wh7lkkl2wd/lecture7_gaussin_mixture.pdf?dl=0)] [[annotated_slides](https://www.dropbox.com/s/zi27bise8ruo1ew/%5Bannotated%5Dlecture7_gaussin_mixture.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/m52w7x6ufb8799k/AAANJGVEynBD3GzBIrzTxKE4a?dl=0)]        |
 5    | 04/28 (Tue) | Cluster Analysis - Density-based Clustering: DBSCAN [[slides](https://www.dropbox.com/s/3lrwhhrrxzo5fcw/lecture8_dbscan.pdf?dl=0)] [[annotated_slides](https://www.dropbox.com/s/cf88u8wdqwztl6s/%5Bannotated%5Dlecture8_dbscan.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/ylcq9op1w3tr4yv/AAA_5ryhCpDO6n8Q7vs4uFg3a?dl=0)] |
-5    | 04/30 (Thu) | Cluster Analysis - Principle Component Analysis                 | DM Challenge out (tentative)
+5    | 04/30 (Thu) | Cluster Analysis - Principle Component Analysis [[slides](https://www.dropbox.com/s/aku5gzor8bqvh99/lecture9_pca.pdf?dl=0)]                | DM Challenge out (tentative)
 6    | 05/05 (Tue) | Pattern Analysis - Frequent Pattern and Association Rules       |
 6    | 05/07 (Thu) | Midterm                                                         |
 7    | 05/12 (Tue) | Recommender System - Collaborative Filtering                    | HW3 Due, HW4 out
@@ -111,8 +111,8 @@ Data Mining Challenge (25%)
 
 It is a individual-based data mining competition with quantitative evaluation. The challenge runs **from April 30 0:00:01 AM to May 17 4:59:59 PM PT**. Note that the time displayed on Kaggle is in UTC, not PT.
 
-Challenge Statement, Dataset, and Details: here (to appear soon).
-Kaggle challenge link: [https://www.kaggle.com/c/ucsd-spring20-dsc190-intro-to-data-mining](https://www.kaggle.com/c/ucsd-spring20-dsc190-intro-to-data-mining)
+- Challenge Statement, Dataset, and Details: [here](https://www.dropbox.com/s/hogx3ovlnx2o0vf/DSC%20190_%20Intro%20to%20Data%20Mining%20%E2%80%93%20Data%20Mining%20Challenge.pdf?dl=0).
+- Kaggle challenge link: [https://www.kaggle.com/c/ucsd-spring20-dsc190-intro-to-data-mining](https://www.kaggle.com/c/ucsd-spring20-dsc190-intro-to-data-mining)
 
 Project (25%)
 ======
