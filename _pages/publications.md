@@ -16,6 +16,9 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2020
 
+* [User-Guided Aspect Classification for Domain-Specific Texts](https://arxiv.org/abs/2004.14555) <br/>
+Peiran Li, Fang Guo and Jingbo Shang. arXiv:2004.14555.
+
 * [Contextualized Weak Supervision for Text Classification]() <br/>
 Dheeraj Mekala and Jingbo Shang. **ACL** 2020. [code]
 
