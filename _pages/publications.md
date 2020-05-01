@@ -19,8 +19,8 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 * [User-Guided Aspect Classification for Domain-Specific Texts](https://arxiv.org/abs/2004.14555) <br/>
 Peiran Li, Fang Guo and Jingbo Shang. arXiv:2004.14555.
 
-* [Contextualized Weak Supervision for Text Classification]() <br/>
-Dheeraj Mekala and Jingbo Shang. **ACL** 2020. [code]
+* [Contextualized Weak Supervision for Text Classification](https://www.dropbox.com/s/9pn0pg9pm5raj86/%5BACL%2720%5DContextualized%20Weak%20Supervision%20for%20Text%20Classification.pdf?dl=1) <br/>
+Dheeraj Mekala and Jingbo Shang. **ACL** 2020. [[code](https://github.com/dheeraj7596/ConWea)]
 
 * [Empower Entity Set Expansion via Language Model Probing](https://www.dropbox.com/s/bu0tla6zmhbep3o/%5BACL%2720%5DEmpower%20Entity%20Set%20Expansion%20via%20Language%20Model%20Probing.pdf?dl=1) <br/>
 Yunyi Zhang, Jiaming Shen, Jingbo Shang and Jiawei Han. **ACL** 2020. [[code](https://github.com/yzhan238/CGExpan)]
