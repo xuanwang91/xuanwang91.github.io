@@ -80,7 +80,7 @@ Week | Date        | Topic & Slides                                             
 4    | 04/23 (Thu) | Cluster Analysis - "Soft" Clustering: Gaussian Mixture [[slides](https://www.dropbox.com/s/507g6wh7lkkl2wd/lecture7_gaussin_mixture.pdf?dl=0)] [[annotated_slides](https://www.dropbox.com/s/zi27bise8ruo1ew/%5Bannotated%5Dlecture7_gaussin_mixture.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/m52w7x6ufb8799k/AAANJGVEynBD3GzBIrzTxKE4a?dl=0)]        |
 5    | 04/28 (Tue) | Cluster Analysis - Density-based Clustering: DBSCAN [[slides](https://www.dropbox.com/s/3lrwhhrrxzo5fcw/lecture8_dbscan.pdf?dl=0)] [[annotated_slides](https://www.dropbox.com/s/cf88u8wdqwztl6s/%5Bannotated%5Dlecture8_dbscan.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/ylcq9op1w3tr4yv/AAA_5ryhCpDO6n8Q7vs4uFg3a?dl=0)] |
 5    | 04/30 (Thu) | Cluster Analysis - Principle Component Analysis [[slides](https://www.dropbox.com/s/aku5gzor8bqvh99/lecture9_pca.pdf?dl=0)] [[annotated slides](https://www.dropbox.com/s/lb5ddj78rjtfjjr/%5Bannotated%5Dlecture9_pca.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/urc6jjoru4utymw/AAABZWct4zLt9kegz3jeXUHda?dl=0)] | DM Challenge out
-6    | 05/05 (Tue) | Pattern Analysis - Frequent Pattern and Association Rules       |
+6    | 05/05 (Tue) | Pattern Analysis - Frequent Pattern and Association Rules [[slides](https://www.dropbox.com/s/n512q1vel7lr9iy/lecture10_pattern_analysis.pdf?dl=0)]      |
 6    | 05/07 (Thu) | Midterm (24 hours on this date) |
 7    | 05/12 (Tue) | Recommender System - Collaborative Filtering                    | HW3 Due, HW4 out
 7    | 05/14 (Thu) | Recommender System - Latent Factor Models                       |
