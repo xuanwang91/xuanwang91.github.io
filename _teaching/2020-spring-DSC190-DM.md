@@ -106,6 +106,11 @@ Midterm (26%)
 
 It is an open-book, take-home exam, which covers all lectures given before the Midterm. Most of the questions will be open-ended. Some of them might be slightly more difficult than homework. You will have 24 hours to complete the midterm, which is expected for about 2 hours.
 
+- **Start**: May 7, 9:30 AM PT
+- **End**: May 8, 9:30 AM PT
+- Midterm problems download: to appear soon.
+- Please **make your submissions on Gradescope**.
+
 Data Mining Challenge (25%)
 ======
 
