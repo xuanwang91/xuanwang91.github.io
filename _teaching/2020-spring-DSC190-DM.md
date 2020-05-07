@@ -108,7 +108,7 @@ It is an open-book, take-home exam, which covers all lectures given before the M
 
 - **Start**: May 7, 9:30 AM PT
 - **End**: May 8, 9:30 AM PT
-- Midterm problems download: to appear soon.
+- [Midterm problems download](https://www.dropbox.com/s/3qrozs1g0qe37xq/DSC190-Spring20-Midterm%20Exam.pdf?dl=1).
 - Please **make your submissions on Gradescope**.
 
 Data Mining Challenge (25%)
