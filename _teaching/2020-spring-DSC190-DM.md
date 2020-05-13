@@ -82,7 +82,7 @@ Week | Date        | Topic & Slides                                             
 5    | 04/30 (Thu) | Cluster Analysis - Principle Component Analysis [[slides](https://www.dropbox.com/s/aku5gzor8bqvh99/lecture9_pca.pdf?dl=0)] [[annotated slides](https://www.dropbox.com/s/lb5ddj78rjtfjjr/%5Bannotated%5Dlecture9_pca.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/urc6jjoru4utymw/AAABZWct4zLt9kegz3jeXUHda?dl=0)] | DM Challenge out
 6    | 05/05 (Tue) | Pattern Analysis - Frequent Pattern and Association Rules [[slides](https://www.dropbox.com/s/n512q1vel7lr9iy/lecture10_pattern_analysis.pdf?dl=0)] [[annotated slides](https://www.dropbox.com/s/szojaar5o567j6n/%5Bannotated%5Dlecture10_pattern_analysis.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/ke0afqx1j7v9rpt/AAAOccdU9j92oOv69iojtUtFa?dl=0)]      |
 6    | 05/07 (Thu) | Midterm (24 hours on this date) |
-7    | 05/12 (Tue) | Recommender System - Collaborative Filtering [[slides](https://www.dropbox.com/s/i3nkezli4cgwqfb/lecture11_cf.pdf?dl=0)]                    | HW3 Due, HW4 out
+7    | 05/12 (Tue) | Recommender System - Collaborative Filtering [[slides](https://www.dropbox.com/s/i3nkezli4cgwqfb/lecture11_cf.pdf?dl=0)] [[annotated slides](https://www.dropbox.com/s/dju1sljknfhc3kp/%5Bannotated%5Dlecture11_cf.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/oo6cu2otxwetull/AAAQv_lJlWJPrD0SU7fankyHa?dl=0)]                    | HW3 Due, HW4 out
 7    | 05/14 (Thu) | Recommender System - Latent Factor Models                       |
 8    | 05/19 (Tue) | Text Mining - Zipf's Law, Bags-of-words, and TF-IDF             |
 8    | 05/21 (Thu) | Text Mining - Pre-processing and Low-dimensional Representation |
