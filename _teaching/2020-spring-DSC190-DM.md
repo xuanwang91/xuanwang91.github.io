@@ -86,7 +86,7 @@ Week | Date        | Topic & Slides                                             
 7    | 05/14 (Thu) | Recommender System - Latent Factor Models [[slides](https://www.dropbox.com/s/go6btf7c38m3o6d/lecture12_mf.pdf?dl=0)] [[annoated slides](https://www.dropbox.com/s/s1zb3a3i8xvagwi/%5Bannotated%5Dlecture12_mf.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/sy1b0ec2ywdv1ig/AACNfoisRsGesPpvcK2RNiZOa?dl=0)]                   |
 8    | 05/19 (Tue) | Text Mining - Zipf's Law, Bags-of-words, and TF-IDF [[slides](https://www.dropbox.com/s/k4orebohuriynnl/lecture13_text_basics.pdf?dl=0)] [[annotated slides](https://www.dropbox.com/s/h2fulgdp7x36aja/%5Bannotated%5Dlecture13_text_basics.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/rcqrid6lkc3wov2/AACbjBdX2SR5SurFRsvsRkY9a?dl=0)]           |
 8    | 05/21 (Thu) | Text Mining - Advanced Text Representations [[slides](https://www.dropbox.com/s/vqpkriyhsg9zidn/lecture14_text_advanced.pdf?dl=0)] [[annotated slides](https://www.dropbox.com/s/qys7fnxbjuhv12h/%5Bannotated%5Dlecture14_text_advanced.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/c8l984eyhc4n52r/AACtnhwyR_0DjMcxeBJJyh96a?dl=0)] |
-9    | 05/26 (Tue) | Network Mining - Small-Worlds & Random Graph Models             | 
+9    | 05/26 (Tue) | Network Mining - Small-Worlds & Random Graph Models [[slides](https://www.dropbox.com/s/h7w1ty2ep4q1y0w/lecture15_DM_challenge_and_graph_basics.pdf?dl=0)]            | 
 9    | 05/28 (Thu) | Network Mining - HITS and PageRank (Random Walk)                |
 10   | 06/02 (Tue) | Sequence Mining - Sliding Windows and Autoregression            |
 10   | 06/04 (Thu) | Sequence Mining - Temporal Dynamics in Applications             | HW4 Due
