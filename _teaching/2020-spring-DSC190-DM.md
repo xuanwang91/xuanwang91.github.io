@@ -88,7 +88,7 @@ Week | Date        | Topic & Slides                                             
 8    | 05/21 (Thu) | Text Mining - Advanced Text Representations [[slides](https://www.dropbox.com/s/vqpkriyhsg9zidn/lecture14_text_advanced.pdf?dl=0)] [[annotated slides](https://www.dropbox.com/s/qys7fnxbjuhv12h/%5Bannotated%5Dlecture14_text_advanced.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/c8l984eyhc4n52r/AACtnhwyR_0DjMcxeBJJyh96a?dl=0)] |
 9    | 05/26 (Tue) | Network Mining - Small-Worlds & Random Graph Models [[slides](https://www.dropbox.com/s/h7w1ty2ep4q1y0w/lecture15_DM_challenge_and_graph_basics.pdf?dl=0)] [[annotated slides](https://www.dropbox.com/s/hbms2na0hiqlnfi/%5Bannotated%5Dlecture15_DM_challenge_and_graph_basics.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/y3hoga3gfo00vxd/AAAkw-ox_v7QOHd35SymDYCta?dl=0)]           | 
 9    | 05/28 (Thu) | Network Mining - HITS, PageRank, Personalized PageRank and Node Embedding [[slides](https://www.dropbox.com/s/73gea8stj6llcr4/lecture15_graph_advanced.pdf?dl=0)] [[annotated slides](https://www.dropbox.com/s/06ikllomykd3mp5/%5Bannotated%5Dlecture15_graph_advanced.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/z42676lmftmoyhm/AABobgWzncsVWDdghWD4u_4Xa?dl=0)] |
-10   | 06/02 (Tue) | Sequence Mining - Sliding Windows and Autoregression            |
+10   | 06/02 (Tue) | Sequence Mining - Sliding Windows and Autoregression [[slides](https://www.dropbox.com/s/mnwufnoqha4mwbz/lecture16_time_series.pdf?dl=0)]           |
 10   | 06/04 (Thu) | Sequence Mining - Temporal Dynamics in Applications             | HW4 Due
 
 Homework (24%)
