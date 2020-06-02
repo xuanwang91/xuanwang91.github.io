@@ -89,7 +89,7 @@ Week | Date        | Topic & Slides                                             
 9    | 05/26 (Tue) | Network Mining - Small-Worlds & Random Graph Models [[slides](https://www.dropbox.com/s/h7w1ty2ep4q1y0w/lecture15_DM_challenge_and_graph_basics.pdf?dl=0)] [[annotated slides](https://www.dropbox.com/s/hbms2na0hiqlnfi/%5Bannotated%5Dlecture15_DM_challenge_and_graph_basics.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/y3hoga3gfo00vxd/AAAkw-ox_v7QOHd35SymDYCta?dl=0)]           | 
 9    | 05/28 (Thu) | Network Mining - HITS, PageRank, Personalized PageRank and Node Embedding [[slides](https://www.dropbox.com/s/73gea8stj6llcr4/lecture15_graph_advanced.pdf?dl=0)] [[annotated slides](https://www.dropbox.com/s/06ikllomykd3mp5/%5Bannotated%5Dlecture15_graph_advanced.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/z42676lmftmoyhm/AABobgWzncsVWDdghWD4u_4Xa?dl=0)] |
 10   | 06/02 (Tue) | Sequence Mining - Sliding Windows and Autoregression [[slides](https://www.dropbox.com/s/mnwufnoqha4mwbz/lecture16_time_series.pdf?dl=0)]           |
-10   | 06/04 (Thu) | Sequence Mining - Temporal Dynamics in Applications             | HW4 Due
+10   | 06/04 (Thu) | Sequence Mining - Temporal Dynamics in Applications             | HW4 Due **extended to 06/07 9AM PT**
 
 Homework (24%)
 ======
@@ -122,7 +122,7 @@ It is a individual-based data mining competition with quantitative evaluation. T
 Project (25%)
 ======
 
-Instructions for both choices are available [here](https://www.dropbox.com/s/15gociykle5sigl/Project%20Instructions.pdf?dl=0). Project **due on Jun 7**.
+Instructions for both choices are available [here](https://www.dropbox.com/s/15gociykle5sigl/Project%20Instructions.pdf?dl=0). Project **due extended to Jun 9**.
 
 Here is a quick overview:
 - **Choice 1: Team-Based Open-Ended Project**
