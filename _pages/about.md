@@ -27,6 +27,12 @@ Most of my research projects focus on (1) developing principled data-driven appr
 
 You can find my schedule [here](https://calendar.google.com/calendar/embed?src=5k0ift9l47qhd7l06ugfegc4f0%40group.calendar.google.com&ctz=America%2FLos_Angeles). The "Week" view will present you the details of slots.
 
+## Cooking from Computer Science Perspective
+
+I have decided to be a Youtuber, sharing my cooking secrets, because COVID-19 makes many of my students have to cook at home by themselves in first time.
+
+Cooking is one of my hobbies and it is a great relax to me. From the computer science perspective, I can see many related concepts and problems: (1) parallelization, (2) hyper-parameter tuning, (3) scheduling, etc. In my humble opinion, cooking, to some extent, should be easier than making complicated deep learning models effective in experiments. Throughout my 5-year PhD study at UIUC, I have summarized some tricks to prepare two delicious entrees in 30 mins. Here is the [Playlist on Youtube](https://www.youtube.com/playlist?list=PLUpY1IDXsJRhoucdKGrpQ9l7LgVMr6VNQ). If you like it, don't forget to subscribe it!
+
 
 ## Prospective Students
 
