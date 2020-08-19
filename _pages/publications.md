@@ -23,7 +23,7 @@ Chengyu Dong, Liyuan Liu, Zichao Li and Jingbo Shang. **ICML** 2020. [[code](htt
 Peiran Li, Fang Guo and Jingbo Shang. arXiv:2004.14555. [[code](https://github.com/peiranli/ARYA)]
 
 * [FUSE: Multi-Faceted Set Expansion by Coherent Clustering of Skip-grams](https://arxiv.org/abs/1910.04345) <br/>
-Wanzheng Zhu, Hongyu Gong, Jiaming Shen, Chao Zhang, Jingbo Shang, Suma Bhat and Jiawei Han. **ECMLPKDD** 2020.
+Wanzheng Zhu, Hongyu Gong, Jiaming Shen, Chao Zhang, Jingbo Shang, Suma Bhat and Jiawei Han. **ECMLPKDD** 2020. [[code](https://github.com/WanzhengZhu/FUSE)]
 
 * [Contextualized Weak Supervision for Text Classification](https://www.dropbox.com/s/9pn0pg9pm5raj86/%5BACL%2720%5DContextualized%20Weak%20Supervision%20for%20Text%20Classification.pdf?dl=1) <br/>
 Dheeraj Mekala and Jingbo Shang. **ACL** 2020. [[code](https://github.com/dheeraj7596/ConWea)]
