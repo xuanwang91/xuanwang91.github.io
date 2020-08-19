@@ -16,8 +16,8 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2020
 
-* Towards Adaptive Residual Network Training: A Neural-ODE Perspective <br/>
-Chengyu Dong, Liyuan Liu, Zichao Li and Jingbo Shang. **ICML** 2020. 
+* [Towards Adaptive Residual Network Training: A Neural-ODE Perspective](https://www.dropbox.com/s/qocbal9tlnsza7z/%5BICML%2720%5DTowards%20Adaptive%20Residual%20Network%20Training%20-%20A%20Neural-ODE%20Perspective.pdf?dl=1) <br/>
+Chengyu Dong, Liyuan Liu, Zichao Li and Jingbo Shang. **ICML** 2020. [[code](https://github.com/shwinshaker/LipGrow)]
 
 * [User-Guided Aspect Classification for Domain-Specific Texts](https://arxiv.org/abs/2004.14555) <br/>
 Peiran Li, Fang Guo and Jingbo Shang. arXiv:2004.14555. [[code](https://github.com/peiranli/ARYA)]
