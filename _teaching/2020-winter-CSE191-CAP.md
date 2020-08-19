@@ -3,7 +3,7 @@ title: "2020-Winter-CSE191-Introduction to Competitive Algorithmic Programming"
 collection: teaching
 type: "Undergraduate Seminar"
 permalink: /2020-winter-CSE190-CAP
-venue: "UCSD, CSE"
+venue: "CSE, UCSD"
 date: 2020-01-06
 location: "La Jolla, CA"
 ---
