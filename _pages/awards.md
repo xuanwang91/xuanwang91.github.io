@@ -11,6 +11,8 @@ A selection of my <b>awards</b> and <b>media coverages</b>, sorted by time.
 
 ### <center>2019</center>
 
+🏆 SIGKDD Dissertation Award Runner-up
+<br/>
 🏆 IEEEXtreme 13.0 **World Champion**
 
 ### <center>2018</center>
