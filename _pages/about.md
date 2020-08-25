@@ -31,7 +31,7 @@ You can find my schedule [here](https://calendar.google.com/calendar/embed?src=5
 
 I have decided to be a Youtuber, sharing my cooking secrets, because COVID-19 makes many of my students have to cook at home by themselves in first time.
 
-Cooking is one of my hobbies and it is a great relax to me. From the computer science perspective, I can see many related concepts and problems: (1) parallelization, (2) hyper-parameter tuning, (3) scheduling, etc. In my humble opinion, cooking, to some extent, should be easier than making complicated deep learning models effective in experiments. Throughout my 5-year PhD study at UIUC, I have summarized some tricks to prepare two delicious entrees in 30 mins. Here is my [Youtube Channel](https://www.youtube.com/channel/UCxPhuvmfd_AeBqGX8XaiZDg). If you like it, don't forget to subscribe it!
+Cooking is one of my hobbies and it is a great relax to me. From the computer science perspective, I can see many related concepts and problems: (1) parallelization, (2) hyper-parameter tuning, (3) scheduling, etc. In my humble opinion, cooking, to some extent, should be easier than making complicated deep learning models effective in experiments. Throughout my 5-year PhD study at UIUC, I have summarized some tricks to prepare two delicious entrees in 30 mins. Here is my [Youtube Channel](https://www.youtube.com/channel/UCxPhuvmfd_AeBqGX8XaiZDg). Since my cooking secrets are mostly about Chinese food, so the videos are in Chinese. If you like it, don't forget to subscribe it!
 
 
 ## Prospective Students
