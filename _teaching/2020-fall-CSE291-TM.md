@@ -39,7 +39,7 @@ Note: all times are in **Pacific Time**.
 Grading
 ======
 
-- Homework: 10% each. Your lowest (of four) homework grades is dropped (or one homework can be skipped).
+- Homework: 10% each. 
 - Text Mining Challenge: 30%.
 - Project: 50%.
 - You should complete all work individually, except for the Project.
