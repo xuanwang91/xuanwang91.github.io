@@ -39,7 +39,7 @@ Note: all times are in **Pacific Time**.
 Grading
 ======
 
-- Homework: 10% each. 
+- Homework: 20%. There will be two homework assignments. 10% each. 
 - Text Mining Challenge: 30%.
 - Project: 50%.
 - You should complete all work individually, except for the Project.
@@ -98,7 +98,7 @@ Project (50%)
 - Team-Based Open-Ended Project
     - 1 to 4 members per team. More members, higher expectation.
 - Define your own research problem and justify its importance
-    - Be ambitious! We could aim for ACL 2020 conference!
+    - Be ambitious! We could aim for ACL 2021 conference!
 - Come up with your hypothesis and find some datasets for verification
 - Design your own models or try a large variety of existing models
 
