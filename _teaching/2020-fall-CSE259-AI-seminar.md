@@ -29,7 +29,7 @@ Lecture Schedule
 
 Week | Date  | Speaker    | Talk Title | Affiliation
 1    | 10/05 | [Jian Pei](https://sites.google.com/view/jpei/jian-peis-homepage) | | CS@Simon Fraser University
-2    | 10/12 | TBD
+2    | 10/12 | [Zhiting Hu](http://www.cs.cmu.edu/~zhitingh/) | | HDSI@UCSD
 3    | 10/19 | [Rose Yu](http://roseyu.com/) |            | CSE@UCSD
 4    | 10/26 | TBD
 5    | 11/02 | [Jiajun Wu](https://jiajunwu.com/) |            | CS@Stanford
