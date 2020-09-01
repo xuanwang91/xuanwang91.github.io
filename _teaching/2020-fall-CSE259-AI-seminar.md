@@ -28,12 +28,12 @@ Lecture Schedule
 **Recording Note**: Please download the recording video for the full length. Dropbox website will only show you the first one hour.
 
 Week | Date  | Speaker    | Talk Title | Affiliation
-1    | 10/05 | TBD
+1    | 10/05 | [Jian Pei](https://sites.google.com/view/jpei/jian-peis-homepage) | | CS@Simon Fraser University
 2    | 10/12 | TBD
 3    | 10/19 | [Rose Yu](http://roseyu.com/) |            | CSE@UCSD
 4    | 10/26 | TBD
 5    | 11/02 | [Jiajun Wu](https://jiajunwu.com/) |            | CS@Stanford
-6    | 11/09 | TBD
+6    | 11/09 | [Luca Bonomi](https://medschool.ucsd.edu/som/dbmi/people/fellows/Pages/Luca-Bonomi,-PhD.aspx) | | DBMI@UCSD
 7    | 11/16 | TBD
 8    | 11/23 | TBD
 9    | 11/30 | TBD
