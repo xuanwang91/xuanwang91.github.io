@@ -37,4 +37,4 @@ Week | Date  | Speaker    | Talk Title | Affiliation
 7    | 11/16 | TBD
 8    | 11/23 | TBD
 9    | 11/30 | TBD
-10   | 12/07 | Babak Salimi | | HDSI@UCSD
+10   | 12/07 | [Babak Salimi](https://bsalimi.github.io/) | | HDSI@UCSD
