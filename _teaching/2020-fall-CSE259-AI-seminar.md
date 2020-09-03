@@ -34,7 +34,7 @@ Week | Date  | Speaker    | Talk Title | Affiliation
 4    | 10/26 | TBD
 5    | 11/02 | [Jiajun Wu](https://jiajunwu.com/) |            | CS@Stanford
 6    | 11/09 | [Luca Bonomi](https://medschool.ucsd.edu/som/dbmi/people/fellows/Pages/Luca-Bonomi,-PhD.aspx) | | DBMI@UCSD
-7    | 11/16 | TBD
+7    | 11/16 | [Giorgio Quer](https://www.scripps.edu/science-and-medicine/translational-institute/about/people/giorgio-quer/) | | Scripps Research
 8    | 11/23 | TBD
 9    | 11/30 | TBD
 10   | 12/07 | [Babak Salimi](https://bsalimi.github.io/) | | HDSI@UCSD
