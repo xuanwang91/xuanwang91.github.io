@@ -19,11 +19,11 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 * META: Metadata-Empowered Weak Supervision for Text Classification <br/>
 Dheeraj Mekala, Xinyang Zhang and Jingbo Shang. **EMNLP** 2020. 
 
-* SeNsER: Learning Cross-Building Sensor Metadata Tagger <br/>
-Yang Jiao\*, Jiacheng Li\*, Jiaman Wu, Dezhi Hong, Rajesh Gupta and Jingbo Shang. **EMNLP** 2020. 
-
 * SynSetExpan: An Iterative Framework for Joint Entity Set Expansion and Synonym Discovery <br/>
 Jiaming Shen, Wenda Qiu, Jingbo Shang, Michelle Vanni, Xiang Ren and Jiawei Han. **EMNLP** 2020. 
+
+* SeNsER: Learning Cross-Building Sensor Metadata Tagger <br/>
+Yang Jiao\*, Jiacheng Li\*, Jiaman Wu, Dezhi Hong, Rajesh Gupta and Jingbo Shang. **EMNLP** (Findings) 2020. 
 
 * [Towards Adaptive Residual Network Training: A Neural-ODE Perspective](https://www.dropbox.com/s/qocbal9tlnsza7z/%5BICML%2720%5DTowards%20Adaptive%20Residual%20Network%20Training%20-%20A%20Neural-ODE%20Perspective.pdf?dl=1) <br/>
 Chengyu Dong, Liyuan Liu, Zichao Li and Jingbo Shang. **ICML** 2020. [[code](https://github.com/shwinshaker/LipGrow)]
