@@ -54,21 +54,21 @@ Lecture Schedule
 
 Week | Date        | Topic & Slides                                                  | Events
 1    | 10/01 (Thu) | Intro, Logistics, and Course Project                            |
-2    | 10/06 (Tue) | Basics: Zipf's Law, Bags-of-words, and TF-IDF                   | 
+2    | 10/06 (Tue) | Basics: Zipf's Law, Bags-of-words, and TF-IDF                   | HW1 out
 2    | 10/08 (Thu) | Word Embedding: word2vec and GloVe                              |
 3    | 10/13 (Tue) | Language Models: from N-Gram to Neural LMs                      |
-3    | 10/15 (Thu) | Information Retrieval: from BM25 to Learning to Rank            |
+3    | 10/15 (Thu) | Information Retrieval: from BM25 to Learning to Rank            | Project Proposal Due (End of the Day)
 4    | 10/20 (Tue) | Sentiment Analysis and Document Classification                  |
-4    | 10/22 (Thu) | Topic Modeling: Latent Dirichlet Allocation and its Variants    |
-5    | 10/27 (Tue) | Phrase Mining: from Unigrams to Multi-word Phrases              |
+4    | 10/22 (Thu) | Topic Modeling: Latent Dirichlet Allocation and its Variants    | HW1 Due (before lecture time), DM challenge roll-out
+5    | 10/27 (Tue) | Phrase Mining: from Unigrams to Multi-word Phrases              | HW2 out
 5    | 10/29 (Thu) | Entity Set Expansion: from Seed Words to Sets                   |
 6    | 11/03 (Tue) | Entity Recognition: from Supervised to Data-Driven              |
 6    | 11/05 (Thu) | Relation Extraction and Attribute Discovery                     |
 7    | 11/10 (Tue) | Text-Rich Network: a Collaboration between Texts and Networks   |
 7    | 11/12 (Thu) | Topic Taxonomy Construction                                     |
 8    | 11/17 (Tue) | Weakly Supervised Text Classification                           |
-8    | 11/19 (Thu) | Text Summarization: Extractive vs. Generative                   |
-9    | 11/24 (Tue) | Question-Answering and Machine Reading Comprehending            |
+8    | 11/19 (Thu) | Text Summarization: Extractive vs. Generative                   | HW2 due (before lecture time)
+9    | 11/24 (Tue) | Question-Answering and Machine Reading Comprehending            | DM challenge due
 9    | 11/26 (Thu) | (Thanksgiving Break)                                            |
 10   | 12/01 (Tue) | Domain-Specific Applications: Biomedical Text Mining            |
 10   | 12/03 (Thu) | Project Presentations                                           |
@@ -78,15 +78,16 @@ Week | Date        | Topic & Slides                                             
 Homework (20%)
 ======
 
-- **HW1.** TBD
-- **HW2.** TBD
-
+- **HW1.** Text Classification with Different Techniques. Details coming soon.
+    - Due: Oct 22, before lecture time
+- **HW2.** Phrase Mining Applications and Future Work. Details coming soon.
+    - Due: Nov 19, before lecture time
 
 Data Mining Challenge (30%)
 ======
 
 It is a individual-based text mining competition with quantitative evaluation. 
-<!-- The challenge runs **from TBD 0:00:01 AM to TBD 4:59:59 PM PT**. Note that the time displayed on Kaggle is in UTC, not PT. -->
+The challenge runs **from Oct 20 2020 0:00:01 AM to Nov 24, 2020 4:59:59 PM PT**. Note that the time displayed on Kaggle is in UTC, not PT.
 
 - Challenge Statement, Dataset, and Details: TBD
 - Kaggle challenge link: TBD
@@ -97,16 +98,24 @@ Project (50%)
 **Overview**
 - Team-Based Open-Ended Project
     - 1 to 4 members per team. More members, higher expectation.
-- Define your own research problem and justify its importance
-    - Be ambitious! We could aim for ACL 2021 conference!
-- Come up with your hypothesis and find some datasets for verification
-- Design your own models or try a large variety of existing models
+    - 3 to 4 members are recommended, given the limited presentation slots.
 
 **Final Deliverables**
-- Research Paper (25%)
-    - Write a 4 to 8 pages report (research-paper like following ACL template)
-    - Submit your codes; Github repos are welcome
+- Project Proposal (5%)
+    - Define your own research problem and justify its importance
+    - Be ambitious! We could aim for ACL 2021 conference!
+- Research Paper (20%)
+    - Report due on Dec 13, End of the day, Pacific Time. 
+    - Write a 5 to 9 pages report (research-paper like following ACL template). The pages here do not include references.
+    - Come up with your hypothesis and find some datasets for verification
+    - Design your own models or try a large variety of existing models
+    - Submit your codes and datasets; Github repos are welcome
     - Up to 5% bonus for working demos/apps towards the total course grades
-- Presentation (25%)
-    - Conference-style
-    - 20 mins for each group including Q&A
+- Presentation (20%)
+    - The orders will be decided randomly after the teams are formed.
+    - The slides must be ready 2 days before the presentation date. So other students can have the access and think about questions.
+    - The presentation follows a typical conference style: 20 mins for each team including Q&A
+- Question Asking and Handling (5%)
+    - Asking questions is an important part of research. You are strongly encouraged to ask 
+    questions to other teams. It will be a part of your presentation grade.
+    - Handling questions is also an important skill for researchers. 
