@@ -8,7 +8,7 @@ date: 2020-10-05
 location: "La Jolla, CA"
 ---
 
-**Class Time**: Wednesdays, 9 to 9:50 AM Pacific Time.  **Room**: [https://ucsd.zoom.us/j/91491702947](https://ucsd.zoom.us/j/91491702947).  **Piazza**: [piazza.com/ucsd/fall2020/dsc180a05](piazza.com/ucsd/fall2020/dsc180a05).
+**Class Time**: Wednesdays, 9 to 9:50 AM Pacific Time.  **Room**: [https://ucsd.zoom.us/j/91491702947](https://ucsd.zoom.us/j/91491702947).  **Piazza**: [piazza.com/ucsd/fall2020/dsc180a05](https://piazza.com/ucsd/fall2020/dsc180a05).
 
 Overview
 ======
