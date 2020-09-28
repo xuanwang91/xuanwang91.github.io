@@ -8,7 +8,7 @@ date: 2020-09-28
 location: "La Jolla, CA"
 ---
 
-**Class Time**: Tuesdays and Thursdays, 9:30AM to 10:50AM.  **Room**: [https://ucsd.zoom.us/j/93162206472](https://ucsd.zoom.us/j/93162206472).  **Piazza**: [piazza.com/ucsd/fall2020/cse291a00](piazza.com/ucsd/fall2020/cse291a00)
+**Class Time**: Tuesdays and Thursdays, 9:30AM to 10:50AM.  **Room**: [https://ucsd.zoom.us/j/93162206472](https://ucsd.zoom.us/j/93162206472).  **Piazza**: [piazza.com/ucsd/fall2020/cse291a00](https://piazza.com/ucsd/fall2020/cse291a00)
 
 
 Online Lecturing
