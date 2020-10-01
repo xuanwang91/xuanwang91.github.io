@@ -36,7 +36,11 @@ Knowledge about Machine Learning and Data Mining; Comfortable coding using Pytho
 TA and Office Hours
 ======
 
-- Dheeraj Mekala (dmekala AT eng.ucsd.edu)
+- Jingbo Shang
+    - Office Hour: Wednesdays, 10 to 11 AM
+    - Zoom link: https://ucsd.zoom.us/my/jshang
+
+- **TA**: Dheeraj Mekala (dmekala AT eng.ucsd.edu)
     - Office Hour: Tuesdays, 5 to 6 PM
     - Zoom Link: https://ucsd.zoom.us/j/97330988404
 
