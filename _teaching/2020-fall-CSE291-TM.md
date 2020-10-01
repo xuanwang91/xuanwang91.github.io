@@ -53,7 +53,7 @@ Lecture Schedule
 **HW Note**: All HWs due before the lecture time 9:30 AM PT in the morning. 
 
 Week | Date        | Topic & Slides                                                  | Events
-1    | 10/01 (Thu) | Intro, Logistics, and Course Project [slides](https://www.dropbox.com/s/reh9cdupvef8z34/lecture0_intro.pdf?dl=1) |
+1    | 10/01 (Thu) | Intro, Logistics, and Course Project [[slides](https://www.dropbox.com/s/reh9cdupvef8z34/lecture0_intro.pdf?dl=1)] [[recording](https://www.dropbox.com/sh/7dxwc218edt4069/AAD9T0Q6F33cJd57PooHl5j-a?dl=0)] |
 2    | 10/06 (Tue) | Basics: Zipf's Law, Bags-of-words, and TF-IDF                   | HW1 out
 2    | 10/08 (Thu) | Word Embedding: word2vec and GloVe                              |
 3    | 10/13 (Tue) | Language Models: from N-Gram to Neural LMs                      |
