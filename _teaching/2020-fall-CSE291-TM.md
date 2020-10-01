@@ -23,6 +23,10 @@ This course mainly focuses on introducing current methods and models that are us
 
 There is no textbook required, but there are recommended readings for each lecture (at the end of the slides).
 
+- You MUST enroll for 4 units
+    - We need your time commitment for projects
+    - Feel free to audit the course with 0 unit
+
 
 Prerequisites
 ======
@@ -33,6 +37,8 @@ TA and Office Hours
 ======
 
 - Dheeraj Mekala (dmekala AT eng.ucsd.edu)
+    - Office Hour: Tuesdays, 5 to 6 PM
+    - Zoom Link: https://ucsd.zoom.us/j/97330988404
 
 Note: all times are in **Pacific Time**.
 
