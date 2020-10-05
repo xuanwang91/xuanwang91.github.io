@@ -28,7 +28,7 @@ Lecture Schedule
 **Recording Note**: Please download the recording video for the full length. Dropbox website will only show you the first one hour.
 
 Week | Date  | Speaker    | Talk Title | Affiliation
-1    | 10/05 | [Jian Pei](https://sites.google.com/view/jpei/jian-peis-homepage) | [Practicing the Art of Data Science](#week1) | CS@Simon Fraser University
+1    | 10/05 | [Jian Pei](https://sites.google.com/view/jpei/jian-peis-homepage) | [Practicing the Art of Data Science](#week1) [[recording](https://www.dropbox.com/s/82vdteam2kk0i2j/1-Jian-Pei.mp4?dl=0)] | CS@Simon Fraser University
 2    | 10/12 | [Zhiting Hu](http://www.cs.cmu.edu/~zhitingh/) | [Learning with all experiences: A standardized ML formalism](#week2) | HDSI@UCSD
 3    | 10/19 | [Rose Yu](http://roseyu.com/) |            | CSE@UCSD
 4    | 10/26 | [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/) | | ISyE&CSE@GaTech
