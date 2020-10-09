@@ -30,7 +30,7 @@ Lecture Schedule
 Week | Date  | Speaker    | Talk Title | Affiliation
 1    | 10/05 | [Jian Pei](https://sites.google.com/view/jpei/jian-peis-homepage) | [Practicing the Art of Data Science](#week1) [[slides](https://www.dropbox.com/s/o6e0k2nyms0zmbv/1-Jian-Pei-Practicing%20the%20art%20of%20data%20science.pdf?dl=0)] [[recording](https://www.dropbox.com/s/82vdteam2kk0i2j/1-Jian-Pei.mp4?dl=0)] | CS@Simon Fraser University
 2    | 10/12 | [Zhiting Hu](http://www.cs.cmu.edu/~zhitingh/) | [Learning with all experiences: A standardized ML formalism](#week2) | HDSI@UCSD
-3    | 10/19 | [Rose Yu](http://roseyu.com/) |            | CSE@UCSD
+3    | 10/19 | [Rose Yu](http://roseyu.com/) | [Physics-Guided AI for Learning Spatiotemporal Dynamics](#week3)           | CSE@UCSD
 4    | 10/26 | [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/) | | ISyE&CSE@GaTech
 5    | 11/02 | [Jiajun Wu](https://jiajunwu.com/) |            | CS@Stanford
 6    | 11/09 | [Luca Bonomi](https://medschool.ucsd.edu/som/dbmi/people/fellows/Pages/Luca-Bonomi,-PhD.aspx) | | DBMI@UCSD
@@ -58,3 +58,18 @@ In handling a wide range of experiences ranging from data instances, knowledge, 
 ### Speaker Bio
 
 Zhiting Hu is an Assistant Professor in Halicioglu Data Science Institute at UC San Diego and a visiting research scientist at Amazon Alexa AI. He received his Bachelor's degree in Computer Science from Peking University in 2014, and his Ph.D. in Machine Learning from Carnegie Mellon University. His research interests lie in the broad area of machine learning, natural language processing, ML systems, healthcare and other application domains. In particular, He is interested in principles, methodologies, and systems of training AI agents with all types of experiences (data, knowledge, rewards, adversaries, lifelong interplay, etc). His research was recognized with best demo nomination at ACL2019 and outstanding paper award at ACL2016.
+
+
+## Week 3: Physics-Guided AI for Learning Spatiotemporal Dynamics {#week3}
+
+### Abstract
+
+Applications such as public health, transportation, climate science, and aerospace engineering require learning complex dynamics from large-scale spatiotemporal data. Such data is often non-linear, non-Euclidean, high-dimensional, and demonstrates complicated dependencies. Existing machine learning frameworks are still insufficient to learn spatiotemporal dynamics as they often fail to exploit the underlying physics principles. I will demonstrate how to inject physical knowledge in AI to deal with these challenges. I will showcase the application of these methods to problems such as forecasting COVID-19, self-driving car trajectory modeling, and predicting turbulence and ocean currents.
+
+### Speaker Bio
+
+Dr. Rose Yu is an assistant professor at the University of California San Diego, Department of Computer Science and Engineering. She earned her Ph.D. in Computer Sciences at the University of Southern California in 2017. She was subsequently a Postdoctoral Fellow at the California Institute of Technology. She was an assistant professor at Northeastern University prior to her appointment at UCSD. 
+
+Her research focuses on advancing machine learning techniques for large-scale spatiotemporal data analysis, with applications to sustainability, health, and physical sciences. A particular emphasis of her research is on physics-guided AI which aims to integrate first-principles with data-driven models. Among her awards, she has won Google Faculty Research Award, Adobe Data Science Research Award, NSF CRII Award, Best Dissertation Award in USC, and was nominated as one of the "MIT Rising Stars in EECS". 
+
+
