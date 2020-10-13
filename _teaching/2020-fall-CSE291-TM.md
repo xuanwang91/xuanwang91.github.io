@@ -66,7 +66,7 @@ Week | Date        | Topic & Slides                                             
 1    | 10/01 (Thu) | Intro, Logistics, and Course Project [[slides](https://www.dropbox.com/s/reh9cdupvef8z34/lecture0_intro.pdf?dl=1)] [[recording](https://www.dropbox.com/sh/7dxwc218edt4069/AAD9T0Q6F33cJd57PooHl5j-a?dl=0)] |
 2    | 10/06 (Tue) | Basics: Zipf's Law, Bags-of-words, and TF-IDF [[slides](https://www.dropbox.com/s/fu4uk8gz2nc1v15/lecture1_text_basics.pdf?dl=1)] [[recording](https://www.dropbox.com/sh/l5u2ictdekrtzm1/AADYRXzoAilCTfsGkMpV8Ngaa?dl=0)] | HW1 out
 2    | 10/08 (Thu) | Word Embedding: word2vec and GloVe [[slides](https://www.dropbox.com/s/2xkgrjggiy98l1m/lecture2_word2vec.pdf?dl=1)] [[recording](https://www.dropbox.com/sh/gynerol8jqnmn0h/AAD-QdWWheQnG_GmSmwYTpEra?dl=0)] |
-3    | 10/13 (Tue) | Language Models: from N-Gram to Neural LMs [[slides](https://www.dropbox.com/s/day8thlstztykuf/lecture3_lm.pdf?dl=1)] |
+3    | 10/13 (Tue) | Language Models: from N-Gram to Neural LMs [[slides](https://www.dropbox.com/s/day8thlstztykuf/lecture3_lm.pdf?dl=1)] [[recording](https://www.dropbox.com/sh/wj4bc5u2ekp228l/AAAyt3FxdhOQbwgvBKQ_ecTEa?dl=0)] |
 3    | 10/15 (Thu) | Information Retrieval: from BM25 to Learning to Rank            | Project Proposal Due (End of the Day)
 4    | 10/20 (Tue) | Sentiment Analysis and Document Classification                  |
 4    | 10/22 (Thu) | Topic Modeling: Latent Dirichlet Allocation and its Variants    | HW1 Due (before lecture time), DM challenge roll-out

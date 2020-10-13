@@ -29,7 +29,7 @@ Lecture Schedule
 
 Week | Date  | Speaker    | Talk Title | Affiliation
 1    | 10/05 | [Jian Pei](https://sites.google.com/view/jpei/jian-peis-homepage) | [Practicing the Art of Data Science](#week1) [[slides](https://www.dropbox.com/s/o6e0k2nyms0zmbv/1-Jian-Pei-Practicing%20the%20art%20of%20data%20science.pdf?dl=0)] [[recording](https://www.dropbox.com/s/82vdteam2kk0i2j/1-Jian-Pei.mp4?dl=0)] | CS@Simon Fraser University
-2    | 10/12 | [Zhiting Hu](http://www.cs.cmu.edu/~zhitingh/) | [Learning with all experiences: A standardized ML formalism](#week2) | HDSI@UCSD
+2    | 10/12 | [Zhiting Hu](http://www.cs.cmu.edu/~zhitingh/) | [Learning with all experiences: A standardized ML formalism](#week2) [[slides](https://www.dropbox.com/s/u3rs22m4qes5r9x/2-Zhiting%20Hu-Learning%20with%20ALL%20Experiences.pdf?dl=0)] [[recording](https://www.dropbox.com/s/uqpg9czwiorxd2c/2-Zhiting%20Hu.mp4?dl=0)] | HDSI@UCSD
 3    | 10/19 | [Rose Yu](http://roseyu.com/) | [Physics-Guided AI for Learning Spatiotemporal Dynamics](#week3)           | CSE@UCSD
 4    | 10/26 | [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/) | | ISyE&CSE@GaTech
 5    | 11/02 | [Jiajun Wu](https://jiajunwu.com/) |            | CS@Stanford
