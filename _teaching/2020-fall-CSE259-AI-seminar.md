@@ -31,7 +31,8 @@ Week | Date  | Speaker    | Talk Title | Affiliation
 1    | 10/05 | [Jian Pei](https://sites.google.com/view/jpei/jian-peis-homepage) | [Practicing the Art of Data Science](#week1) [[slides](https://www.dropbox.com/s/o6e0k2nyms0zmbv/1-Jian-Pei-Practicing%20the%20art%20of%20data%20science.pdf?dl=0)] [[recording](https://www.dropbox.com/s/82vdteam2kk0i2j/1-Jian-Pei.mp4?dl=0)] | CS@Simon Fraser University
 2    | 10/12 | [Zhiting Hu](http://www.cs.cmu.edu/~zhitingh/) | [Learning with all experiences: A standardized ML formalism](#week2) [[slides](https://www.dropbox.com/s/u3rs22m4qes5r9x/2-Zhiting%20Hu-Learning%20with%20ALL%20Experiences.pdf?dl=0)] [[recording](https://www.dropbox.com/s/uqpg9czwiorxd2c/2-Zhiting%20Hu.mp4?dl=0)] | HDSI@UCSD
 3    | 10/19 | [Rose Yu](http://roseyu.com/) | [Physics-Guided AI for Learning Spatiotemporal Dynamics](#week3)           | CSE@UCSD
-4    | 10/26 | [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/) | | ISyE&CSE@GaTech
+4    | 10/26 | [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/) | [Fine-Tuning of Pretrained Language Models under Limited or Weak Supervision
+](#week4) | ISyE&CSE@GaTech
 5    | 11/02 | [Jiajun Wu](https://jiajunwu.com/) |            | CS@Stanford
 6    | 11/09 | [Luca Bonomi](https://medschool.ucsd.edu/som/dbmi/people/fellows/Pages/Luca-Bonomi,-PhD.aspx) | | DBMI@UCSD
 7    | 11/16 | [Giorgio Quer](https://www.scripps.edu/science-and-medicine/translational-institute/about/people/giorgio-quer/) | | Scripps Research
@@ -73,3 +74,14 @@ Dr. Rose Yu is an assistant professor at the University of California San Diego,
 Her research focuses on advancing machine learning techniques for large-scale spatiotemporal data analysis, with applications to sustainability, health, and physical sciences. A particular emphasis of her research is on physics-guided AI which aims to integrate first-principles with data-driven models. Among her awards, she has won Google Faculty Research Award, Adobe Data Science Research Award, NSF CRII Award, Best Dissertation Award in USC, and was nominated as one of the "MIT Rising Stars in EECS". 
 
 
+## Week 4: Fine-Tuning of Pretrained Language Models under Limited or Weak Supervision {#week4}
+
+### Abstract
+
+Transfer learning has fundamentally changed the landscape of natural language processing (NLP). Many state-of-the-art models are first pre-trained on a large text corpus and then fine-tuned on downstream tasks. When we only have limited and weak supervision for the downstream tasks, however, due to the extremely high complexity of pre-trained models, aggressive fine-tuning often causes the fine-tuned model to overfit the training data of downstream tasks and fail to generalize to unseen data.
+
+To address such a concern, we propose a new approach for fine-tuning of pretrained models to attain better generalization performance. Our proposed approach adopts three important ingredients: (1) Smoothness-inducing regularization, which effectively manages the complexity of the massive model; (2) Bregman proximal point optimization, which is an instance of trust-region methods and can prevent aggressive updating; (3) Self-training, which can gradually improve the model fitting and effectively suppress error propagation. Our experiments show that the proposed approach significantly outperforms existing methods in multiple NLP tasks under limited or weak supervision.
+
+### Speaker Bio
+
+Tuo Zhao is an Assistant Professor in School of Industrial & Systems Engineering at Georgia Tech. He received his Ph.D. degree in Computer Science at Johns Hopkins University. His research mainly focuses on developing methodologies, algorithms and theories for machine learning, especially deep learning. He is also actively working in neural language models and open-source machine learning software for scientific data analysis. He has received several academic awards, including the winner of INDI ADHD-200 global competition, ASA best student paper award on statistical computing, INFORMS best paper award on data mining and Google faculty research award.
