@@ -35,8 +35,8 @@ Schedule
 ======
 
 Week | Date  | Discussion Focus
-1    | 10/07 | General Overview (a short lecture by Jingbo Shang)
-2    | 10/14 | [Introduction & Motivation](#week2)
+1    | 10/07 | General Overview (a short lecture by Jingbo Shang) [[recording](https://www.dropbox.com/sh/1vxupk6mm6mjfeg/AAAjj-LZhxv6t-qZ0iuzkWVTa?dl=0)]
+2    | 10/14 | [Introduction & Motivation](#week2) [[recording](https://www.dropbox.com/sh/fcy4i2lo0m4aehf/AABZTWuFv0Hc8OBgGCda-pjda?dl=0)]
 3    | 10/21 | [Datasets and Experiment Design](#week3)
 4    | 10/28 | [Experimental Results - Analysis](#week4)
 5    | 11/04 | [Experimental Results - Replication](#week5)
