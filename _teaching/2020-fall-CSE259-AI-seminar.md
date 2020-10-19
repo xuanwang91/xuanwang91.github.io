@@ -30,9 +30,8 @@ Lecture Schedule
 Week | Date  | Speaker    | Talk Title | Affiliation
 1    | 10/05 | [Jian Pei](https://sites.google.com/view/jpei/jian-peis-homepage) | [Practicing the Art of Data Science](#week1) [[slides](https://www.dropbox.com/s/o6e0k2nyms0zmbv/1-Jian-Pei-Practicing%20the%20art%20of%20data%20science.pdf?dl=0)] [[recording](https://www.dropbox.com/s/82vdteam2kk0i2j/1-Jian-Pei.mp4?dl=0)] | CS@Simon Fraser University
 2    | 10/12 | [Zhiting Hu](http://www.cs.cmu.edu/~zhitingh/) | [Learning with all experiences: A standardized ML formalism](#week2) [[slides](https://www.dropbox.com/s/u3rs22m4qes5r9x/2-Zhiting%20Hu-Learning%20with%20ALL%20Experiences.pdf?dl=0)] [[recording](https://www.dropbox.com/s/uqpg9czwiorxd2c/2-Zhiting%20Hu.mp4?dl=0)] | HDSI@UCSD
-3    | 10/19 | [Rose Yu](http://roseyu.com/) | [Physics-Guided AI for Learning Spatiotemporal Dynamics](#week3)           | CSE@UCSD
-4    | 10/26 | [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/) | [Fine-Tuning of Pretrained Language Models under Limited or Weak Supervision
-](#week4) | ISyE&CSE@GaTech
+3    | 10/19 | [Rose Yu](http://roseyu.com/) | [Physics-Guided AI for Learning Spatiotemporal Dynamics](#week3) [[slides](https://www.dropbox.com/s/277qlzwbr74k2wu/3-Rose%20Yu-Physics%20Guided%20AI%20for%20Learning%20Spatiotemporal%20Dynamics.pdf?dl=0)] [[recording](https://www.dropbox.com/s/e0rfalvr79wa70k/3-Rose%20Yu.mp4?dl=0)]          | CSE@UCSD
+4    | 10/26 | [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/) | [Fine-Tuning of Pretrained Language Models under Limited or Weak Supervision](#week4) | ISyE&CSE@GaTech
 5    | 11/02 | [Jiajun Wu](https://jiajunwu.com/) |            | CS@Stanford
 6    | 11/09 | [Luca Bonomi](https://medschool.ucsd.edu/som/dbmi/people/fellows/Pages/Luca-Bonomi,-PhD.aspx) | | DBMI@UCSD
 7    | 11/16 | [Giorgio Quer](https://www.scripps.edu/science-and-medicine/translational-institute/about/people/giorgio-quer/) | | Scripps Research
