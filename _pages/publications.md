@@ -16,6 +16,9 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2020
 
+* [Overfitting or Underfitting? Understand Robustness Drop in Adversarial Training](https://arxiv.org/abs/2010.08034) <br/>
+Zichao Li\*, Liyuan Liu\*, Chengyu Dong and Jingbo Shang. arXiv:2010.08034.
+
 * META: Metadata-Empowered Weak Supervision for Text Classification <br/>
 Dheeraj Mekala, Xinyang Zhang and Jingbo Shang. **EMNLP** 2020. 
 
