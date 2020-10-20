@@ -32,7 +32,7 @@ Week | Date  | Speaker    | Talk Title | Affiliation
 2    | 10/12 | [Zhiting Hu](http://www.cs.cmu.edu/~zhitingh/) | [Learning with all experiences: A standardized ML formalism](#week2) [[slides](https://www.dropbox.com/s/u3rs22m4qes5r9x/2-Zhiting%20Hu-Learning%20with%20ALL%20Experiences.pdf?dl=0)] [[recording](https://www.dropbox.com/s/uqpg9czwiorxd2c/2-Zhiting%20Hu.mp4?dl=0)] | HDSI@UCSD
 3    | 10/19 | [Rose Yu](http://roseyu.com/) | [Physics-Guided AI for Learning Spatiotemporal Dynamics](#week3) [[slides](https://www.dropbox.com/s/277qlzwbr74k2wu/3-Rose%20Yu-Physics%20Guided%20AI%20for%20Learning%20Spatiotemporal%20Dynamics.pdf?dl=0)] [[recording](https://www.dropbox.com/s/e0rfalvr79wa70k/3-Rose%20Yu.mp4?dl=0)]          | CSE@UCSD
 4    | 10/26 | [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/) | [Fine-Tuning of Pretrained Language Models under Limited or Weak Supervision](#week4) | ISyE&CSE@GaTech
-5    | 11/02 | [Jiajun Wu](https://jiajunwu.com/) |            | CS@Stanford
+5    | 11/02 | [Jiajun Wu](https://jiajunwu.com/) |  [Learning to see the physical world](#week5)          | CS@Stanford
 6    | 11/09 | [Luca Bonomi](https://medschool.ucsd.edu/som/dbmi/people/fellows/Pages/Luca-Bonomi,-PhD.aspx) | | DBMI@UCSD
 7    | 11/16 | [Giorgio Quer](https://www.scripps.edu/science-and-medicine/translational-institute/about/people/giorgio-quer/) | | Scripps Research
 8    | 11/23 | [Stephan Mandt](http://www.stephanmandt.com/) | | CS@UCI
@@ -84,3 +84,13 @@ To address such a concern, we propose a new approach for fine-tuning of pretrain
 ### Speaker Bio
 
 Tuo Zhao is an Assistant Professor in School of Industrial & Systems Engineering at Georgia Tech. He received his Ph.D. degree in Computer Science at Johns Hopkins University. His research mainly focuses on developing methodologies, algorithms and theories for machine learning, especially deep learning. He is also actively working in neural language models and open-source machine learning software for scientific data analysis. He has received several academic awards, including the winner of INDI ADHD-200 global competition, ASA best student paper award on statistical computing, INFORMS best paper award on data mining and Google faculty research award.
+
+## Week 5: Learning to see the physical world {#week5}
+
+### Abstract
+
+Human intelligence is beyond pattern recognition. From a single image, we're able to explain what we see, reconstruct the scene in 3D, predict what's going to happen, and plan our actions accordingly. In this talk, I will present our recent work on physical scene understanding---building versatile, data-efficient, and generalizable machines that learn to see, reason about, and interact with the physical world. The core idea is to exploit the generic, causal structure behind the world, including knowledge from computer graphics, physics, and language, in the form of approximate simulation engines, and to integrate them with deep learning. Here, deep learning plays two major roles: first, it learns to invert simulation engines for efficient inference; second, it learns to augment simulation engines for constructing powerful forward models. I'll focus on a few topics to demonstrate this idea: building scene representation for both object geometry and physics; learning expressive dynamics models for planning and control; perception and reasoning beyond vision.
+
+### Speaker Bio
+
+Jiajun Wu is an Assistant Professor of Computer Science at Stanford University, working on computer vision, machine learning, and computational cognitive science. Before joining Stanford, he was a Visiting Faculty Researcher at Google Research. He received his PhD in Electrical Engineering and Computer Science at Massachusetts Institute of Technology. Wu's research has been recognized through the ACM Doctoral Dissertation Award Honorable Mention, the MIT George M. Sprowls PhD Thesis Award in Artificial Intelligence and Decision-Making, the IROS Best Paper Award on Cognitive Robotics, and fellowships from Facebook, Nvidia, Samsung, and Adobe.
