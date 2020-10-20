@@ -7,7 +7,7 @@ For a full list of my publications, please see my [Google Scholar](https://schol
 ## Selected Publications
 ### 2020
 1. **Xuan Wang**, Yingjun Guan, Yu Zhang, Qi Li, and Jiawei Han, “Pattern-enhanced Named Entity Recognition with Distant Supervision”, 2020 IEEE Int. Conf. on Big Data (IEEE BigData’20), December 2020, online.
-2. 1. **Xuan Wang**, **Yu Zhang**, Aabhas Chauhan, Qi Li, and Jiawei Han, “Textual Evidence Mining via Spherical Heterogeneous Information Network Embedding”, 2020 IEEE Int. Conf. on Big Data (IEEE BigData’20), December 2020, online.
+2. **Xuan Wang**, **Yu Zhang**, Aabhas Chauhan, Qi Li, and Jiawei Han, “Textual Evidence Mining via Spherical Heterogeneous Information Network Embedding”, 2020 IEEE Int. Conf. on Big Data (IEEE BigData’20), December 2020, online.
 3. **Xuan Wang**, Xiangchen Song, Bangzheng Li, Yingjun Guan and Jiawei Han, “Comprehensive Named Entity Recognition on CORD-19 with Distant or Weak Supervision”, 2020 Intelligent Systems for Molecular Biology (ISMB’20), Abstracts (oral and poster), July 2020, online.
 4. **Xuan Wang**, Weili Liu, Aabhas Chauhan, Yingjun Guan and Jiawei Han, “Automatic Textual Evidence Mining in COVID-19 Literature”, 2020 Intelligent Systems for Molecular Biology (ISMB’20), Abstracts (poster), July 2020, online.
 5. Yu Zhang, Yu Meng, Jiaxin Huang, Frank F. Xu, **Xuan Wang** and Jiawei Han, “Minimally Supervised Categorization of Text with Metadata”, in Proc. 2020 ACM SIGIR Int. Conf. on Research and development in Information Retrieval (SIGIR’20), Xi’an, China, July 2020 
