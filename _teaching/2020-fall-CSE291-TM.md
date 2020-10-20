@@ -68,7 +68,7 @@ Week | Date        | Topic & Slides                                             
 2    | 10/08 (Thu) | Word Embedding: word2vec and GloVe [[slides](https://www.dropbox.com/s/2xkgrjggiy98l1m/lecture2_word2vec.pdf?dl=1)] [[recording](https://www.dropbox.com/sh/gynerol8jqnmn0h/AAD-QdWWheQnG_GmSmwYTpEra?dl=0)] |
 3    | 10/13 (Tue) | Language Models: from N-Gram to Neural LMs [[slides](https://www.dropbox.com/s/day8thlstztykuf/lecture3_lm.pdf?dl=1)] [[recording](https://www.dropbox.com/sh/wj4bc5u2ekp228l/AAAyt3FxdhOQbwgvBKQ_ecTEa?dl=0)] |
 3    | 10/15 (Thu) | Information Retrieval: from BM25 to Learning to Rank [[slides](https://www.dropbox.com/s/j81l7prcg87ifus/lecture4_ir.pdf?dl=1)] [[recording](https://www.dropbox.com/sh/z2zzmq9rug844cp/AAAKRr6ughK_RBa-IWeEVfUIa?dl=0)] | Project Proposal Due (End of the Day)
-4    | 10/20 (Tue) | Sentiment Analysis and Document Classification                  |
+4    | 10/20 (Tue) | Sentiment Analysis and Document Classification [[slides](https://www.dropbox.com/s/wljpuhvox9hxnbc/lecture5_sentiment.pdf?dl=1)] |
 4    | 10/22 (Thu) | Topic Modeling: Latent Dirichlet Allocation and its Variants    | HW1 Due (before lecture time), DM challenge roll-out
 5    | 10/27 (Tue) | Phrase Mining: from Unigrams to Multi-word Phrases              | HW2 out
 5    | 10/29 (Thu) | Entity Set Expansion: from Seed Words to Sets                   |
