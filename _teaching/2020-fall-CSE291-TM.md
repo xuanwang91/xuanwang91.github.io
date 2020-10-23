@@ -99,8 +99,8 @@ Data Mining Challenge (30%)
 It is a individual-based text mining competition with quantitative evaluation. 
 The challenge runs **from Oct 20 2020 0:00:01 AM to Nov 24, 2020 4:59:59 PM PT**. Note that the time displayed on Kaggle is in UTC, not PT.
 
-- Challenge Statement, Dataset, and Details: TBD
-- Kaggle challenge link: TBD
+- Challenge Statement, Dataset, and Details: [[dataset](https://www.dropbox.com/s/pc7hb7m0x62fsi9/Challenge.zip?dl=1)] [[challenge statement](https://www.dropbox.com/s/5nzjspyhd8a5r2u/CSE291_Text_Mining___DM_Challenge.pdf?dl=1)]
+- Kaggle challenge link: [https://www.kaggle.com/c/cse291-data-driven-text-mining](https://www.kaggle.com/c/cse291-data-driven-text-mining)
 
 Project (50%)
 ======
