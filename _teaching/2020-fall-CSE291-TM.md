@@ -90,7 +90,7 @@ Homework (20%)
 
 - **HW1.** Text Classification with Different Techniques. [[zip](https://www.dropbox.com/s/59b5mwx82xxfc3n/HW-1.zip?dl=1)]
     - Due: Oct 22, before lecture time
-- **HW2.** Phrase Mining Applications and Future Work. Details coming soon.
+- **HW2.** Phrase Mining Applications and Future Work. [[PDF](https://www.dropbox.com/s/42xtzd12uljy4mb/CSE291_Text_Mining___HW2.pdf?dl=1)].
     - Due: Nov 19, before lecture time
 
 Data Mining Challenge (30%)
