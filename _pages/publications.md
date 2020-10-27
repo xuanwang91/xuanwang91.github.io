@@ -16,6 +16,9 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2020
 
+* [XClass: Text Classification with Extremely Weak Supervision](https://arxiv.org/abs/2010.12794) <br/>
+Zihan Wang, Dheeraj Mekala, Jingbo Shang. arXiv:2010.12794. [[code](https://github.com/ZihanWangKi/XClass)]
+
 * [Overfitting or Underfitting? Understand Robustness Drop in Adversarial Training](https://arxiv.org/abs/2010.08034) <br/>
 Zichao Li\*, Liyuan Liu\*, Chengyu Dong and Jingbo Shang. arXiv:2010.08034. [[code](https://github.com/zichaoli/APART)]
 
