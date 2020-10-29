@@ -71,7 +71,7 @@ Week | Date        | Topic & Slides                                             
 4    | 10/20 (Tue) | Sentiment Analysis and Document Classification [[slides](https://www.dropbox.com/s/wljpuhvox9hxnbc/lecture5_sentiment.pdf?dl=1)] [[recording](https://www.dropbox.com/sh/gcbvawtx5hnd5vy/AABanutPv3ZsuUJ2iRyqkU24a?dl=0)] |
 4    | 10/22 (Thu) | Topic Modeling: PLSA, LDA, and HMM [[slides](https://www.dropbox.com/s/es7k0dievp1l3g3/lecture6_lda.pdf?dl=1)] [[recording](https://www.dropbox.com/sh/r1bk26e1qdhx718/AACxdvf6p9o4MjX17n-pMK8Ca?dl=0)] | HW1 Due (before lecture time), DM challenge roll-out
 5    | 10/27 (Tue) | Phrase Mining: from Unigrams to Multi-word Phrases [[slides](https://www.dropbox.com/s/ajehhah026vh0w8/lecture7_phrase.pdf?dl=1)] [[recording](https://www.dropbox.com/sh/z6nfgt4wnz6eb69/AAAwo0Vytybtvn6mnQADTGm8a?dl=0)]            | HW2 out
-5    | 10/29 (Thu) | Entity Set Expansion: from Seed Words to Sets [[slides](https://www.dropbox.com/s/6znm25o1tr9prg5/lecture8_set_expan.pdf?dl=1)] |
+5    | 10/29 (Thu) | Entity Set Expansion: from Seed Words to Sets [[slides](https://www.dropbox.com/s/6znm25o1tr9prg5/lecture8_set_expan.pdf?dl=1)] [[recording](https://www.dropbox.com/sh/rlf2nn99fj5zjpg/AADNalVIPdoHE_BV6buZ-Jy4a?dl=0)] |
 6    | 11/03 (Tue) | Entity Recognition: from Supervised to Data-Driven              |
 6    | 11/05 (Thu) | Relation Extraction and Attribute Discovery                     |
 7    | 11/10 (Tue) | Text-Rich Network: a Collaboration between Texts and Networks   |
