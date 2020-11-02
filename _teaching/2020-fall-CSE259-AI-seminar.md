@@ -33,7 +33,7 @@ Week | Date  | Speaker    | Talk Title | Affiliation
 3    | 10/19 | [Rose Yu](http://roseyu.com/) | [Physics-Guided AI for Learning Spatiotemporal Dynamics](#week3) [[slides](https://www.dropbox.com/s/277qlzwbr74k2wu/3-Rose%20Yu-Physics%20Guided%20AI%20for%20Learning%20Spatiotemporal%20Dynamics.pdf?dl=0)] [[recording](https://www.dropbox.com/s/e0rfalvr79wa70k/3-Rose%20Yu.mp4?dl=0)]          | CSE@UCSD
 4    | 10/26 | [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/) | [Fine-Tuning of Pretrained Language Models under Limited or Weak Supervision](#week4) [[slides](https://www.dropbox.com/s/6h3onb6mhjnrbsr/4-Tuo%20Zhao-On%20Fine-tuning%20of%20Pre-trained%20Language%20Models%20under%20Limited%20or%20Weak%20Supervision.pdf?dl=0)] [[recording](https://www.dropbox.com/s/3gpngku0ag1jqji/4-Tuo%20Zhao.mp4?dl=0)] | ISyE&CSE@GaTech
 5    | 11/02 | [Jiajun Wu](https://jiajunwu.com/) |  [Learning to see the physical world](#week5)          | CS@Stanford
-6    | 11/09 | [Luca Bonomi](https://medschool.ucsd.edu/som/dbmi/people/fellows/Pages/Luca-Bonomi,-PhD.aspx) | | DBMI@UCSD
+6    | 11/09 | [Luca Bonomi](https://medschool.ucsd.edu/som/dbmi/people/fellows/Pages/Luca-Bonomi,-PhD.aspx) | [Privacy and Machine Learning in Biomedical Applications](#week6) | DBMI@UCSD
 7    | 11/16 | [Giorgio Quer](https://www.scripps.edu/science-and-medicine/translational-institute/about/people/giorgio-quer/) | | Scripps Research
 8    | 11/23 | [Stephan Mandt](http://www.stephanmandt.com/) | | CS@UCI
 9    | 11/30 | [Cong Yu](https://sites.google.com/site/congyu/home) | | Google Research
@@ -94,3 +94,13 @@ Human intelligence is beyond pattern recognition. From a single image, we're abl
 ### Speaker Bio
 
 Jiajun Wu is an Assistant Professor of Computer Science at Stanford University, working on computer vision, machine learning, and computational cognitive science. Before joining Stanford, he was a Visiting Faculty Researcher at Google Research. He received his PhD in Electrical Engineering and Computer Science at Massachusetts Institute of Technology. Wu's research has been recognized through the ACM Doctoral Dissertation Award Honorable Mention, the MIT George M. Sprowls PhD Thesis Award in Artificial Intelligence and Decision-Making, the IROS Best Paper Award on Cognitive Robotics, and fellowships from Facebook, Nvidia, Samsung, and Adobe.
+
+## Week 6: Privacy and Machine Learning in Biomedical Applications {#week6}
+
+### Abstract
+
+Current health information systems enable the collection of a variety of data (e.g., genetic, environmental, and lifestyle factors) that hold great opportunities for advancing medical research and improving patient care (e.g., GWAS). However, there are significant privacy concerns for sharing these data and enabling data-driven applications (e.g., machine learning), as violations can have consequences (e.g., discrimination). In this talk, I will provide an overview of the differential privacy model, which allows a trusted data aggregator (e.g., hospital) to shared data with rigorous privacy guarantee. Specifically, I will present how the differential privacy model can enable privacy-protecting machine learning tasks and showcase an application for survival analyses.
+
+### Speaker Bio
+
+Dr. Luca Bonomi is a postdoctoral researcher at the UCSD Health Department of Biomedical Informatics. His research focuses on developing formal privacy-protecting technology for biomedical data. His research is funded by an NIH K99/R00 Award. Dr. Bonomi holds a Ph.D. in Computer Science and Informatics from Emory University, where he has also received a Graduate Student Research Award for his outstanding research contributions.
