@@ -35,7 +35,7 @@ Week | Date  | Speaker    | Talk Title | Affiliation
 5    | 11/02 | [Jiajun Wu](https://jiajunwu.com/) |  [Learning to see the physical world](#week5) [[slides](https://www.dropbox.com/s/9i9tkak0lmdel3z/5-Jiajun%20Wu-Learning%20to%20See%20the%20Physical%20World.pdf?dl=0)] [[recording](https://www.dropbox.com/s/s22xuxpo4qypz8n/5-Jiajun%20Wu.mp4?dl=0)]        | CS@Stanford
 6    | 11/09 | [Luca Bonomi](https://medschool.ucsd.edu/som/dbmi/people/fellows/Pages/Luca-Bonomi,-PhD.aspx) | [Privacy and Machine Learning in Biomedical Applications](#week6) | DBMI@UCSD
 7    | 11/16 | [Giorgio Quer](https://www.scripps.edu/science-and-medicine/translational-institute/about/people/giorgio-quer/) | | Scripps Research
-8    | 11/23 | [Stephan Mandt](http://www.stephanmandt.com/) | | CS@UCI
+8    | 11/23 | [Stephan Mandt](http://www.stephanmandt.com/) | [Compressing Variational Bayes](#week8) | CS@UCI
 9    | 11/30 | [Cong Yu](https://sites.google.com/site/congyu/home) | | Google Research
 10   | 12/07 | [Babak Salimi](https://bsalimi.github.io/) | | HDSI@UCSD
 
@@ -104,3 +104,14 @@ Current health information systems enable the collection of a variety of data (e
 ### Speaker Bio
 
 Dr. Luca Bonomi is a postdoctoral researcher at the UCSD Health Department of Biomedical Informatics. His research focuses on developing formal privacy-protecting technology for biomedical data. His research is funded by an NIH K99/R00 Award. Dr. Bonomi holds a Ph.D. in Computer Science and Informatics from Emory University, where he has also received a Graduate Student Research Award for his outstanding research contributions.
+
+
+## Week 8: Compressing Variational Bayes {#week8}
+
+### Abstract
+
+Neural image compression algorithms have recently outperformed their classical counterparts in rate-distortion performance and show great potential to also revolutionize video coding. In this talk, I will show how recent innovations from approximate Bayesian inference and generative modeling can lead to dramatic performance improvements in compression. In particular, I will explain how sequential variational autoencoders can be converted into video codecs, how deep latent variable models can be compressed in post-processing with variable bitrates, and how iterative amortized inference can be used to achieve the world record in image compression performance.
+
+### Speaker Bio
+
+Stephan Mandt is an Assistant Professor of Computer Science at the University of California, Irvine. From 2016 until 2018, he was a Senior Researcher and Head of the statistical machine learning group at Disney Research, first in Pittsburgh and later in Los Angeles. He held previous postdoctoral positions at Columbia University and Princeton University. Stephan holds a Ph.D. in Theoretical Physics from the University of Cologne. He is a Fellow of the German National Merit Foundation, a Kavli Fellow of the U.S. National Academy of Sciences, and was a visiting researcher at Google Brain. Stephan regularly serves as an Area Chair for NeurIPS, ICML, AAAI, and ICLR, and is a member of the Editorial Board of JMLR. His research is currently supported by NSF, DARPA, Intel, and Qualcomm.
