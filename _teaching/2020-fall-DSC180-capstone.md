@@ -40,9 +40,9 @@ Week | Date  | Discussion Focus
 3    | 10/21 | [Datasets and Experiment Design](#week3) [[recording](https://www.dropbox.com/sh/pjep6vmngh8rd1m/AABOefhkHukl38qJW-U1uf4Qa?dl=0)]
 4    | 10/28 | [Experimental Results - Analysis](#week4) [[recording](https://www.dropbox.com/sh/z241x77qolv2hs8/AACr6ps6Kx_CQOcw9AS9dyzYa?dl=0)]
 5    | 11/04 | [Experimental Results - Replication](#week5) [[recording](https://www.dropbox.com/sh/mw7q175yjybyr32/AAAOJa3lec_gCM1QlND9ECXIa?dl=0)]
-6    | 11/11 | [Case Studies](#week6)
-7    | 11/18 | [Application Brainstorming](#week7)
-8    | 11/25 | [Possible Extension](#week8)
+6    | 11/11 | No class (Veteran's Day)
+7    | 11/18 | [Case Studies](#week7)
+8    | 11/25 | [Application Brainstorming](#week8)
 9    | 12/02 | [Possible Extension](#week9)
 10   | 12/09 | Elevator Pitch
 
@@ -79,26 +79,21 @@ Discussion Questions
    - Unigram phrase vs. multi-word phrase
    - Top a few high-quality phrases (e.g., >0.9) vs. those borderline phrases (e.g., ~0.5)
 
-### Week 6: Case Studies {#week6}
+### Week 7: Case Studies {#week7}
 
 1. Why do we need case studies in addition to the quantitative results?
 2. How case studies further the claims in the papers?
 3. Do you have any interesting findings from either the case studies presented in the papers or the results you got from Week 5?
 
-### Week 7: Application Brainstorming {#week7}
+### Week 8: Application Brainstorming {#week8}
 
 1. What kind of applications do you think could be benefited from phrase mining? Why?
 2. Try to think broadly for more domains/languages.
-
-
-### Week 8: Possible Extension {#week8}
-
-1. What are the drawbacks of these two papers? Do you see any limitations?
-2. Can we do better in order to address these limitations?
+3. Based on your proposed applications, can we apply SegPhrase/AutoPhrase directly?
+2. Do you think there is some necessary adaption? If yes, how? If no, why?
 
 ### Week 9: Possible Extension {#week9}
 
-1. Based on your proposed applications in Week 7, can we apply SegPhrase/AutoPhrase directly?
-2. Do you think there is some necessary adaption? If yes, how? If no, why?
-
+1. What are the drawbacks of these two papers? Do you see any limitations?
+2. Can we do better in order to address these limitations?
 
