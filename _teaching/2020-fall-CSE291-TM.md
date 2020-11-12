@@ -75,7 +75,7 @@ Week | Date        | Topic & Slides                                             
 6    | 11/03 (Tue) | Entity Recognition: from Supervised to Data-Driven [[slides](https://www.dropbox.com/s/5e4puq198iwlg81/lecture9_ner.pdf?dl=1)] [[recording](https://www.dropbox.com/sh/5ngvwkqu3y3c3yx/AAAChta-14LfWv-wzA830sqza?dl=0)] |
 6    | 11/05 (Thu) | Relation Extraction and Attribute Discovery [[slides](https://www.dropbox.com/s/xomolpsns48lozy/lecture10_open_ie.pdf?dl=1)] [[recording](https://www.dropbox.com/sh/2f40ztj7ebvyer3/AACsphjXr3LA4n0HC0UZsbc4a?dl=0)] |
 7    | 11/10 (Tue) | Text-Rich Network: a Collaboration between Texts and Networks [[slides](https://www.dropbox.com/s/bdbrnvz6lgnh4x9/lecture11_text-rich_network.pdf?dl=1)] [[recording](https://www.dropbox.com/sh/xvaeye852umt81u/AAAm5BiFa0-BgEVHhrW0VjSna?dl=0)] |
-7    | 11/12 (Thu) | Topic Taxonomy Construction                                     |
+7    | 11/12 (Thu) | Topic Taxonomy Construction [[slides](https://www.dropbox.com/s/s1xbq47h15i2aci/lecture12_topic_taxonomy.pdf?dl=1)] |
 8    | 11/17 (Tue) | Weakly Supervised Text Classification                           |
 8    | 11/19 (Thu) | Text Summarization: Extractive vs. Generative                   | HW2 due (before lecture time)
 9    | 11/24 (Tue) | Question-Answering and Machine Reading Comprehending            | DM challenge due
