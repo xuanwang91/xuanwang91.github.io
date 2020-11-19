@@ -41,7 +41,7 @@ Week | Date  | Discussion Focus
 4    | 10/28 | [Experimental Results - Analysis](#week4) [[recording](https://www.dropbox.com/sh/z241x77qolv2hs8/AACr6ps6Kx_CQOcw9AS9dyzYa?dl=0)]
 5    | 11/04 | [Experimental Results - Replication](#week5) [[recording](https://www.dropbox.com/sh/mw7q175yjybyr32/AAAOJa3lec_gCM1QlND9ECXIa?dl=0)]
 6    | 11/11 | No class (Veteran's Day)
-7    | 11/18 | [Case Studies](#week7)
+7    | 11/18 | [Case Studies](#week7) [[recording](https://www.dropbox.com/sh/95r7soruf4r31co/AAC-0chF8CyamZmEdvoij2IFa?dl=0)]
 8    | 11/25 | [Application Brainstorming](#week8)
 9    | 12/02 | [Possible Extension](#week9)
 10   | 12/09 | Elevator Pitch
