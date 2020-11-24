@@ -77,8 +77,8 @@ Week | Date        | Topic & Slides                                             
 7    | 11/10 (Tue) | Text-Rich Network: a Collaboration between Texts and Networks [[slides](https://www.dropbox.com/s/bdbrnvz6lgnh4x9/lecture11_text-rich_network.pdf?dl=1)] [[recording](https://www.dropbox.com/sh/xvaeye852umt81u/AAAm5BiFa0-BgEVHhrW0VjSna?dl=0)] |
 7    | 11/12 (Thu) | Topic Taxonomy Construction [[slides](https://www.dropbox.com/s/s1xbq47h15i2aci/lecture12_topic_taxonomy.pdf?dl=1)] [[recording](https://www.dropbox.com/sh/t4q7cv636uo28k8/AACArLMEj37x0Su5pDXiqrOua?dl=0)] |
 8    | 11/17 (Tue) | Weakly Supervised Text Classification [[slides](https://www.dropbox.com/s/g2vx6qyvbwk35zh/lecture13_weak_supervision.pdf?dl=1)] [[recording](https://www.dropbox.com/sh/ezxwyd9u8iqa92s/AAC1mO7-h4hSb0FtZ50-Ec6Ha?dl=0)] |
-8    | 11/19 (Thu) | Text Summarization: Extractive vs. Generative [[slides](https://www.dropbox.com/s/z32nc3w1qixye2a/lecture14_text_summarization.pdf?dl=1)] | HW2 due (before lecture time)
-9    | 11/24 (Tue) | Question-Answering and Machine Reading Comprehending            | DM challenge due
+8    | 11/19 (Thu) | Text Summarization: Extractive vs. Generative [[slides](https://www.dropbox.com/s/z32nc3w1qixye2a/lecture14_text_summarization.pdf?dl=1)] [[recording](https://www.dropbox.com/sh/tha4pwhz1gspuyn/AAA4arj5RBAKlAluvjrMTxzsa?dl=0)] | HW2 due (before lecture time)
+9    | 11/24 (Tue) | Question Answering and Machine Reading Comprehension [[slides](https://www.dropbox.com/s/77kfsxez25p6ik3/lecture15_qa_mrc.pdf?dl=1)] | DM challenge due
 9    | 11/26 (Thu) | (Thanksgiving Break)                                            |
 10   | 12/01 (Tue) | Domain-Specific Applications: Biomedical Text Mining            |
 10   | 12/03 (Thu) | Project Presentations                                           |

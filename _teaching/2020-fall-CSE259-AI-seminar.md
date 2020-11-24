@@ -36,7 +36,7 @@ Week | Date  | Speaker    | Talk Title | Affiliation
 6    | 11/09 | [Luca Bonomi](https://medschool.ucsd.edu/som/dbmi/people/fellows/Pages/Luca-Bonomi,-PhD.aspx) | [Privacy and Machine Learning in Biomedical Applications](#week6) [[slides](https://www.dropbox.com/s/cr29q2zwlzirtcd/6-Luca%20Bonomi-Privacy%20and%20Machine%20Learning%20in%20Biomedical%20Applications.pdf?dl=0)] [[recording](https://www.dropbox.com/s/7wflifu9xx2dqvt/6-Luca%20Bonomi.mp4?dl=0)] | DBMI@UCSD
 7    | 11/16 | [Giorgio Quer](https://www.scripps.edu/science-and-medicine/translational-institute/about/people/giorgio-quer/) | [Using AI to Enable Digital Medicine](#week7) [[slides](https://www.dropbox.com/s/oefq7ngg28sib3m/7-Giorgio%20Quer-Using%20AI%20to%20Enable%20Digital%20Medicine.pdf?dl=0)] [[recording](https://www.dropbox.com/s/a3nluc39u0q24lz/7-Giorgio%20Quer.mp4?dl=0)] | Scripps Research
 8    | 11/23 | [Stephan Mandt](http://www.stephanmandt.com/) | [Compressing Variational Bayes](#week8) | CS@UCI
-9    | 11/30 | [Cong Yu](https://sites.google.com/site/congyu/home) | | Google Research
+9    | 11/30 | [Cong Yu](https://sites.google.com/site/congyu/home) | [Better News Understanding via Language Learning](#week9) | Google Research
 10   | 12/07 | [Babak Salimi](https://bsalimi.github.io/) | | HDSI@UCSD
 
 ## Week 1: Practicing the Art of Data Science {#week1}
@@ -127,3 +127,16 @@ Neural image compression algorithms have recently outperformed their classical c
 ### Speaker Bio
 
 Stephan Mandt is an Assistant Professor of Computer Science at the University of California, Irvine. From 2016 until 2018, he was a Senior Researcher and Head of the statistical machine learning group at Disney Research, first in Pittsburgh and later in Los Angeles. He held previous postdoctoral positions at Columbia University and Princeton University. Stephan holds a Ph.D. in Theoretical Physics from the University of Cologne. He is a Fellow of the German National Merit Foundation, a Kavli Fellow of the U.S. National Academy of Sciences, and was a visiting researcher at Google Brain. Stephan regularly serves as an Area Chair for NeurIPS, ICML, AAAI, and ICLR, and is a member of the Editorial Board of JMLR. His research is currently supported by NSF, DARPA, Intel, and Qualcomm.
+
+
+## Week 9: Better News Understanding via Language Learning {#week9}
+
+### Abstract
+
+The news ecosystem is going through unprecedented changes and has never been more important in shaping our societies and supporting freedom and democracy. In this talk, I will briefly describe how our research group is working towards better technologies for understanding news and mitigating misinformation to help address some of those challenges.
+
+### Speaker Bio
+
+Cong Yu is a research scientist and manager at Google Research in New York. He leads the research group on news and misinformation understanding. The group’s mission is to apply state-of-the-art NLP/ML and structured data technologies to understand newsy and fresh multi-modal information and to mitigate the spread of misinformation. Partnering with journalists and policy advisors, the group is responsible for products such as [WebTables](http://www.vldb.org/pvldb/vol11/p2140-cafarella.pdf), [Structured Snippets](https://ai.googleblog.com/2014/09/introducing-structured-snippets-now.html), [Fact Checking at Google](https://blog.google/products/search/fact-check-now-available-google-search-and-news-around-world/), and contributes to a variety of consumer-facing Google products such as GNews and Top Stories in Search.
+
+His personal research interests are structured data exploration and mining, computational journalism, social content analysis and recommendation, human-scalable information management, and applied ML and NLP. He was a conference keynote speaker for VLDB 2019 and twice served as an industrial program co-chair for VLDB (2013 and 2018). Before Google, Cong was a Research Scientist at Yahoo! Research, also in New York. He has a PhD from the University of Michigan, Ann Arbor, advised by Prof. H.V. Jagadish.
