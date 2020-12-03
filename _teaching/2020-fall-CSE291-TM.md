@@ -80,7 +80,7 @@ Week | Date        | Topic & Slides                                             
 8    | 11/19 (Thu) | Text Summarization: Extractive vs. Generative [[slides](https://www.dropbox.com/s/z32nc3w1qixye2a/lecture14_text_summarization.pdf?dl=1)] [[recording](https://www.dropbox.com/sh/tha4pwhz1gspuyn/AAA4arj5RBAKlAluvjrMTxzsa?dl=0)] | HW2 due (before lecture time)
 9    | 11/24 (Tue) | Question Answering and Machine Reading Comprehension [[slides](https://www.dropbox.com/s/77kfsxez25p6ik3/lecture15_qa_mrc.pdf?dl=1)] [[recording](https://www.dropbox.com/sh/qhtxdavt1qsok88/AABABewz8MM6GpoWSJvdIulMa?dl=0)] | DM challenge due
 9    | 11/26 (Thu) | (Thanksgiving Break)                                            |
-10   | 12/01 (Tue) | Domain-Specific Applications: Biomedical Text Mining  [[slides](https://www.dropbox.com/s/c8i71og9dkq6suy/lecture16_guest_lecture_by_Xuan_Wang.pdf?dl=1)]           | Guest Lecture by Xuan Wang
+10   | 12/01 (Tue) | Domain-Specific Applications: Biomedical Text Mining  [[slides](https://www.dropbox.com/s/c8i71og9dkq6suy/lecture16_guest_lecture_by_Xuan_Wang.pdf?dl=1)] [[recording](https://www.dropbox.com/sh/2qtzgd6do9bzybz/AAA3PqNiO1MEhadK1MPkCKZta?dl=0)] | Guest Lecture by Xuan Wang
 10   | 12/03 (Thu) | Project Presentations                                           |
 11   | 12/08 (Tue) | Project Presentations                                           |
 11   | 12/10 (Thu) | Project Presentations                                           |
