@@ -43,7 +43,7 @@ Week | Date  | Discussion Focus
 6    | 11/11 | No class (Veteran's Day)
 7    | 11/18 | [Case Studies](#week7) [[recording](https://www.dropbox.com/sh/95r7soruf4r31co/AAC-0chF8CyamZmEdvoij2IFa?dl=0)]
 8    | 11/25 | [Application Brainstorming](#week8) [[recording](https://www.dropbox.com/sh/pp87f7zpshezut9/AABl7UMBE_qyVPMpkgU0kR30a?dl=0)]
-9    | 12/02 | [Possible Extension](#week9)
+9    | 12/02 | [Possible Extension](#week9) [[recording](https://www.dropbox.com/sh/mzmu17w5fy54txb/AACb6SaCyvgpDgsj415OJTSla?dl=0)]
 10   | 12/09 | Elevator Pitch
 
 
