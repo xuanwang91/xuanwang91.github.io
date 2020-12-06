@@ -22,14 +22,14 @@ Zihan Wang, Dheeraj Mekala, Jingbo Shang. arXiv:2010.12794. [[code](https://gith
 * [Overfitting or Underfitting? Understand Robustness Drop in Adversarial Training](https://arxiv.org/abs/2010.08034) <br/>
 Zichao Li\*, Liyuan Liu\*, Chengyu Dong and Jingbo Shang. arXiv:2010.08034. [[code](https://github.com/zichaoli/APART)]
 
-* META: Metadata-Empowered Weak Supervision for Text Classification <br/>
-Dheeraj Mekala, Xinyang Zhang and Jingbo Shang. **EMNLP** 2020. 
+* [META: Metadata-Empowered Weak Supervision for Text Classification](https://www.dropbox.com/s/95mtglly9bydj5i/%5BEMNLP%2720%5DMETA-%20Metadata-Empowered%20Weak%20Supervision%20for%20Text%20Classification.pdf?dl=1) <br/>
+Dheeraj Mekala, Xinyang Zhang and Jingbo Shang. **EMNLP** 2020. [[code](https://github.com/dheeraj7596/META)]
 
-* SynSetExpan: An Iterative Framework for Joint Entity Set Expansion and Synonym Discovery <br/>
+* [SynSetExpan: An Iterative Framework for Joint Entity Set Expansion and Synonym Discovery](https://www.dropbox.com/s/bcc1evhv3om7rxb/%5BEMNLP%2720%5DSynSetExpan-%20An%20Iterative%20Framework%20for%20Joint%20Entity%20Set%20Expansion%20and%20Synonym%20Discovery.pdf?dl=1) <br/>
 Jiaming Shen, Wenda Qiu, Jingbo Shang, Michelle Vanni, Xiang Ren and Jiawei Han. **EMNLP** 2020. 
 
-* SeNsER: Learning Cross-Building Sensor Metadata Tagger <br/>
-Yang Jiao\*, Jiacheng Li\*, Jiaman Wu, Dezhi Hong, Rajesh Gupta and Jingbo Shang. **EMNLP** (Findings) 2020. 
+* [SeNsER: Learning Cross-Building Sensor Metadata Tagger](https://www.dropbox.com/s/tsmu1h9fk90hgg6/%5BEMNLP%2720%20Findings%5DSeNsER-%20Learning%20Cross-Building%20Sensor%20Metadata%20Tagger.pdf?dl=1) <br/>
+Yang Jiao\*, Jiacheng Li\*, Jiaman Wu, Dezhi Hong, Rajesh Gupta and Jingbo Shang. **EMNLP** (Findings) 2020. [[code](https://github.com/JiachengLi1995/SeNsER)]
 
 * [Towards Adaptive Residual Network Training: A Neural-ODE Perspective](https://www.dropbox.com/s/qocbal9tlnsza7z/%5BICML%2720%5DTowards%20Adaptive%20Residual%20Network%20Training%20-%20A%20Neural-ODE%20Perspective.pdf?dl=1) <br/>
 Chengyu Dong, Liyuan Liu, Zichao Li and Jingbo Shang. **ICML** 2020. [[code](https://github.com/shwinshaker/LipGrow)]
