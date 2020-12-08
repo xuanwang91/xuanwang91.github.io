@@ -37,7 +37,7 @@ Week | Date  | Speaker    | Talk Title | Affiliation
 7    | 11/16 | [Giorgio Quer](https://www.scripps.edu/science-and-medicine/translational-institute/about/people/giorgio-quer/) | [Using AI to Enable Digital Medicine](#week7) [[slides](https://www.dropbox.com/s/oefq7ngg28sib3m/7-Giorgio%20Quer-Using%20AI%20to%20Enable%20Digital%20Medicine.pdf?dl=0)] [[recording](https://www.dropbox.com/s/a3nluc39u0q24lz/7-Giorgio%20Quer.mp4?dl=0)] | Scripps Research
 8    | 11/23 | [Stephan Mandt](http://www.stephanmandt.com/) | [Compressing Variational Bayes](#week8) [[slides](https://www.dropbox.com/s/a18fu9ecqtxjz0x/8-Stephan%20Mandt-Compressing%20Variational%20Bayes.pdf?dl=0)] [[recording](https://www.dropbox.com/s/zihzd3ab36dmq4l/8-Stephan%20Mandt.mp4?dl=0)] | CS@UCI
 9    | 11/30 | [Cong Yu](https://sites.google.com/site/congyu/home) | [Better News Understanding via Language Learning](#week9) | Google Research
-10   | 12/07 | [Babak Salimi](https://bsalimi.github.io/) | [Causal Inference for Responsible Data Science](#week10) | HDSI@UCSD
+10   | 12/07 | [Babak Salimi](https://bsalimi.github.io/) | [Causal Inference for Responsible Data Science](#week10) [[slides](https://www.dropbox.com/s/ey75iqbhj5azhx2/10-Babak%20Salimi-Causal%20Inference%20for%20Responsible%20Data%20Science.pdf?dl=0)] [[recording](https://www.dropbox.com/s/1cjrwiwpfq63vj0/10-Babak.mp4?dl=0)] | HDSI@UCSD
 
 ## Week 1: Practicing the Art of Data Science {#week1}
 
