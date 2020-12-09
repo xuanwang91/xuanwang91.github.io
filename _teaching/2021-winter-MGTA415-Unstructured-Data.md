@@ -83,7 +83,7 @@ Week | Date        | Topic & Slides                                             
 7    | 02/17 (Wed) | Open-Domain Information Extraction: Entity Recognition, Relation Extraction, and Attribute Discovery  | DM challenge due
 8    | 02/24 (Wed) | Weakly Supervised Text Classification | HW3 due, HW4 out
 9    | 03/03 (Wed) | Document Summarization, Aspect-based Sentiment Analysis, and Opinion Summarization|
-10   | 03/10 (Wed) | | HW4 due
+10   | 03/10 (Wed) | Topic Taxonomy Construction | HW4 due
 
 Homework (24%)
 ======
