@@ -14,6 +14,12 @@ author_profile: true
 Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 
+### 2021
+
+* "Misc"-Aware Weakly Supervised Aspect Classification <br/>
+Peiran Li\*, Fang Guo\* and Jingbo Shang. **SDM** 2021 [[arXiv:2004.14555](https://arxiv.org/abs/2004.14555)] [[code](https://github.com/peiranli/ARYA)]
+
+
 ### 2020
 
 * [XClass: Text Classification with Extremely Weak Supervision](https://arxiv.org/abs/2010.12794) <br/>
@@ -33,9 +39,6 @@ Yang Jiao\*, Jiacheng Li\*, Jiaman Wu, Dezhi Hong, Rajesh Gupta and Jingbo Shang
 
 * [Towards Adaptive Residual Network Training: A Neural-ODE Perspective](https://www.dropbox.com/s/qocbal9tlnsza7z/%5BICML%2720%5DTowards%20Adaptive%20Residual%20Network%20Training%20-%20A%20Neural-ODE%20Perspective.pdf?dl=1) <br/>
 Chengyu Dong, Liyuan Liu, Zichao Li and Jingbo Shang. **ICML** 2020. [[code](https://github.com/shwinshaker/LipGrow)]
-
-* [User-Guided Aspect Classification for Domain-Specific Texts](https://arxiv.org/abs/2004.14555) <br/>
-Peiran Li, Fang Guo and Jingbo Shang. arXiv:2004.14555. [[code](https://github.com/peiranli/ARYA)]
 
 * [FUSE: Multi-Faceted Set Expansion by Coherent Clustering of Skip-grams](https://arxiv.org/abs/1910.04345) <br/>
 Wanzheng Zhu, Hongyu Gong, Jiaming Shen, Chao Zhang, Jingbo Shang, Suma Bhat and Jiawei Han. **ECMLPKDD** 2020. [[code](https://github.com/WanzhengZhu/FUSE)]
