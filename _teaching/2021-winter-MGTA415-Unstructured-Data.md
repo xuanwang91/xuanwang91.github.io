@@ -8,7 +8,7 @@ date: 2021-01-04
 location: "La Jolla, CA"
 ---
 
-**Class Time**: Wednesdays, 6PM to 9PM.  **Room**: [https://ucsd.zoom.us/j/95861287987](https://ucsd.zoom.us/j/95861287987).  **Piazza**: TBD
+**Class Time**: Wednesdays, 6PM to 9PM.  **Room**: [https://ucsd.zoom.us/j/95861287987](https://ucsd.zoom.us/j/95861287987).  **Piazza**: [piazza.com/ucsd/winter2021/mgta415](https://piazza.com/ucsd/winter2021/mgta415)
 
 
 Online Lecturing
@@ -45,7 +45,7 @@ Knowledge about Machine Learning and Data Mining; Comfortable coding using Pytho
 TA
 ======
 
-- **Teaching Assistant**: TBD
+- **Teaching Assistant**: Yixin Zou (yiz867 AT eng.ucsd.edu)
 
 Office Hours
 ======
@@ -53,6 +53,9 @@ Office Hours
 - Jingbo Shang
     - Office Hour: Wednesdays, 10 to 11 AM
     - Zoom link: [https://ucsd.zoom.us/my/jshang](https://ucsd.zoom.us/my/jshang)
+- Yixin Zou
+    - Office Hour: Mondays 5:30 to 6:30 PM
+    - Zoom link: [https://ucsd.zoom.us/j/95523490245](https://ucsd.zoom.us/j/95523490245)
 
 Note: all times are in **Pacific Time**.
 
