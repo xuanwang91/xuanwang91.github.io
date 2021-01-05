@@ -77,7 +77,7 @@ Lecture Schedule
 **HW Note**: All HWs due before the lecture time 9:30 AM PT in the morning. 
 
 Week | Date        | Topic & Slides                                                  | Events
-1    | 01/05 (Tue) | Introduction: Data Types, Tasks, and Evaluations [[slides](https://www.dropbox.com/s/58ct0xenik20ele/lecture0_intro.pdf?dl=0)] | HW1 out
+1    | 01/05 (Tue) | Introduction: Data Types, Tasks, and Evaluations [[slides](https://www.dropbox.com/s/58ct0xenik20ele/lecture0_intro.pdf?dl=0)] [[annotated_slides](https://www.dropbox.com/s/zo7m6af79jhe6k5/annotated%20-%20lecture0_intro.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/jfht3hhn7d37izo/AADtYp6qxXY8ub0rpgQDb4vfa?dl=0)] | HW1 out
 1    | 01/07 (Thu) | Supervised - Least-Squares Regression and Logistic Regression |
 2    | 01/12 (Tue) | Supervised - Overfitting and Regularization | HW1 Due, HW2 out
 2    | 01/14 (Thu) | Supervised - Support Vector Machine  |
