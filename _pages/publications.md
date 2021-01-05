@@ -16,6 +16,9 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2021
 
+* "[Sensei: Self-Supervised Sensor Name Segmentation](https://arxiv.org/abs/2101.00130)" <br/>
+Jiaman Wu, Dezhi Hong, Rajesh Gupta and Jingbo Shang. arXiv:2101.00130 [[code](https://github.com/work4cs/sensei)]
+
 * "Misc"-Aware Weakly Supervised Aspect Classification <br/>
 Peiran Li\*, Fang Guo\* and Jingbo Shang. **SDM** 2021 [[arXiv:2004.14555](https://arxiv.org/abs/2004.14555)] [[code](https://github.com/peiranli/ARYA)]
 
