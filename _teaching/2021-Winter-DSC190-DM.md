@@ -8,7 +8,7 @@ date: 2021-01-04
 location: "La Jolla, CA"
 ---
 
-**Class Time**: Tuesdays and Thursdays, 9:30AM to 10:50AM.  **Room**: [https://ucsd.zoom.us/j/97017584161](https://ucsd.zoom.us/j/97017584161).  **Piazza**: TBD
+**Class Time**: Tuesdays and Thursdays, 9:30AM to 10:50AM.  **Room**: [https://ucsd.zoom.us/j/97017584161](https://ucsd.zoom.us/j/97017584161).  **Piazza**: [piazza.com/ucsd/winter2021/dsc190a00](https://piazza.com/ucsd/winter2021/dsc190a00)
 
 
 Online Lecturing
@@ -44,6 +44,17 @@ Office Hours
 - Jingbo Shang
     - Office Hour: Wednesdays, 10 to 11 AM
     - Zoom link: [https://ucsd.zoom.us/my/jshang](https://ucsd.zoom.us/my/jshang)
+- Dheeraj Mekala
+    - Office Hour: Wednesdays, 2 to 3 PM
+    - Zoom link: [https://ucsd.zoom.us/j/97330988404](https://ucsd.zoom.us/j/97330988404)
+- Zhenyu Bi
+    - Office Hour: TBD
+- Yang Li
+    - Office Hour: Fridays 10 to 10:30 AM
+    - Zoom link: [https://ucsd.zoom.us/my/ucsd.yangli](https://ucsd.zoom.us/my/ucsd.yangli)
+- Tiange Wan
+    - Office Hour: Tuesdays 6 PM to 6:30 PM
+    - Zoom link: [https://ucsd.zoom.us/j/4215654888](https://ucsd.zoom.us/j/4215654888)
 
 Note: all times are in **Pacific Time**.
 
@@ -65,7 +76,7 @@ Lecture Schedule
 **HW Note**: All HWs due before the lecture time 9:30 AM PT in the morning. 
 
 Week | Date        | Topic & Slides                                                  | Events
-1    | 01/05 (Tue) | Introduction: Data Types, Tasks, and Evaluations | HW1 out
+1    | 01/05 (Tue) | Introduction: Data Types, Tasks, and Evaluations [[slides](https://www.dropbox.com/s/58ct0xenik20ele/lecture0_intro.pdf?dl=0)] | HW1 out
 1    | 01/07 (Thu) | Supervised - Least-Squares Regression and Logistic Regression |
 2    | 01/12 (Tue) | Supervised - Overfitting and Regularization | HW1 Due, HW2 out
 2    | 01/14 (Thu) | Supervised - Support Vector Machine  |
