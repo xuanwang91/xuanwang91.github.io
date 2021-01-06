@@ -40,12 +40,16 @@ If you don't have much experience in data mining, machine learning, etc. Here ar
 Prerequisites
 ======
 
-Knowledge about Machine Learning and Data Mining; Comfortable coding using Python, C/C++, or Java; Math and Stat skills.
+- Math, Stats, and Coding
+- For Coding
+    - We will mainly use Python
+    - Sometimes, we will need to run some tools developed in C/C++ and Java
+- It’s a bonus if you already have knowledge about machine learning and data mining
 
-TA
+Teaching Assistant
 ======
 
-- **Teaching Assistant**: Yixin Zou (yiz867 AT eng.ucsd.edu)
+- Yixin Zou (yiz867 AT eng.ucsd.edu)
 
 Office Hours
 ======
@@ -77,7 +81,7 @@ Lecture Schedule
 **HW Note**: All HWs due before the lecture time 6PM PT in the afternoon. 
 
 Week | Date        | Topic & Slides                                                  | Events
-1    | 01/06 (Wed) | Intro, Logistics, Course Project; Text Preprocessing | HW1 out
+1    | 01/06 (Wed) | Intro, Logistics, Course Project; Text Preprocessing [[slides](https://www.dropbox.com/s/1jhiz7p5okfmotr/lecture0_intro.pdf?dl=0)] | HW1 out
 2    | 01/13 (Wed) | Text Classification using Bag-of-Words  | DM Challenge out
 3    | 01/20 (Wed) | Word Embedding & Language Models: from N-Gram to Neural LMs | HW1 due, HW2 out
 4    | 01/27 (Wed) | Information Retrieval & Topic Modeling  | 
@@ -118,7 +122,6 @@ It is a individual-based data mining competition with quantitative evaluation. T
 Project (25%)
 ======
 
-**Overview**
 - Team-Based Open-Ended Project
     - 1 to 4 members per team. More members, higher expectation.
     - Define your own research problem and justify its importance
