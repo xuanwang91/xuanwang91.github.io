@@ -31,8 +31,3 @@ Week | Date  | Discussion Focus
 8    | 02/24 | 
 9    | 03/03 | 
 10   | 03/10 | 
-
-
-1. What are the drawbacks of these two papers? Do you see any limitations?
-2. Can we do better in order to address these limitations?
-
