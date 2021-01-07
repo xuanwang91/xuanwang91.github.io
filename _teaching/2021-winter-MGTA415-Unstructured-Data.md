@@ -59,7 +59,7 @@ Office Hours
     - Zoom link: [https://ucsd.zoom.us/my/jshang](https://ucsd.zoom.us/my/jshang)
 - Yixin Zou
     - Office Hour: Mondays 5:30 to 6:30 PM
-    - Zoom link: [https://ucsd.zoom.us/j/95523490245](https://ucsd.zoom.us/j/95523490245)
+    - Zoom link: [https://ucsd.zoom.us/j/92900855039](https://ucsd.zoom.us/j/92900855039)
 
 Note: all times are in **Pacific Time**.
 
@@ -76,12 +76,12 @@ Grading
 Lecture Schedule
 ======
 
-**Recording Note**: Please download the recording video for the full length. Dropbox website will only show you the first one hour.
+**Recording Note**: Please check out Canvas for recordings.
 
 **HW Note**: All HWs due before the lecture time 6PM PT in the afternoon. 
 
 Week | Date        | Topic & Slides                                                  | Events
-1    | 01/06 (Wed) | Intro, Logistics, Course Project; Text Preprocessing [[slides](https://www.dropbox.com/s/1jhiz7p5okfmotr/lecture0_intro.pdf?dl=0)] | HW1 out
+1    | 01/06 (Wed) | Intro, Logistics, Course Project; Text Preprocessing [[slides](https://www.dropbox.com/s/1jhiz7p5okfmotr/lecture0_intro.pdf?dl=0)] [[annotations](https://www.dropbox.com/s/x4wechapcippxlf/annotated_lecture0_intro.pdf?dl=0)] [[Jupyter Notebook](https://www.dropbox.com/s/mypm2zqn55ys1a3/lecture0-notebook.ipynb?dl=0)] | HW1 out
 2    | 01/13 (Wed) | Text Classification using Bag-of-Words  | DM Challenge out
 3    | 01/20 (Wed) | Word Embedding & Language Models: from N-Gram to Neural LMs | HW1 due, HW2 out
 4    | 01/27 (Wed) | Information Retrieval & Topic Modeling  | 
@@ -97,7 +97,7 @@ Homework (24%)
 
 Your lowest (of four) homework grades is dropped (or one homework can be skipped).
 
-- **HW1: Text Pre-processing and Classification (8%).** This homework mainly focuses on the impact of the pre-processing on the classification results.
+- **[HW1: Text Pre-processing and Classification](https://www.dropbox.com/sh/1los3z5ab72wfxo/AAAusUYo-P0rbkqKkzDqM-J_a?dl=0) (8%).** This homework mainly focuses on the impact of the pre-processing on the classification results.
 - **HW2: Word Embedding and Neural Language Models (8%).** This homework mainly focuses on trying out the word embedding and neural language models (e.g., BERT using HuggingFace). 
 - **HW3: Phrase Mining (8%).** This homework mainly focuses on phrase mining applications and future work.
 - **HW4: Weakly Supervised Text Classification (8%).** This homework mainly focuses on weakly supervised aspect classification and opinion summarization.
