@@ -82,7 +82,7 @@ Lecture Schedule
 
 Week | Date        | Topic & Slides                                                  | Events
 1    | 01/06 (Wed) | Intro, Logistics, Course Project; Text Preprocessing [[slides](https://www.dropbox.com/s/1jhiz7p5okfmotr/lecture0_intro.pdf?dl=0)] [[annotations](https://www.dropbox.com/s/x4wechapcippxlf/annotated_lecture0_intro.pdf?dl=0)] [[Jupyter Notebook](https://www.dropbox.com/s/mypm2zqn55ys1a3/lecture0-notebook.ipynb?dl=0)] | HW1 out
-2    | 01/13 (Wed) | Text Classification using Bag-of-Words  | DM Challenge out
+2    | 01/13 (Wed) | Text Classification using Bag-of-Words [[slides](https://www.dropbox.com/s/x4lgovyix3tkza8/lecture1_bag-of-words.pdf?dl=0)] | DM Challenge out
 3    | 01/20 (Wed) | Word Embedding & Language Models: from N-Gram to Neural LMs | HW1 due, HW2 out
 4    | 01/27 (Wed) | Information Retrieval & Topic Modeling  | 
 5    | 02/03 (Wed) | Midterm Exam |
