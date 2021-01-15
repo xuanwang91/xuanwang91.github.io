@@ -17,7 +17,7 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 ### 2021
 
 * "Minimally-Supervised Structure-Rich Text Categorization via Learning on Text-Rich Networks" <br/>
-Xinyang Zhang, Chenwei Zhang, Xin Luna Dong, Jingbo Shang and Jiawei Han. ***WWW*** 2021.
+Xinyang Zhang, Chenwei Zhang, Xin Luna Dong, Jingbo Shang and Jiawei Han. **WWW** 2021.
 
 * "[Sensei: Self-Supervised Sensor Name Segmentation](https://arxiv.org/abs/2101.00130)" <br/>
 Jiaman Wu, Dezhi Hong, Rajesh Gupta and Jingbo Shang. arXiv:2101.00130. [[code](https://github.com/work4cs/sensei)]
