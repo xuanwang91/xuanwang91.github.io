@@ -117,7 +117,7 @@ Data Mining Challenge (25%)
 It is a individual-based data mining competition with quantitative evaluation. The challenge runs **from Jan 14, 0:00:01 AM to Feb 18 4:59:59 PM PT**. Note that the time displayed on Kaggle is in UTC, not PT.
 
 - Challenge Statement, Dataset, and Details: [[zip](https://www.dropbox.com/s/mqimklgu4aucxnk/challenge.zip?dl=0)]
-- Kaggle challenge link: [[https://www.kaggle.com/c/mgta415-data-driven-text-mining](https://www.kaggle.com/c/mgta415-data-driven-text-mining)]
+- Kaggle challenge link: [[mgta415-data-driven-text-mining](https://www.kaggle.com/c/mgta415-data-driven-text-mining)]
 
 Project (25%)
 ======
