@@ -81,7 +81,7 @@ Week | Date        | Topic & Slides                                             
 1    | 01/07 (Thu) | Supervised - Least-Squares Regression and Logistic Regression [[slides](https://www.dropbox.com/s/de4bj6szj9wrbxd/lecture1_least_square_and_logistic.pdf?dl=0)] [[annotated_slides](https://www.dropbox.com/s/km3j2cn9ikpjwb5/annotated_lecture1_least_square_and_logistic.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/8zkwye9lhjh8tle/AABT67s4DycyLoMZNirdy2Tpa?dl=0)] |
 2    | 01/12 (Tue) | Supervised - Overfitting and Regularization [[slides](https://www.dropbox.com/s/augw50i1vfxrzj1/lecture2_overfitting.pdf?dl=0)] [[annotated_slides](https://www.dropbox.com/s/1py5ikbohv3qxd7/annotated_lecture2_overfitting.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/zcdfnd44uzvz2vc/AAB6eEp_6BVL1aylBSTqy6SKa?dl=0)] | HW1 Due, HW2 out
 2    | 01/14 (Thu) | Supervised - Support Vector Machine [[slides](https://www.dropbox.com/s/f3vipaqgggbyvhh/lecture3_svm.pdf?dl=0)] [[annotated_slides](https://www.dropbox.com/s/lho5wnskgly6ek9/annotated_lecture3_svm.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/budgeo163ba9vjh/AACpHNIOBTMfShyldlXoA_B2a?dl=0)] |
-3    | 01/19 (Tue) | Supervised - Naive Bayes and Decision Tree [[slides](https://www.dropbox.com/s/imofx8p89ilgtzl/lecture4_nb_and_dt.pdf?dl=0)] |
+3    | 01/19 (Tue) | Supervised - Naive Bayes and Decision Tree [[slides](https://www.dropbox.com/s/imofx8p89ilgtzl/lecture4_nb_and_dt.pdf?dl=0)] [[annotated_slides](https://www.dropbox.com/s/6ngtzlsk5oh67ch/annotated_lecture4_nb_and_dt.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/xtxsgfrqdbv392l/AAA2NbvHzwoXvEbwij0CZnwva?dl=0)] |
 3    | 01/21 (Thu) | Supervised - Ensemble Learning: Bagging and Boosting | 
 4    | 01/26 (Tue) | Cluster Analysis - K-Means Clustering & its Variants | HW2 Due, HW3 out
 4    | 01/28 (Thu) | Cluster Analysis - "Soft" Clustering: Gaussian Mixture |
@@ -129,7 +129,7 @@ It is a individual-based data mining competition with quantitative evaluation. T
 Project (25%)
 ======
 
-Instructions for both choices are available here: TBD. Project **due on Mar 12**.
+Instructions for both choices are available [here](https://www.dropbox.com/s/uzk1wxnz2ju77r9/Project%20Instructions.pdf?dl=0). Project **due on Mar 12**.
 
 Here is a quick overview:
 - **Choice 1: Team-Based Open-Ended Project**
@@ -142,7 +142,7 @@ Here is a quick overview:
     - Up to 5% bonus for working demos/apps towards the total course grade.
 - **Choice 2: Individual-Based Deep Dive into Data Mining Methods**
     - Implement a few models learned from this course from scratch.
-    - Skeleton codes will be provided. Your work is more like "filling in blanks".
-    - Each model has a point associated with it. 6 points required.
+    - Skeleton codes will be provided [[download here](https://www.dropbox.com/sh/ivgbbcl4njwfteu/AAASmXLoZ5PctDNK1_JLduasa?dl=0)]. Your work is more like "filling in blanks" following the TODOs outlined in the Jupyter-Notebook.
+    - Each model has a point associated with it. 6 points required. Points for each model is available at the end of the instruction slides.
     - Write a report (pages based on points) describing your interesting findings.
     - Up to 5% bonus towards the total course grade. Roughly 1 point, 1%.
