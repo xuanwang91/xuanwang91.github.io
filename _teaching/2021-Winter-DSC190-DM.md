@@ -48,7 +48,7 @@ Office Hours
     - Office Hour: Wednesdays, 2 to 3 PM
     - Zoom link: [https://ucsd.zoom.us/j/97330988404](https://ucsd.zoom.us/j/97330988404)
 - Zhenyu Bi
-    - Office Hour: Thursdays, 8 to 8:30 PM
+    - Office Hour: Mondays, 8 to 8:30 PM
     - Zoom link: [https://ucsd.zoom.us/j/6198663088](https://ucsd.zoom.us/j/6198663088)
 - Yang Li
     - Office Hour: Fridays 10 to 10:30 AM
