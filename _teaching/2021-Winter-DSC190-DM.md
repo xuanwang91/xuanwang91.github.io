@@ -82,7 +82,7 @@ Week | Date        | Topic & Slides                                             
 2    | 01/12 (Tue) | Supervised - Overfitting and Regularization [[slides](https://www.dropbox.com/s/augw50i1vfxrzj1/lecture2_overfitting.pdf?dl=0)] [[annotated_slides](https://www.dropbox.com/s/1py5ikbohv3qxd7/annotated_lecture2_overfitting.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/zcdfnd44uzvz2vc/AAB6eEp_6BVL1aylBSTqy6SKa?dl=0)] | HW1 Due, HW2 out
 2    | 01/14 (Thu) | Supervised - Support Vector Machine [[slides](https://www.dropbox.com/s/f3vipaqgggbyvhh/lecture3_svm.pdf?dl=0)] [[annotated_slides](https://www.dropbox.com/s/lho5wnskgly6ek9/annotated_lecture3_svm.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/budgeo163ba9vjh/AACpHNIOBTMfShyldlXoA_B2a?dl=0)] |
 3    | 01/19 (Tue) | Supervised - Naive Bayes and Decision Tree [[slides](https://www.dropbox.com/s/imofx8p89ilgtzl/lecture4_nb_and_dt.pdf?dl=0)] [[annotated_slides](https://www.dropbox.com/s/6ngtzlsk5oh67ch/annotated_lecture4_nb_and_dt.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/xtxsgfrqdbv392l/AAA2NbvHzwoXvEbwij0CZnwva?dl=0)] |
-3    | 01/21 (Thu) | Supervised - Ensemble Learning: Bagging and Boosting | 
+3    | 01/21 (Thu) | Supervised - Ensemble Learning: Bagging and Boosting [[slides](https://www.dropbox.com/s/vhlswvpsdp1u62p/lecture5_ensemble.pdf?dl=0)] | 
 4    | 01/26 (Tue) | Cluster Analysis - K-Means Clustering & its Variants | HW2 Due, HW3 out
 4    | 01/28 (Thu) | Cluster Analysis - "Soft" Clustering: Gaussian Mixture |
 5    | 02/02 (Tue) | Cluster Analysis - Density-based Clustering: DBSCAN |
