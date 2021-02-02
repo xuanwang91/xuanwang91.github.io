@@ -85,8 +85,8 @@ Week | Date        | Topic & Slides                                             
 3    | 01/21 (Thu) | Supervised - Ensemble Learning: Bagging and Boosting [[slides](https://www.dropbox.com/s/vhlswvpsdp1u62p/lecture5_ensemble.pdf?dl=0)] [[annotated_slides](https://www.dropbox.com/s/nb3c6pw7qsttnht/annotated_lecture5_ensemble.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/sj3ar5nsqbkpg5j/AAC59IyotRmTZmtGFEcVRTuva?dl=0)] | 
 4    | 01/26 (Tue) | Cluster Analysis - K-Means Clustering & its Variants [[slides](https://www.dropbox.com/s/eaboc2wqsamw9fb/lecture6_kmeans.pdf?dl=0)] [[annotated_slides](https://www.dropbox.com/s/6h0moc66ulng3vg/annotated_lecture6_kmeans.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/edtvor5nev3p8ue/AAAgltG0rUPc8EvokxZtkHwxa?dl=0)] | HW2 Due, HW3 out
 4    | 01/28 (Thu) | Cluster Analysis - "Soft" Clustering: Gaussian Mixture [[slides](https://www.dropbox.com/s/t6cdu3gnqtr9e33/lecture7_gaussin_mixture.pdf?dl=0)] [[annotated_slides](https://www.dropbox.com/s/60efrqpilglvn0o/annotated_lecture7_gaussin_mixture.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/ukl2ye06mkj5hle/AAAnB9E0kzHY9p0mwgnpRFUHa?dl=0)] |
-5    | 02/02 (Tue) | Cluster Analysis - Density-based Clustering: DBSCAN |
-5    | 02/04 (Thu) | Cluster Analysis - Principle Component Analysis | DM Challenge out
+5    | 02/02 (Tue) | Cluster Analysis - Density-based Clustering: DBSCAN [[slides](https://www.dropbox.com/s/tgduwvacu1duwsi/lecture8_dbscan.pdf?dl=0)] |
+5    | 02/04 (Thu) | Cluster Analysis - Principle Component Analysis [[slides](https://www.dropbox.com/s/en1mtdkzapn4a6w/lecture9_pca.pdf?dl=0)] | DM Challenge out
 6    | 02/09 (Tue) | Pattern Analysis - Frequent Pattern and Association Rules |
 6    | 02/11 (Thu) | Midterm (24 hours on this date) |
 7    | 02/16 (Tue) | Recommender System - Collaborative Filtering | HW3 Due, HW4 out
