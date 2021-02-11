@@ -99,7 +99,7 @@ Your lowest (of four) homework grades is dropped (or one homework can be skipped
 
 - **[HW1: Text Pre-processing and Classification](https://www.dropbox.com/sh/1los3z5ab72wfxo/AAAusUYo-P0rbkqKkzDqM-J_a?dl=0) (8%).** This homework mainly focuses on the impact of the pre-processing on the classification results.
 - **[HW2: Word Embedding and Language Models](https://www.dropbox.com/sh/8fkackwzkcd2zfu/AAD4tG-TWpiYV_UWCaFDectna?dl=0) (8%).** This homework mainly focuses on trying out the word embedding and n-gram language models. 
-- **HW3: Phrase Mining (8%).** This homework mainly focuses on phrase mining applications and future work.
+- **[HW3: Phrase Mining](https://www.dropbox.com/sh/a8rjz5p1cj71i6o/AAB76B0-IkTtVT5fszvjLTMda?dl=0) (8%).** This homework mainly focuses on phrase mining applications and future work.
 - **HW4: Weakly Supervised Text Classification (8%).** This homework mainly focuses on weakly supervised aspect classification and opinion summarization.
 
 Midterm (26%)
