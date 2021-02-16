@@ -16,6 +16,9 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2021
 
+* "[Data Profiling for Adversarial Training: On the Ruin of Problematic Data](https://arxiv.org/abs/2102.07437)" <br/>
+Chengyu Dong, Liyuan Liu and Jingbo Shang. arXiv:2102.07437. [[code](https://github.com/shwinshaker/RobustDataProfiling)]
+
 * "Minimally-Supervised Structure-Rich Text Categorization via Learning on Text-Rich Networks" <br/>
 Xinyang Zhang, Chenwei Zhang, Xin Luna Dong, Jingbo Shang and Jiawei Han. **WWW** 2021.
 
