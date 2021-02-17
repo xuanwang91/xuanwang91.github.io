@@ -106,7 +106,7 @@ Your lowest (of four) homework grades is dropped (or one homework can be skipped
 - **[HW1: Concepts and Evaluations](https://www.dropbox.com/s/uq99nnn4v5so8dm/DSC190_WI21_HW1.pdf?dl=0) (8%).** This homework mainly focuses on the data mining concepts and how to evaluate different tasks.
 - **[HW2: Regression and Classification](https://www.dropbox.com/sh/e8uko7zfti5woz7/AABMZQB4s2pjUuVizzOxTHEAa?dl=0) (8%).** This homework mainly focuses on regression and classification tasks.
 - **[HW3: Cluster and Pattern Analysis](https://www.dropbox.com/sh/zvqdq9ctgm25qbg/AADafFAWtm_qULT2AoN15u3ca?dl=0) (8%).** This homework mainly focuses on clustering methods and frequent pattern mining methods.
-- **HW4: Applications (8%).** This homework mainly focuses on recommender system, text mining, and network mining.
+- **[HW4: Applications](https://www.dropbox.com/sh/ki5nugulba4hxhy/AAABSk6QuUbsG70ax48Bd_Ksa?dl=0) (8%).** This homework mainly focuses on recommender system, text mining, and network mining.
 
 Midterm (26%)
 ======
