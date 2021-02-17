@@ -87,7 +87,7 @@ Week | Date        | Topic & Slides                                             
 4    | 01/27 (Wed) | Information Retrieval & Topic Modeling [[slides](https://www.dropbox.com/s/cyi1oyxjhcxmdea/lecture3_ir_topic_model.pdf?dl=0)] [[annotations](https://www.dropbox.com/s/6nbz5ka3loy55wc/annotated_lecture3_ir_topic_model.pdf?dl=0)] [[Jupyter-Notebook](https://www.dropbox.com/s/jun303fc5op0fmp/lecture3_simple_search_engine.ipynb?dl=0)] | 
 5    | 02/03 (Wed) | Midterm Exam |
 6    | 02/10 (Wed) | Phrase Mining and its Applications [[slides](https://www.dropbox.com/s/vuvqif7squm5amy/lecture4_phrase_mining.pdf?dl=0)] [[Jupyter-Notebook](https://www.dropbox.com/s/i7ji3mzezaec0ds/lecture4-noun-phrase.ipynb?dl=0)] | HW2 due, HW3 out
-7    | 02/17 (Wed) | Open-Domain Information Extraction: Entity Recognition, Relation Extraction, and Attribute Discovery  | DM challenge due
+7    | 02/17 (Wed) | Named Entity Recognition [[slides](https://www.dropbox.com/s/g1tapov55z43oug/lecture5_ner.pdf?dl=0)] [[Jupyter-Notebook](https://www.dropbox.com/s/0t3plp9egf6bctw/lecture5-ner.ipynb?dl=0)]  | DM challenge due
 8    | 02/24 (Wed) | Weakly Supervised Text Classification | HW3 due, HW4 out
 9    | 03/03 (Wed) | Document Summarization, Aspect-based Sentiment Analysis, and Opinion Summarization|
 10   | 03/10 (Wed) | Topic Taxonomy Construction | HW4 due
