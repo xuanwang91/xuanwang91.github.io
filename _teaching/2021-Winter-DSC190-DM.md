@@ -91,7 +91,7 @@ Week | Date        | Topic & Slides                                             
 6    | 02/11 (Thu) | Midterm (24 hours on this date) |
 7    | 02/16 (Tue) | Recommender System - Collaborative Filtering [[slides](https://www.dropbox.com/s/8cad8yammzcs0wv/lecture11_cf.pdf?dl=0)] [[annotated_slides](https://www.dropbox.com/s/zbs6nf3e0q200wz/annotated_lecture11_cf.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/ies979whm0oalxb/AACf37LBu1GtksHmh7p99UASa?dl=0)] | HW3 Due, HW4 out
 7    | 02/18 (Thu) | Recommender System - Latent Factor Models [[slides](https://www.dropbox.com/s/unu6kq65cjd3xil/lecture12_mf.pdf?dl=0)] [[annotated_slides](https://www.dropbox.com/s/lp26zclr30ldt9x/annotated_lecture12_mf.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/qf54tp9pemsedv1/AABdaL_HZuovltvBOFdnFAgMa?dl=0)] |
-8    | 02/23 (Tue) | Text Mining - Zipf's Law, Bags-of-words, and TF-IDF [[slides](https://www.dropbox.com/s/d5jzijjhl7ca53a/lecture13_text_basics.pdf?dl=0)] |
+8    | 02/23 (Tue) | Text Mining - Zipf's Law, Bags-of-words, and TF-IDF [[slides](https://www.dropbox.com/s/d5jzijjhl7ca53a/lecture13_text_basics.pdf?dl=0)] [[annotated_slides](https://www.dropbox.com/s/d9mrne4ujfmkvjk/annotated_lecture13_text_basics.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/aicqoflnzia9wf5/AABChzcGEDqssZefBdXMccj9a?dl=0)] |
 8    | 02/25 (Thu) | Text Mining - Advanced Text Representations | DM Challenge due
 9    | 03/02 (Tue) | Network Mining - Small-Worlds & Random Graph Models | 
 9    | 03/04 (Thu) | Network Mining - HITS, PageRank, Personalized PageRank and Node Embedding |
