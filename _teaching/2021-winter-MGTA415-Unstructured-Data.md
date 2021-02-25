@@ -86,9 +86,9 @@ Week | Date        | Topic & Slides                                             
 3    | 01/20 (Wed) | Word Embedding & Language Models: from N-Gram to Neural LMs [[slides](https://www.dropbox.com/s/aepnrdxnn4rirhn/lecture2_advanced_representations.pdf?dl=0)] [[annotations](https://www.dropbox.com/s/69b497xfgpfi7rx/annotated_lecture2_advanced_representations.pdf?dl=0)] [[Jupyter-Notebook](https://www.dropbox.com/s/3tewv5xm23ue1x2/lecture2-notebook.ipynb?dl=0)] | HW1 due, HW2 out
 4    | 01/27 (Wed) | Information Retrieval & Topic Modeling [[slides](https://www.dropbox.com/s/cyi1oyxjhcxmdea/lecture3_ir_topic_model.pdf?dl=0)] [[annotations](https://www.dropbox.com/s/6nbz5ka3loy55wc/annotated_lecture3_ir_topic_model.pdf?dl=0)] [[Jupyter-Notebook](https://www.dropbox.com/s/jun303fc5op0fmp/lecture3_simple_search_engine.ipynb?dl=0)] | 
 5    | 02/03 (Wed) | Midterm Exam |
-6    | 02/10 (Wed) | Phrase Mining and its Applications [[slides](https://www.dropbox.com/s/vuvqif7squm5amy/lecture4_phrase_mining.pdf?dl=0)] [[Jupyter-Notebook](https://www.dropbox.com/s/i7ji3mzezaec0ds/lecture4-noun-phrase.ipynb?dl=0)] | HW2 due, HW3 out
-7    | 02/17 (Wed) | Named Entity Recognition [[slides](https://www.dropbox.com/s/g1tapov55z43oug/lecture5_ner.pdf?dl=0)] [[Jupyter-Notebook](https://www.dropbox.com/s/0t3plp9egf6bctw/lecture5-ner.ipynb?dl=0)]  | DM challenge due
-8    | 02/24 (Wed) | Weakly Supervised Text Classification [[slides](https://www.dropbox.com/s/8wpedj1t5hs9ic0/lecture6_weak_supervision.pdf?dl=0)] [[Jupter-Notebook](https://www.dropbox.com/s/9zdoa0346ekaqdu/Rule-based%20Sentiment%20Analysis.ipynb?dl=0)] | HW3 due, HW4 out
+6    | 02/10 (Wed) | Phrase Mining and its Applications [[slides](https://www.dropbox.com/s/vuvqif7squm5amy/lecture4_phrase_mining.pdf?dl=0)] [[Jupyter-Notebook](https://www.dropbox.com/s/i7ji3mzezaec0ds/lecture4-noun-phrase.ipynb?dl=0)] [[annotations](https://www.dropbox.com/s/a7ywapw07h00f8s/annotated_lecture4_phrase_mining.pdf?dl=0)] | HW2 due, HW3 out
+7    | 02/17 (Wed) | Named Entity Recognition [[slides](https://www.dropbox.com/s/g1tapov55z43oug/lecture5_ner.pdf?dl=0)] [[Jupyter-Notebook](https://www.dropbox.com/s/0t3plp9egf6bctw/lecture5-ner.ipynb?dl=0)] [[annotations](https://www.dropbox.com/s/le7cpt9zjtl73g3/annotated_lecture5_ner.pdf?dl=0)] | DM challenge due
+8    | 02/24 (Wed) | Weakly Supervised Text Classification [[slides](https://www.dropbox.com/s/8wpedj1t5hs9ic0/lecture6_weak_supervision.pdf?dl=0)] [[Jupter-Notebook](https://www.dropbox.com/s/9zdoa0346ekaqdu/Rule-based%20Sentiment%20Analysis.ipynb?dl=0)] [[annotations](https://www.dropbox.com/s/wbaywlrsc4tabnw/annotated_lecture6_weak_supervision.pdf?dl=0)] | HW3 due, HW4 out
 9    | 03/03 (Wed) | Document Summarization, Aspect-based Sentiment Analysis, and Opinion Summarization|
 10   | 03/10 (Wed) | Topic Taxonomy Construction | HW4 due
 
@@ -100,7 +100,7 @@ Your lowest (of four) homework grades is dropped (or one homework can be skipped
 - **[HW1: Text Pre-processing and Classification](https://www.dropbox.com/sh/1los3z5ab72wfxo/AAAusUYo-P0rbkqKkzDqM-J_a?dl=0) (8%).** This homework mainly focuses on the impact of the pre-processing on the classification results.
 - **[HW2: Word Embedding and Language Models](https://www.dropbox.com/sh/8fkackwzkcd2zfu/AAD4tG-TWpiYV_UWCaFDectna?dl=0) (8%).** This homework mainly focuses on trying out the word embedding and n-gram language models. 
 - **[HW3: Phrase Mining](https://www.dropbox.com/sh/a8rjz5p1cj71i6o/AAB76B0-IkTtVT5fszvjLTMda?dl=0) (8%).** This homework mainly focuses on phrase mining applications and future work.
-- **HW4: Weakly Supervised Text Classification (8%).** This homework mainly focuses on weakly supervised aspect classification and opinion summarization.
+- **[HW4: Weakly Supervised Text Classification](https://www.dropbox.com/sh/cy2h4kb4n4r3un1/AABMNiOFCGT65tvycG5Ms_lWa?dl=0) (8%).** This homework mainly focuses on weakly supervised aspect classification and opinion summarization.
 
 Midterm (26%)
 ======
