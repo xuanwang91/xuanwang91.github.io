@@ -93,7 +93,7 @@ Week | Date        | Topic & Slides                                             
 7    | 02/18 (Thu) | Recommender System - Latent Factor Models [[slides](https://www.dropbox.com/s/unu6kq65cjd3xil/lecture12_mf.pdf?dl=0)] [[annotated_slides](https://www.dropbox.com/s/lp26zclr30ldt9x/annotated_lecture12_mf.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/qf54tp9pemsedv1/AABdaL_HZuovltvBOFdnFAgMa?dl=0)] |
 8    | 02/23 (Tue) | Text Mining - Zipf's Law, Bags-of-words, and TF-IDF [[slides](https://www.dropbox.com/s/d5jzijjhl7ca53a/lecture13_text_basics.pdf?dl=0)] [[annotated_slides](https://www.dropbox.com/s/d9mrne4ujfmkvjk/annotated_lecture13_text_basics.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/aicqoflnzia9wf5/AABChzcGEDqssZefBdXMccj9a?dl=0)] |
 8    | 02/25 (Thu) | Text Mining - Advanced Text Representations [[slides](https://www.dropbox.com/s/coan037bthgis0h/lecture14_text_advanced.pdf?dl=0)] [[annotated_slides](https://www.dropbox.com/s/1naeqogwf9ag061/annotated_lecture14_text_advanced.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/n7ome91id2edsch/AAB1tow8pRwjrSfo6dKZRS6Pa?dl=0)] | DM Challenge due
-9    | 03/02 (Tue) | Network Mining - Small-Worlds & Random Graph Models | 
+9    | 03/02 (Tue) | Network Mining - Small-Worlds & Random Graph Models [[slides](https://www.dropbox.com/s/nu4f5qcqkcvjaex/lecture15_DM_challenge_and_graph_basics.pdf?dl=0)] [[annotated_slides](https://www.dropbox.com/s/jwwyp4hpck32vxe/annotated_lecture15_DM_challenge_and_graph_basics.pdf?dl=0)] | 
 9    | 03/04 (Thu) | Network Mining - HITS, PageRank, Personalized PageRank and Node Embedding |
 10   | 03/09 (Tue) | Sequence Mining - Sliding Windows and Autoregression |
 10   | 03/11 (Thu) | Text Data as Sequence - Named Entitry Recognition | HW4 Due
