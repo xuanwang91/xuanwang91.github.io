@@ -12,8 +12,8 @@ main:
   - title: "Awards"
     url: /awards/
 
-  # - title: "Lab"
-  #   url: /lab/
+  - title: "Lab"
+    url: /lab/
             
   - title: "Blog Posts"
     url: /year-archive/
