@@ -89,8 +89,8 @@ Week | Date        | Topic & Slides                                             
 6    | 02/10 (Wed) | Phrase Mining and its Applications [[slides](https://www.dropbox.com/s/vuvqif7squm5amy/lecture4_phrase_mining.pdf?dl=0)] [[Jupyter-Notebook](https://www.dropbox.com/s/i7ji3mzezaec0ds/lecture4-noun-phrase.ipynb?dl=0)] [[annotations](https://www.dropbox.com/s/a7ywapw07h00f8s/annotated_lecture4_phrase_mining.pdf?dl=0)] | HW2 due, HW3 out
 7    | 02/17 (Wed) | Named Entity Recognition [[slides](https://www.dropbox.com/s/g1tapov55z43oug/lecture5_ner.pdf?dl=0)] [[Jupyter-Notebook](https://www.dropbox.com/s/0t3plp9egf6bctw/lecture5-ner.ipynb?dl=0)] [[annotations](https://www.dropbox.com/s/le7cpt9zjtl73g3/annotated_lecture5_ner.pdf?dl=0)] | DM challenge due
 8    | 02/24 (Wed) | Weakly Supervised Text Classification [[slides](https://www.dropbox.com/s/8wpedj1t5hs9ic0/lecture6_weak_supervision.pdf?dl=0)] [[Jupter-Notebook](https://www.dropbox.com/s/9zdoa0346ekaqdu/Rule-based%20Sentiment%20Analysis.ipynb?dl=0)] [[annotations](https://www.dropbox.com/s/wbaywlrsc4tabnw/annotated_lecture6_weak_supervision.pdf?dl=0)] | HW3 due, HW4 out
-9    | 03/03 (Wed) | Document Summarization, Aspect-based Sentiment Analysis, and Opinion Summarization|
-10   | 03/10 (Wed) | Topic Taxonomy Construction | HW4 due
+9    | 03/03 (Wed) | Topic Taxonomy Construction [[slides](https://www.dropbox.com/s/8wpedj1t5hs9ic0/lecture6_weak_supervision.pdf?dl=0)] |
+10   | 03/10 (Wed) | Summarization and Question Answering | HW4 due
 
 Homework (24%)
 ======
