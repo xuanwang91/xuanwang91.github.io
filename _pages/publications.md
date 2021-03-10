@@ -16,13 +16,19 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2021
 
-* "[Data Profiling for Adversarial Training: On the Ruin of Problematic Data](https://arxiv.org/abs/2102.07437)" <br/>
+* [XClass: Text Classification with Extremely Weak Supervision](https://arxiv.org/abs/2010.12794) <br/>
+Zihan Wang, Dheeraj Mekala and Jingbo Shang. **NAACL** 2021. [[code](https://github.com/ZihanWangKi/XClass)]
+
+* TaxoClass: Hierarchical Multi-Label Text Classification Using Only Class Names <br/>
+Jiaming Shen, Wenda Qiu, Yu Meng, Jingbo Shang, Xiang Ren and Jiawei Han. **NAACL** 2021.
+
+* [Data Profiling for Adversarial Training: On the Ruin of Problematic Data](https://arxiv.org/abs/2102.07437) <br/>
 Chengyu Dong, Liyuan Liu and Jingbo Shang. arXiv:2102.07437. [[code](https://github.com/shwinshaker/RobustDataProfiling)]
 
-* "Minimally-Supervised Structure-Rich Text Categorization via Learning on Text-Rich Networks" <br/>
+* Minimally-Supervised Structure-Rich Text Categorization via Learning on Text-Rich Networks <br/>
 Xinyang Zhang, Chenwei Zhang, Xin Luna Dong, Jingbo Shang and Jiawei Han. **WWW** 2021.
 
-* "[Sensei: Self-Supervised Sensor Name Segmentation](https://arxiv.org/abs/2101.00130)" <br/>
+* [Sensei: Self-Supervised Sensor Name Segmentation](https://arxiv.org/abs/2101.00130) <br/>
 Jiaman Wu, Dezhi Hong, Rajesh Gupta and Jingbo Shang. arXiv:2101.00130. [[code](https://github.com/work4cs/sensei)]
 
 * "Misc"-Aware Weakly Supervised Aspect Classification <br/>
@@ -30,9 +36,6 @@ Peiran Li\*, Fang Guo\* and Jingbo Shang. **SDM** 2021. [[arXiv:2004.14555](http
 
 
 ### 2020
-
-* [XClass: Text Classification with Extremely Weak Supervision](https://arxiv.org/abs/2010.12794) <br/>
-Zihan Wang, Dheeraj Mekala, Jingbo Shang. arXiv:2010.12794. [[code](https://github.com/ZihanWangKi/XClass)]
 
 * [Overfitting or Underfitting? Understand Robustness Drop in Adversarial Training](https://arxiv.org/abs/2010.08034) <br/>
 Zichao Li\*, Liyuan Liu\*, Chengyu Dong and Jingbo Shang. arXiv:2010.08034. [[code](https://github.com/zichaoli/APART)]
