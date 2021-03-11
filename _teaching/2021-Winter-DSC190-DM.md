@@ -96,7 +96,7 @@ Week | Date        | Topic & Slides                                             
 9    | 03/02 (Tue) | Network Mining - Small-Worlds & Random Graph Models [[slides](https://www.dropbox.com/s/nu4f5qcqkcvjaex/lecture15_DM_challenge_and_graph_basics.pdf?dl=0)] [[annotated_slides](https://www.dropbox.com/s/jwwyp4hpck32vxe/annotated_lecture15_DM_challenge_and_graph_basics.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/1ox5oaolqndif7n/AACfVhIPIEMbkm_6gTrwyVuCa?dl=0)] | 
 9    | 03/04 (Thu) | Network Mining - HITS, PageRank, Personalized PageRank and Node Embedding [[slides](https://www.dropbox.com/s/rbisd7tcw8ksawc/lecture16_graph_advanced.pdf?dl=0)] [[annotated_slides](https://www.dropbox.com/s/xfz7oq50j46qdrp/annotated_lecture16_graph_advanced.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/ugg2meih8fhf0z5/AAChPJVbXN3mce_OS4NPw1_Ba?dl=0)] |
 10   | 03/09 (Tue) | Sequence Mining - Sliding Windows and Autoregression [[slides](https://www.dropbox.com/s/3i8bx9rtmwgvor1/lecture17_time_series.pdf?dl=0)] [[recording](https://www.dropbox.com/sh/ax414vjny5uokua/AADRtj6cyzFKpX3QM3iyv82sa?dl=0)] |
-10   | 03/11 (Thu) | Text Data as Sequence - Named Entity Recognition | HW4 Due
+10   | 03/11 (Thu) | Text Data as Sequence - Named Entity Recognition | HW4 Due (**Extended to Friday, 3/12 EOD**)
 
 Homework (24%)
 ======
@@ -129,7 +129,7 @@ It is a individual-based data mining competition with quantitative evaluation. T
 Project (25%)
 ======
 
-Instructions for both choices are available [here](https://www.dropbox.com/s/uzk1wxnz2ju77r9/Project%20Instructions.pdf?dl=0). Project **due on Mar 12**.
+Instructions for both choices are available [here](https://www.dropbox.com/s/uzk1wxnz2ju77r9/Project%20Instructions.pdf?dl=0). Project ****due Extended to Sunday, Mar 14 EOD****.
 
 Here is a quick overview:
 - **Choice 1: Team-Based Open-Ended Project**
