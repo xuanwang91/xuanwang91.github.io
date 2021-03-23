@@ -1,8 +1,8 @@
 ---
-title: "2021-Spring-CSE151A-Introduction to AI: A Statistical Approach"
+title: "2021-Spring-CSE151A-Introduction to Machine Learning"
 collection: teaching
 type: "Undergraduate Class"
-permalink: /teaching/2021-spring-CSE151A-StatisticalML
+permalink: /teaching/2021-spring-CSE151A-ML
 venue: "CSE, UCSD"
 date: 2021-03-30
 location: "La Jolla, CA"
@@ -39,8 +39,15 @@ Prerequisites
 TAs and Tutors
 ======
 
-- **Teaching Assistants**: 
+- **Teaching Assistants**:
+    - Dheeraj Mekala (dmekala AT ucsd.edu)
+    - Xinghan Wang (x2wang AT ucsd.edu)
+    - Weijian Xu (wex041 AT ucsd.edu)
 - **Tutors**: 
+    - Zhenyu Bi (z2bi AT ucsd.edu)
+    - Yilun Hao (yih301 AT ucsd.edu)
+    - Joey Hou (z9hou AT ucsd.edu)
+    - Colin Wang (ziw029 AT ucsd.edu)
 
 Office Hours
 ======
