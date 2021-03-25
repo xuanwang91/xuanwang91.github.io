@@ -44,10 +44,12 @@ TAs and Tutors
     - Xinghan Wang (x2wang AT ucsd.edu)
     - Weijian Xu (wex041 AT ucsd.edu)
 - **Tutors**: 
-    - Zhenyu Bi (z2bi AT ucsd.edu)
+    - Zhenyu Bi (z1bi AT ucsd.edu)
     - Yilun Hao (yih301 AT ucsd.edu)
     - Joey Hou (z9hou AT ucsd.edu)
     - Colin Wang (ziw029 AT ucsd.edu)
+
+
 
 Office Hours
 ======
@@ -55,13 +57,36 @@ Office Hours
 - Jingbo Shang
     - Office Hour: Wednesdays, 10 to 11 AM
     - Zoom link: [https://ucsd.zoom.us/my/jshang](https://ucsd.zoom.us/my/jshang)
+- Dheeraj Mekala
+    - Office Hour: Thursdays, 11 AM to 12 PM
+    - Zoom link: [https://ucsd.zoom.us/j/97330988404](https://ucsd.zoom.us/j/97330988404)
+- Xinghan Wang
+    - Office Hour: Thursdays, 4 to 5 PM
+    - Zoom link: [https://ucsd.zoom.us/j/9287819575](https://ucsd.zoom.us/j/9287819575)
+- Weijian Xu
+    - Office Hour: Fridays, 2 to 3 PM
+    - Zoom link: [https://ucsd.zoom.us/j/97304192865](https://ucsd.zoom.us/j/97304192865)
+- Zhenyu Bi
+    - Office Hour: Mondays, 8 to 9 AM 
+    - Zoom link: [https://ucsd.zoom.us/j/98625876507](https://ucsd.zoom.us/j/98625876507)
+- Yilun Hao
+    - Office Hour: Fridays, 7 to 8 PM
+    - Zoom link: [https://ucsd.zoom.us/j/8864309997](https://ucsd.zoom.us/j/8864309997)
+- Joey Hou
+    - Office Hour: Mondays, 8 to 9 PM
+    - Zoom link: [https://ucsd.zoom.us/j/98613657347](https://ucsd.zoom.us/j/98613657347)
+- Colin Wang
+    - Office Hour: Tuesdays, 10 to 11 AM
+    - Zoom link: [https://ucsd.zoom.us/my/zwcolin](https://ucsd.zoom.us/my/zwcolin)
+
+
 
 Note: all times are in **Pacific Time**.
 
 Grading
 ======
 
-- Homework: 20% each. Your lowest (of four) homework grades is dropped (or one homework can be skipped).
+- Homework: 15% each. Your lowest (of five) homework grades is dropped (or one homework can be skipped).
 - Midterm: 40%.
 - You should complete all work individually.
 - Late submissions are NOT accepted.
@@ -91,22 +116,23 @@ Week | Date        | Topic & Slides                                             
 7    | 05/11 (Tue) | Naive Bayes and Decision Tree| HW3 due, HW4 out
 7    | 05/13 (Thu) | Ensemble Learning: Bagging and Boosting |
 8    | 05/18 (Tue) | Multi-class Classification |
-8    | 05/20 (Thu) | Semi-supervised Learning |
-9    | 05/25 (Tue) | Weakly-supervised Learning | 
-9    | 05/27 (Thu) | Feed-forward Neural Networks | HW4 due
-10   | 06/01 (Tue) | Convolutional Neural Networks |
-10   | 06/03 (Thu) | Bias-Variance in Deep Neural Networks |
+8    | 05/20 (Thu) | Feed-forward Neural Networks |
+9    | 05/25 (Tue) | Convolutional Neural Networks | HW4 due, HW5 out
+9    | 05/27 (Thu) | Semi-supervised Learning | 
+10   | 06/01 (Tue) | Weakly-supervised Learning |
+10   | 06/03 (Thu) | Bias-Variance in Deep Neural Networks | HW5 due
 
 
 Homework (60%)
 ======
 
-Your lowest (of four) homework grades is dropped (or one homework can be skipped).
+Your lowest (of five) homework grades is dropped (or one homework can be skipped).
 
-- **HW1: Concepts and Evaluations (20%).** This homework mainly focuses on the machine learning concepts and how to evaluate different tasks.
-- **HW2: KNN and Linear Models (20%).** This homework mainly focuses on nearest neighbor, least-square regression, logistic regression, and regularization.
-- **HW3: SVM and Clustering (20%).** This homework mainly focuses on support vector machine, k-means, Gaussian Mixture, and PCA.
-- **HW4: Ensemble Learning (20%).** This homework mainly focuses on decision tree, random forest, and AdaBoost.
+- **HW1: Concepts and Evaluations (15%).** This homework mainly focuses on the machine learning concepts and how to evaluate different tasks.
+- **HW2: KNN and Linear Models (15%).** This homework mainly focuses on nearest neighbor, least-square regression, logistic regression, and regularization.
+- **HW3: SVM and Clustering (15%).** This homework mainly focuses on support vector machine, k-means, Gaussian Mixture, and PCA.
+- **HW4: Ensemble Learning (15%).** This homework mainly focuses on decision tree, random forest, and AdaBoost.
+- **HW5: Neural Networks (15%).** This homework mainly focuses on implementation of some simple neural networks.
 
 Midterm (40%)
 ======
