@@ -41,7 +41,7 @@ Lecture Schedule
 **Recording Note**: Please download the recording video for the full length. Dropbox website will only show you the first one hour.
 
 Date | Topic & Slides | Homework | Additional Notes
-03/29 | Introduction | Problem Set #0 | [Solutions](https://www.dropbox.com/s/bvnmp0ruki3bk9j/problemset0_solutions.pdf?dl=0) [STL Notes](https://www.dropbox.com/s/l28jb4xtpvrdyix/standard_libraries.pdf?dl=0)
+03/29 | Introduction [[slides](https://www.dropbox.com/s/229kq2rxncy3gbf/lecture0_intro.pdf?dl=0)] | Problem Set #0 | [Solutions](https://www.dropbox.com/s/bvnmp0ruki3bk9j/problemset0_solutions.pdf?dl=0) [STL Notes](https://www.dropbox.com/s/l28jb4xtpvrdyix/standard_libraries.pdf?dl=0)
 04/05 | Ad Hoc, Simulation & Search | Problem Set #1 |
 04/12 | Dynamic Programming (Simple) | Problem Set #2 |
 04/19 | Basic Graph Algorithms | Problem Set #3 |
@@ -196,10 +196,10 @@ TopoSort
 **Problem Set #8: Segment Tree**
 
 - [SPOJ GSS3: Can you answer these queries III](https://www.spoj.com/problems/GSS3/) - 1 Point
-- [SPOJ RMQSQ: Range Minimum Query] - 1 Point
-- [POJ 3468: A Simple Problem with Integers] - 2 Points
-- [SPOJ LCA: Lowest Common Ancestor] - 2 Points
-- [POJ 2104: K-th Number] - 4 Points
+- [SPOJ RMQSQ: Range Minimum Query](https://www.spoj.com/problems/RMQSQ/) - 1 Point
+- [POJ 3468: A Simple Problem with Integers](http://poj.org/problem?id=3468) - 2 Points
+- [SPOJ LCA: Lowest Common Ancestor](https://www.spoj.com/problems/LCA/) - 2 Points
+- [POJ 2104: K-th Number](http://poj.org/problem?id=2104) - 4 Points
 
 
 Resources
