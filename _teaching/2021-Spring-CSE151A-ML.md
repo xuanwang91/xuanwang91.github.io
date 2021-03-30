@@ -101,7 +101,7 @@ Lecture Schedule
 (the schedule is tentative)
 
 Week | Date        | Topic & Slides                                                  | Events
-1    | 03/30 (Tue) | Introduction: Concepts and Evaluations | HW1 out
+1    | 03/30 (Tue) | [Introduction: Concepts and Evaluations](https://www.dropbox.com/sh/tg0kiyiix064340/AADtaFczmet06gi6xEIQoO3za?dl=0) | HW1 out
 1    | 04/01 (Thu) | A Geometric View of Linear Algebra |
 2    | 04/06 (Tue) | Nearest Neighbor Classification | HW1 due, HW2 out
 2    | 04/08 (Thu) | Gradients and Optimization |
