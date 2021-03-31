@@ -76,7 +76,7 @@ Office Hours
     - Office Hour: Mondays, 8 to 9 PM
     - Zoom link: [https://ucsd.zoom.us/j/98613657347](https://ucsd.zoom.us/j/98613657347)
 - Colin Wang
-    - Office Hour: Tuesdays, 10 to 11 AM
+    - Office Hour: Tuesdays, 8 to 9 PM
     - Zoom link: [https://ucsd.zoom.us/my/zwcolin](https://ucsd.zoom.us/my/zwcolin)
 
 
