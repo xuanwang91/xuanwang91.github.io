@@ -103,7 +103,7 @@ Lecture Schedule
 Week | Date        | Topic & Slides                                                  | Events
 1    | 03/30 (Tue) | [Introduction: Concepts and Evaluations](https://www.dropbox.com/sh/tg0kiyiix064340/AADtaFczmet06gi6xEIQoO3za?dl=0) | HW1 out
 1    | 04/01 (Thu) | [A Geometric View of Linear Algebra](https://www.dropbox.com/sh/xqiqdoukynkco8z/AAA1SEVY4qfAqbW5ed_4Ithya?dl=0) |
-2    | 04/06 (Tue) | Nearest Neighbor Classification | HW1 due, HW2 out
+2    | 04/06 (Tue) | [Nearest Neighbor Classification](https://www.dropbox.com/sh/qz3vo8mlxdb2o3p/AABZkKifcLQrJiv3ikgZn1eoa?dl=0) | HW1 due, HW2 out
 2    | 04/08 (Thu) | Gradients and Optimization |
 3    | 04/13 (Tue) | Least-Squares Regression, Logistic Regression, and Perceptron |
 3    | 04/15 (Thu) | Overfitting and Regularization | 
