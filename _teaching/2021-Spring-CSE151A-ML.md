@@ -105,8 +105,8 @@ Week | Date        | Topic & Slides                                             
 1    | 04/01 (Thu) | [A Geometric View of Linear Algebra](https://www.dropbox.com/sh/xqiqdoukynkco8z/AAA1SEVY4qfAqbW5ed_4Ithya?dl=0) |
 2    | 04/06 (Tue) | [Nearest Neighbor Classification](https://www.dropbox.com/sh/qz3vo8mlxdb2o3p/AABZkKifcLQrJiv3ikgZn1eoa?dl=0) | HW1 due, HW2 out
 2    | 04/08 (Thu) | [Gradients and Optimization](https://www.dropbox.com/sh/d5qr1e45ew494a8/AAA-rFknv35rvLhN2FQBMvA_a?dl=0) |
-3    | 04/13 (Tue) | Least-Squares Regression, Logistic Regression, and Perceptron |
-3    | 04/15 (Thu) | Overfitting and Regularization | 
+3    | 04/13 (Tue) | [Least-Squares Regression, Logistic Regression, and Perceptron](https://www.dropbox.com/sh/nz2mhnv0z942hyn/AAAyOjczwoph-apJj7KK-FFAa?dl=0) |
+3    | 04/15 (Thu) | [Overfitting and Regularization](https://www.dropbox.com/sh/xlha993ztbet4ih/AACUYZgTOqcMU7iKjly4F6NDa?dl=0) | 
 4    | 04/20 (Tue) | Support Vector Machine (SVM) | HW2 due, HW3 out
 4    | 04/22 (Thu) | SVM: Duality and Kernel |
 5    | 04/27 (Tue) | K-Means Clustering & its Variants |
