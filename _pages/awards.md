@@ -9,6 +9,12 @@ author_profile: true
 A selection of my <b>awards</b> and <b>media coverages</b>, sorted by time.
 </p>
 
+🏆 Google Research Scholar Award, 2021
+<br/>
+📢 HDSI@UCSD: [Jingbo Shang, Runner-Up ACM SIGKDD Dissertation Award](https://datascience.ucsd.edu/jingbo-shang-wins-acm-sigkdd-dissertation-award/)
+<br/>
+📢 CS@Illinois News: [Shang's Research Flourishes under the Right Guidance, Sustains Illinois CS Success in Data Mining](https://cs.illinois.edu/news/shangs-research-flourishes-under-the-right-guidance-sustains-illinois-cs-success-in-data-mining), 2020
+<br/>
 🏆 SIGKDD Dissertation Award Runner-up, 2020
 <br/>
 🏆 IEEEXtreme 13.0 **World Champion**, 2019
