@@ -55,7 +55,7 @@ Office Hours
 ======
 
 - Jingbo Shang
-    - Office Hour: Wednesdays, 10 to 11 AM
+    - Office Hour: Wednesdays, 10 AM to 12 PM
     - Zoom link: [https://ucsd.zoom.us/my/jshang](https://ucsd.zoom.us/my/jshang)
 - Dheeraj Mekala
     - Office Hour: Thursdays, 11 AM to 12 PM
@@ -64,7 +64,7 @@ Office Hours
     - Office Hour: Thursdays, 4 to 5 PM
     - Zoom link: [https://ucsd.zoom.us/j/9287819575](https://ucsd.zoom.us/j/9287819575)
 - Weijian Xu
-    - Office Hour: Fridays, 2 to 3 PM
+    - Office Hour: Fridays, 2 to 4 PM
     - Zoom link: [https://ucsd.zoom.us/j/97304192865](https://ucsd.zoom.us/j/97304192865)
 - Zhenyu Bi
     - Office Hour: Mondays, 8 to 9 AM 
@@ -73,10 +73,10 @@ Office Hours
     - Office Hour: Fridays, 7 to 8 PM
     - Zoom link: [https://ucsd.zoom.us/j/8864309997](https://ucsd.zoom.us/j/8864309997)
 - Joey Hou
-    - Office Hour: Mondays, 8 to 9 PM
+    - Office Hour: Mondays, 8 to 10 PM
     - Zoom link: [https://ucsd.zoom.us/j/98613657347](https://ucsd.zoom.us/j/98613657347)
 - Colin Wang
-    - Office Hour: Tuesdays, 8 to 9 PM
+    - Office Hour: Tuesdays, 8 to 10 PM
     - Zoom link: [https://ucsd.zoom.us/my/zwcolin](https://ucsd.zoom.us/my/zwcolin)
 
 
