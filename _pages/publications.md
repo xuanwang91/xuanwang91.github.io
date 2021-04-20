@@ -16,6 +16,18 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2021
 
+* [Unsupervised Deep Keyphrase Generation](https://arxiv.org/abs/2104.08729) <br/>
+Xianjie Shen, Yinghan Wang, Rui Meng and Jingbo Shang. arXiv:2104.08729. [[code](https://github.com/Jayshen0/Unsupervised-Deep-Keyphrase-Generation)]
+
+* ["Average" Approximates "First Principal Component"? An Empirical Analysis on Representations from Neural Language Models](https://arxiv.org/abs/2104.08673) <br/>
+Zihan Wang, Chengyu Dong and Jingbo Shang. arXiv:2104.08673. [[code](https://github.com/ZihanWangKi/AverageApproxFirstPC)]
+
+* [News Meets Microblog: Hashtag Annotation via Retriever-Generator](https://arxiv.org/abs/2104.08723) <br/>
+Xiuwen Zheng, Dheeraj Mekala, Amarnath Gupta and Jingbo Shang.  arXiv:2104.08723. [[code](https://github.com/dheeraj7596/HashNews)]
+
+* AutoName: A Corpus-Based Set Naming Framework. <br>
+Zhiqi Huang, Razieh Rahimi, Puxuan Yu, Jingbo Shang and James Allan. **SIGIR** 2021 (short).
+
 * [XClass: Text Classification with Extremely Weak Supervision](https://arxiv.org/abs/2010.12794) <br/>
 Zihan Wang, Dheeraj Mekala and Jingbo Shang. **NAACL** 2021. [[code](https://github.com/ZihanWangKi/XClass)]
 
@@ -25,7 +37,7 @@ Jiaming Shen, Wenda Qiu, Yu Meng, Jingbo Shang, Xiang Ren and Jiawei Han. **NAAC
 * [Data Profiling for Adversarial Training: On the Ruin of Problematic Data](https://arxiv.org/abs/2102.07437) <br/>
 Chengyu Dong, Liyuan Liu and Jingbo Shang. arXiv:2102.07437. [[code](https://github.com/shwinshaker/RobustDataProfiling)]
 
-* Minimally-Supervised Structure-Rich Text Categorization via Learning on Text-Rich Networks <br/>
+* [Minimally-Supervised Structure-Rich Text Categorization via Learning on Text-Rich Networks](https://www.dropbox.com/s/fksrfgfsaf4lvtd/%5BWWW%2721%5D%20Minimally-Supervised%20Structure-Rich%20Text%20Categorization%20via%20Learning%20on%20Text-Rich%20Networks.pdf?dl=1) <br/>
 Xinyang Zhang, Chenwei Zhang, Xin Luna Dong, Jingbo Shang and Jiawei Han. **WWW** 2021.
 
 * [Sensei: Self-Supervised Sensor Name Segmentation](https://arxiv.org/abs/2101.00130) <br/>
