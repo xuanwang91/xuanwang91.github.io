@@ -107,8 +107,8 @@ Week | Date        | Topic & Slides                                             
 2    | 04/08 (Thu) | [Gradients and Optimization](https://www.dropbox.com/sh/d5qr1e45ew494a8/AAA-rFknv35rvLhN2FQBMvA_a?dl=0) |
 3    | 04/13 (Tue) | [Least-Squares Regression, Logistic Regression, and Perceptron](https://www.dropbox.com/sh/nz2mhnv0z942hyn/AAAyOjczwoph-apJj7KK-FFAa?dl=0) |
 3    | 04/15 (Thu) | [Overfitting and Regularization](https://www.dropbox.com/sh/xlha993ztbet4ih/AACUYZgTOqcMU7iKjly4F6NDa?dl=0) | 
-4    | 04/20 (Tue) | [Support Vector Machine (SVM)](https://www.dropbox.com/sh/jkpg4tlgdm0k5wl/AACA8XuA4ZMwJ4fh5naui557a?dl=0) | HW3 out
-4    | 04/22 (Thu) | [SVM: Duality and Kernel](https://www.dropbox.com/sh/vup13moykid2d6l/AADvyaqNru0HyJxY62k_UKmua?dl=0) | HW2 due
+4    | 04/20 (Tue) | [Support Vector Machine (SVM)](https://www.dropbox.com/sh/jkpg4tlgdm0k5wl/AACA8XuA4ZMwJ4fh5naui557a?dl=0) | 
+4    | 04/22 (Thu) | [SVM: Duality and Kernel](https://www.dropbox.com/sh/vup13moykid2d6l/AADvyaqNru0HyJxY62k_UKmua?dl=0) | HW2 due, HW3 out
 5    | 04/27 (Tue) | [K-Means Clustering & its Variants](https://www.dropbox.com/sh/nygsrrish6zw92t/AABhZ7o-QdI4ANb_8tEdS1pGa?dl=0) |
 5    | 04/29 (Thu) | ["Soft" Clustering: Gaussian Mixture](https://www.dropbox.com/sh/ggs09cbjcaldfzd/AAAlWAt9GCUcc9_PeJs0lxZNa?dl=0) |
 6    | 05/04 (Tue) | [Principle Component Analysis](https://www.dropbox.com/sh/kbjkd0slc5lbiw3/AABcO86D-6ZhQ2lSmWgrs5Bea?dl=0) |
