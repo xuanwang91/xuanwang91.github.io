@@ -114,7 +114,6 @@ MST
 - [UVA 11631: Dark Roads](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2678) - 2 Points
 - [UVA 11747: Heavy Cycle Edges](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2847) - 2 Points
 - [UVA 544: Heavy Cargo](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=485) - 3 Points
-- [UVA 11693: Speedy Escapes](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2740) - 4 Points
 
 Shortest Path
 - [UVA 821: Page Hopping](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=762) - 1 Point
@@ -124,6 +123,7 @@ Shortest Path
 - [UVA 10278: Fire Station](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=14&page=show_problem&problem=1219) - 3 Points
 - [UVA 11367: Full Tank?](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2352) - 3 Points
 - [UVA 11635: Hotel Booking](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2682) - 3 Points
+- [UVA 11693: Speedy Escapes](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2740) - 4 Points
 - [UVA 10269: Adventure of Super Mario](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1210) - 4 Points
 - [UVA 515: King](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=456) - 6 Points
 
