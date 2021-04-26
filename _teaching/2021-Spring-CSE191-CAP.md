@@ -45,7 +45,7 @@ Date | Topic & Slides | Homework | Additional Notes
 04/05 | [Ad Hoc, Simulation & Search](https://www.dropbox.com/sh/f0tifpeia3mapzw/AADG2CHJZv6q0HoeDmQnGM8La?dl=0) | Problem Set #1 |
 04/12 | [Dynamic Programming (Simple)](https://www.dropbox.com/sh/f3b4vq0w6frc5vb/AACu2xHreXoJasPJ0U2hUw-6a?dl=0) | Problem Set #2 |
 04/19 | [Basic Graph Algorithms](https://www.dropbox.com/sh/uya9t8paa8wgs6n/AAAOKmq0Ae8XZNfaCK3SZTaga?dl=0) | Problem Set #3 |
-04/26 | Computational Geometry | Problem Set #4 |
+04/26 | [Computational Geometry](https://www.dropbox.com/sh/r637sjgfjqtmoa9/AADSs6ayvgTmxTSiOoNgg5T5a?dl=0) | Problem Set #4 |
 05/03 | Dynamic Programming (Intermediate) | Problem Set #5 |
 05/10 | Combinatorics and Algebra |  Problem Set #6 |
 05/17 | Network Flow | Problem Set #7 | 

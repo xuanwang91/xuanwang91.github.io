@@ -28,7 +28,7 @@ Xiuwen Zheng, Dheeraj Mekala, Amarnath Gupta and Jingbo Shang.  arXiv:2104.08723
 * AutoName: A Corpus-Based Set Naming Framework. <br>
 Zhiqi Huang, Razieh Rahimi, Puxuan Yu, Jingbo Shang and James Allan. **SIGIR** 2021 (short).
 
-* [XClass: Text Classification with Extremely Weak Supervision](https://arxiv.org/abs/2010.12794) <br/>
+* [X-Class: Text Classification with Extremely Weak Supervision](https://arxiv.org/abs/2010.12794) <br/>
 Zihan Wang, Dheeraj Mekala and Jingbo Shang. **NAACL** 2021. [[code](https://github.com/ZihanWangKi/XClass)]
 
 * TaxoClass: Hierarchical Multi-Label Text Classification Using Only Class Names <br/>
