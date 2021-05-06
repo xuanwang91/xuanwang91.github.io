@@ -16,6 +16,12 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2021
 
+* Weakly Supervised Named Entity Tagging with Learnable Logical Rules <br/>
+Jiacheng Li, Haibo Ding, Jingbo Shang, Julian McAuley and Zhe Feng. **ACL** 2021. 
+
+* Sensei: Self-Supervised Sensor Name Segmentation <br/>
+Jiaman Wu, Dezhi Hong, Rajesh Gupta and Jingbo Shang. **ACL** (Findings) 2021. [arXiv:2101.00130](https://arxiv.org/abs/2101.00130). [[code](https://github.com/work4cs/sensei)]
+
 * [Unsupervised Deep Keyphrase Generation](https://arxiv.org/abs/2104.08729) <br/>
 Xianjie Shen, Yinghan Wang, Rui Meng and Jingbo Shang. arXiv:2104.08729. [[code](https://github.com/Jayshen0/Unsupervised-Deep-Keyphrase-Generation)]
 
@@ -39,9 +45,6 @@ Chengyu Dong, Liyuan Liu and Jingbo Shang. arXiv:2102.07437. [[code](https://git
 
 * [Minimally-Supervised Structure-Rich Text Categorization via Learning on Text-Rich Networks](https://www.dropbox.com/s/fksrfgfsaf4lvtd/%5BWWW%2721%5D%20Minimally-Supervised%20Structure-Rich%20Text%20Categorization%20via%20Learning%20on%20Text-Rich%20Networks.pdf?dl=1) <br/>
 Xinyang Zhang, Chenwei Zhang, Xin Luna Dong, Jingbo Shang and Jiawei Han. **WWW** 2021.
-
-* [Sensei: Self-Supervised Sensor Name Segmentation](https://arxiv.org/abs/2101.00130) <br/>
-Jiaman Wu, Dezhi Hong, Rajesh Gupta and Jingbo Shang. arXiv:2101.00130. [[code](https://github.com/work4cs/sensei)]
 
 * "Misc"-Aware Weakly Supervised Aspect Classification <br/>
 Peiran Li\*, Fang Guo\* and Jingbo Shang. **SDM** 2021. [[arXiv:2004.14555](https://arxiv.org/abs/2004.14555)] [[code](https://github.com/peiranli/ARYA)]
