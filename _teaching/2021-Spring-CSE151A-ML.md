@@ -116,7 +116,7 @@ Week | Date        | Topic & Slides                                             
 7    | 05/11 (Tue) | [Naive Bayes and Decision Tree](https://www.dropbox.com/sh/afc14oq0g3ooq96/AAAyqOBJb-eol5th9urg85CPa?dl=0) | HW3 due, HW4 out
 7    | 05/13 (Thu) | [Ensemble Learning: Bagging and Boosting](https://www.dropbox.com/sh/kiva1pkg34bm04x/AAAPTRg08lNClVDb3c8TjLQJa?dl=0) |
 8    | 05/18 (Tue) | [Multi-class Classification](https://www.dropbox.com/sh/xquvlzawk6ksj8f/AAAXD0lggp-FtS5fd51v5PYoa?dl=0) |
-8    | 05/20 (Thu) | Feed-forward Neural Networks |
+8    | 05/20 (Thu) | [Feed-forward Neural Networks](https://www.dropbox.com/sh/29mtf932zrdqzg4/AAAV5rWFdCylOEqqvRYw8lq4a?dl=0) |
 9    | 05/25 (Tue) | Convolutional Neural Networks | HW4 due, HW5 out
 9    | 05/27 (Thu) | Semi-supervised Learning | 
 10   | 06/01 (Tue) | Weakly-supervised Learning |
