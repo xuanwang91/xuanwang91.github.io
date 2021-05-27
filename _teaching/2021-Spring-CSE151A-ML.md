@@ -118,7 +118,7 @@ Week | Date        | Topic & Slides                                             
 8    | 05/18 (Tue) | [Multi-class Classification](https://www.dropbox.com/sh/xquvlzawk6ksj8f/AAAXD0lggp-FtS5fd51v5PYoa?dl=0) |
 8    | 05/20 (Thu) | [Feed-forward Neural Networks](https://www.dropbox.com/sh/29mtf932zrdqzg4/AAAV5rWFdCylOEqqvRYw8lq4a?dl=0) |
 9    | 05/25 (Tue) | [Convolutional Neural Networks](https://www.dropbox.com/sh/fpkxulbik45y6zq/AABOdF-suo9nMZPeDmymArsba?dl=0) | HW4 due, HW5 out
-9    | 05/27 (Thu) | Semi-supervised Learning | 
+9    | 05/27 (Thu) | [Semi-supervised Learning](https://www.dropbox.com/sh/b3nznxd7one8w3y/AAD7n7kflHdWh16Vu3TsoHFKa?dl=0) | 
 10   | 06/01 (Tue) | Weakly-supervised Learning |
 10   | 06/03 (Thu) | Bias-Variance in Deep Neural Networks | HW5 due
 
