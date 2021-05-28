@@ -132,7 +132,7 @@ Your lowest (of five) homework grades is dropped (or one homework can be skipped
 - **[HW2: KNN and Linear Models](https://www.dropbox.com/s/avo0nzi8rsxa0rh/HW-2.zip?dl=1) (15%).** This homework mainly focuses on nearest neighbor, least-square regression, logistic regression, and regularization.
 - **[HW3: SVM and Clustering](https://www.dropbox.com/s/pzv2u0i6jomt3ix/HW3.zip?dl=1) (15%).** This homework mainly focuses on support vector machine, k-means, Gaussian Mixture, and PCA.
 - **[HW4: Ensemble Learning](https://www.dropbox.com/s/at50qf63oj0kr2v/HW4.zip?dl=1) (15%).** This homework mainly focuses on decision tree, random forest, and AdaBoost.
-- **HW5: Neural Networks (15%).** This homework mainly focuses on implementation of some simple neural networks.
+- **[HW5: Neural Networks](https://www.dropbox.com/s/7157p6rb206o2c1/HW5.zip?dl=1) (15%).** This homework mainly focuses on implementation of some simple neural networks.
 
 Midterm (40%)
 ======
