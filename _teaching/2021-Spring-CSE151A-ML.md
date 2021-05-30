@@ -73,7 +73,7 @@ Office Hours
     - Office Hour: Fridays, 7 to 8 PM
     - Zoom link: [https://ucsd.zoom.us/j/8864309997](https://ucsd.zoom.us/j/8864309997)
 - Joey Hou
-    - Office Hour: Mondays, 8 to 10 PM
+    - Office Hour: Mondays, 6:30 to 8:30 PM
     - Zoom link: [https://ucsd.zoom.us/j/98613657347](https://ucsd.zoom.us/j/98613657347)
 - Colin Wang
     - Office Hour: Tuesdays, 8 to 10 PM
