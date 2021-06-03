@@ -120,7 +120,7 @@ Week | Date        | Topic & Slides                                             
 9    | 05/25 (Tue) | [Convolutional Neural Networks](https://www.dropbox.com/sh/fpkxulbik45y6zq/AABOdF-suo9nMZPeDmymArsba?dl=0) | HW4 due, HW5 out
 9    | 05/27 (Thu) | [Semi-supervised Learning](https://www.dropbox.com/sh/b3nznxd7one8w3y/AAD7n7kflHdWh16Vu3TsoHFKa?dl=0) | 
 10   | 06/01 (Tue) | [Weakly-supervised Learning](https://www.dropbox.com/sh/0o652qzuhedl7ug/AAAmbXslYeMJxVLJy1CXT2P_a?dl=0) |
-10   | 06/03 (Thu) | Bias-Variance in Deep Neural Networks | HW5 due
+10   | 06/03 (Thu) | [Bias-Variance in Deep Neural Networks](https://www.dropbox.com/sh/4f1xcm1myqso0r2/AADtZaBqZyqMit5oP1jEi3mka?dl=0) | HW5 due
 
 
 Homework (60%)
