@@ -32,17 +32,42 @@ We envision an open-source, privacy-preserving intelligent system for searching 
 
 ## Publication & Pre-Prints
 
-* [XClass: Text Classification with Extremely Weak Supervision](https://arxiv.org/abs/2010.12794) <br/>
-Zihan Wang, Dheeraj Mekala, Jingbo Shang. arXiv:2010.12794. [[code](https://github.com/ZihanWangKi/XClass)]
+* [Unsupervised Deep Keyphrase Generation](https://arxiv.org/abs/2104.08729). <br/>
+Xianjie Shen, Yinghan Wang, Rui Meng and Jingbo Shang. arXiv:2104.08729.
 
-* Towards Benchmarking Feature Type Inference for AutoML Platforms<br/>
-Vraj Shah, Jonathan Lacanlale, Premanand Kumar, Kevin Yang, and Arun Kumar. Under Review [[code](https://github.com/mltypebench/MLFeatureTypeInference)] [[project page](https://adalabucsd.github.io/sortinghat.html)]
+* UCPhrase: Unsupervised Context-aware Quality Phrase Tagging <br/>
+Xiaotao Gu\*, Zihan Wang\*, Zhenyu Bi, Yu Meng, Liyuan Liu, Jiawei Han and Jingbo Shang. **KDD 2021**. [[arXiv:2105.14078](https://arxiv.org/abs/2105.14078)] [[code](https://github.com/xgeric/UCPhrase-exp)]
+
+* [X-Class: Text Classification with Extremely Weak Supervision](https://arxiv.org/abs/2010.12794) <br/>
+Zihan Wang, Dheeraj Mekala and Jingbo Shang. **NAACL** 2021. [[code](https://github.com/ZihanWangKi/XClass)]
+
+* TaxoClass: Hierarchical Multi-Label Text Classification Using Only Class Names <br/>
+Jiaming Shen, Wenda Qiu, Yu Meng, Jingbo Shang, Xiang Ren and Jiawei Han. **NAACL** 2021.
+
+* ["Misc"-Aware Weakly Supervised Aspect Classification](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976700.53) <br/>
+Peiran Li\*, Fang Guo\* and Jingbo Shang. **SDM** 2021. [[arXiv:2004.14555](https://arxiv.org/abs/2004.14555)] [[code](https://github.com/peiranli/ARYA)]
+
+* Sensei: Self-Supervised Sensor Name Segmentation <br/>
+Jiaman Wu, Dezhi Hong, Rajesh Gupta and Jingbo Shang. **ACL** (Findings) 2021. [arXiv:2101.00130](https://arxiv.org/abs/2101.00130). [[code](https://github.com/work4cs/sensei)]
+
+* [SeNsER: Learning Cross-Building Sensor Metadata Tagger](https://www.dropbox.com/s/tsmu1h9fk90hgg6/%5BEMNLP%2720%20Findings%5DSeNsER-%20Learning%20Cross-Building%20Sensor%20Metadata%20Tagger.pdf?dl=1) <br/>
+Yang Jiao\*, Jiacheng Li\*, Jiaman Wu, Dezhi Hong, Rajesh Gupta and Jingbo Shang. **EMNLP** (Findings) 2020. [[code](https://github.com/JiachengLi1995/SeNsER)]
 
 * [META: Metadata-Empowered Weak Supervision for Text Classification](https://www.dropbox.com/s/95mtglly9bydj5i/%5BEMNLP%2720%5DMETA-%20Metadata-Empowered%20Weak%20Supervision%20for%20Text%20Classification.pdf?dl=1) <br/>
 Dheeraj Mekala, Xinyang Zhang and Jingbo Shang. **EMNLP** 2020. [[code](https://github.com/dheeraj7596/META)]
 
-* [SeNsER: Learning Cross-Building Sensor Metadata Tagger](https://www.dropbox.com/s/tsmu1h9fk90hgg6/%5BEMNLP%2720%20Findings%5DSeNsER-%20Learning%20Cross-Building%20Sensor%20Metadata%20Tagger.pdf?dl=1) <br/>
-Yang Jiao\*, Jiacheng Li\*, Jiaman Wu, Dezhi Hong, Rajesh Gupta and Jingbo Shang. **EMNLP** (Findings) 2020. [[code](https://github.com/JiachengLi1995/SeNsER)]
+* Towards Benchmarking Feature Type Inference for AutoML Platforms<br/>
+Vraj Shah, Jonathan Lacanlale, Premanand Kumar, Kevin Yang, and Arun Kumar. **SIGMOD** 2021 [[code](https://github.com/mltypebench/MLFeatureTypeInference)] [[project page](https://adalabucsd.github.io/sortinghat.html)]
+
+* [A Comprehensive Explanation Framework for Biomedical Time Series Classification](https://pubmed.ncbi.nlm.nih.gov/33617456/)<br/>
+Praharsh Ivaturi, Matteo Gadaleta, Amitabh C Pandey, Michael Pazzani, Steven R Steinhubl, and Giorgio Quer. **IEEE J Biomed Health Inform**. Feb. 2021.
+
+* [Machine Learning and the Future of Cardiovascular Care: JACC State-of-the-Art Review](https://pubmed.ncbi.nlm.nih.gov/33478654/)<br/>
+Giorgio Quer, Ramy Arnaout, Michael Henne, and Rima Arnaout. **J Am Coll Cardiol**. Jan. 2021.
+
+* [Improving Feature Type Inference Accuracy of TFDV with SortingHat](https://adalabucsd.github.io/papers/TR_2020_TFDV.pdf)<br/>
+Vraj Shah, Kevin Yang, and Arun Kumar. Preprint.
+
 
 ## Contact
 
