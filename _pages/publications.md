@@ -20,7 +20,7 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 Xiaotao Gu\*, Zihan Wang\*, Zhenyu Bi, Yu Meng, Liyuan Liu, Jiawei Han and Jingbo Shang. **KDD 2021**. [[arXiv:2105.14078](https://arxiv.org/abs/2105.14078)] [[code](https://github.com/xgeric/UCPhrase-exp)]
 
 * Weakly Supervised Named Entity Tagging with Learnable Logical Rules <br/>
-Jiacheng Li, Haibo Ding, Jingbo Shang, Julian McAuley and Zhe Feng. **ACL** 2021. 
+Jiacheng Li, Haibo Ding, Jingbo Shang, Julian McAuley and Zhe Feng. **ACL** 2021. [[code](https://github.com/JiachengLi1995/TALLOR)]
 
 * Sensei: Self-Supervised Sensor Name Segmentation <br/>
 Jiaman Wu, Dezhi Hong, Rajesh Gupta and Jingbo Shang. **ACL** (Findings) 2021. [arXiv:2101.00130](https://arxiv.org/abs/2101.00130). [[code](https://github.com/work4cs/sensei)]
