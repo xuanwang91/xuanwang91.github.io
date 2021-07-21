@@ -23,12 +23,14 @@ A major goal of AI-driven applications is to discover the underlying patterns in
 
 We envision an open-source, privacy-preserving intelligent system for searching and navigating through large-scale collections of AI models and datasets for scientific and other applications. The envisioned system would transform AI models and datasets into ‘computational resources’ such that model-dataset pairs can be searched and matched easily based on their semantics. It will serve as a sharing portal for models and datasets matched via contextual information, captured as ‘metadata’ that relies upon innovations in metadata methods and tools in the application context. More importantly, the confidential and private information embedded in the models and datasets will be protected by developing novel, rigorous privacy techniques. This way, our system would be able to allow clinicians to upload the patient imaging dataset and issue a query, such as “Coronavirus hazard assessment from chest CT”, and then without risks of leaking patient information, it would return suitable AI models and related datasets.
 
+[[Marking Video](https://youtu.be/-yG2ov24ikE)]
+
 ## Team
 
 - **PI/Co-PI**: [Jingbo Shang](http://shangjingbo1226.github.io/), [Rajesh Gupta](http://mesl.ucsd.edu/gupta/), [Lucila Ohno-Machado](https://medschool.ucsd.edu/som/dbmi/people/faculty/Pages/lucila-ohno-machado.aspx), [Arun Kumar](http://cseweb.ucsd.edu/~arunkk/), [Giorgio Quer](https://www.scripps.edu/science-and-medicine/translational-institute/about/people/giorgio-quer/)
 - **Senior Personnel**: [Luca Bonomi](https://medschool.ucsd.edu/som/dbmi/people/fellows/Pages/Luca-Bonomi,-PhD.aspx), [Dezhi Hong](https://cseweb.ucsd.edu/~dehong/)
 - **Graduate Student Research Assistants**: Ranak Roy Chowdhury, Zichao Li, Vraj Shah, Xianjie Shen, Zihan Wang, Zeyun Wu
-- **External Partner**: [IEEE DataPort](https://ieee-dataport.org/)
+- **External Partner**: [IEEE DataPort](https://ieee-dataport.org/), [Google Tensorflow Extended Team](https://www.tensorflow.org/tfx), [Amazon AWS](https://aws.amazon.com/), [Databricks](https://databricks.com/), [OpenML](https://www.openml.org/), [Snowflake](https://www.snowflake.com/), [Tempus Lab](https://www.tempus.com/)
 
 ## Publication & Pre-Prints
 
