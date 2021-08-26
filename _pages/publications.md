@@ -16,6 +16,18 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2021
 
+* Coarse2Fine: Fine-grained Text Classification on Coarsely-grained Annotated Data <br/>
+Dheeraj Mekala, Varun Gangal and Jingbo Shang. **EMNLP** 2021. 
+
+* LayoutReading: Pre-training of Text and Layout for Reading Order Detection <br/>
+Zilong Wang, Yiheng Xu, Lei Cui, Jingbo Shang and Furu Wei. **EMNLP** 2021. 
+
+* "Average" Approximates "First Principal Component"? An Empirical Analysis on Representations from Neural Language Models <br/>
+Zihan Wang, Chengyu Dong and Jingbo Shang. **EMNLP** 2021. (short) [arXiv:2104.08673](https://arxiv.org/abs/2104.08673) [[code](https://github.com/ZihanWangKi/AverageApproxFirstPC)]
+
+* BFClass: A Backdoor-free Text Classification Framework <br/>
+Zichao Li, Dheeraj Mekala, Chengyu Dong and Jingbo Shang. **EMNLP** (Findings) 2021. 
+
 * UCPhrase: Unsupervised Context-aware Quality Phrase Tagging <br/>
 Xiaotao Gu\*, Zihan Wang\*, Zhenyu Bi, Yu Meng, Liyuan Liu, Jiawei Han and Jingbo Shang. **KDD 2021**. [[arXiv:2105.14078](https://arxiv.org/abs/2105.14078)] [[code](https://github.com/xgeric/UCPhrase-exp)]
 
@@ -27,9 +39,6 @@ Jiaman Wu, Dezhi Hong, Rajesh Gupta and Jingbo Shang. **ACL** (Findings) 2021. [
 
 * [Unsupervised Deep Keyphrase Generation](https://arxiv.org/abs/2104.08729) <br/>
 Xianjie Shen, Yinghan Wang, Rui Meng and Jingbo Shang. arXiv:2104.08729. [[code](https://github.com/Jayshen0/Unsupervised-Deep-Keyphrase-Generation)]
-
-* ["Average" Approximates "First Principal Component"? An Empirical Analysis on Representations from Neural Language Models](https://arxiv.org/abs/2104.08673) <br/>
-Zihan Wang, Chengyu Dong and Jingbo Shang. arXiv:2104.08673. [[code](https://github.com/ZihanWangKi/AverageApproxFirstPC)]
 
 * [News Meets Microblog: Hashtag Annotation via Retriever-Generator](https://arxiv.org/abs/2104.08723) <br/>
 Xiuwen Zheng, Dheeraj Mekala, Amarnath Gupta and Jingbo Shang.  arXiv:2104.08723. [[code](https://github.com/dheeraj7596/HashNews)]
