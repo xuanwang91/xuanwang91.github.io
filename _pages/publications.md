@@ -23,7 +23,7 @@ Dheeraj Mekala, Varun Gangal and Jingbo Shang. **EMNLP** 2021.
 Zilong Wang, Yiheng Xu, Lei Cui, Jingbo Shang and Furu Wei. **EMNLP** 2021. 
 
 * "Average" Approximates "First Principal Component"? An Empirical Analysis on Representations from Neural Language Models <br/>
-Zihan Wang, Chengyu Dong and Jingbo Shang. **EMNLP** 2021. (short) [arXiv:2104.08673](https://arxiv.org/abs/2104.08673) [[code](https://github.com/ZihanWangKi/AverageApproxFirstPC)]
+Zihan Wang, Chengyu Dong and Jingbo Shang. **EMNLP** 2021. (short) [[arXiv:2104.08673](https://arxiv.org/abs/2104.08673)] [[code](https://github.com/ZihanWangKi/AverageApproxFirstPC)]
 
 * BFClass: A Backdoor-free Text Classification Framework <br/>
 Zichao Li, Dheeraj Mekala, Chengyu Dong and Jingbo Shang. **EMNLP** (Findings) 2021. 
