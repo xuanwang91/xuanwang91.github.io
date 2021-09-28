@@ -238,7 +238,7 @@ Lab Alumni
 
 - Zhenyu Bi (2021 --> CMU for Master study)
 - Joey Hou (2021 --> UPenn for Master study)
-- Yang Li (2021)
+- Yang Li (2021 --> Columbia for Master study)
 - George Pu (2021 --> UCLA for Master study)
 
 <br/>
