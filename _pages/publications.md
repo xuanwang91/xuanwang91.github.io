@@ -16,10 +16,13 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2021
 
+* [Double Descent in Adversarial Training: An Implicit Label Noise Perspective](https://arxiv.org/abs/2110.03135) <br/>
+Chengyu Dong, Liyuan Liu and Jingbo Shang. arXiv:2110.03135.
+
 * Coarse2Fine: Fine-grained Text Classification on Coarsely-grained Annotated Data <br/>
 Dheeraj Mekala, Varun Gangal and Jingbo Shang. **EMNLP** 2021. 
 
-* LayoutReading: Pre-training of Text and Layout for Reading Order Detection <br/>
+* LayoutReader: Pre-training of Text and Layout for Reading Order Detection <br/>
 Zilong Wang, Yiheng Xu, Lei Cui, Jingbo Shang and Furu Wei. **EMNLP** 2021. 
 
 * "Average" Approximates "First Principal Component"? An Empirical Analysis on Representations from Neural Language Models <br/>
@@ -52,7 +55,7 @@ Zihan Wang, Dheeraj Mekala and Jingbo Shang. **NAACL** 2021. [[code](https://git
 * TaxoClass: Hierarchical Multi-Label Text Classification Using Only Class Names <br/>
 Jiaming Shen, Wenda Qiu, Yu Meng, Jingbo Shang, Xiang Ren and Jiawei Han. **NAACL** 2021.
 
-* [Data Profiling for Adversarial Training: On the Ruin of Problematic Data](https://arxiv.org/abs/2102.07437) <br/>
+* [Data Quality Matters For Adversarial Training: An Empirical Study](https://arxiv.org/abs/2102.07437) <br/>
 Chengyu Dong, Liyuan Liu and Jingbo Shang. arXiv:2102.07437. [[code](https://github.com/shwinshaker/RobustDataProfiling)]
 
 * [Minimally-Supervised Structure-Rich Text Categorization via Learning on Text-Rich Networks](https://www.dropbox.com/s/fksrfgfsaf4lvtd/%5BWWW%2721%5D%20Minimally-Supervised%20Structure-Rich%20Text%20Categorization%20via%20Learning%20on%20Text-Rich%20Networks.pdf?dl=1) <br/>
