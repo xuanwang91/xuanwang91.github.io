@@ -40,7 +40,7 @@ Zihan Wang, Chengyu Dong and Jingbo Shang. **EMNLP** 2021. (short) [[arXiv:2104.
 Zichao Li, Dheeraj Mekala, Chengyu Dong and Jingbo Shang. **EMNLP** (Findings) 2021. 
 
 * UCPhrase: Unsupervised Context-aware Quality Phrase Tagging <br/>
-Xiaotao Gu\*, Zihan Wang\*, Zhenyu Bi, Yu Meng, Liyuan Liu, Jiawei Han and Jingbo Shang. **KDD 2021**. [[arXiv:2105.14078](https://arxiv.org/abs/2105.14078)] [[code](https://github.com/xgeric/UCPhrase-exp)]
+Xiaotao Gu\*, Zihan Wang\*, Zhenyu Bi, Yu Meng, Liyuan Liu, Jiawei Han and Jingbo Shang. **KDD** 2021. [[arXiv:2105.14078](https://arxiv.org/abs/2105.14078)] [[code](https://github.com/xgeric/UCPhrase-exp)]
 
 * Weakly Supervised Named Entity Tagging with Learnable Logical Rules <br/>
 Jiacheng Li, Haibo Ding, Jingbo Shang, Julian McAuley and Zhe Feng. **ACL** 2021. [[code](https://github.com/JiachengLi1995/TALLOR)]
