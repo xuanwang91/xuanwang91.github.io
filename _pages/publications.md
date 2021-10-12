@@ -13,6 +13,11 @@ author_profile: true
 * [Phrase Mining from Massive Text and Its Applications](http://www.morganclaypool.com/doi/abs/10.2200/S00759ED1V01Y201702DMK013) <br/>
 Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
+### 2022
+
+* ESC-GAN: Extending Spatial Coverage of Physical Sensors <br/>
+Xiyuan Zhang, Ranak Roy Chowdhury, Jingbo Shang, Rajesh Gupta and Dezhi Hong. **WSDM** 2022.
+
 
 ### 2021
 
