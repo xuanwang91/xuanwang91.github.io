@@ -24,6 +24,9 @@ Xiyuan Zhang, Ranak Roy Chowdhury, Jingbo Shang, Rajesh Gupta and Dezhi Hong. **
 * [Double Descent in Adversarial Training: An Implicit Label Noise Perspective](https://arxiv.org/abs/2110.03135) <br/>
 Chengyu Dong, Liyuan Liu and Jingbo Shang. arXiv:2110.03135.
 
+* UniTS: Short-Time Fourier Inspired Neural Networks for Sensory Time Series Classification <br/>
+Shuheng Li, Ranak Roy Chowdhury, Jingbo Shang, Rajesh K. Gupta and Dezhi Hong. **SenSys** 2021.
+
 * Coarse2Fine: Fine-grained Text Classification on Coarsely-grained Annotated Data <br/>
 Dheeraj Mekala, Varun Gangal and Jingbo Shang. **EMNLP** 2021. 
 
