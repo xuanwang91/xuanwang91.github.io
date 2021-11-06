@@ -72,7 +72,7 @@ Lecture Schedule
 
 **Recording Note**: Please check out Canvas for recordings.
 
-**HW Note**: All HWs due before the lecture time 6PM PT in the afternoon. 
+**HW Note**: All HWs **due before the lecture time 2PM PT**. 
 
 Week | Date        | Topic & Slides                                              | Events
 1    | 01/05 (Wed) | Intro and Text Preprocessing                                | 
