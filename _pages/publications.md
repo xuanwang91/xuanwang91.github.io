@@ -15,6 +15,10 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2022
 
+* Unsupervised Deep Keyphrase Generation <br/>
+Xianjie Shen, Yinghan Wang, Rui Meng and Jingbo Shang. **AAAI 2022**. [arXiv:2104.08729](https://arxiv.org/abs/2104.08729) [[code](https://github.com/Jayshen0/Unsupervised-Deep-Keyphrase-Generation)]
+
+
 * ESC-GAN: Extending Spatial Coverage of Physical Sensors <br/>
 Xiyuan Zhang, Ranak Roy Chowdhury, Jingbo Shang, Rajesh Gupta and Dezhi Hong. **WSDM** 2022.
 
@@ -25,7 +29,7 @@ Xiyuan Zhang, Ranak Roy Chowdhury, Jingbo Shang, Rajesh Gupta and Dezhi Hong. **
 Chengyu Dong, Liyuan Liu and Jingbo Shang. arXiv:2110.03135.
 
 * UniTS: Short-Time Fourier Inspired Neural Networks for Sensory Time Series Classification <br/>
-Shuheng Li, Ranak Roy Chowdhury, Jingbo Shang, Rajesh K. Gupta and Dezhi Hong. **SenSys** 2021.
+Shuheng Li, Ranak Roy Chowdhury, Jingbo Shang, Rajesh K. Gupta and Dezhi Hong. **SenSys** 2021. [[code](https://github.com/Shuheng-Li/UniTS-Sensory-Time-Series-Classification)]
 
 * Coarse2Fine: Fine-grained Text Classification on Coarsely-grained Annotated Data <br/>
 Dheeraj Mekala, Varun Gangal and Jingbo Shang. **EMNLP** 2021. 
@@ -47,9 +51,6 @@ Jiacheng Li, Haibo Ding, Jingbo Shang, Julian McAuley and Zhe Feng. **ACL** 2021
 
 * Sensei: Self-Supervised Sensor Name Segmentation <br/>
 Jiaman Wu, Dezhi Hong, Rajesh Gupta and Jingbo Shang. **ACL** (Findings) 2021. [arXiv:2101.00130](https://arxiv.org/abs/2101.00130). [[code](https://github.com/work4cs/sensei)]
-
-* [Unsupervised Deep Keyphrase Generation](https://arxiv.org/abs/2104.08729) <br/>
-Xianjie Shen, Yinghan Wang, Rui Meng and Jingbo Shang. arXiv:2104.08729. [[code](https://github.com/Jayshen0/Unsupervised-Deep-Keyphrase-Generation)]
 
 * [News Meets Microblog: Hashtag Annotation via Retriever-Generator](https://arxiv.org/abs/2104.08723) <br/>
 Xiuwen Zheng, Dheeraj Mekala, Amarnath Gupta and Jingbo Shang.  arXiv:2104.08723. [[code](https://github.com/dheeraj7596/HashNews)]
