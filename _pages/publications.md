@@ -16,7 +16,7 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 ### 2022
 
 * Unsupervised Deep Keyphrase Generation <br/>
-Xianjie Shen, Yinghan Wang, Rui Meng and Jingbo Shang. **AAAI 2022**. [arXiv:2104.08729](https://arxiv.org/abs/2104.08729) [[code](https://github.com/Jayshen0/Unsupervised-Deep-Keyphrase-Generation)]
+Xianjie Shen, Yinghan Wang, Rui Meng and Jingbo Shang. **AAAI 2022**. [[arXiv:2104.08729](https://arxiv.org/abs/2104.08729)] [[code](https://github.com/Jayshen0/Unsupervised-Deep-Keyphrase-Generation)]
 
 
 * ESC-GAN: Extending Spatial Coverage of Physical Sensors <br/>
@@ -136,7 +136,7 @@ Jiaming Shen, Jinfeng Xiao, Yu Zhang, Carl Yang, Jingbo Shang, Jinda Han, Saurab
 * [Automated Phrase Mining from Massive Text Corpora](https://www.dropbox.com/s/47urzwmmg5wp2us/%5BTKDE%2718%5DAutomated%20Phrase%20Mining%20from%20Massive%20Text%20Corpora.pdf?dl=1) <br/>
 Jingbo Shang, Jialu Liu, Meng Jiang, Xiang Ren, Clare R Voss and Jiawei Han. **TKDE** 2018. [[code](https://github.com/shangjingbo1226/AutoPhrase)]
 * [Empower Sequence Labeling with Task-Aware Neural Language Model](https://www.dropbox.com/s/b54sl92483lxxpg/%5BAAAI%2718%5DEmpower%20Sequence%20Labeling%20with%20Task-Aware%20Neural%20Language%20Model.pdf?dl=1) <br/>
-Liyuan Liu, Jingbo Shang, Frank Xu, Xiang Ren, Huan Gui, Jian Peng and Jiawei Han. **AAAI*** 2018. [[code](https://github.com/LiyuanLucasLiu/LM-LSTM-CRF)] [[project page](https://liyuanlucasliu.github.io/LM-LSTM-CRF/)]
+Liyuan Liu, Jingbo Shang, Frank Xu, Xiang Ren, Huan Gui, Jian Peng and Jiawei Han. **AAAI** 2018. [[code](https://github.com/LiyuanLucasLiu/LM-LSTM-CRF)] [[project page](https://liyuanlucasliu.github.io/LM-LSTM-CRF/)]
 * [DPPred: An Effective Prediction Framework with Concise Discriminative Patterns](https://www.dropbox.com/s/tb76a298vhymdn2/%5BTKDE%2718%5DDPPred-%20An%20Effective%20Prediction%20Framework%20with%20Concise%20Discriminative%20Patterns.pdf?dl=1) <br/>
 Jingbo Shang, Meng Jiang, Wenzhu Tong, Jinfeng Xiao, Jian Peng and Jiawei Han. **TKDE** 2018. [[code](https://github.com/shangjingbo1226/DPPred)]
 * [Cross-type Biomedical Named Entity Recognition with Deep Multi-Task Learning](https://www.dropbox.com/s/hamy93eh8iows2m/%5BBioinformatics%2718%5DCross-type%20Biomedical%20Named%20Entity%20Recognition%20with%20Deep%20Multi-Task%20Learning.pdf?dl=1) <br/>
