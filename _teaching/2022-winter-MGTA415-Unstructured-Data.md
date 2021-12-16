@@ -8,7 +8,7 @@ date: 2022-01-04
 location: "La Jolla, CA"
 ---
 
-**Class Time**: Wednesdays, 2PM to 4:50PM.  **Room**: OTRSN 1E107.  **Piazza**: TBD
+**Class Time**: Wednesdays, 2PM to 4:50PM.  **Room**: OTRSN 1E107.  **Piazza**: [piazza.com/ucsd/winter2022/mgta415](https://piazza.com/ucsd/winter2022/mgta415)
 
 
 Overview
@@ -75,7 +75,7 @@ Lecture Schedule
 **HW Note**: All HWs **due before the lecture time 2PM PT**. 
 
 Week | Date        | Topic & Slides                                              | Events
-1    | 01/05 (Wed) | Intro and Text Preprocessing                                | 
+1    | 01/05 (Wed) | [Intro and Text Preprocessing](https://www.dropbox.com/sh/u3g8w7v8vhqcahg/AADZvGJwFi-tqtbNJtCDrozha?dl=0)                                | 
 2    | 01/12 (Wed) | Machine Learning Concepts and Basics                        | HW1 out
 3    | 01/19 (Wed) | Text Classification using Bag-of-Words                      | DM Challenge out
 4    | 01/26 (Wed) | Word Embedding & Language Models: from N-Gram to Neural LMs | HW2 out
@@ -117,7 +117,7 @@ Project (25%)
     - 1 to 4 members per team. More members, higher expectation.
     - Define your own research problem and justify its importance
     - Final Deliverables: Research Paper-like Report
-        - Report due on Mar 13, End of the day, Pacific Time. 
+        - Report **due on Mar 13**, End of the day, Pacific Time. 
         - Write a 5 to 9 pages report (research-paper like following ACL template). The pages here do not include references.
         - Come up with your hypothesis and find some datasets for verification
         - Design your own models or try a large variety of existing models
