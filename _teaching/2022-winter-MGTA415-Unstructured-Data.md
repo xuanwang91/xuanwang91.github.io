@@ -1,10 +1,10 @@
 ---
-title: "2022-Winter-MGTA415-Working with Unstructured Data"
+title: "2022-Winter-MGTA415-Analyzing Unstructured Data"
 collection: teaching
 type: "Graduate Class"
 permalink: /teaching/2022-winter-MGTA415-Unstructured-Data
 venue: "Rady Management School, UCSD"
-date: 2022-01-04
+date: 2022-01-03
 location: "La Jolla, CA"
 ---
 
