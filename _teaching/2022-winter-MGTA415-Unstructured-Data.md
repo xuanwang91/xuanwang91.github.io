@@ -8,7 +8,13 @@ date: 2022-01-03
 location: "La Jolla, CA"
 ---
 
-**Class Time**: Wednesdays, 2PM to 4:50PM.  **Room**: OTRSN 1E107.  **Piazza**: [piazza.com/ucsd/winter2022/mgta415](https://piazza.com/ucsd/winter2022/mgta415)
+**Class Time**: Wednesdays, 2PM to 4:50PM.  **Room**: ~~OTRSN 1E107~~[https://ucsd.zoom.us/j/95861287987](https://ucsd.zoom.us/j/95861287987).  **Piazza**: [piazza.com/ucsd/winter2022/mgta415](https://piazza.com/ucsd/winter2022/mgta415)
+
+
+Online Lecturing
+======
+
+Due to the COVID-19 Omicron Variant, in the first two weeks, this course will be delivered over Zoom: [https://ucsd.zoom.us/j/95861287987](https://ucsd.zoom.us/j/95861287987).
 
 
 Overview
