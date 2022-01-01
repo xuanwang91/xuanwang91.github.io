@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Class"
 permalink: /teaching/2022-winter-DSC190-DM
 venue: "HDSI, UCSD"
-date: 2021-01-04
+date: 2022-01-04
 location: "La Jolla, CA"
 ---
 
