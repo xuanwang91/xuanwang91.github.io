@@ -8,7 +8,13 @@ date: 2021-01-04
 location: "La Jolla, CA"
 ---
 
-**Class Time**: Tuesdays and Thursdays, 8AM to 9:50AM.  **Room**: PETER 104.  **Piazza**: [piazza.com/ucsd/winter2022/dsc190a00](https://piazza.com/ucsd/winter2022/dsc190a00)
+**Class Time**: Tuesdays and Thursdays, 8AM to 9:50AM.  **Room**: ~~PETER 104~~ [https://ucsd.zoom.us/j/97017584161](https://ucsd.zoom.us/j/97017584161).  **Piazza**: [piazza.com/ucsd/winter2022/dsc190a00](https://piazza.com/ucsd/winter2022/dsc190a00)
+
+Online Lecturing
+======
+
+Due to the COVID-19 Omicron Variant, in the first two weeks, this course will be delivered over Zoom: [https://ucsd.zoom.us/j/97017584161](https://ucsd.zoom.us/j/97017584161)
+
 
 Overview
 ======
@@ -64,7 +70,7 @@ Lecture Schedule
 **HW Note**: All HWs due before the lecture time 9:30 AM PT in the morning. 
 
 Week | Date        | Topic & Slides                                                  | Events
-1    | 01/04 (Tue) | Introduction: Data Types, Tasks, and Evaluations | HW1 out
+1    | 01/04 (Tue) | [Introduction: Data Types, Tasks, and Evaluations](https://www.dropbox.com/sh/qza6t2wudbeuv6c/AABDFig0I6pJl3-PEp0wc0TFa?dl=0) | HW1 out
 1    | 01/06 (Thu) | Supervised - Least-Squares Regression and Logistic Regression |
 2    | 01/11 (Tue) | Supervised - Overfitting and Regularization | HW1 Due, HW2 out
 2    | 01/13 (Thu) | Supervised - Support Vector Machine |
@@ -116,7 +122,7 @@ It is a individual-based data mining competition with quantitative evaluation. T
 Project (25%)
 ======
 
-Instructions for both choices will be available soon. Project ****due Extended to Sunday, Mar 13 EOD****.
+Instructions for both choices will be available soon. Project ****due on Sunday, Mar 13 EOD****.
 
 Here is a quick overview:
 - **Choice 1: Team-Based Open-Ended Project**
