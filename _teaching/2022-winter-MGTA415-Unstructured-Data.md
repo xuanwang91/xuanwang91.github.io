@@ -52,7 +52,7 @@ Prerequisites
 Teaching Assistant
 ======
 
-- TBD
+- Xiaochen Gao
 
 Office Hours
 ======
@@ -60,6 +60,9 @@ Office Hours
 - Jingbo Shang
     - Office Hour: Wednesdays, 10 to 11 AM
     - Zoom link: [https://ucsd.zoom.us/my/jshang](https://ucsd.zoom.us/my/jshang)
+- Xiaochen Gao
+    - Office Hour: Mondays, 10 to 11 AM
+    - Zoom link: TBD
 
 Note: all times are in **Pacific Time**.
 
