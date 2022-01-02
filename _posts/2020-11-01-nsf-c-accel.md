@@ -34,8 +34,20 @@ We envision an open-source, privacy-preserving intelligent system for searching 
 
 ## Publication & Pre-Prints
 
-* [Unsupervised Deep Keyphrase Generation](https://arxiv.org/abs/2104.08729). <br/>
-Xianjie Shen, Yinghan Wang, Rui Meng and Jingbo Shang. arXiv:2104.08729.
+* Unsupervised Deep Keyphrase Generation <br/>
+Xianjie Shen, Yinghan Wang, Rui Meng and Jingbo Shang. **AAAI 2022**. [[arXiv:2104.08729](https://arxiv.org/abs/2104.08729)] [[code](https://github.com/Jayshen0/Unsupervised-Deep-Keyphrase-Generation)]
+
+* UniTS: Short-Time Fourier Inspired Neural Networks for Sensory Time Series Classification <br/>
+Shuheng Li, Ranak Roy Chowdhury, Jingbo Shang, Rajesh K. Gupta and Dezhi Hong. **SenSys** 2021. [[code](https://github.com/Shuheng-Li/UniTS-Sensory-Time-Series-Classification)]
+
+* Coarse2Fine: Fine-grained Text Classification on Coarsely-grained Annotated Data <br/>
+Dheeraj Mekala, Varun Gangal and Jingbo Shang. **EMNLP** 2021. 
+
+* "Average" Approximates "First Principal Component"? An Empirical Analysis on Representations from Neural Language Models <br/>
+Zihan Wang, Chengyu Dong and Jingbo Shang. **EMNLP** 2021. (short) [[arXiv:2104.08673](https://arxiv.org/abs/2104.08673)] [[code](https://github.com/ZihanWangKi/AverageApproxFirstPC)]
+
+* BFClass: A Backdoor-free Text Classification Framework <br/>
+Zichao Li, Dheeraj Mekala, Chengyu Dong and Jingbo Shang. **EMNLP** (Findings) 2021. 
 
 * UCPhrase: Unsupervised Context-aware Quality Phrase Tagging <br/>
 Xiaotao Gu\*, Zihan Wang\*, Zhenyu Bi, Yu Meng, Liyuan Liu, Jiawei Han and Jingbo Shang. **KDD 2021**. [[arXiv:2105.14078](https://arxiv.org/abs/2105.14078)] [[code](https://github.com/xgeric/UCPhrase-exp)]
