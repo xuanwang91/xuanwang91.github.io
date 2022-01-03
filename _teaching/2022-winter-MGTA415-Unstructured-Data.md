@@ -62,7 +62,7 @@ Office Hours
     - Zoom link: [https://ucsd.zoom.us/my/jshang](https://ucsd.zoom.us/my/jshang)
 - Xiaochen Gao
     - Office Hour: Mondays, 10 to 11 AM
-    - Zoom link: TBD
+    - Zoom link: [https://ucsd.zoom.us/j/91080310747](https://ucsd.zoom.us/j/91080310747)
 
 Note: all times are in **Pacific Time**.
 
