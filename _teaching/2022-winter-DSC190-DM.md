@@ -8,7 +8,7 @@ date: 2022-01-04
 location: "La Jolla, CA"
 ---
 
-**Class Time**: Tuesdays and Thursdays, 8AM to 9:50AM.  **Room**: ~~PETER 104~~ [https://ucsd.zoom.us/j/97017584161](https://ucsd.zoom.us/j/97017584161).  **Piazza**: [piazza.com/ucsd/winter2022/dsc190a00](https://piazza.com/ucsd/winter2022/dsc190a00)
+**Class Time**: Tuesdays and Thursdays, 8AM to 9:20AM.  **Room**: ~~PETER 104~~ [https://ucsd.zoom.us/j/97017584161](https://ucsd.zoom.us/j/97017584161).  **Piazza**: [piazza.com/ucsd/winter2022/dsc190a00](https://piazza.com/ucsd/winter2022/dsc190a00)
 
 Online Lecturing
 ======
