@@ -85,7 +85,7 @@ Lecture Schedule
 
 Week | Date        | Topic & Slides                                              | Events
 1    | 01/05 (Wed) | [Intro and Text Preprocessing](https://www.dropbox.com/sh/u3g8w7v8vhqcahg/AADZvGJwFi-tqtbNJtCDrozha?dl=0)                                | 
-2    | 01/12 (Wed) | Machine Learning Concepts and Basics                        | HW1 out
+2    | 01/12 (Wed) | [Machine Learning Concepts and Basics](https://www.dropbox.com/sh/m39hylz3vwad7uv/AADBx4pHgfHm5fPfZJwud76Pa?dl=0)                        | HW1 out
 3    | 01/19 (Wed) | Text Classification using Bag-of-Words                      | DM Challenge out
 4    | 01/26 (Wed) | Word Embedding & Language Models: from N-Gram to Neural LMs | HW2 out
 5    | 02/02 (Wed) | Information Retrieval & Topic Modeling                      | HW1 due 
