@@ -76,11 +76,11 @@ Week | Date        | Topic & Slides                                             
 2    | 01/13 (Thu) | [Supervised - Support Vector Machine](https://www.dropbox.com/sh/bewsh22xi095bvn/AAAKF4tjT_p8ObWc7Kes3TPpa?dl=0) |
 3    | 01/18 (Tue) | [Supervised - Naive Bayes and Decision Tree](https://www.dropbox.com/sh/a1zjggncl3164nv/AAA09_C9vcusOJ7ssYLjc10Ba?dl=0) |
 3    | 01/20 (Thu) | [Supervised - Ensemble Learning: Bagging and Boosting](https://www.dropbox.com/sh/z2yhhx04hot6rwq/AACeF5AvCu330fHT4glG07sba?dl=0) | 
-4    | 01/25 (Tue) | Cluster Analysis - K-Means Clustering & its Variants | HW2 Due, HW3 out
-4    | 01/27 (Thu) | Cluster Analysis - "Soft" Clustering: Gaussian Mixture |
-5    | 02/01 (Tue) | Cluster Analysis - Density-based Clustering: DBSCAN |
-5    | 02/03 (Thu) | Cluster Analysis - Principle Component Analysis | DM Challenge out
-6    | 02/08 (Tue) | Pattern Analysis - Frequent Pattern and Association Rules |
+4    | 01/25 (Tue) | [Cluster Analysis - K-Means Clustering & its Variants](https://www.dropbox.com/sh/hfv7g0e3i8r17tz/AADDB5GJtbWmr6OLmVHQ63Lna?dl=0) | HW2 Due, HW3 out
+4    | 01/27 (Thu) | [Cluster Analysis - "Soft" Clustering: Gaussian Mixture](https://www.dropbox.com/sh/g15kdt7fc1p94hw/AAAUaWObO20yhYOTAOGZ-KUKa?dl=0) |
+5    | 02/01 (Tue) | [Cluster Analysis - Density-based Clustering: DBSCAN](https://www.dropbox.com/sh/x1uqzul62090g3w/AADvK0Py7hMtZlpvFO13lNila?dl=0) |
+5    | 02/03 (Thu) | [Cluster Analysis - Principle Component Analysis](https://www.dropbox.com/sh/cbplxwduz22y9ov/AADwkPdbBoRpBC-NVn21zAvAa?dl=0) | DM Challenge out
+6    | 02/08 (Tue) | [Pattern Analysis - Frequent Pattern and Association Rules](https://www.dropbox.com/sh/fs6n9lbhnzode17/AABhk7ZMixrj5mOCJeKGMTt9a?dl=0) |
 6    | 02/10 (Thu) | Midterm (24 hours on this date) |
 7    | 02/15 (Tue) | Recommender System - Collaborative Filtering | HW3 Due, HW4 out
 7    | 02/17 (Thu) | Recommender System - Latent Factor Models |
@@ -122,7 +122,7 @@ It is a individual-based data mining competition with quantitative evaluation. T
 Project (25%)
 ======
 
-Instructions for both choices will be available soon. Project ****due on Sunday, Mar 13 EOD****.
+Instructions for both choices will be available [here](https://www.dropbox.com/s/aqkk6q6hjtpzwbq/Project%20Instructions.pdf?dl=0). Project ****due on Sunday, Mar 13 EOD****.
 
 Here is a quick overview:
 - **Choice 1: Team-Based Open-Ended Project**
