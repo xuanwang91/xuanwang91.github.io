@@ -135,7 +135,7 @@ Here is a quick overview:
     - Up to 5% bonus for working demos/apps towards the total course grade.
 - **Choice 2: Individual-Based Deep Dive into Data Mining Methods**
     - Implement a few models learned from this course from scratch.
-    - Skeleton codes will be provided soon. Your work is more like "filling in blanks" following the TODOs outlined in the Jupyter-Notebook.
+    - Skeleton codes can be found [here](https://www.dropbox.com/sh/y5a5wvrysbl7mrd/AAARcWGHjlWRN9E-6B9H3KFCa?dl=0). Your work is more like "filling in blanks" following the TODOs outlined in the Jupyter-Notebook.
     - Each model has a point associated with it. 6 points required. Points for each model is available at the end of the instruction slides.
     - Write a report (pages based on points) describing your interesting findings.
     - Up to 5% bonus towards the total course grade. Roughly 1 point, 1%.
