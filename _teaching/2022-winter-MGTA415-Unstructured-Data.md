@@ -86,9 +86,9 @@ Lecture Schedule
 Week | Date        | Topic & Slides                                              | Events
 1    | 01/05 (Wed) | [Intro and Text Preprocessing](https://www.dropbox.com/sh/u3g8w7v8vhqcahg/AADZvGJwFi-tqtbNJtCDrozha?dl=0)                                | 
 2    | 01/12 (Wed) | [Machine Learning Concepts and Basics](https://www.dropbox.com/sh/m39hylz3vwad7uv/AADBx4pHgfHm5fPfZJwud76Pa?dl=0)                        | HW1 out
-3    | 01/19 (Wed) | [Text Classification using Bag-of-Words](https://www.dropbox.com/sh/35cw8c5upra479t/AACuoLPKZCuXN3Y3GzbvIXpua?dl=0)                      | DM Challenge out
+3    | 01/19 (Wed) | [Text Classification using Bag-of-Words](https://www.dropbox.com/sh/35cw8c5upra479t/AACuoLPKZCuXN3Y3GzbvIXpua?dl=0)                      | 
 4    | 01/26 (Wed) | [Word Embedding & Language Models: from N-Gram to Neural LMs](https://www.dropbox.com/sh/d11ddhvwmt4y9wj/AABLqauYZ17Tekbc60DWlb1Ia?dl=0) | HW2 out
-5    | 02/02 (Wed) | Information Retrieval & Topic Modeling                      | HW1 due 
+5    | 02/02 (Wed) | [Information Retrieval & Topic Modeling](https://www.dropbox.com/sh/cj22ysx72bxk490/AABwxrnuc6wNhzRoT40q31U2a?dl=0)                      | HW1 due, DM Challenge out
 6    | 02/09 (Wed) | Midterm Exam                                                |
 7    | 02/16 (Wed) | Phrase Mining and its applications                          | HW2 due, HW3 out
 8    | 02/23 (Wed) | Image Classification                                        | DM challenge due
@@ -114,7 +114,7 @@ It is an open-book, take-home exam, which covers all lectures given before the M
 Data Mining Challenge (25%)
 ======
 
-It is a individual-based data mining competition with quantitative evaluation. The challenge runs **from Jan 19 to Feb 20**. Note that the time displayed on Kaggle is in UTC, not PT.
+It is a individual-based data mining competition with quantitative evaluation. The challenge runs **from Feb 1 to Feb 28**. Note that the time displayed on Kaggle is in UTC, not PT.
 
 - Challenge Statement, Dataset, and Details: [challenge.zip](https://www.dropbox.com/s/xc04emu8i1td9qd/challenge.zip?dl=1)
 - Kaggle challenge link: [https://www.kaggle.com/t/aae1edde95094f65a4a92f7ff9f2eadf](https://www.kaggle.com/t/aae1edde95094f65a4a92f7ff9f2eadf)
