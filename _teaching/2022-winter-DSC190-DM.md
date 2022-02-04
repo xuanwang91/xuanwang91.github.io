@@ -114,7 +114,7 @@ It is an open-book, take-home exam, which covers all lectures given before the M
 Data Mining Challenge (25%)
 ======
 
-It is a individual-based data mining competition with quantitative evaluation. The challenge runs **from Feb 3 0:00:01 AM to Feb 24 4:59:59 PM PT**. Note that the time displayed on Kaggle is in UTC, not PT.
+It is a individual-based data mining competition with quantitative evaluation. The challenge runs **from Feb 3 to Feb 24**. Note that the time displayed on Kaggle is in UTC, not PT.
 
 - Challenge Statement, Dataset, and Details: [DSC 190_ Intro to Data Mining – Data Mining Challenge WI22.pdf](https://www.dropbox.com/s/fxamufen8akk0ex/DSC%20190_%20Intro%20to%20Data%20Mining%20%E2%80%93%20Data%20Mining%20Challenge%20WI22.pdf?dl=0)
 - Kaggle challenge link: [https://www.kaggle.com/c/ucsd-dsc190-wi22-introduction-to-data-mining](https://www.kaggle.com/c/ucsd-dsc190-wi22-introduction-to-data-mining)
