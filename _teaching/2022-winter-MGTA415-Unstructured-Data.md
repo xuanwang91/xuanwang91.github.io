@@ -108,7 +108,7 @@ Midterm (26%)
 It is an open-book, take-home exam, which covers all lectures given before the Midterm. Most of the questions will be open-ended. Some of them might be slightly more difficult than homework. You will have 24 hours to complete the midterm, which is expected for about 3 hours.
 
 - **Start**: Feb 9, 2 PM PT
-- **End**: Feb 9, 2 PM PT
+- **End**: Feb 10, 2 PM PT
 - Midterm problems download: TBD.
 
 Data Mining Challenge (25%)
