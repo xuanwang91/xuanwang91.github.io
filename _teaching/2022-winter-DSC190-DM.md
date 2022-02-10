@@ -108,7 +108,7 @@ It is an open-book, take-home exam, which covers all lectures given before the M
 
 - **Start**: Feb 10, 8 AM PT
 - **End**: Feb 11, 8 AM PT
-- Midterm problems download: TBD
+- Midterm problems download: [DSC190_Midterm_WI22.pdf](https://www.dropbox.com/s/jpm13xerh0p0udh/DSC190_Midterm_WI22.pdf?dl=0)
 - Please **make your submissions on Gradescope**.
 
 Data Mining Challenge (25%)
