@@ -82,8 +82,8 @@ Week | Date        | Topic & Slides                                             
 5    | 02/03 (Thu) | [Cluster Analysis - Principle Component Analysis](https://www.dropbox.com/sh/cbplxwduz22y9ov/AADwkPdbBoRpBC-NVn21zAvAa?dl=0) | DM Challenge out
 6    | 02/08 (Tue) | [Pattern Analysis - Frequent Pattern and Association Rules](https://www.dropbox.com/sh/fs6n9lbhnzode17/AABhk7ZMixrj5mOCJeKGMTt9a?dl=0) |
 6    | 02/10 (Thu) | Midterm (24 hours on this date) |
-7    | 02/15 (Tue) | Recommender System - Collaborative Filtering | HW3 Due, HW4 out
-7    | 02/17 (Thu) | Recommender System - Latent Factor Models |
+7    | 02/15 (Tue) | [Recommender System - Collaborative Filtering](https://www.dropbox.com/sh/9kpbbzlrdwgw30d/AAAV0lGaEknVOukRyQA7Yx_3a?dl=0) | HW3 Due, HW4 out
+7    | 02/17 (Thu) | [Recommender System - Latent Factor Models](https://www.dropbox.com/sh/n2t872ahnw6yg10/AAC7gc-9v9isdsDiN1F1NTlPa?dl=0) |
 8    | 02/22 (Tue) | Text Mining - Zipf's Law, Bags-of-words, and TF-IDF |
 8    | 02/24 (Thu) | Text Mining - Advanced Text Representations | DM Challenge due
 9    | 03/01 (Tue) | Network Mining - Small-Worlds & Random Graph Models | 
