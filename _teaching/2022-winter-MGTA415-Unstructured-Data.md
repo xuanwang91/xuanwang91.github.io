@@ -90,7 +90,7 @@ Week | Date        | Topic & Slides                                             
 4    | 01/26 (Wed) | [Word Embedding & Language Models: from N-Gram to Neural LMs](https://www.dropbox.com/sh/d11ddhvwmt4y9wj/AABLqauYZ17Tekbc60DWlb1Ia?dl=0) | HW2 out
 5    | 02/02 (Wed) | [Information Retrieval & Topic Modeling](https://www.dropbox.com/sh/cj22ysx72bxk490/AABwxrnuc6wNhzRoT40q31U2a?dl=0)                      | HW1 due, DM Challenge out
 6    | 02/09 (Wed) | Midterm Exam                                                |
-7    | 02/16 (Wed) | Phrase Mining and its applications                          | HW2 due, HW3 out
+7    | 02/16 (Wed) | [Phrase Mining and its applications](https://www.dropbox.com/sh/10hf6mddyzzjd5c/AABp9KSGTpA_nCZkaZ2FBdIVa?dl=0)                          | HW2 due, HW3 out
 8    | 02/23 (Wed) | Image Classification                                        | DM challenge due
 9    | 03/02 (Wed) | Named Entity Recognition                                    | 
 10   | 03/09 (Wed) | Weakly Supervised Text Classification                       | HW3 due
