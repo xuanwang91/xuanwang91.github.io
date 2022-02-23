@@ -91,7 +91,7 @@ Week | Date        | Topic & Slides                                             
 5    | 02/02 (Wed) | [Information Retrieval & Topic Modeling](https://www.dropbox.com/sh/cj22ysx72bxk490/AABwxrnuc6wNhzRoT40q31U2a?dl=0)                      | HW1 due, DM Challenge out
 6    | 02/09 (Wed) | Midterm Exam                                                |
 7    | 02/16 (Wed) | [Phrase Mining and its applications](https://www.dropbox.com/sh/10hf6mddyzzjd5c/AABp9KSGTpA_nCZkaZ2FBdIVa?dl=0)                          | HW2 due, HW3 out
-8    | 02/23 (Wed) | Image Classification                                        | DM challenge due
+8    | 02/23 (Wed) | [Image Classification](https://www.dropbox.com/sh/jnxf1g6cb2fp6jg/AAD-IwySyEBvALoBmKspCJMqa?dl=0)                                        | DM challenge due
 9    | 03/02 (Wed) | Named Entity Recognition                                    | 
 10   | 03/09 (Wed) | Weakly Supervised Text Classification                       | HW3 due
 
