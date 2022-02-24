@@ -17,19 +17,19 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 * Towards Comprehensive Patent Approval Predictions: Beyond Traditional Document Classification
  <br/>
-Xiaochen Kev Gao, Zhaoyi Hou, Yifei Ning, Jingbo Shang, Vish Krishnan. **ACL 2022**
+Xiaochen Kev Gao, Zhaoyi Hou, Yifei Ning, Jingbo Shang, Vish Krishnan. **ACL** 2022.
 
 * UCTopic: Unsupervised Contrastive Learning for Phrase Representations and Topic Mining <br/>
-Jiacheng Li, Jingbo Shang, Julian McAuley. **ACL 2022**
+Jiacheng Li, Jingbo Shang, Julian McAuley. **ACL** 2022.
 
 * Phrase-aware Unsupervised Constituency Parsing <br/>
-Xiaotao Gu, Yikang Shen, Jiaming Shen, Jingbo Shang, Jiawei Han. **ACL 2022**
+Xiaotao Gu, Yikang Shen, Jiaming Shen, Jingbo Shang, Jiawei Han. **ACL** 2022.
 
 *  OA-Mine: Open-World Attribute Mining for E-Commerce Products with Weak Supervision <br/>
-Xinyang Zhang, Chenwei Zhang, Xian Li, Xin Dong, Jingbo Shang, Christos Faloutsos and Jiawei Han. **WWW 2022**.
+Xinyang Zhang, Chenwei Zhang, Xian Li, Xin Dong, Jingbo Shang, Christos Faloutsos and Jiawei Han. **WWW** 2022.
 
 * Unsupervised Deep Keyphrase Generation <br/>
-Xianjie Shen, Yinghan Wang, Rui Meng and Jingbo Shang. **AAAI 2022**. [[arXiv:2104.08729](https://arxiv.org/abs/2104.08729)] [[code](https://github.com/Jayshen0/Unsupervised-Deep-Keyphrase-Generation)]
+Xianjie Shen, Yinghan Wang, Rui Meng and Jingbo Shang. **AAAI** 2022. [[arXiv:2104.08729](https://arxiv.org/abs/2104.08729)] [[code](https://github.com/Jayshen0/Unsupervised-Deep-Keyphrase-Generation)]
 
 
 * ESC-GAN: Extending Spatial Coverage of Physical Sensors <br/>
