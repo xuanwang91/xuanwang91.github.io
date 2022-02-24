@@ -85,7 +85,7 @@ Week | Date        | Topic & Slides                                             
 7    | 02/15 (Tue) | [Recommender System - Collaborative Filtering](https://www.dropbox.com/sh/9kpbbzlrdwgw30d/AAAV0lGaEknVOukRyQA7Yx_3a?dl=0) | HW3 Due, HW4 out
 7    | 02/17 (Thu) | [Recommender System - Latent Factor Models](https://www.dropbox.com/sh/n2t872ahnw6yg10/AAC7gc-9v9isdsDiN1F1NTlPa?dl=0) |
 8    | 02/22 (Tue) | [Text Mining - Zipf's Law, Bags-of-words, and TF-IDF](https://www.dropbox.com/sh/qsx2zh18b7wl9xq/AABBJQNXux20GBg9UT7o-8TGa?dl=0) |
-8    | 02/24 (Thu) | Text Mining - Advanced Text Representations | DM Challenge due
+8    | 02/24 (Thu) | [Text Mining - Advanced Text Representations](https://www.dropbox.com/sh/668nr7zi0xkpn3s/AACtbIkQuv-lcKAqydG3978aa?dl=0) | DM Challenge due
 9    | 03/01 (Tue) | Network Mining - Small-Worlds & Random Graph Models | 
 9    | 03/03 (Thu) | Network Mining - HITS, PageRank, Personalized PageRank and Node Embedding |
 10   | 03/08 (Tue) | Sequence Mining - Sliding Windows and Autoregression |
