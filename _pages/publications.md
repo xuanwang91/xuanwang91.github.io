@@ -17,13 +17,22 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 * Towards Comprehensive Patent Approval Predictions: Beyond Traditional Document Classification
  <br/>
-Xiaochen Kev Gao, Zhaoyi Hou, Yifei Ning, Jingbo Shang, Vish Krishnan. **ACL** 2022.
+Xiaochen Kev Gao, Zhaoyi Hou, Yifei Ning, Jingbo Shang and Vish Krishnan. **ACL** 2022.
 
 * UCTopic: Unsupervised Contrastive Learning for Phrase Representations and Topic Mining <br/>
-Jiacheng Li, Jingbo Shang, Julian McAuley. **ACL** 2022.
+Jiacheng Li, Jingbo Shang and Julian McAuley. **ACL** 2022.
 
 * Phrase-aware Unsupervised Constituency Parsing <br/>
-Xiaotao Gu, Yikang Shen, Jiaming Shen, Jingbo Shang, Jiawei Han. **ACL** 2022.
+Xiaotao Gu, Yikang Shen, Jiaming Shen, Jingbo Shang and Jiawei Han. **ACL** 2022.
+
+* Towards Few-shot Entity Recognition in Document Images: A Label-aware Sequence-to-Sequence Framework<br/>
+Zilong Wang and Jingbo Shang. **ACL** (Findings) 2022.
+
+* Towards Collaborative Neural-Symbolic Graph Semantic Parsing via Uncertainty<br/>
+Zi Lin, Jeremiah Zhe Liu and Jingbo Shang. **ACL** (Findings) 2022.
+
+* Learning Adaptive Axis Attentions in Fine-tuning: Beyond Fixed Sparse Attention Patterns<br/>
+Zihan Wang, Jiuxiang Gu, Jason Kuen, Handong Zhao, Vlad I Morariu, Ruiyi Zhang, Ani Nenkova, Tong Sun and Jingbo Shang. **ACL** (Findings) 2022.
 
 *  OA-Mine: Open-World Attribute Mining for E-Commerce Products with Weak Supervision <br/>
 Xinyang Zhang, Chenwei Zhang, Xian Li, Xin Dong, Jingbo Shang, Christos Faloutsos and Jiawei Han. **WWW** 2022.
