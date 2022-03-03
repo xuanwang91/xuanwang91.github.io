@@ -87,7 +87,7 @@ Week | Date        | Topic & Slides                                             
 8    | 02/22 (Tue) | [Text Mining - Zipf's Law, Bags-of-words, and TF-IDF](https://www.dropbox.com/sh/qsx2zh18b7wl9xq/AABBJQNXux20GBg9UT7o-8TGa?dl=0) |
 8    | 02/24 (Thu) | [Text Mining - Advanced Text Representations](https://www.dropbox.com/sh/668nr7zi0xkpn3s/AACtbIkQuv-lcKAqydG3978aa?dl=0) | DM Challenge due
 9    | 03/01 (Tue) | [Network Mining - Small-Worlds & Random Graph Models](https://www.dropbox.com/sh/qelft84o7ufubsv/AADuXAguEaLYRx3q9bWMm9Xpa?dl=0) | 
-9    | 03/03 (Thu) | Network Mining - HITS, PageRank, Personalized PageRank and Node Embedding |
+9    | 03/03 (Thu) | [Network Mining - HITS, PageRank, Personalized PageRank and Node Embedding](https://www.dropbox.com/sh/j9ut23o7t5k7k4e/AAALz_am1ahjcLFbxpIAxFasa?dl=0) |
 10   | 03/08 (Tue) | Sequence Mining - Sliding Windows and Autoregression |
 10   | 03/10 (Thu) | Text Data as Sequence - Named Entity Recognition | HW4 Due
 
