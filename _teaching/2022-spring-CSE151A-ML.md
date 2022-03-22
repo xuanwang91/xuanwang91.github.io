@@ -8,7 +8,7 @@ date: 2022-03-29
 location: "La Jolla, CA"
 ---
 
-**Class Time**: Tuesdays and Thursdays, 9:30AM to 10:50AM.  **Room**: WLH 2005.  **Piazza**: TBD.
+**Class Time**: Tuesdays and Thursdays, 9:30AM to 10:50AM.  **Room**: WLH 2005.  **Piazza**: [piazza.com/ucsd/spring2022/cse151a](https://piazza.com/ucsd/spring2022/cse151a).
 
 
 Additonal Course Policy for COVID-19
@@ -16,7 +16,8 @@ Additonal Course Policy for COVID-19
 
 While the university does not close, we are still in a pandemic. Here are some additional policies specifically designed to better protect our students in this course from COVID-19 risks.
 
-- **First lecture online**. We will deliver the first lecture online, as the students on the super-long waitlist may want to attend the first lecture too and we will likely flood the physical classroom. 
+- **First-week lectures online**. We will deliver the first-week lectures online, as the students on the super-long waitlist may want to attend the first lecture too and we will likely flood the physical classroom. 
+    - Zoom link for the first week: [https://ucsd.zoom.us/j/93540989128](https://ucsd.zoom.us/j/93540989128)
 - **Attendance is optional**. Podcast is enabled. You can also check out [my previous offering](https://shangjingbo1226.github.io/teaching/2021-spring-CSE151A-ML), which has Zoom videos.
 - **Midterm is take-home** instead of in-class. 
 
