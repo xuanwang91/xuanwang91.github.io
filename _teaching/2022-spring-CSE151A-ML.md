@@ -59,11 +59,11 @@ Office Hours
     - Office Hour: Wednesdays, 10 AM to 11 AM
     - Zoom link: [https://ucsd.zoom.us/my/jshang](https://ucsd.zoom.us/my/jshang)
 - Chengyu Dong
-    - Office Hour: TBD
-    - Zoom link: TBD
+    - Office Hour: Wednesday 2 PM to 3 PM
+    - Zoom link: [https://ucsd.zoom.us/j/5573458249](https://ucsd.zoom.us/j/5573458249)
 - Weitang Liu
-    - Office Hour: TBD
-    - Zoom link: TBD
+    - Office Hour: Mondays 1:30 PM to 2:30 PM
+    - CSE Basement Room: B215
 - Rajeshwari Sah
     - Office Hour: TBD
     - Zoom link: TBD
@@ -130,7 +130,7 @@ Midterm (40%)
 
 It is an open-book, take-home exam, which covers all lectures given before the Midterm. Most of the questions will be open-ended. Some of them might be slightly more difficult than homework. You will have 24 hours to complete the midterm, which is expected for about 2 hours.
 
-- **Start**: May 6, 9:30 AM PT
-- **End**: May 7, 9:30 AM PT
+- **Start**: May 5, 9:30 AM PT
+- **End**: May 6, 9:30 AM PT
 - Midterm problems download: TBD
 - Please **make your submissions on Gradescope**.
