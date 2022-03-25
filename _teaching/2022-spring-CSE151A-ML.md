@@ -63,13 +63,13 @@ Office Hours
     - Zoom link: [https://ucsd.zoom.us/j/5573458249](https://ucsd.zoom.us/j/5573458249)
 - Weitang Liu
     - Office Hour: Mondays 1:30 PM to 2:30 PM
-    - CSE Basement Room: B215
+    - CSE Basement Room B215
 - Rajeshwari Sah
-    - Office Hour: TBD
-    - Zoom link: TBD
+    - Office Hour: Wednesdays 3 PM to 4 PM
+    - Zoom link: [https://ucsd.zoom.us/j/94987933871](https://ucsd.zoom.us/j/94987933871?pwd=QVZLNGlKRjMvdC9Bb3pKd2l3L2Qvdz09)
 - Zilong Wang
-    - Office Hour: TBD
-    - Zoom link: TBD
+    - Office Hour: Friday 10:30 AM to 11:30 AM
+    - CSE Basement Room B215
 
 
 Note: all times are in **Pacific Time**.
