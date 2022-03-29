@@ -92,9 +92,9 @@ Lecture Schedule
 (the schedule is tentative)
 
 Week | Date        | Topic & Slides                                                  | Events
-1    | 03/29 (Tue) | Introduction: Concepts and Evaluations | HW1 out
-1    | 03/31 (Thu) | A Geometric View of Linear Algebra |
-2    | 04/05 (Tue) | Nearest Neighbor Classification | HW1 due, HW2 out
+1    | 03/29 (Tue) | [Introduction: Concepts and Evaluations](https://www.dropbox.com/sh/ryvu47vzdy0uvwr/AAAYPaQsrD6YZZukZ-xZ4NNOa?dl=0) | HW1 out
+1    | 03/31 (Thu) | [A Geometric View of Linear Algebra](https://www.dropbox.com/sh/hm2vbjzcplblmt7/AABQKBSNIGGVJtHhbd5GJ5dTa?dl=0) |
+2    | 04/05 (Tue) | [Nearest Neighbor Classification](https://www.dropbox.com/sh/u855jugmbxs679m/AAAyAbU8y1Zh5qoIs8VRUEu1a?dl=0) | HW1 due, HW2 out
 2    | 04/07 (Thu) | Gradients and Optimization |
 3    | 04/12 (Tue) | Least-Squares Regression, Logistic Regression, and Perceptron |
 3    | 04/14 (Thu) | Overfitting and Regularization | 
@@ -119,8 +119,8 @@ Homework (60%)
 
 Your lowest (of five) homework grades is dropped (or one homework can be skipped).
 
-- **HW1: Concepts and Evaluations (15%).** This homework mainly focuses on the machine learning concepts and how to evaluate different tasks.
-- **HW2: KNN and Linear Models (15%).** This homework mainly focuses on nearest neighbor, least-square regression, logistic regression, and regularization.
+- **[HW1: Concepts and Evaluations](https://www.dropbox.com/s/7q5xk6qp31dy7fz/HW1.zip?dl=1) (15%).** This homework mainly focuses on the machine learning concepts and how to evaluate different tasks.
+- **[HW2: KNN and Linear Models](https://www.dropbox.com/s/dul65m1o2zzvfoq/HW2.zip?dl=1) (15%).** This homework mainly focuses on nearest neighbor, least-square regression, logistic regression, and regularization.
 - **HW3: SVM and Clustering (15%).** This homework mainly focuses on support vector machine, k-means, Gaussian Mixture, and PCA.
 - **HW4: Ensemble Learning (15%).** This homework mainly focuses on decision tree, random forest, and AdaBoost.
 - **HW5: Neural Networks (15%).** This homework mainly focuses on implementation of some simple neural networks.
