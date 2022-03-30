@@ -40,7 +40,7 @@ Cooking is one of my hobbies and it is a great relax to me. From the computer sc
 
 I'm actively recruiting students who are excited about doing fun research. My lab has openings for PhD students and research internship opportunities for master/undergrad students (UCSD or external). Please check the following items before sending me an email.
 
-- **Applicants for UCSD PhD Program**: Please make sure that you have applied online and select my name as one of the faculty members that you wish to work with.
+- **Applicants for UCSD PhD Program**: Please make sure that you have applied online (CSE PhD Program and/or HDSI PhD Program) and select my name as one of the faculty members that you wish to work with. I will carefully review every applicantion that mentioned my name.
 - **Research Internship Opportunities**:
     * **If you are currently at UCSD**: I only take students who (1) have a clear research problem/objective and some initial ideas; (2) have relevant research experiences or have strong background in math/stats/physics; and (3) could devote enough time on research. Please highlight these in your email including a time plan.
     * **If you are not at UCSD** (e.g., Summer Internship): Visitors are mostly recommended by my collaborators and have their own funding support. The minimum duration of stay at UCSD is 12 weeks (preferably 6 months - 1 year). Please indicate the time range in your email.
