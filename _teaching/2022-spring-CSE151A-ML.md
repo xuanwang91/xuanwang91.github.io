@@ -120,7 +120,7 @@ Homework (60%)
 Your lowest (of five) homework grades is dropped (or one homework can be skipped).
 
 - **[HW1: Concepts and Evaluations](https://www.dropbox.com/s/7q5xk6qp31dy7fz/HW1.zip?dl=1) (15%).** This homework mainly focuses on the machine learning concepts and how to evaluate different tasks.
-- **[HW2: KNN and Linear Models](https://www.dropbox.com/s/dul65m1o2zzvfoq/HW2.zip?dl=1) (15%).** This homework mainly focuses on nearest neighbor, least-square regression, logistic regression, and regularization.
+- **[HW2: KNN and Linear Models](https://www.dropbox.com/s/e0rqnucp5rdrn97/HW2.zip?dl=1) (15%).** This homework mainly focuses on nearest neighbor, least-square regression, logistic regression, and regularization.
 - **HW3: SVM and Clustering (15%).** This homework mainly focuses on support vector machine, k-means, Gaussian Mixture, and PCA.
 - **HW4: Ensemble Learning (15%).** This homework mainly focuses on decision tree, random forest, and AdaBoost.
 - **HW5: Neural Networks (15%).** This homework mainly focuses on implementation of some simple neural networks.
