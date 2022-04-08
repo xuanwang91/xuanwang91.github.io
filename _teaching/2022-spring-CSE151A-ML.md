@@ -95,7 +95,7 @@ Week | Date        | Topic & Slides                                             
 1    | 03/29 (Tue) | [Introduction: Concepts and Evaluations](https://www.dropbox.com/sh/ryvu47vzdy0uvwr/AAAYPaQsrD6YZZukZ-xZ4NNOa?dl=0) | HW1 out
 1    | 03/31 (Thu) | [A Geometric View of Linear Algebra](https://www.dropbox.com/sh/hm2vbjzcplblmt7/AABQKBSNIGGVJtHhbd5GJ5dTa?dl=0) |
 2    | 04/05 (Tue) | [Nearest Neighbor Classification](https://www.dropbox.com/sh/u855jugmbxs679m/AAAyAbU8y1Zh5qoIs8VRUEu1a?dl=0) | HW1 due, HW2 out
-2    | 04/07 (Thu) | Gradients and Optimization |
+2    | 04/07 (Thu) | [Gradients and Optimization](https://www.dropbox.com/sh/7g87b5od2eynp9s/AAAZWI8ssG1py75imxg0DSHEa?dl=0) |
 3    | 04/12 (Tue) | Least-Squares Regression, Logistic Regression, and Perceptron |
 3    | 04/14 (Thu) | Overfitting and Regularization | 
 4    | 04/19 (Tue) | Support Vector Machine (SVM) | 
