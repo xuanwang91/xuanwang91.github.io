@@ -98,8 +98,8 @@ Week | Date        | Topic & Slides                                             
 2    | 04/07 (Thu) | [Gradients and Optimization](https://www.dropbox.com/sh/7g87b5od2eynp9s/AAAZWI8ssG1py75imxg0DSHEa?dl=0) |
 3    | 04/12 (Tue) | [Least-Squares Regression, Logistic Regression, and Perceptron](https://www.dropbox.com/sh/4vt1uu4n44sax5s/AAC0edTHtsu2f198RZW96gNta?dl=0) |
 3    | 04/14 (Thu) | [Overfitting and Regularization](https://www.dropbox.com/sh/n0v23ou9ckabjnk/AAC_FuGHb70vRQ3VebIOvNUPa?dl=0) | 
-4    | 04/19 (Tue) | Support Vector Machine (SVM) | 
-4    | 04/21 (Thu) | SVM: Duality and Kernel | HW2 due, HW3 out
+4    | 04/19 (Tue) | [Support Vector Machine (SVM)](https://www.dropbox.com/sh/c0oltxmslkeikne/AABIpnk0TU16YK1faVWK5nHxa?dl=0) | 
+4    | 04/21 (Thu) | [SVM: Duality and Kernel](https://www.dropbox.com/sh/y0p5hbm28xdezrg/AAA4OQsotjCGlHp5nO342fPGa?dl=0) | HW2 due, HW3 out
 5    | 04/26 (Tue) | K-Means Clustering & its Variants |
 5    | 04/28 (Thu) | "Soft" Clustering: Gaussian Mixture |
 6    | 05/03 (Tue) | Principle Component Analysis |
@@ -122,8 +122,8 @@ Your lowest (of five) homework grades is dropped (or one homework can be skipped
 - **[HW1: Concepts and Evaluations](https://www.dropbox.com/s/7q5xk6qp31dy7fz/HW1.zip?dl=1) (15%).** This homework mainly focuses on the machine learning concepts and how to evaluate different tasks.
 - **[HW2: KNN and Linear Models](https://www.dropbox.com/s/e0rqnucp5rdrn97/HW2.zip?dl=1) (15%).** This homework mainly focuses on nearest neighbor, least-square regression, logistic regression, and regularization.
 - **HW3: SVM and Clustering (15%).** This homework mainly focuses on support vector machine, k-means, Gaussian Mixture, and PCA.
-- **HW4: Ensemble Learning (15%).** This homework mainly focuses on decision tree, random forest, and AdaBoost.
-- **HW5: Neural Networks (15%).** This homework mainly focuses on implementation of some simple neural networks.
+- **[HW4: Ensemble Learning](https://www.dropbox.com/s/1o2jvpo4ta2hclv/HW4.zip?dl=0) (15%).** This homework mainly focuses on decision tree, random forest, and AdaBoost.
+- **[HW5: Neural Networks](https://www.dropbox.com/s/770fbv1pp2vkyep/HW5.zip?dl=0) (15%).** This homework mainly focuses on implementation of some simple neural networks.
 
 Midterm (40%)
 ======
