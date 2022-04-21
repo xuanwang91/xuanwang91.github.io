@@ -59,7 +59,7 @@ Office Hours
     - Office Hour: Wednesdays, 10 AM to 11 AM
     - Zoom link: [https://ucsd.zoom.us/my/jshang](https://ucsd.zoom.us/my/jshang)
 - Chengyu Dong
-    - Office Hour: Wednesday ~~2 PM to 3 PM~~ ~~4 PM to 5 PM~~ 4:30 PM to 5:30 PM
+    - Office Hour: Wednesday ~~2 PM to 3 PM~~ ~~4 PM to 5 PM~~ 5 PM to 6 PM
     - ~~Zoom link: [https://ucsd.zoom.us/j/5573458249](https://ucsd.zoom.us/j/5573458249)~~ CSE basement room B215
 - Weitang Liu
     - Office Hour: Mondays 1:30 PM to 2:30 PM
