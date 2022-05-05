@@ -132,5 +132,5 @@ It is an open-book, take-home exam, which covers all lectures given before the M
 
 - **Start**: May 5, 9:30 AM PT
 - **End**: May 6, 9:30 AM PT
-- Midterm problems download: TBD
+- Midterm problems download: [here](https://www.dropbox.com/s/6qrcf2fi5nafw0w/Midterm_Exam_SP22.pdf?dl=0)
 - Please **make your submissions on Gradescope**.
