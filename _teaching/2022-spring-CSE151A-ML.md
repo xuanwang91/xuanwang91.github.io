@@ -65,7 +65,7 @@ Office Hours
     - Office Hour: Mondays 1:30 PM to 2:30 PM
     - CSE Basement Room B215
 - Rajeshwari Sah
-    - Office Hour: Wednesdays 3 PM to 4 PM
+    - Office Hour: Wednesdays 7 PM to 8 PM
     - Zoom link: [https://ucsd.zoom.us/j/94987933871](https://ucsd.zoom.us/j/94987933871?pwd=QVZLNGlKRjMvdC9Bb3pKd2l3L2Qvdz09)
 - Zilong Wang
     - Office Hour: Friday 10:30 AM to 11:30 AM
