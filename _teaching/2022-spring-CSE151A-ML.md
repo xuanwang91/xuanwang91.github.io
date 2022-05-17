@@ -106,10 +106,10 @@ Week | Date        | Topic & Slides                                             
 6    | 05/05 (Thu) | **Midterm** (no class, take-home, 24-hour) |
 7    | 05/10 (Tue) | [Naive Bayes and Decision Tree](https://www.dropbox.com/sh/hkbtodqpp81c0oz/AAAvJh884Of_vUHjnO-FWNgea?dl=0) | HW4 out
 7    | 05/12 (Thu) | [Ensemble Learning: Bagging and Boosting](https://www.dropbox.com/sh/5w9ecwrexug0ilm/AADhrV06ZRlY9yeLpd6cpi6Fa?dl=0) | HW3 due
-8    | 05/17 (Tue) | Multi-class Classification |
-8    | 05/19 (Thu) | Feed-forward Neural Networks |
-9    | 05/24 (Tue) | Convolutional Neural Networks | HW4 due, HW5 out
-9    | 05/26 (Thu) | Semi-supervised Learning | 
+8    | 05/17 (Tue) | [Multi-class Classification](https://www.dropbox.com/sh/0flw26956e4ymqt/AAD48xuGIxx1H34iUqYBu0cEa?dl=0) |
+8    | 05/19 (Thu) | [Feed-forward Neural Networks](https://www.dropbox.com/sh/k7xn4ojndee7vmi/AABaE1dc0s2EIon9Y3IjrekMa?dl=0) |
+9    | 05/24 (Tue) | [Convolutional Neural Networks](https://www.dropbox.com/sh/qrc9o8h8almvjnw/AAAzhnkZH1YZEQHV4aW1oLbLa?dl=0) | HW4 due, HW5 out
+9    | 05/26 (Thu) | [Semi-supervised Learning](https://www.dropbox.com/sh/9yxsrl49lnbgfn9/AABqkPSfRA2csnwCnnSNXqama?dl=0) | 
 10   | 05/31 (Tue) | Weakly-supervised Learning |
 10   | 06/02 (Thu) | Bias-Variance in Deep Neural Networks | HW5 due
 
