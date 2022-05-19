@@ -15,6 +15,9 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2022
 
+* Task-Aware Reconstruction for Time-Series Transformer <br/>
+Ranak Roy Chowdhury, Xiyuan Zhang, Dezhi Hong, Rajesh Gupta and Jingbo Shang. **KDD** 2022. 
+
 * Towards Comprehensive Patent Approval Predictions: Beyond Traditional Document Classification
  <br/>
 Xiaochen Kev Gao, Zhaoyi Hou, Yifei Ning, Jingbo Shang and Vish Krishnan. **ACL** 2022.
