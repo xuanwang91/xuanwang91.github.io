@@ -110,7 +110,7 @@ Week | Date        | Topic & Slides                                             
 8    | 05/19 (Thu) | [Feed-forward Neural Networks](https://www.dropbox.com/sh/k7xn4ojndee7vmi/AABaE1dc0s2EIon9Y3IjrekMa?dl=0) |
 9    | 05/24 (Tue) | [Convolutional Neural Networks](https://www.dropbox.com/sh/qrc9o8h8almvjnw/AAAzhnkZH1YZEQHV4aW1oLbLa?dl=0) | HW4 due, HW5 out
 9    | 05/26 (Thu) | [Semi-supervised Learning](https://www.dropbox.com/sh/9yxsrl49lnbgfn9/AABqkPSfRA2csnwCnnSNXqama?dl=0) | 
-10   | 05/31 (Tue) | Weakly-supervised Learning |
+10   | 05/31 (Tue) | [Weakly-supervised Learning](https://www.dropbox.com/sh/48d002tr7oyfo0t/AAAQKfT-infvzpFjG0FqJFKha?dl=0) |
 10   | 06/02 (Thu) | Bias-Variance in Deep Neural Networks | HW5 due
 
 
