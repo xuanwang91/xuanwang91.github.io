@@ -15,36 +15,49 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2022
 
+* [WeDef: Weakly Supervised Backdoor Defense for Text Classification](https://arxiv.org/abs/2205.11803) <br/>
+Lesheng Jin, Zihan Wang and Jingbo Shang. arXiv:2205.11803.
+
+* [Formulating Few-shot Fine-tuning Towards Language Model Pre-training: A Pilot Study on Named Entity Recognition](https://arxiv.org/abs/2205.11799) <br/>
+Zihan Wang, Kewen Zhao, Zilong Wang and Jingbo Shang. arXiv:2205.11799.
+
+* [Intermediate Training on Question Answering Datasets Improves Generative Data Augmentation](https://arxiv.org/abs/2205.12604) <br/>
+Dheeraj Mekala, Tu Vu and Jingbo Shang. arXiv:2205.12604.
+
+* [LOPS: Learning Order Inspired Pseudo-Label Selection for Weakly Supervised Text Classification](https://arxiv.org/abs/2205.12528) <br/>
+Dheeraj Mekala, Chengyu Dong and Jingbo Shang. arXiv:2205.12528.
+
 * Task-Aware Reconstruction for Time-Series Transformer <br/>
-Ranak Roy Chowdhury, Xiyuan Zhang, Dezhi Hong, Rajesh Gupta and Jingbo Shang. **KDD** 2022. 
+Ranak Roy Chowdhury, Xiyuan Zhang, Jingbo Shang, Rajesh Gupta and Dezhi Hong. **KDD** 2022. 
 
-* Towards Comprehensive Patent Approval Predictions: Beyond Traditional Document Classification
- <br/>
-Xiaochen Kev Gao, Zhaoyi Hou, Yifei Ning, Jingbo Shang and Vish Krishnan. **ACL** 2022.
+* [FastViFi: Fast and accurate detection of (Hybrid) Viral DNA and RNA](https://academic.oup.com/nargab/article/4/2/lqac032/6574445) <br/>
+Sara Javadzadeh, Utkrisht Rajkumar, Nam Nguyen, Shahab Sarmashghi, Jens Luebeck, Jingbo Shang and Vineet Bafna. NAR Genomics and Bioinformatics (**NARGAB**), Volume 4, Issue 2, June 2022.
 
-* UCTopic: Unsupervised Contrastive Learning for Phrase Representations and Topic Mining <br/>
+* [Towards Comprehensive Patent Approval Predictions: Beyond Traditional Document Classification](https://aclanthology.org/2022.acl-long.28/) <br/>
+Xiaochen Kev Gao, Zhaoyi Hou, Yifei Ning, Kewen Zhao, Beilei He, Jingbo Shang and Vish Krishnan. **ACL** 2022.
+
+* [UCTopic: Unsupervised Contrastive Learning for Phrase Representations and Topic Mining](https://aclanthology.org/2022.acl-long.426/) <br/>
 Jiacheng Li, Jingbo Shang and Julian McAuley. **ACL** 2022.
 
-* Phrase-aware Unsupervised Constituency Parsing <br/>
+* [Phrase-aware Unsupervised Constituency Parsing](https://aclanthology.org/2022.acl-long.444/) <br/>
 Xiaotao Gu, Yikang Shen, Jiaming Shen, Jingbo Shang and Jiawei Han. **ACL** 2022.
 
-* Towards Few-shot Entity Recognition in Document Images: A Label-aware Sequence-to-Sequence Framework<br/>
+* [Towards Few-shot Entity Recognition in Document Images: A Label-aware Sequence-to-Sequence Framework](https://aclanthology.org/2022.findings-acl.329/) <br/>
 Zilong Wang and Jingbo Shang. **ACL** (Findings) 2022.
 
-* Towards Collaborative Neural-Symbolic Graph Semantic Parsing via Uncertainty<br/>
+* [Towards Collaborative Neural-Symbolic Graph Semantic Parsing via Uncertainty](https://aclanthology.org/2022.findings-acl.328/)<br/>
 Zi Lin, Jeremiah Zhe Liu and Jingbo Shang. **ACL** (Findings) 2022.
 
-* Learning Adaptive Axis Attentions in Fine-tuning: Beyond Fixed Sparse Attention Patterns<br/>
+* [Learning Adaptive Axis Attentions in Fine-tuning: Beyond Fixed Sparse Attention Patterns](https://aclanthology.org/2022.findings-acl.74/)<br/>
 Zihan Wang, Jiuxiang Gu, Jason Kuen, Handong Zhao, Vlad I Morariu, Ruiyi Zhang, Ani Nenkova, Tong Sun and Jingbo Shang. **ACL** (Findings) 2022.
 
-*  OA-Mine: Open-World Attribute Mining for E-Commerce Products with Weak Supervision <br/>
+* [OA-Mine: Open-World Attribute Mining for E-Commerce Products with Weak Supervision](https://dl.acm.org/doi/fullHtml/10.1145/3485447.3512035) <br/>
 Xinyang Zhang, Chenwei Zhang, Xian Li, Xin Dong, Jingbo Shang, Christos Faloutsos and Jiawei Han. **WWW** 2022.
 
-* Unsupervised Deep Keyphrase Generation <br/>
+* [Unsupervised Deep Keyphrase Generation](https://www.aaai.org/AAAI22Papers/AAAI-6321.ShenX.pdf) <br/>
 Xianjie Shen, Yinghan Wang, Rui Meng and Jingbo Shang. **AAAI** 2022. [[arXiv:2104.08729](https://arxiv.org/abs/2104.08729)] [[code](https://github.com/Jayshen0/Unsupervised-Deep-Keyphrase-Generation)]
 
-
-* ESC-GAN: Extending Spatial Coverage of Physical Sensors <br/>
+* [ESC-GAN: Extending Spatial Coverage of Physical Sensors](https://dl.acm.org/doi/abs/10.1145/3488560.3498461) <br/>
 Xiyuan Zhang, Ranak Roy Chowdhury, Jingbo Shang, Rajesh Gupta and Dezhi Hong. **WSDM** 2022.
 
 
