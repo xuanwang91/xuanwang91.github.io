@@ -15,6 +15,9 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2022
 
+* [SoTeacher: A Student-oriented Teacher Network Training Framework for Knowledge Distillation](https://arxiv.org/abs/2206.06661) <br/>
+Chengyu Dong, Liyuan Liu and Jingbo Shang. arXiv:2206.06661.
+
 * [WeDef: Weakly Supervised Backdoor Defense for Text Classification](https://arxiv.org/abs/2205.11803) <br/>
 Lesheng Jin, Zihan Wang and Jingbo Shang. arXiv:2205.11803.
 
