@@ -49,7 +49,7 @@ Current Members
             <img src="/images/img/students/bill hogan.jpg" class="author__avatar" alt="Bill Hogan">
       </div>
       <div class="author__content">
-            <p><a href="https://www.linkedin.com/in/wphogan/">Bill Hogan</a></p>
+            <p><a href="https://wphogan.github.io/">Bill Hogan</a></p>
       </div>
       </center>
     </div>
