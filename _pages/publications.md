@@ -30,6 +30,12 @@ Dheeraj Mekala, Tu Vu and Jingbo Shang. arXiv:2205.12604.
 * [LOPS: Learning Order Inspired Pseudo-Label Selection for Weakly Supervised Text Classification](https://arxiv.org/abs/2205.12528) <br/>
 Dheeraj Mekala, Chengyu Dong and Jingbo Shang. arXiv:2205.12528.
 
+* [Fine-grained Contrastive Learning for Relation Extraction](https://arxiv.org/abs/2205.12491) <br/>
+William Hogan, Jiacheng Li and Jingbo Shang. arXiv:2205.12491.
+
+* DeepViFi: Detecting Oncoviral Infections in Cancer Genomes using Transformers <br/>
+Utkrisht Rajkumar, Sara Javadzadeh, Mihir Bafna, Dongxia Wu, Rose Yu, Jingbo Shang and Vineet Bafna. **ACM-BCB** 2022.
+
 * Task-Aware Reconstruction for Time-Series Transformer <br/>
 Ranak Roy Chowdhury, Xiyuan Zhang, Jingbo Shang, Rajesh Gupta and Dezhi Hong. **KDD** 2022. 
 
