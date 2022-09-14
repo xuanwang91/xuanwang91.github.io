@@ -33,6 +33,12 @@ Dheeraj Mekala, Chengyu Dong and Jingbo Shang. arXiv:2205.12528.
 * [Fine-grained Contrastive Learning for Relation Extraction](https://arxiv.org/abs/2205.12491) <br/>
 William Hogan, Jiacheng Li and Jingbo Shang. arXiv:2205.12491.
 
+* Label Noise in Adversarial Training: A Novel Perspective to Study Robust Overfitting <br/>
+Chengyu Dong, Liyuan Liu and Jingbo Shang. **NeurIPS** 2022. [arXiv:2110.03135](https://arxiv.org/abs/2110.03135).
+
+* SQEE: A Machine Perception Approach to Sensing Quality Evaluation at the Edge by Uncertainty Quantification. <br/>
+Shuheng Li, Dezhi Hong, Jingbo Shang and Rajesh Gupta. **SenSys** 2022.
+
 * DeepViFi: Detecting Oncoviral Infections in Cancer Genomes using Transformers <br/>
 Utkrisht Rajkumar, Sara Javadzadeh, Mihir Bafna, Dongxia Wu, Rose Yu, Jingbo Shang and Vineet Bafna. **ACM-BCB** 2022.
 
@@ -71,9 +77,6 @@ Xiyuan Zhang, Ranak Roy Chowdhury, Jingbo Shang, Rajesh Gupta and Dezhi Hong. **
 
 
 ### 2021
-
-* [Double Descent in Adversarial Training: An Implicit Label Noise Perspective](https://arxiv.org/abs/2110.03135) <br/>
-Chengyu Dong, Liyuan Liu and Jingbo Shang. arXiv:2110.03135.
 
 * UniTS: Short-Time Fourier Inspired Neural Networks for Sensory Time Series Classification <br/>
 Shuheng Li, Ranak Roy Chowdhury, Jingbo Shang, Rajesh K. Gupta and Dezhi Hong. **SenSys** 2021. [[code](https://github.com/Shuheng-Li/UniTS-Sensory-Time-Series-Classification)]
