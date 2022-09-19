@@ -19,7 +19,7 @@ Current Members
             <img src="/images/img/students/zihan wang.png" class="author__avatar" alt="Zihan Wang">
       </div>
       <div class="author__content">
-            <p><a href = "https://zihanwangki.github.io/">Zihan Wang</a></p>
+            <p><a href = "https://zihanwangki.github.io/">Zihan Wang</a><br/>(2020 - )</p>
       </div>
       </center>
     </div>
@@ -29,7 +29,7 @@ Current Members
             <img src="/images/img/students/zilong wang.jpg" class="author__avatar" alt="Zilong Wang">
       </div>
       <div class="author__content">
-            <p><a href = "https://zilongwang.me/">Zilong Wang</a></p>
+            <p><a href = "https://zilongwang.me/">Zilong Wang</a><br/>(2020 - )</p>
       </div>
       </center>
     </div>
@@ -39,7 +39,7 @@ Current Members
             <img src="/images/img/students/chengyu dong.jpg" class="author__avatar" alt="Chengyu Dong">
       </div>
       <div class="author__content">
-            <p><a href = "https://www.chengyu-dong.me/">Chengyu Dong</a></p>
+            <p><a href = "https://www.chengyu-dong.me/">Chengyu Dong</a><br/>(2021 - )</p>
       </div>
       </center>
     </div>
@@ -49,7 +49,7 @@ Current Members
             <img src="/images/img/students/bill hogan.jpg" class="author__avatar" alt="Bill Hogan">
       </div>
       <div class="author__content">
-            <p><a href="https://wphogan.github.io/">Bill Hogan</a></p>
+            <p><a href="https://wphogan.github.io/">Bill Hogan</a><br/>(2021 - )</p>
       </div>
       </center>
     </div>
@@ -59,7 +59,7 @@ Current Members
             <img src="/images/img/students/zi lin.jpg" class="author__avatar" alt="Zi Lin">
       </div>
       <div class="author__content">
-            <p><a href = "https://zi-lin.com/">Zi Lin</a></p>
+            <p><a href = "https://zi-lin.com/">Zi Lin</a><br/>(2021 - )</p>
       </div>
       </center>
     </div>
@@ -69,7 +69,7 @@ Current Members
             <img src="/images/img/students/weitang liu.jpg" class="author__avatar" alt="Weitang Liu">
       </div>
       <div class="author__content">
-            <p><a href = "https://scholar.google.com/citations?user=LzhBQRUAAAAJ&hl=en">Weitang Liu</a></p>
+            <p><a href = "https://scholar.google.com/citations?user=LzhBQRUAAAAJ&hl=en">Weitang Liu</a><br/>(2021 - )</p>
       </div>
       </center>
     </div>
@@ -79,7 +79,27 @@ Current Members
             <img src="/images/img/students/dheeraj mekala.png" class="author__avatar" alt="Dheeraj Mekala">
       </div>
       <div class="author__content">
-            <p><a href = "https://dheeraj7596.github.io/">Dheeraj Mekala</a></p>
+            <p><a href = "https://dheeraj7596.github.io/">Dheeraj Mekala</a><br/>(2021 - )</p>
+      </div>
+      </center>
+    </div>
+    <div class="column">
+      <center>
+      <div class="author__avatar">
+            <img src="/images/img/students/yangkun wang.jpg" class="author__avatar" alt="Yangkun Wang">
+      </div>
+      <div class="author__content">
+            <p>Yangkun Wang<br/>(2022 - )</p>
+      </div>
+      </center>
+    </div>
+    <div class="column">
+      <center>
+      <div class="author__avatar">
+            <img src="/images/img/students/yufan zhuang.jpg" class="author__avatar" alt="Yufan Zhuang">
+      </div>
+      <div class="author__content">
+            <p><a href = "https://evanzhuang.github.io/">Yufan Zhuang</a><br/>(2022 - )</p>
       </div>
       </center>
     </div>
@@ -95,7 +115,7 @@ Current Members
             <img src="/images/img/students/ranak roy chowdhury.jpg" class="author__avatar" alt="Ranak Roy Chowdhury">
       </div>
       <div class="author__content">
-            <p><a href = "https://www.linkedin.com/in/ranakroychowdhury/">Ranak Roy Chowdhury</a><br/>w/ Rajesh Gupta</p>
+            <p><a href = "https://www.linkedin.com/in/ranakroychowdhury/">Ranak Roy Chowdhury</a><br/>w/ Rajesh Gupta<br/>(2019 - )</p>
       </div>
       </center>
     </div>
@@ -105,7 +125,7 @@ Current Members
             <img src="/images/img/students/jiacheng li.jpeg" class="author__avatar" alt="Jiacheng Li">
       </div>
       <div class="author__content">
-            <p><a href = "https://jiachengli1995.github.io/">Jiacheng Li</a><br/>w/ Julian McAuley</p>
+            <p><a href = "https://jiachengli1995.github.io/">Jiacheng Li</a><br/>w/ Julian McAuley<br/>(2020 - )</p>
       </div>
       </center>
     </div>
@@ -115,7 +135,7 @@ Current Members
             <img src="/images/img/students/shuheng li.png" class="author__avatar" alt="Shuheng Li">
       </div>
       <div class="author__content">
-            <p><a href = "">Shuheng Li</a><br/>w/ Rajesh Gupta</p>
+            <p><a href = "">Shuheng Li</a><br/>w/ Rajesh Gupta<br/>(2020 - )</p>
       </div>
       </center>
     </div>
@@ -125,7 +145,7 @@ Current Members
             <img src="/images/img/students/jiayun zhang.jpg" class="author__avatar" alt="Jiayun Zhang">
       </div>
       <div class="author__content">
-            <p><a href = "https://jiayunz.github.io/">Jiayun Zhang</a><br/>w/ Rajesh Gupta</p>
+            <p><a href = "https://jiayunz.github.io/">Jiayun Zhang</a><br/>w/ Rajesh Gupta<br/>(2020 - )</p>
       </div>
       </center>
     </div>
@@ -135,7 +155,7 @@ Current Members
             <img src="/images/img/students/xiyuan zhang.jpg" class="author__avatar" alt="Xiyuan Zhang">
       </div>
       <div class="author__content">
-            <p><a href = "https://xiyuanzh.github.io/">Xiyuan Zhang</a><br/>w/ Rajesh Gupta</p>
+            <p><a href = "https://xiyuanzh.github.io/">Xiyuan Zhang</a><br/>w/ Rajesh Gupta<br/>(2020 - )</p>
       </div>
       </center>
     </div>
@@ -148,10 +168,10 @@ Current Members
     <div class="column">
       <center>
       <div class="author__avatar">
-            <img src="/images/img/students/lesheng jin.jpg" class="author__avatar" alt="Lesheng Jin">
+            <img src="/images/img/students/lesheng jin.jpeg" class="author__avatar" alt="Lesheng Jin">
       </div>
       <div class="author__content">
-            <p><a href = "https://www.linkedin.com/in/lesheng-jin-9618b0201/?originalSubdomain=cn">Lesheng Jin</a></p>
+            <p><a href = "https://www.linkedin.com/in/lesheng-jin-9618b0201/?originalSubdomain=cn">Lesheng Jin</a><br/>(2021 - )</p>
       </div>
       </center>
     </div>
@@ -161,7 +181,7 @@ Current Members
             <img src="/images/img/students/sudhanshu rajan.jpg" class="author__avatar" alt="Sudhanshu Ranjan">
       </div>
       <div class="author__content">
-            <p><a href = "https://www.linkedin.com/in/sudhanshu-ranjan-33a216124/">Sudhanshu Ranjan </a></p>
+            <p><a href = "https://www.linkedin.com/in/sudhanshu-ranjan-33a216124/">Sudhanshu Ranjan </a><br/>(2021 - )</p>
       </div>
       </center>
     </div>
@@ -169,9 +189,8 @@ Current Members
 
 ## Undergraduate Students
 
-- Yuxuan Fan
+
 - Colin Wang
-- Beilei He
 - Kewen Zhao
 
 <br/>
@@ -228,7 +247,7 @@ Lab Alumni
             <img src="/images/img/students/woman.png" class="author__avatar" alt="Jiaman (Lisa) Wu">
       </div>
       <div class="author__content">
-            <p><a href = "">Jiaman (Lisa) Wu</a><br>(2020 -> UT Dallas for PhD study)</p>
+            <p><a href = "">Jiaman (Lisa) Wu</a><br>(2020 -> Ohio State U for PhD study)</p>
       </div>
       </center>
     </div>
@@ -236,6 +255,8 @@ Lab Alumni
 
 ## Bachelors
 
+- Beilei He (2022 --> UPenn for Master study)
+- Yuxuan Fan (2022 --> Startup)
 - Zhenyu Bi (2021 --> CMU for Master study)
 - Joey Hou (2021 --> UPenn for Master study)
 - Yang Li (2021 --> Columbia for Master study)
