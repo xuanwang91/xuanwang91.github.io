@@ -19,8 +19,8 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 Yufan Zhuang, Zihan Wang, Fangbo Tao and Jingbo Shang. arXiv:2210.01989.
 * [SoTeacher: A Student-oriented Teacher Network Training Framework for Knowledge Distillation](https://arxiv.org/abs/2206.06661) <br/>
 Chengyu Dong, Liyuan Liu and Jingbo Shang. arXiv:2206.06661.
-* Intermediate Training on Question Answering Datasets Improves Generative Data Augmentation <br/>
-Dheeraj Mekala, Tu Vu and Jingbo Shang. **EMNLP** 2022. [[arXiv:2205.12604](https://arxiv.org/abs/2205.12604)]
+* Leveraging QA Datasets to Improve Generative Data Augmentation <br/>
+Dheeraj Mekala, Tu Vu, Timo Schick and Jingbo Shang. **EMNLP** 2022. [[arXiv:2205.12604](https://arxiv.org/abs/2205.12604)]
 * Fine-grained Contrastive Learning for Relation Extraction <br/>
 William Hogan, Jiacheng Li and Jingbo Shang. **EMNLP** 2022. [[arXiv:2205.12491](https://arxiv.org/abs/2205.12491)]
 * Neural-Symbolic Inference for Robust Autoregressive Graph Parsing via Compositional Uncertainty Quantification
