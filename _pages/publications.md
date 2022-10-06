@@ -20,9 +20,9 @@ Yufan Zhuang, Zihan Wang, Fangbo Tao and Jingbo Shang. arXiv:2210.01989.
 * [SoTeacher: A Student-oriented Teacher Network Training Framework for Knowledge Distillation](https://arxiv.org/abs/2206.06661) <br/>
 Chengyu Dong, Liyuan Liu and Jingbo Shang. arXiv:2206.06661.
 * Intermediate Training on Question Answering Datasets Improves Generative Data Augmentation <br/>
-Dheeraj Mekala, Tu Vu and Jingbo Shang. **EMNLP** 2022. [[arXiv:2205.12604](https://arxiv.org/abs/2205.12604)].
+Dheeraj Mekala, Tu Vu and Jingbo Shang. **EMNLP** 2022. [[arXiv:2205.12604](https://arxiv.org/abs/2205.12604)]
 * Fine-grained Contrastive Learning for Relation Extraction <br/>
-William Hogan, Jiacheng Li and Jingbo Shang. **EMNLP** 2022. [[arXiv:2205.12491](https://arxiv.org/abs/2205.12491)].
+William Hogan, Jiacheng Li and Jingbo Shang. **EMNLP** 2022. [[arXiv:2205.12491](https://arxiv.org/abs/2205.12491)]
 * Neural-Symbolic Inference for Robust Autoregressive Graph Parsing via Compositional Uncertainty Quantification
 Zi Lin, Jeremiah Liu and Jingbo Shang. **EMNLP** 2022.
 * WeDef: Weakly Supervised Backdoor Defense for Text Classification <br/>
@@ -30,13 +30,13 @@ Lesheng Jin, Zihan Wang and Jingbo Shang. **EMNLP** 2022. [[arXiv:2205.11803](ht
 * MGDoc: Pre-training with Multi-granular Hierarchy for Document Image Understanding <br/>
 Zilong Wang, Jiuxiang Gu, Chris Tensmeyer, Nikolaos Barmpalios, Ani Nenkova, Tong Sun, Jingbo Shang and Vlad I. Morariu. **EMNLP** 2022.
 * Formulating Few-shot Fine-tuning Towards Language Model Pre-training: A Pilot Study on Named Entity Recognition <br/>
-Zihan Wang, Kewen Zhao, Zilong Wang and Jingbo Shang. **EMNLP** (Findings) 2022. [[arXiv:2205.11799](https://arxiv.org/abs/2205.11799)].
+Zihan Wang, Kewen Zhao, Zilong Wang and Jingbo Shang. **EMNLP** (Findings) 2022. [[arXiv:2205.11799](https://arxiv.org/abs/2205.11799)]
 * LOPS: Learning Order Inspired Pseudo-Label Selection for Weakly Supervised Text Classification <br/>
-Dheeraj Mekala, Chengyu Dong and Jingbo Shang. **EMNLP** (Findings) 2022. [[arXiv:2205.12528](https://arxiv.org/abs/2205.12528)].
+Dheeraj Mekala, Chengyu Dong and Jingbo Shang. **EMNLP** (Findings) 2022. [[arXiv:2205.12528](https://arxiv.org/abs/2205.12528)]
 * Progressive Sentiment Analysis for Code-Switched Text Data <br/>
 Sudhanshu Ranjan, Dheeraj Mekala and Jingbo Shang. **EMNLP** (Findings) 2022.
 * Label Noise in Adversarial Training: A Novel Perspective to Study Robust Overfitting <br/>
-Chengyu Dong, Liyuan Liu and Jingbo Shang. **NeurIPS** 2022. [[arXiv:2110.03135](https://arxiv.org/abs/2110.03135)].
+Chengyu Dong, Liyuan Liu and Jingbo Shang. **NeurIPS** 2022. [[arXiv:2110.03135](https://arxiv.org/abs/2110.03135)]
 * SQEE: A Machine Perception Approach to Sensing Quality Evaluation at the Edge by Uncertainty Quantification. <br/>
 Shuheng Li, Dezhi Hong, Jingbo Shang and Rajesh Gupta. **SenSys** 2022.
 * DeepViFi: Detecting Oncoviral Infections in Cancer Genomes using Transformers <br/>
