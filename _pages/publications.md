@@ -15,18 +15,26 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2022
 
+* [Waveformer: Linear-Time Attention with Forward and Backward Wavelet Transform](https://arxiv.org/abs/2210.01989) <br/>
+Yufan Zhuang, Zihan Wang, Fangbo Tao and Jingbo Shang. arXiv:2210.01989.
 * [SoTeacher: A Student-oriented Teacher Network Training Framework for Knowledge Distillation](https://arxiv.org/abs/2206.06661) <br/>
 Chengyu Dong, Liyuan Liu and Jingbo Shang. arXiv:2206.06661.
-* [WeDef: Weakly Supervised Backdoor Defense for Text Classification](https://arxiv.org/abs/2205.11803) <br/>
-Lesheng Jin, Zihan Wang and Jingbo Shang. arXiv:2205.11803.
-* [Formulating Few-shot Fine-tuning Towards Language Model Pre-training: A Pilot Study on Named Entity Recognition](https://arxiv.org/abs/2205.11799) <br/>
-Zihan Wang, Kewen Zhao, Zilong Wang and Jingbo Shang. arXiv:2205.11799.
-* [Intermediate Training on Question Answering Datasets Improves Generative Data Augmentation](https://arxiv.org/abs/2205.12604) <br/>
-Dheeraj Mekala, Tu Vu and Jingbo Shang. arXiv:2205.12604.
-* [LOPS: Learning Order Inspired Pseudo-Label Selection for Weakly Supervised Text Classification](https://arxiv.org/abs/2205.12528) <br/>
-Dheeraj Mekala, Chengyu Dong and Jingbo Shang. arXiv:2205.12528.
-* [Fine-grained Contrastive Learning for Relation Extraction](https://arxiv.org/abs/2205.12491) <br/>
-William Hogan, Jiacheng Li and Jingbo Shang. arXiv:2205.12491.
+* Intermediate Training on Question Answering Datasets Improves Generative Data Augmentation <br/>
+Dheeraj Mekala, Tu Vu and Jingbo Shang. **EMNLP** 2022. [[arXiv:2205.12604](https://arxiv.org/abs/2205.12604)].
+* Fine-grained Contrastive Learning for Relation Extraction <br/>
+William Hogan, Jiacheng Li and Jingbo Shang. **EMNLP** 2022. [[arXiv:2205.12491](https://arxiv.org/abs/2205.12491)].
+* Neural-Symbolic Inference for Robust Autoregressive Graph Parsing via Compositional Uncertainty Quantification
+Zi Lin, Jeremiah Liu and Jingbo Shang. **EMNLP** 2022.
+* WeDef: Weakly Supervised Backdoor Defense for Text Classification <br/>
+Lesheng Jin, Zihan Wang and Jingbo Shang. **EMNLP** 2022. [[arXiv:2205.11803](https://arxiv.org/abs/2205.11803)]
+* MGDoc: Pre-training with Multi-granular Hierarchy for Document Image Understanding <br/>
+Zilong Wang, Jiuxiang Gu, Chris Tensmeyer, Nikolaos Barmpalios, Ani Nenkova, Tong Sun, Jingbo Shang and Vlad I. Morariu. **EMNLP** 2022.
+* Formulating Few-shot Fine-tuning Towards Language Model Pre-training: A Pilot Study on Named Entity Recognition <br/>
+Zihan Wang, Kewen Zhao, Zilong Wang and Jingbo Shang. **EMNLP** (Findings) 2022. [[arXiv:2205.11799](https://arxiv.org/abs/2205.11799)].
+* LOPS: Learning Order Inspired Pseudo-Label Selection for Weakly Supervised Text Classification <br/>
+Dheeraj Mekala, Chengyu Dong and Jingbo Shang. **EMNLP** (Findings) 2022. [[arXiv:2205.12528](https://arxiv.org/abs/2205.12528)].
+* Progressive Sentiment Analysis for Code-Switched Text Data <br/>
+Sudhanshu Ranjan, Dheeraj Mekala and Jingbo Shang. **EMNLP** (Findings) 2022.
 * Label Noise in Adversarial Training: A Novel Perspective to Study Robust Overfitting <br/>
 Chengyu Dong, Liyuan Liu and Jingbo Shang. **NeurIPS** 2022. [[arXiv:2110.03135](https://arxiv.org/abs/2110.03135)].
 * SQEE: A Machine Perception Approach to Sensing Quality Evaluation at the Edge by Uncertainty Quantification. <br/>
