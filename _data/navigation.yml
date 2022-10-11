@@ -11,9 +11,6 @@ main:
 
   - title: "Awards"
     url: /awards/
-
-  - title: "Shang Data Lab (SDLab)"
-    url: /lab/
             
   - title: "Blog Posts"
     url: /year-archive/
