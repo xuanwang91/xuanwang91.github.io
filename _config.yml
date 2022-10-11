@@ -74,21 +74,21 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-DFE6L3KM54"
 
 
 # Site Author
 author:
-  name             : "Jingbo Shang"
+  name             : "Xuan Wang"
   avatar           : "/img/avatar.jpg"
   bio              : "Assistant Professor"
-  location         : "CSE 4104 / SDSC 211E"
-  employer         : "University of California, San Diego"
+  location         : "Arriving in January 2023"
+  employer         : "Virginia Tech"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=0SkFI4MAAAAJ&hl=en"
-  email            : "jshang@ucsd.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=_IVJi6UAAAAJ&hl=en"
+  email            : "xuanw@vt.edu"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   # uri              :
   # bitbucket        :
@@ -97,7 +97,7 @@ author:
   # flickr           :
   # facebook         :
   # foursquare       :
-  github           : "shangjingbo1226"
+  github           : "xuanwang91"
   # google_plus      :
   # keybase          :
   # instagram        :
