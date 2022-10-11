@@ -11,6 +11,9 @@ main:
 
   - title: "Awards"
     url: /awards/
+    
+   - title: "NLP and Data Mining Lab (LAND Lab)"
+    url: /lab/
             
   - title: "Blog Posts"
     url: /year-archive/
