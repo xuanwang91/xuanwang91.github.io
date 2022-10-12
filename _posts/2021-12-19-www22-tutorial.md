@@ -1,6 +1,11 @@
 ---
-layout: post
-title: The Web Conference 2022 Tutorial
+title: 'The Web Conference 2022 Tutorial'
+date:   2021-12-19 15:45pm - 17:15pm
+permalink: /2021-12-19-www22-tutorial
+tags:
+  - www
+  - tutorial
+  - 2022
 ---
 
 # Modern Natural Language Processing Techniques for Scientific Web Mining: Tasks, Data, and Tools
