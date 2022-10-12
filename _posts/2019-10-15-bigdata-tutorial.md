@@ -1,5 +1,5 @@
 ---
-title: 'IEEE Big Data 2019 Tutorial'
+title: 'IEEE BigData 2019 Tutorial'
 date:   2019-10-15 10:05am-12:10pm
 permalink: /2019-10-15-bigdata-tutorial
 tags:
