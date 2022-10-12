@@ -37,25 +37,11 @@ You can find my schedule [here](https://calendar.google.com/calendar/embed?mode=
 
 I'm actively recruiting students who are excited about developing **principled NLP and data mining approaches** with minimum human effort. I also welcome students who are interested in interdisciplinary applications. However, my expectation is that your research should still focus on technique innovations instead of direct applications.
 
-My lab at Virginia Tech has openings for PhD students and research internship opportunities for master/undergrad students. My expectations for the prospective students are (1) have a clear research problem/objective and some initial ideas; (2) have relevant research experiences in NLP/data mining or have strong background in CS/Math/Stats; and (3) could devote enough time on research. Please email me your CV if you're interested. **In your email**, please include the following items:
+My lab at Virginia Tech has openings for PhD students and research internship opportunities for master/undergrad students. My expectations for the prospective students are (1) have a clear research problem/objective and some initial ideas; (2) have relevant research experiences in NLP/data mining or have strong background in CS/Math/Stats; and (3) could devote enough time on research. 
+
+Please email me your CV if you're interested in working with me. **In your email**, please include the following items:
 - Title as "Prospective Student: YourName - YourAffliation"
 - Briefly introduce what research problem that you are interested in. What are the current state-of-the-art solutions and why do you think you can further improve over them?
 - Briefly introduce yourself, including education background, research experiences, and programming skills.
 - Briefly explain your motivations and expectations of working with me.
 - Include a PDF version of your CV.
-
-
-<!-- Please check the following items before sending me an email.
-
-- **Applicants for VT PhD Program**: Please make sure that you have applied online and select my name as one of the faculty members that you wish to work with. I will carefully review every applicantion that mentioned my name.
-- **Research Internship Opportunities**:
-    * **If you are currently at VT**: I only take students who (1) have a clear research problem/objective and some initial ideas; (2) have relevant research experiences or have strong background in CS/Math/Stats; and (3) could devote enough time on research. Please highlight these in your email including a time plan.
-    * **If you are not at VT** (e.g., Summer Internship): Visitors are mostly recommended by my collaborators and have their own funding support. The minimum duration of stay at VT is 12 weeks (preferably 6 months - 1 year). Please indicate the time range in your email.
-
-**In your email**, please include the following items:
-- Title as "Prospective Student: YourName - YourAffliation"
-- Briefly introduce what research problem that you are interested in. What are the current state-of-the-art solutions and why do you think you can further improve over them?
-- Briefly introduce yourself, including education background, research experiences, and programming skills.
-- Briefly explain your motivations and expectations of working with me.
-- Include a PDF version of your CV. -->
-
