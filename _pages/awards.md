@@ -5,8 +5,6 @@ permalink: /awards/
 author_profile: true
 ---
 
-A list of honors and awards.
-
 ## 2021
 - Best Demo Paper Award, NAACL
 
