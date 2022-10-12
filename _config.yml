@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Xuan Wang"
-  avatar           : "https://github.com/xuanwang91/xuanwang91.github.io/blob/7c020f76ffcaa2e6be8ae89b2b32a34808770ce5/img/Xuan2016.jpg"
+  avatar           : "/img/Xuan2016.jpg"
   bio              : "PhD Student"
   location         : "Siebel Center 2113A"
   employer         : "UIUC"
