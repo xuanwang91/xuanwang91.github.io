@@ -13,7 +13,7 @@ Education
 ======
 - **University of Illinois at Urbana-Champaign**, Champaign, Illinois USA
 
-  Ph.D., Computer Science (2017 - present) 
+  Ph.D., Computer Science (2017 - 2022) 
   
   M.S., Statistics (2015 - 2017)
   
