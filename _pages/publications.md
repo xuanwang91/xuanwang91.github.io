@@ -34,11 +34,6 @@ Details of my publications and citations can be found on my [Google Scholar](htt
 3. Jingbo Shang, Qi Zhu, Jiaming Shen, **Xuan Wang**, Xiaotao Gu, Lance Kaplan, Timothy Harratty, and Jiawei Han, "[AutoNet: Automated Network Construction and Exploration System from Domain-Specific Corpora](http://hanj.cs.illinois.edu/pdf/kdd18_jshang.pdf)", in Proc. of 2018 ACM SIGKDD Int. Conf. on Knowledge Discovery and Data Mining (**KDD’18**), (demo paper), London, UK, August 2018
 4. Xiang Ren, Jiaming Shen, Meng Qu, **Xuan Wang**, Zeqiu Wu, Qi Zhu, Meng Jiang et al. "[Life-iNet: A Structured Network-Based Knowledge Exploration and Analytics System for Life Sciences](http://hanj.cs.illinois.edu/pdf/acl17_xren.pdf)", in Proc. of 2017 Annual Meeting of the Association for Computational Linguistics (**ACL’17**), (system demo), Vancouver, Canada, July 2017
 
-## Conference Tutorials
-1. **Xuan Wang**, Hongwei Wang, Heng Ji, Jiawei Han, ``New Frontiers of Scientific Text Mining: Tasks, Data, and Tools", 2022 ACM SIGKDD Int. Conf. on Knowledge Discovery and Data Mining (**KDD’22**), Washington, D.C., Aug., 2022
-2. **Xuan Wang**, Hongwei Wang, Heng Ji, Jiawei Han, "Modern Natural Language Processing Techniques for Scientific Web Mining: Tasks, Data, and Tools" (Conference tutorial), The ACM Web Conference 2022 (**WWW’22**), Lyon, France, Apr., 2022
-3. **Xuan Wang**, Yu Zhang, Qi Li, Jiawei Han, "Taming Unstructured Big Data: Automated Information Extraction from Massive Text" (Conference tutorial), 2019 IEEE Int. Conf. on Big Data (**BigData’19**), Los Angeles, CA, Dec. 2019
-
 ## Workshop & Abstract Papers
 1. **Xuan Wang**, Vivian Hu, Xiangchen Song, Qi Li and Jiawei Han, “Textual Evidence Mining in Scientific Literature”, TrueFact Workshop: Making a Credible Web for Tomorrow at 2021 ACM SIGKDD Int. Conf. on Knowledge Discovery and Data Mining (**TrueFact@KDD’21**), Aug. 2020, online.
 2. **Xuan Wang**, Xiangchen Song, Bangzheng Li, Yingjun Guan and Jiawei Han, “Comprehensive Named Entity Recognition on CORD-19 with Distant or Weak Supervision”, 2020 Intelligent Systems for Molecular Biology (**ISMB’20**), Abstracts (oral and poster), July 2020, online.
