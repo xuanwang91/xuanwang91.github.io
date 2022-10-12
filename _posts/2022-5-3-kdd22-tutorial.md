@@ -1,6 +1,11 @@
 ---
-layout: post
-title: KDD 2022 Tutorial
+title: 'KDD 2022 Tutorial'
+date:   2022-5-3 9am - 12pm
+permalink: /2022-5-3-kdd22-tutorial
+tags:
+  - kdd
+  - tutorial
+  - 2022
 ---
 
 # New Frontiers of Scientific Text Mining: Tasks, Data, and Tools
