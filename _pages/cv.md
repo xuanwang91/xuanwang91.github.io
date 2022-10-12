@@ -40,7 +40,7 @@ Professional Experiences
 ======
 - **Program Committee**
 
-  KDD'22, NAACL'22, ACL'22, Pan-DL@COLING'22
+  KDD'22, NAACL'22, ACL'22, COLING'22
   
 - **Session Chair**
 
