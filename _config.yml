@@ -72,11 +72,14 @@ social:
   links: # An array of links to social media profiles
 
 
+# Fill in your Google Analytics gtag.js ID to track your website using gtag
+gtag: "G-DFE6L3KM54"
+
 # Analytics
 analytics:
   provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "G-DFE6L3KM54"
+    tracking_id          :
 
 
 # Site Author
