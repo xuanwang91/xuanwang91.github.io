@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a final-year Ph.D. student in the [Computer Science Department](http://www.cs.uiuc.edu/) at University of Illinois at Urbana-Champaign (UIUC). My thesis advisor is Dr. [Jiawei Han](http://hanj.cs.illinois.edu/). I received my M.S. in [Statistics](https://stat.illinois.edu/) and my M.S. in [Biochemistry](https://mcb.illinois.edu/departments/biochemistry/) from UIUC. I received my B.S. in [Biological Science](https://life.tsinghua.edu.cn/publish/smkx/index.html) from Tsinghua University (THU), China. 
+I am a final-year Ph.D. student in the [Computer Science Department](http://www.cs.uiuc.edu/) at University of Illinois at Urbana-Champaign (UIUC). My thesis advisor is Dr. [Jiawei Han](http://hanj.cs.illinois.edu/). I received my M.S. in [Statistics](https://stat.illinois.edu/) and my M.S. in [Biochemistry](https://mcb.illinois.edu/departments/biochemistry/) from UIUC. I received my B.S. in [Biological Science](https://life.tsinghua.edu.cn/) from Tsinghua University (THU), China. 
 
 I will join the [Computer Science Department](https://cs.vt.edu/) at Virginia Tech in Spring 2023 as an Assistant Professor.
 
