@@ -37,8 +37,6 @@ You can find my schedule [here](https://calendar.google.com/calendar/embed?mode=
 
 ## Prospective Students
 
-I'm actively recruiting students who are excited about developing **principled NLP and data mining approaches** with minimum human effort. I also welcome students who are interested in interdisciplinary applications. However, my expectation is that your research should still focus on technique innovations instead of applying NLP/DM algorithms to domain-specific datasets.
-
 My lab at Virginia Tech has openings for **PhD students** and research internship opportunities for **master/undergrad students**. Prospective students satisfying the following criteria will be considered with a priority: (1) have publications in top NLP/DM/ML conferences, (2) have relevant research experiences in NLP/DM/ML, and/or (3) have a strong background in CS/Math/Stats.
 
 Please email me if you're interested in working with me. **In your email**, please include the following items:
