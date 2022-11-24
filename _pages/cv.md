@@ -40,17 +40,16 @@ Professional Experiences
 ======
 - **Program Committee**
 
-  KDD'22, NAACL'22, ACL'22, COLING'22
+  ACL'23, KDD'22, ACL'22, NAACL'22, COLING'22
   
 - **Session Chair**
 
   IEEE Big Data 2019 Conference
   
-- **Journal Reviewer**
-
-  Bioinformatics, Journal of the American Medical Informatics Association (JAMIA)
-  
 - **Conference Reviewer**
 
   KDD’21, TheWebConf’21, IJCAI’21, KDD’20, KDD’19, ICDM’19, AAAI’19, KDD’18, AAAI’18
 
+- **Journal Reviewer**
+
+  Bioinformatics, Journal of the American Medical Informatics Association (JAMIA)
