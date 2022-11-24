@@ -19,10 +19,12 @@ I'm broadly interested in Natural Language Processing (NLP) and Data Mining Prob
 - **Weakly-Supervised** NLP and Text Mining:
   - _Learning Paradigms_: Distantly-Supervised, Semi-Supervised, Self-Supervised, Few-Shot, Zero-Shot Learning, ...
   - _Tasks_: Information Extraction, Knowledge Base Construction, Text Classification, Text Summarization, ...
-- **Multi-Modal** Data Mining between Text, Graph, and Image
-  - _Text-Graph_: Text-Augmented Graph Mining, Graph-Enhanced Text Mining, ...
-  - _Text-Image_: Multi-Modal Information Extraction, Image-to-Text Generation, ...
-- **Interdisciplinary** Applications (AI for Science, AI in Healthcare, ...)
+- **Multi-Modal** Data Mining between Text and Graph
+  - Text-Augmented Open Knowledge Graph Reasoning
+  - Text-Graph Pre-Training for Multi-Modal Representation Learning
+- **Interdisciplinary** Applications
+  - AI for Science
+  - AI in Healthcare
 
 
 <!-- ## My Schedule
@@ -37,11 +39,11 @@ You can find my schedule [here](https://calendar.google.com/calendar/embed?mode=
 
 I'm actively recruiting students who are excited about developing **principled NLP and data mining approaches** with minimum human effort. I also welcome students who are interested in interdisciplinary applications. However, my expectation is that your research should still focus on technique innovations instead of applying NLP/DM algorithms to domain-specific datasets.
 
-My lab at Virginia Tech has openings for **PhD students** and research internship opportunities for **master/undergrad students**. My expectations for the prospective students: (1) have a clear research problem/objective and some initial ideas; (2) have relevant research experiences in NLP/data mining or have strong background in CS/Math/Stats; and (3) highly passionate and dedicated to research. 
+My lab at Virginia Tech has openings for **PhD students** and research internship opportunities for **master/undergrad students**. Prospective students satisfying the following criteria will be considered with a priority: (1) have publications in top NLP/DM/ML conferences, (2) have relevant research experiences in NLP/DM/ML, and/or (3) have a strong background in CS/Math/Stats.
 
 Please email me if you're interested in working with me. **In your email**, please include the following items:
 - Title as "Prospective Student: YourName - YourAffliation"
-- Briefly introduce what research problem that you are interested in. What are the current state-of-the-art solutions and why do you think you can further improve over them?
+- Briefly introduce what research problem that you are interested in.
 - Briefly introduce yourself, including education background, research experiences, and programming skills.
 - Briefly explain your motivations and expectations of working with me.
 - Include a PDF version of your CV.
