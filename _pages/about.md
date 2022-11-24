@@ -15,7 +15,7 @@ I will join the [Computer Science Department](https://cs.vt.edu/) at Virginia Te
 
 ## Research Interests
 
-I'm broadly interested in Natural Language Processing (NLP) and Data Mining Problems:
+I'm broadly interested in Natural Language Processing (NLP) and Data Mining (DM) Problems:
 - **Weakly-Supervised** NLP and Text Mining:
   - _Learning Paradigms_: Distantly-Supervised, Semi-Supervised, Self-Supervised, Few-Shot, Zero-Shot Learning, ...
   - _Tasks_: Information Extraction, Knowledge Base Construction, Text Classification, Text Summarization, ...
