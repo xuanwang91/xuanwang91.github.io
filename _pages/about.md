@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+I am an Assistant Professor in [Computer Science Department](https://cs.vt.edu/) at Virginia Tech starting from Spring 2023.
 
-I am a final-year Ph.D. student in the [Computer Science Department](http://www.cs.uiuc.edu/) at University of Illinois at Urbana-Champaign (UIUC). My thesis advisor is Dr. [Jiawei Han](http://hanj.cs.illinois.edu/). I received my M.S. in [Statistics](https://stat.illinois.edu/) and my M.S. in [Biochemistry](https://mcb.illinois.edu/departments/biochemistry/) from UIUC. I received my B.S. in [Biological Science](https://life.tsinghua.edu.cn/) from Tsinghua University (THU), China. 
+I received my Ph.D. in [Computer Science](http://www.cs.uiuc.edu/) from the University of Illinois at Urbana-Champaign (UIUC). My Ph.D. advisor is Dr. [Jiawei Han](http://hanj.cs.illinois.edu/). I received my M.S. in [Statistics](https://stat.illinois.edu/) and my M.S. in [Biochemistry](https://mcb.illinois.edu/departments/biochemistry/) from UIUC. I received my B.S. in [Biological Science](https://life.tsinghua.edu.cn/) from Tsinghua University (THU), China. 
 
-I will join the [Computer Science Department](https://cs.vt.edu/) at Virginia Tech as an Assistant Professor in Spring 2023.
 
 ## Research Interests
 
@@ -32,7 +32,6 @@ I'm broadly interested in Natural Language Processing (NLP) and Data Mining (DM)
 You can find my schedule [here](https://calendar.google.com/calendar/embed?mode=week&src=5k0ift9l47qhd7l06ugfegc4f0%40group.calendar.google.com&ctz=America%2FLos_Angeles). The "Week" view will present you the details of slots.
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=NWswaWZ0OWw0N3FoZDdsMDZ1Z2ZlZ2M0ZjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23D50000&amp;mode=week&amp;showTitle=0&amp;showNav=1&amp;showCalendars=0" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe> -->
-
 
 
 ## Prospective Students
