@@ -44,7 +44,9 @@ Professional Experiences
   
 - **Organization Committee**
 
-  Session chair of IEEE-BigData (2019)
+  WiML mentor, co-organized with _Women in KDD_ (2022)
+
+  Session chair, IEEE-BigData (2019)
   
 - **Conference Reviewer**
 
@@ -52,4 +54,10 @@ Professional Experiences
 
 - **Journal Reviewer**
 
-  ACM Transactions on Intelligent Systems and Technology (ACM TIST), Data Mining and Knowledge Discovery, Bioinformatics, Journal of the American Medical Informatics Association (JAMIA)
+  ACM Transactions on Intelligent Systems and Technology (ACM TIST)
+  
+  Data Mining and Knowledge Discovery
+  
+  Bioinformatics
+  
+  Journal of the American Medical Informatics Association (JAMIA)
