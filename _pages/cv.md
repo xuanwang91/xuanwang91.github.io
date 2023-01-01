@@ -36,6 +36,30 @@ Work Experience
 
 
   
+Invited Talks
+======
+**Guest Lecture**, Computer Science Department, Washington University in St. Louis, Nov. 8, 2022
+_Scientific Knowledge Extraction from Massive Text Data_
+
+**Guest Lecture**, Computer Science Department, University of Washington, May 19, 2022
+_Scientific Knowledge Extraction from Massive Text Data_
+
+**Invited Talk**, UIUC-NLP Seminar, Dec. 3, 2021
+_Scientific Knowledge Extraction from Massive Text Data_
+
+**Poster**, NSF Center for Computational Biotechnology and Genomic Medicine, Nov 11, 2021
+_Text Mininig for Biomedicine and Healthcare_
+
+**Tutorial**, NSF Center for Molecule Maker Lab Institute, Mar. 21  2021
+_Text Mining for Chemistry Literature-Based Scientific Discovery_
+
+**Guest Lecture**, Computer Science Department, University of California San Diego, Dec. 1, 2020
+_Text Mining for Biomedical Literature-Based Scientific Discovery_
+
+**Invited Talk**, School of Information, The University of Texas at Austin, Apr. 23, 2020
+_Automatic Named Entity Recognition and Evidence Mining in COVID-19 Literature_
+
+
 Professional Experiences
 ======
 - **Program Committee**
