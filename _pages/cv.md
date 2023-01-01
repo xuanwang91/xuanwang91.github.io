@@ -40,16 +40,16 @@ Professional Experiences
 ======
 - **Program Committee**
 
-  ACL'23, KDD'22, ACL'22, NAACL'22, COLING'22
+  KDD (2022-2023), ISMB (2023), ACL(2022-2023), NAACL (2022), COLING (2022)
   
-- **Session Chair**
+- **Organization Committee**
 
-  IEEE Big Data 2019 Conference
+  Session chair of IEEE-BigData (2019)
   
 - **Conference Reviewer**
 
-  KDD’21, TheWebConf’21, IJCAI’21, KDD’20, KDD’19, ICDM’19, AAAI’19, KDD’18, AAAI’18
+  KDD (2018-2021), TheWebConf (2021), IJCAI (2021), ICDM (2019), AAAI (2018-2019)
 
 - **Journal Reviewer**
 
-  Bioinformatics, Journal of the American Medical Informatics Association (JAMIA)
+ACM Transactions on Intelligent Systems and Technology (ACM TIST), Data Mining and Knowledge Discovery, Bioinformatics, Journal of the American Medical Informatics Association (JAMIA)
