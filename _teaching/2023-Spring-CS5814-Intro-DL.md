@@ -20,7 +20,7 @@ location: "Blacksburg, VA"
 - Xuan Wang: TBD, ([Zoom]())
 - TAs: TBD, TBD
 
-**Mask Requirement**: Masks are **REQUIRED** for all students, regardless of vaccination status, attending the class in person**. See [University COVID-19 policy](https://vtx.vt.edu/articles/2021/08/unirel-mask-requirements.html). 
+**Mask Requirement**: Masks are **REQUIRED** for all students, regardless of vaccination status, attending the class in person. See [University COVID-19 policy](https://vtx.vt.edu/articles/2021/08/unirel-mask-requirements.html). 
 
 
 ## Course Description
