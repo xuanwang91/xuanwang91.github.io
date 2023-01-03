@@ -49,8 +49,8 @@ TBD
 
 
 ## Accommodations Statement
-Students are encouraged to discuss with the instructor about any special needs or special accommodations as soon as they become aware of such needs. Those seeking accommodations based on disabilities should obtain a Faculty Letter from the Services for Students with Disabilities office (540-231-0858) located in Lavery Hall, Suite 310 (http://www.ssd.vt.edu).
+Students are encouraged to discuss with the instructor about any special needs or special accommodations as soon as they become aware of such needs. Those seeking accommodations based on disabilities should obtain a Faculty Letter from the Services for Students with Disabilities office (540-231-0858) located in Lavery Hall, Suite 310. See [http://www.ssd.vt.edu](http://www.ssd.vt.edu).
 
 
 ## Honor Code Statement
-All students must adhere to the Honor Code Policies of Virginia Tech. The Honor Code will be strictly enforced in this course. All assignments shall be considered graded work, unless otherwise noted. All aspects of your coursework are covered by the honor system. Any suspected violations of the Honor Code will be promptly reported to the honor system. Honesty in your academic work will develop into professional integrity. The faculty and students of Virginia Tech will not tolerate any form of academic dishonesty. See http://www.honorsystem.vt.edu/?q=node/33
+All students must adhere to the Honor Code Policies of Virginia Tech. The Honor Code will be strictly enforced in this course. All assignments shall be considered graded work, unless otherwise noted. All aspects of your coursework are covered by the honor system. Any suspected violations of the Honor Code will be promptly reported to the honor system. Honesty in your academic work will develop into professional integrity. The faculty and students of Virginia Tech will not tolerate any form of academic dishonesty. See [http://www.honorsystem.vt.edu/?q=node/33](http://www.honorsystem.vt.edu/?q=node/33).
