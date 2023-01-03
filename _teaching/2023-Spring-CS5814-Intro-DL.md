@@ -10,7 +10,7 @@ location: "Blacksburg, VA"
 
 **Time**: Tuesday and Thursday, 12:30PM - 1:45PM
 
-**Location**: NCB 270
+**Location**: NCB 270 (In-person class, lectures will **NOT** be recorded)
 
 **Instructor**: Xuan Wang ([Email](mailto:xuanw@vt.edu))
 
@@ -19,6 +19,8 @@ location: "Blacksburg, VA"
 **Office Hours**:
 - Xuan Wang: TBD, ([Zoom]())
 - TAs: TBD, TBD
+
+**Masks are required for all students attending the class**: Virginia Tech requires that masks be worn by all individuals, regardless of vaccination status, when indoors in designated public areas. Indoor public spaces include all lobbies, foyers, atriums, hallways, and elevators in university-owned or leased facilities accessible by the general public; academic spaces used by students for classrooms or teaching laboratories not typically open for access by the general public; and auditorium, arena, theatre, museum, concert hall, or other areas used for a performance or an exhibit of the arts or sciences; and any public meeting room. Library spaces and training rooms are also indoor public spaces.
 
 
 ## Course Description
