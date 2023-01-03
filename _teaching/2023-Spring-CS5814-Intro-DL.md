@@ -12,7 +12,7 @@ location: "Blacksburg, VA"
 
 **Location**: NCB 270
 
-**Instructor**: Xuan Wang ([email](xuanw@vt.edu))
+**Instructor**: Xuan Wang ([Email](mailto:xuanw@vt.edu))
 
 **Teaching Assistants**: TBD
 
