@@ -36,5 +36,5 @@ The material for this course will be adapted from a wide range of sources. While
 
 - Ian Goodfellow, Yoshua Bengio, and Aaron Courville, "Deep learning", MIT Press, 2016.
 - Charu C. Aggarwal, "Neural Networks and Deep Learning: A Textbook", Springer, September 2018.
- -Simon O. Haykin, "Neural Networks and Learning Machines", Pearson Education, 3rd Edition, 2008.
+- Simon O. Haykin, "Neural Networks and Learning Machines", Pearson Education, 3rd Edition, 2008.
 
