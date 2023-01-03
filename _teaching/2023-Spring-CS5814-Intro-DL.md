@@ -20,7 +20,7 @@ location: "Blacksburg, VA"
 - Xuan Wang: TBD, ([Zoom]())
 - TAs: TBD, TBD
 
-**Masks are required for all students attending the class**: Virginia Tech requires that masks be worn by all individuals, regardless of vaccination status, when indoors in designated public areas. Indoor public spaces include all lobbies, foyers, atriums, hallways, and elevators in university-owned or leased facilities accessible by the general public; academic spaces used by students for classrooms or teaching laboratories not typically open for access by the general public; and auditorium, arena, theatre, museum, concert hall, or other areas used for a performance or an exhibit of the arts or sciences; and any public meeting room. Library spaces and training rooms are also indoor public spaces.
+**Masks are required for all students, regardless of vaccination status, attending the class in person, according the University COVID-19 policy**. 
 
 
 ## Course Description
