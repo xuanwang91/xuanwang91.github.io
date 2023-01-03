@@ -14,9 +14,11 @@ location: "Blacksburg, VA"
 
 **Instructor**: Xuan Wang ([email](xuanw@vt.edu))
 
-**Teaching Assistants**:
+**Teaching Assistants**: TBD
 
 **Office Hours**:
 - Xuan Wang: TBD, ([Zoom]())
-- TAs: 
+- TAs: TBD, TBD
+
+## Course Description
 
