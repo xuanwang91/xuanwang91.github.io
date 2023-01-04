@@ -49,7 +49,7 @@ This is a tentative grade criteria. The final grades will be relative to others 
 
 
 ## Late and Missed Work
-All assignments are due on the date assigned at the listed time. No late assignments will be accepted. Make up quizzes and tests will not be offered. Exceptions are made for extreme circumstances. Contact the instructor as soon as possible to make arrangements. Documentation of the circumstance may be required.
+All assignments are due on the date assigned at the listed time. No late assignments will be accepted. Make up exams will not be offered except for extreme circumstances. Contact the instructor as soon as possible to make arrangements. Documentation of the circumstance may be required.
 
 
 ## Lecture Schedule
