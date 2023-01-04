@@ -38,7 +38,7 @@ CS5525 Data Analytics I (or) CS5824 Advanced Machine Learning.
 
 ## Books
 There is no single textbook that will be used in this course. The students might find the following books to be useful.
-- [Deep Learning](https://www.deeplearningbook.org/), I. Goodfellow, Y. Bengio and A. Courville, MIT Press, 2016.
+- **[Deep Learning](https://www.deeplearningbook.org/), I. Goodfellow, Y. Bengio and A. Courville, MIT Press, 2016.**
 - [Neural Networks and Deep Learning: A Textbook](http://www.charuaggarwal.net/neural.htm), C. Aggarwal, Springer, September 2018.
 - [Dive into Deep Learning](https://d2l.ai/) -- an interactive online book, A. Zhang, Z. Lipton, M. Li and A. Smola from Amazon
 
