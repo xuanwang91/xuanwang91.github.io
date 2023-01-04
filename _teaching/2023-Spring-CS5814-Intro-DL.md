@@ -48,9 +48,9 @@ TBD
 TBD
 
 
-## Academic Accommodations
+## Accommodation Statement
 Virginia Tech welcomes students with disabilities into the University’s educational programs. The University promotes efforts to provide equal access and a culture of inclusion without altering the essential elements of coursework. If you anticipate or experience academic barriers that may be due to disability, including but not limited to ADHD, chronic or temporary medical conditions, deaf or hard of hearing, learning disability, mental health, or vision impairment, please contact the Services for Students with Disabilities (SSD) office (540-231-3788, [ssd@vt.edu](mailto:ssd@vt.edu), or visit [ssd.vt.edu](ssd.vt.edu)). If you have an SSD accommodation letter, please meet with me privately during office hours as early in the semester as possible to deliver your letter and discuss your accommodations. You must give me reasonable notice to implement your accommodations, which is generally 5 business days and 10 business days for final exams.
 
 
-## Honor Code Statement
-All students must adhere to the Honor Code Policies of Virginia Tech. The Honor Code will be strictly enforced in this course. All assignments shall be considered graded work, unless otherwise noted. All aspects of your coursework are covered by the honor system. Any suspected violations of the Honor Code will be promptly reported to the honor system. Honesty in your academic work will develop into professional integrity. The faculty and students of Virginia Tech will not tolerate any form of academic dishonesty. See [http://www.honorsystem.vt.edu/?q=node/33](http://www.honorsystem.vt.edu/?q=node/33).
+## Academic Integrity Statement
+The tenets of the Virginia Tech Graduate Honor Code will be strictly enforced in this course, and all assignments shall be subject to the stipulations of the Graduate Honor Code. For more information on the Graduate Honor Code, please refer to the [GHS Constitution](https://graduateschool.vt.edu/academics/expectations/graduate-honor-system.html).
