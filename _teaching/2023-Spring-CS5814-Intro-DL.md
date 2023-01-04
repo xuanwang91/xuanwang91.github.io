@@ -41,7 +41,7 @@ There is no single textbook that will be used in this course. The students might
 
 
 ## Grading Policy
-This is a tentative grade criteria. The final grades will be relative to others in the class.
+This is a tentative grading criteria. The final grades will be relative to others in the class.
 - 40% Homework Assignments
 - 20% Midterm Exam
 - 20% Final Exam
