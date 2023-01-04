@@ -86,12 +86,12 @@ analytics:
 author:
   name             : "Xuan Wang"
   avatar           : "/img/Xuan2016.jpg"
-  bio              : "Assistant Professor, Computer Science Department, Virginia Tech"
+  bio              : "Assistant Professor"
   location         : "Torgersen 3160K"
   employer         : "Virginia Tech"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=_IVJi6UAAAAJ&hl=en"
-  email            : "xuanw@vt.edu"
+  email            : "xuanw [at] vt [dot] edu"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   # uri              :
   # bitbucket        :
