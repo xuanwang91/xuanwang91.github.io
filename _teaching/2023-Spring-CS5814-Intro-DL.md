@@ -37,14 +37,18 @@ CS5525 Data Analytics I (or) CS5824 Advanced Machine Learning.
 
 
 ## Books
-The material for this course will be adapted from a wide range of sources. While there is no single textbook that will be used in this course, the students might find the following books to be useful.
+There is no single textbook that will be used in this course. The students might find the following books to be useful.
 - Ian Goodfellow, Yoshua Bengio, and Aaron Courville, "Deep learning", MIT Press, 2016.
 - Charu C. Aggarwal, "Neural Networks and Deep Learning: A Textbook", Springer, September 2018.
 - Simon O. Haykin, "Neural Networks and Learning Machines", Pearson Education, 3rd Edition, 2008.
 
 
-## Grading
-TBD
+## Grading Policy
+This is a tentative grade criteria. The final grades will be relative to others in the class.
+- 40% Homework Assignments
+- 20% Midterm Exam
+- 20% Final Exam
+- 20% Final Project
 
 
 ## Late and Missed Work
@@ -52,7 +56,8 @@ All assignments are due on the date assigned at the listed time. No late assignm
 
 
 ## Lecture Schedule
-TBD
+This is the tentative lecture schedule. All the slides and homework assignments will be released on Canvas.
+
 
 
 ## Accommodation Statement
