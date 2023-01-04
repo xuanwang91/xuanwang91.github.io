@@ -12,13 +12,14 @@ location: "Blacksburg, VA"
 
 **Location**: NCB 270
 
-**Instructor**: Xuan Wang ([Email](mailto:xuanw@vt.edu))
+**Instructor**: Xuan Wang 
+- Office: Torgersen 3160K
+- Phone: (540) 231-xxxx
+- Email: (mailto:xuanw@vt.edu)
+- Office Hours: TBD
 
 **TAs**: TBD
 
-**Office Hours**:
-- Xuan Wang: TBD, ([Zoom]())
-- TAs: TBD, TBD
 
 **Attendance**: Students are required to attend in-person for this class. The lectures are **NOT** recorded.
 
