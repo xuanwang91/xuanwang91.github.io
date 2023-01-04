@@ -67,7 +67,16 @@ Invited Talks
   _Automatic Named Entity Recognition and Evidence Mining in COVID-19 Literature_
 
 
-Professional Experiences
+Awards
+======
+- NAACL Best Demo Paper Award (2021)
+- YEE Fellowship, UIUC (2020-2021)
+- IEEE BIBM Student Travel Grant Award (2019)
+- Biochemistry Student Travel Grant Award, UIUC (2015)
+- Scholarship of Tsinghua Talented Program in Life Sciences, Tsinghua University (2012)
+
+
+Professional Services
 ======
 - **Program Committee**
 
@@ -88,10 +97,3 @@ Professional Experiences
   ACM Transactions on Intelligent Systems and Technology (ACM TIST), Data Mining and Knowledge Discovery, Bioinformatics, Journal of the American Medical Informatics Association (JAMIA)
 
 
-Awards
-======
-- NAACL Best Demo Paper Award (2021)
-- YEE Fellowship, UIUC (2020-2021)
-- IEEE BIBM Student Travel Grant Award (2019)
-- Biochemistry Student Travel Grant Award, UIUC (2015)
-- Scholarship of Tsinghua Talented Program in Life Sciences, Tsinghua University (2012)
