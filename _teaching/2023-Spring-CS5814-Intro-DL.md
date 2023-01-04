@@ -21,7 +21,7 @@ location: "Blacksburg, VA"
 **TAs**: TBD
 
 
-**Attendance**: Students are required to attend in-person for this class. The lectures are **NOT** recorded.
+**Attendance**: Students are required to attend in-person for this class. The lectures are **NOT** recorded or offered on-line.
 
 **Mask Requirement**: Masks are **REQUIRED** for all students, regardless of vaccination status, attending the class in-person. See [University COVID-19 policy](https://vtx.vt.edu/articles/2021/08/unirel-mask-requirements.html). 
 
