@@ -57,7 +57,9 @@ All assignments are due on the date assigned at the listed time. No late assignm
 
 ## Lecture Schedule
 This is the tentative lecture schedule. All the slides and homework assignments will be released on Canvas.
-|-------------|-------------|-------------|-------------|
+
+| Week | Date | Topic and Slides | Events |
+|---|---|---|---|
 | Week | Date | Topic and Slides | Events |
 
 
