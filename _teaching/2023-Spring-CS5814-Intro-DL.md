@@ -47,6 +47,10 @@ The material for this course will be adapted from a wide range of sources. While
 TBD
 
 
+## Late and Missed Work
+All assignments are due on the date assigned at the listed time. No late assignments will be accepted. Make up quizzes and tests will not be offered. Exceptions are made for extreme circumstances. Contact the instructor as soon as possible to make arrangements. Documentation of the circumstance may be required.
+
+
 ## Lecture Schedule
 TBD
 
@@ -57,3 +61,7 @@ Virginia Tech welcomes students with disabilities into the University’s educat
 
 ## Academic Integrity Statement
 The tenets of the Virginia Tech Graduate Honor Code will be strictly enforced in this course, and all assignments shall be subject to the stipulations of the Graduate Honor Code. For more information on the Graduate Honor Code, please refer to the [GHS Constitution](https://graduateschool.vt.edu/academics/expectations/graduate-honor-system.html).
+
+
+
+## [VT Principles of Community statement](https://www.inclusive.vt.edu/Programs/vtpoc0.html)
