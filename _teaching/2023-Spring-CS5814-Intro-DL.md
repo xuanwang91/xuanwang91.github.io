@@ -64,7 +64,7 @@ The tenets of the Virginia Tech Graduate Honor Code will be strictly enforced in
 
 
 ## Attendance Policy
-Regular class attendance is expected of all students. However, attendance will not be taken and will not be used in determining your final course gradein this class. See the [University Class Attendance Policy](https://policies.vt.edu/assets/6330.pdf).
+Regular class attendance is expected of all students. However, attendance will not be taken and will not be used in determining your final course gradein this class.
 
 
 ## [VT Principles of Community Statement](https://www.inclusive.vt.edu/Programs/vtpoc0.html)
