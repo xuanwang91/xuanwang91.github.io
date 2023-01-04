@@ -48,8 +48,8 @@ TBD
 TBD
 
 
-## Accommodations Statement
-Students are encouraged to discuss with the instructor about any special needs or special accommodations as soon as they become aware of such needs. Those seeking accommodations based on disabilities should obtain a Faculty Letter from the Services for Students with Disabilities office (540-231-0858) located in Lavery Hall, Suite 310. See [http://www.ssd.vt.edu](http://www.ssd.vt.edu).
+## Academic Accommodations
+Virginia Tech welcomes students with disabilities into the University’s educational programs. The University promotes efforts to provide equal access and a culture of inclusion without altering the essential elements of coursework. If you anticipate or experience academic barriers that may be due to disability, including but not limited to ADHD, chronic or temporary medical conditions, deaf or hard of hearing, learning disability, mental health, or vision impairment, please contact the Services for Students with Disabilities (SSD) office (540-231-3788, [ssd@vt.edu](mailto:ssd@vt.edu), or visit [ssd.vt.edu](ssd.vt.edu)). If you have an SSD accommodation letter, please meet with me privately during office hours as early in the semester as possible to deliver your letter and discuss your accommodations. You must give me reasonable notice to implement your accommodations, which is generally 5 business days and 10 business days for final exams.
 
 
 ## Honor Code Statement
