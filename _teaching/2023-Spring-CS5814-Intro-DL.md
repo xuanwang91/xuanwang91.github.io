@@ -63,5 +63,8 @@ Virginia Tech welcomes students with disabilities into the University’s educat
 The tenets of the Virginia Tech Graduate Honor Code will be strictly enforced in this course, and all assignments shall be subject to the stipulations of the Graduate Honor Code. For more information on the Graduate Honor Code, please refer to the [GHS Constitution](https://graduateschool.vt.edu/academics/expectations/graduate-honor-system.html).
 
 
+## Attendance Policy
+Regular class attendance is expected of all students. However, attendance will **NOT** be taken in this class. See the [University Class Attendance Policy](https://policies.vt.edu/assets/6330.pdf).
+
 
 ## [VT Principles of Community Statement](https://www.inclusive.vt.edu/Programs/vtpoc0.html)
