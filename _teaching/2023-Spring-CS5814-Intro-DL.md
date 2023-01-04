@@ -15,7 +15,7 @@ location: "Blacksburg, VA"
 **Instructor**: Xuan Wang 
 - Office: Torgersen 3160K
 - Phone: (540) 231-xxxx
-- Email: (mailto:xuanw@vt.edu)
+- Email: xuanw [at] vt [dot] edu
 - Office Hours: TBD
 
 **TAs**: TBD
