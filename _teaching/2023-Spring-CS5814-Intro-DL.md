@@ -64,4 +64,4 @@ The tenets of the Virginia Tech Graduate Honor Code will be strictly enforced in
 
 
 
-## [VT Principles of Community statement](https://www.inclusive.vt.edu/Programs/vtpoc0.html)
+## [VT Principles of Community Statement](https://www.inclusive.vt.edu/Programs/vtpoc0.html)
