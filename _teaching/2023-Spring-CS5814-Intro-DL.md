@@ -10,7 +10,7 @@ location: "Blacksburg, VA"
 
 **Time**: Tuesday and Thursday, 12:30PM - 1:45PM
 
-**Location**: NCB 270 (In-person class, lectures will **NOT** be recorded)
+**Location**: NCB 270
 
 **Instructor**: Xuan Wang ([Email](mailto:xuanw@vt.edu))
 
@@ -19,6 +19,8 @@ location: "Blacksburg, VA"
 **Office Hours**:
 - Xuan Wang: TBD, ([Zoom]())
 - TAs: TBD, TBD
+
+**Attendance**: Students are required to attend in-person for this class. The lectures will **NOT** be recorded
 
 **Mask Requirement**: Masks are **REQUIRED** for all students, regardless of vaccination status, attending the class in person. See [University COVID-19 policy](https://vtx.vt.edu/articles/2021/08/unirel-mask-requirements.html). 
 
