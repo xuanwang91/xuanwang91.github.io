@@ -8,9 +8,7 @@ date: 2023-01-15
 location: "Blacksburg, VA"
 ---
 
-**Time**: Tuesday and Thursday, 12:30PM - 1:45PM
-
-**Location**: NCB 270
+**Time and Location**: Tuesday and Thursday, 12:30PM - 1:45PM. NCB 270.
 
 **Instructor**: Xuan Wang 
 - Office: Torgersen 3160K
@@ -19,7 +17,6 @@ location: "Blacksburg, VA"
 - Office Hours: TBD
 
 **TAs**: TBD
-
 
 **Attendance**: Students are required to attend this class in-person. The lectures will **NOT** be recorded or offered on-line.
 
