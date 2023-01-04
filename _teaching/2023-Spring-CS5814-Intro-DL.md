@@ -55,9 +55,39 @@ All assignments are due on the date assigned at the listed time. No late assignm
 ## Lecture Schedule
 This is the tentative lecture schedule. All the slides and homework assignments will be released on Canvas.
 
-| Week | Date | Topic and Slides | Events |
-|---|---|---|---|
-| Week | Date | Topic and Slides | Events |
+| Date | Topic and Slides | Events |
+|---|---|---|
+| 01/17 (Tue) | Introduction | Events |
+| 01/19 (Thu) | Applied Math and Machine Learning Basics |  |
+| 01/24 (Tue) | Applied Math and Machine Learning Basics |  |
+| 01/26 (Thu) | Applied Math and Machine Learning Basics |  |
+| 01/31 (Tue) | Deep Feedforward Networks |  |
+| 02/02 (Thu) | Deep Feedforward Networks |  |
+| 02/07 (Tue) | Regularization for Deep Learning |  |
+| 02/09 (Thu) | Regularization for Deep Learning |  |
+| 02/14 (Tue) | Optimization for Deep Learning |  |
+| 02/16 (Thu) | Optimization for Deep Learning |  |
+| 02/21 (Tue) | Convolutional Networks |  |
+| 02/23 (Thu) | Convolutional Networks |  |
+| 02/28 (Tue) | Recurrent and Recursive Networks |  |
+| 03/02 (Thu) | Recurrent and Recursive Networks |  |
+| 03/7 (Tue) | Spring Break (No Class) |  |
+| 03/9 (Thu) | Spring Break (No Class) |  |
+| 03/14 (Tue) | Practical Methodology for Deep Learning |  |
+| 03/16 (Thu) | Practical Methodology for Deep Learning |  |
+| 03/21 (Tue) | Autoencoders |  |
+| 03/23 (Thu) | Autoencoders |  |
+| 03/28 (Tue) | Representation Learning |  |
+| 03/30 (Thu) | Representation Learning |  |
+| 04/04 (Tue) | Structured Probabilistic Models |  |
+| 04/06 (Thu) | Structured Probabilistic Models |  |
+| 04/11 (Tue) | Deep Generative Models |  |
+| 04/13 (Thu) | Deep Generative Models |  |
+| 04/18 (Tue) | Deep Reinforcement Learning |  |
+| 04/20 (Thu) | Deep Reinforcement Learning |  |
+| 04/25 (Tue) | Applications (CV, NLP, etc.) |  |
+| 04/27 (Thu) | Applications (CV, NLP, etc.) |  |
+| 05/02 (Tue) | Societal Impacts and Ethics |  |
 
 
 ## Accommodation Statement
