@@ -8,9 +8,9 @@ date: 2023-01-15
 location: "Blacksburg, VA"
 ---
 
-**Time and Location**: Tuesday and Thursday, 12:30PM - 1:45PM. NCB 270.
+**Time and Location**: Tuesday and Thursday, 12:30 PM - 1:45 PM. NCB 270.
 
-**Instructor**: Xuan Wang 
+**Instructor**: Xuan Wang
 - Office: Torgersen 3160K
 - Phone: (540) 231-xxxx
 - Email: xuanw [at] vt [dot] edu
@@ -18,17 +18,17 @@ location: "Blacksburg, VA"
 
 **TAs**: TBD
 
-**Attendance**: Students are required to attend this class in-person. The lectures will **NOT** be recorded or offered on-line.
+**Attendance**: Students are required to attend this class in person. The lectures will **NOT** be recorded or offered online.
 
-**Mask Requirement**: Masks are **REQUIRED** for all students, regardless of vaccination status, attending the class in-person. See [University COVID-19 policy](https://vtx.vt.edu/articles/2021/08/unirel-mask-requirements.html). 
+**Mask Requirement**: Masks are **REQUIRED** for all students, regardless of vaccination status, attending the class in person. See [University COVID-19 policy](https://vtx.vt.edu/articles/2021/08/unirel-mask-requirements.html). 
 
 **Course Websites:** [Canvas](https://canvas.vt.edu/courses/165447) (slides, assignments, and exams), [Piazza](https://piazza.com/vt/spring2023/cs_5814_20672_202301) (discussions)
 
 
 ## Course Description
-Deep Learning has gained a lot of popularity due to its recent breakthrough results in many real-world applications such as speech recognition, machine translation, image understanding, and robotics. The primary idea of deep learning is to build high-level abstractions of the data through multi-layered architectures. This course introduces the fundamental principles, algorithms and applications of deep learning. It will provide an in-depth understanding of various concepts and popular techniques in deep learning. This course is mainly designed for graduate students who are interested in studying deep learning techniques and their practical applications. Basic knowledge and understanding of machine learning and data mining algorithms is required.
+Deep Learning has gained a lot of popularity due to its recent breakthrough results in many real-world applications such as speech recognition, machine translation, image understanding, and robotics. The primary idea of deep learning is to build high-level abstractions of the data through multi-layered architectures. This course introduces the fundamental principles, algorithms, and applications of deep learning. It will provide an in-depth understanding of various concepts and popular techniques in deep learning. This course is mainly designed for graduate students who are interested in studying deep learning techniques and their practical applications. Basic knowledge and understanding of machine learning and data mining algorithms are required.
 
-The course begins with a thorough treatment of deep feedforward networks along with various regularization and optimization techniques used for efficiently learning these models. Different forms of the network architectures such as convolutional networks, recurrent neural networks and autoencoders will be discussed in detail. Other advanced concepts such as deep generative models and deep reinforcement learning will also be covered. Finally, the course will conclude with a discussion on few real-world application domains where deep learning techniques have produced astonishing results.
+The course begins with a thorough treatment of deep feedforward networks along with various regularization and optimization techniques used for efficiently learning these models. Different forms of the network architectures such as convolutional networks, recurrent neural networks, and autoencoders will be discussed in detail. Other advanced concepts such as deep generative models and deep reinforcement learning will also be covered. Finally, the course will conclude with a discussion on a few real-world application domains where deep learning techniques have produced astonishing results.
 
 
 ## Prerequisites
@@ -39,11 +39,11 @@ CS5525 Data Analytics I (or) CS5824 Advanced Machine Learning.
 There is no single textbook that will be used in this course. The students might find the following books to be useful.
 - **[Deep Learning](https://www.deeplearningbook.org/), I. Goodfellow, Y. Bengio and A. Courville, MIT Press, 2016.**
 - [Neural Networks and Deep Learning: A Textbook](http://www.charuaggarwal.net/neural.htm), C. Aggarwal, Springer, September 2018.
-- [Dive into Deep Learning](https://d2l.ai/) -- an interactive online book, A. Zhang, Z. Lipton, M. Li and A. Smola from Amazon
+- [Dive into Deep Learning](https://d2l.ai/) -- an interactive online book, A. Zhang, Z. Lipton, M. Li, and A. Smola from Amazon
 
 
 ## Grading Policy
-This is a tentative grading criteria. The final grades will be relative to others in the class.
+This is a tentative grading policy. The final grades will be relative to others in the class.
 - 40% Homework Assignments
 - 20% Midterm Exam
 - 20% Final Exam
@@ -51,7 +51,7 @@ This is a tentative grading criteria. The final grades will be relative to other
 
 
 ## Late and Missed Work
-All assignments are due on the date assigned at the listed time. No late assignments will be accepted. Make up exams will not be offered except for extreme circumstances. Contact the instructor as soon as possible to make arrangements. Documentation of the circumstance may be required.
+All assignments are due on the date assigned at the listed time. No late assignments will be accepted. Make-up exams will not be offered except for extreme circumstances. Contact the instructor as soon as possible to make arrangements. Documentation of the circumstance may be required.
 
 
 ## Lecture Schedule
@@ -93,7 +93,7 @@ This is a tentative lecture schedule. All the slides, homework assignments, and 
 
 
 ## Accommodation Statement
-Virginia Tech welcomes students with disabilities into the University’s educational programs. The University promotes efforts to provide equal access and a culture of inclusion without altering the essential elements of coursework. If you anticipate or experience academic barriers that may be due to disability, including but not limited to ADHD, chronic or temporary medical conditions, deaf or hard of hearing, learning disability, mental health, or vision impairment, please contact the Services for Students with Disabilities (SSD) office (540-231-3788, [ssd@vt.edu](mailto:ssd@vt.edu), or visit [ssd.vt.edu](ssd.vt.edu)). If you have an SSD accommodation letter, please meet with me privately during office hours as early in the semester as possible to deliver your letter and discuss your accommodations. You must give me reasonable notice to implement your accommodations, which is generally 5 business days and 10 business days for final exams.
+Virginia Tech welcomes students with disabilities into the University’s educational programs. The University promotes efforts to provide equal access and a culture of inclusion without altering the essential elements of coursework. If you anticipate or experience academic barriers that may be due to disability, including but not limited to ADHD, chronic or temporary medical conditions, deaf or hard of hearing, learning disability, mental health, or vision impairment, please contact the Services for Students with Disabilities (SSD) office (540-231-3788, [ssd@vt.edu](mailto:ssd@vt.edu), or visit [ssd.vt.edu](ssd.vt.edu)). If you have an SSD accommodation letter, please meet with me privately during office hours as early in the semester as possible to deliver your letter and discuss your accommodations. You must give me a reasonable notice to implement your accommodations, which is generally 5 business days and 10 business days for final exams.
 
 
 ## Academic Integrity Statement
