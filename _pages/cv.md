@@ -8,7 +8,18 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+Work Experience
+======
+- **Virginia Tech**, Blacksburg, VA, USA
+  
+  Assistant Professor, Computer Science Department (Jan. 2023 - Present)
+  Faculty Member, Sanghani Center for Artificial Intelligence and Discovery Analytics (Jan. 2023 - Present)
+  
+- **IBM Research - AI**, Yorktown Heights, NY, USA
+  
+  Research Intern, Knowledge Technology Team (Jun. - Aug. 2020)
+  
+  
 Education
 ======
 - **University of Illinois at Urbana-Champaign**, Champaign, Illinois USA
@@ -22,18 +33,6 @@ Education
 - **Tsinghua University**, Beijing, China
 
   B.S., Biological Science (Aug. 2009 - May 2013) 
-
-
-Work Experience
-======
-- **Virginia Tech**, Blacksburg, VA, USA
-  
-  Assistant Professor, Computer Science Department (Jan. 2023 - Present)
-  
-- **IBM Research - AI**, Yorktown Heights, NY, USA
-  
-  Research Intern, Knowledge Technology Team (Jun. - Aug. 2020)
-
 
   
 Invited Talks
