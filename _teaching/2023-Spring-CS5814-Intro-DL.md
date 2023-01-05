@@ -22,7 +22,7 @@ location: "Blacksburg, VA"
 
 **Mask Requirement**: Masks are **REQUIRED** for all students, regardless of vaccination status, attending the class in-person. See [University COVID-19 policy](https://vtx.vt.edu/articles/2021/08/unirel-mask-requirements.html). 
 
-**Course Websites:** [Canvas](https://canvas.vt.edu/) (slides, assignments, and exams), [Piazza](https://piazza.com/vt/spring2023/cs_5814_20672_202301) (discussions)
+**Course Websites:** [Canvas](https://canvas.vt.edu/courses/165447) (slides, assignments, and exams), [Piazza](https://piazza.com/vt/spring2023/cs_5814_20672_202301) (discussions)
 
 
 ## Course Description
