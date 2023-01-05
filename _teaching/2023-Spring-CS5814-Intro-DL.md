@@ -22,6 +22,8 @@ location: "Blacksburg, VA"
 
 **Mask Requirement**: Masks are **REQUIRED** for all students, regardless of vaccination status, attending the class in-person. See [University COVID-19 policy](https://vtx.vt.edu/articles/2021/08/unirel-mask-requirements.html). 
 
+**Course Websites:** [Canvas](https://canvas.vt.edu/) (slides, assignments, and exams), [Piazza](https://piazza.com/vt/spring2023/cs_5814_20672_202301) (discussions)
+
 
 ## Course Description
 Deep Learning has gained a lot of popularity due to its recent breakthrough results in many real-world applications such as speech recognition, machine translation, image understanding, and robotics. The primary idea of deep learning is to build high-level abstractions of the data through multi-layered architectures. This course introduces the fundamental principles, algorithms and applications of deep learning. It will provide an in-depth understanding of various concepts and popular techniques in deep learning. This course is mainly designed for graduate students who are interested in studying deep learning techniques and their practical applications. Basic knowledge and understanding of machine learning and data mining algorithms is required.
@@ -53,7 +55,7 @@ All assignments are due on the date assigned at the listed time. No late assignm
 
 
 ## Lecture Schedule
-This is a tentative lecture schedule. All the slides and homework assignments will be released on Canvas.
+This is a tentative lecture schedule. All the slides, homework assignments, and exams will be released on Canvas.
 
 | Date | Topic and Slides | Events |
 |---|---|---|
