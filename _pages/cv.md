@@ -13,26 +13,26 @@ Education
 ======
 - **University of Illinois at Urbana-Champaign**, Champaign, Illinois USA
 
-  Ph.D., Computer Science (2017 - 2022) 
+  Ph.D., Computer Science (Aug. 2017 - Dec. 2022) 
   
-  M.S., Statistics (2015 - 2017)
+  M.S., Statistics (Jan. 2016 - May 2017)
   
-  M.S., Biochemistry (2013 - 2015)
+  M.S., Biochemistry (Aug. 2013 - Dec. 2015)
   
 - **Tsinghua University**, Beijing, China
 
-  B.S., Biological Science (2009 - 2013) 
+  B.S., Biological Science (Aug. 2009 - May 2013) 
 
 
 Work Experience
 ======
-- **Virginia Tech**, Blacksburg, VA, Jan 2023 - Present
+- **Virginia Tech**, Blacksburg, VA, USA
   
-  Assistant Professor, Computer Science Department
+  Assistant Professor, Computer Science Department (Jan. 2023 - Present)
   
-- **IBM Research - AI**, Yorktown Heights, NY, Jun - Aug 2020
+- **IBM Research - AI**, Yorktown Heights, NY, USA
   
-  Research Intern, Knowledge Technology Team
+  Research Intern, Knowledge Technology Team (Jun. - Aug. 2020)
 
 
   
