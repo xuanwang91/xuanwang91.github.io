@@ -14,6 +14,7 @@ Work
 - **Virginia Tech**, Blacksburg, VA, USA
   
   Assistant Professor, Computer Science Department (Jan. 2023 - Present)
+  
   Faculty Member, Sanghani Center for Artificial Intelligence and Discovery Analytics (Jan. 2023 - Present)
   
 - **IBM Research - AI**, Yorktown Heights, NY, USA
