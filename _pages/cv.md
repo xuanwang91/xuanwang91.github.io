@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Work Experience
+Work
 ======
 - **Virginia Tech**, Blacksburg, VA, USA
   
