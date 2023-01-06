@@ -20,8 +20,8 @@ I'm broadly interested in Natural Language Processing (NLP) and Data Mining (DM)
   - _Learning Paradigms_: Distantly-Supervised, Semi-Supervised, Self-Supervised, Few-Shot, Zero-Shot Learning, ...
   - _Tasks_: Information Extraction, Knowledge Base Construction, Text Classification, Text Summarization, ...
 - **Multi-Modal** Data Mining between Text and Graph
-  - Text-Augmented Open Knowledge Graph Reasoning
-  - Text-Graph Pre-Training for Multi-Modal Representation Learning
+  - Text-Augmented Knowledge Graph Completion and Reasoning
+  - Knowledge Graph-Enhanced Language Model Pre-Training
 - **Interdisciplinary** Applications
   - AI for Science
   - AI in Healthcare
