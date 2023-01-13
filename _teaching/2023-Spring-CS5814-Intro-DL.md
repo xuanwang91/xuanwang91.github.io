@@ -14,7 +14,7 @@ location: "Blacksburg, VA"
 - Office: Torgersen 3160K
 - Phone: (540) 231-4061
 - Email: xuanw [at] vt [dot] edu
-- Office Hours: TBD
+- Office Hours: Tuesday, 2 - 3 PM (Online)
 
 **TAs**: TBD
 
