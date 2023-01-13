@@ -8,6 +8,8 @@ date: 2023-01-15
 location: "Blacksburg, VA"
 ---
 
+<span style="color:red">This page is only updated till Jan 13, 2023. Students should go to Canvas for the most up-to-date syllabus.</span>
+
 **Time and Location**: Tuesday and Thursday, 12:30 PM - 1:45 PM. NCB 270.
 
 **Instructor**: Xuan Wang
