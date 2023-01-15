@@ -99,7 +99,7 @@ Virginia Tech welcomes students with disabilities into the University’s educat
 
 
 ## Academic Integrity Statement
-The tenets of the Virginia Tech Graduate Honor Code will be strictly enforced in this course, and all assignments shall be subject to the stipulations of the Graduate Honor Code. For more information on the Graduate Honor Code, please refer to the [GHS Constitution](https://graduateschool.vt.edu/academics/expectations/graduate-honor-system.html).
+The tenets of the Virginia Tech Graduate Honor Code will be strictly enforced in this course, and all assignments shall be subject to the stipulations of the Graduate Honor Code. Any suspected violations of the Honor Code will be promptly reported to the honor system. Honesty in your academic work will develop into professional integrity. The faculty and students of Virginia Tech will not tolerate any form of academic dishonesty. For more information on the Graduate Honor Code, please refer to the [GHS Constitution](https://graduateschool.vt.edu/academics/expectations/graduate-honor-system.html).
 
 
 ## Absence Policy
