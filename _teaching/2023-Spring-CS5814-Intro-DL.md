@@ -16,7 +16,7 @@ location: "Blacksburg, VA"
 - Office: Torgersen 3160K
 - Phone: (540) 231-4061
 - Email: xuanw [at] vt [dot] edu
-- Office Hours: Tuesday, 2 - 3 PM (Online)
+- Office Hours: TBD
 
 **TAs**: TBD
 
@@ -24,7 +24,7 @@ location: "Blacksburg, VA"
 
 **Mask Requirement**: Masks are **highly recommended** for all students, regardless of vaccination status, attending the class in person.
 
-**Course Websites:** [Canvas](https://canvas.vt.edu/courses/165447) (slides, assignments, and exams), [Piazza](https://piazza.com/vt/spring2023/cs_5814_20672_202301) (discussions)
+**Course Websites:** [Canvas](https://canvas.vt.edu/courses/165447) (slides and assignments), [Piazza](https://piazza.com/vt/spring2023/cs_5814_20672_202301) (discussions)
 
 
 ## Course Description
@@ -57,7 +57,7 @@ All assignments are due on the date assigned at the listed time. No late assignm
 
 
 ## Lecture Schedule
-This is a tentative lecture schedule. All the slides, homework assignments, and exams will be released on Canvas.
+This is a tentative lecture schedule. All the slides and homework assignments will be released on Canvas.
 
 | Date | Topic and Slides | Events |
 |---|---|---|
