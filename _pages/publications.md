@@ -13,6 +13,7 @@ Details of my publications and citations can be found on my [Google Scholar](htt
 1. Pengcheng Jiang, Shivam Agarwal, Bowen Jin, **Xuan Wang**, Jimeng Sun and Jiawei Han, “Text Augmented Open Knowledge Graph Completion via Pre-Trained Language Models”, in Proc. 2023 Annual Meeting of the Association for Computational Linguistics (**ACL’23**), Toronto, Canada, July 2023
 2. Ming Zhong, Siru Ouyang, Minhao Jiang, Vivian Hu, Yizhu Jiao, **Xuan Wang** and Jiawei Han “ReactIE: Enhancing Chemical Reaction Extraction with Weak Supervision”, in Proc. 2023 Annual Meeting of the Association for Computational Linguistics (**ACL’23**), Toronto, Canada, July 2023
 
+
 # Before 2023
 ## Journal Papers
 1.  **Xuan Wang**, Yu Zhang, Xiang Ren, Yuhao Zhang, Marinka Zitnik, Jingbo Shang, Curtis Langlotz and Jiawei Han, "[Cross-type Biomedical Named Entity Recognition with Deep Multi-Task Learning](https://academic.oup.com/bioinformatics/article/35/10/1745/5126922?guestAccessKey=403bcc14-3eca-4ff0-b9fb-5ecd1c1744d2)", **Bioinformatics** 35.10 (2018): 1745-1752. [[code](https://github.com/yuzhimanhua/Multi-BioNER)]
