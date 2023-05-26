@@ -43,4 +43,4 @@ Please email me if you're interested in working with me. **In your email**, plea
 
 
 ## News and Highlights
-- (5/11/23) We are grateful to receive a new grant from Commonwealth Cyber Initiative (CCI) to support our research on trustworthy multimodal machine learning in healthcare.
+- **(5/11/23)** We are grateful to receive a new grant from Commonwealth Cyber Initiative (CCI) to support our research on trustworthy multimodal machine learning in healthcare.
