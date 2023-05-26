@@ -14,17 +14,12 @@ I received my Ph.D. in [Computer Science](http://www.cs.uiuc.edu/) from the Univ
 
 
 ## Research Interests
+My primary research interests are in the fields of Natural Language Processing (NLP) and Data Mining (DM). I am specifically interested in developing principled data-driven approaches with light human effort for effective and scalable model learning.
 
-I'm broadly interested in Natural Language Processing (NLP) and Data Mining (DM) Problems:
-- **Weakly-Supervised** NLP and Text Mining:
-  - _Learning Paradigms_: Distantly-Supervised, Semi-Supervised, Self-Supervised, Few-Shot, Zero-Shot Learning, ...
-  - _Tasks_: Information Extraction, Knowledge Base Construction, Text Classification, Text Summarization, ...
-- **Multi-Modal** Data Mining between Text and Graph
-  - Text-Augmented Knowledge Graph Completion and Reasoning
-  - Knowledge Graph-Enhanced Language Model Pre-Training
-- **Interdisciplinary** Applications
-  - AI for Science
-  - AI in Healthcare
+- **Weakly-supervised** Natural Language Processing
+- **Text-enhanced** Knowledge Graph Construction and Reasoning
+- **Trustworthy** Natural Language Processing
+- **Interdisciplinary** Applications: AI for Science, AI in Healthcare
 
 
 <!--- 
