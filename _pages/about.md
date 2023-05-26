@@ -32,7 +32,6 @@ You can find my schedule [here](https://calendar.google.com/calendar/embed?src=x
  
 
 ## Prospective Students
-
 My lab at Virginia Tech has openings for **PhD students** and research internship opportunities for **master/undergrad students**. Prospective students satisfying the following criteria will be considered with a priority: (1) have publications in top NLP/DM/ML conferences, (2) have relevant research experiences in NLP/DM/ML, and/or (3) have a strong background in CS/Math/Stats.
 
 Please email me if you're interested in working with me. **In your email**, please include the following items:
@@ -41,3 +40,7 @@ Please email me if you're interested in working with me. **In your email**, plea
 - Briefly introduce yourself, including education background, research experiences, and programming skills.
 - Briefly explain your motivations and expectations of working with me.
 - Include a PDF version of your CV.
+
+
+## News and Highlights
+- (5/11/23) We are grateful to receive a new grant from Commonwealth Cyber Initiative (CCI) to support our research on trustworthy multimodal machine learning in healthcare.
