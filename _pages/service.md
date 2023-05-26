@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /cv/
+permalink: /service/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,34 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-Work
+Professional Services
 ======
-- **Virginia Tech**, Blacksburg, VA, USA
-  
-  Assistant Professor, Computer Science Department (Jan. 2023 - Present)
-  
-  Faculty Member, Sanghani Center for Artificial Intelligence and Discovery Analytics (Jan. 2023 - Present)
-  
-- **IBM Research - AI**, Yorktown Heights, NY, USA
-  
-  Research Intern, Knowledge Technology Team (Jun. - Aug. 2020)
-  
-  
-Education
-======
-- **University of Illinois at Urbana-Champaign**, Champaign, Illinois USA
+- **Program Committee**
 
-  Ph.D., Computer Science (Aug. 2017 - Dec. 2022) 
+  KDD (2022-2023), ISMB (2023), ACL(2022-2023), NAACL (2022), COLING (2022)
   
-  M.S., Statistics (Jan. 2016 - May 2017)
-  
-  M.S., Biochemistry (Aug. 2013 - Dec. 2015)
-  
-- **Tsinghua University**, Beijing, China
+- **Organization Committee**
 
-  B.S., Biological Science (Aug. 2009 - May 2013) 
+  WiML mentor, co-organized with _Women in KDD_ (2022)
 
+  Session chair, IEEE-BigData (2019)
   
+- **Conference Reviewer**
+
+  KDD (2018-2021), TheWebConf (2021), IJCAI (2021), ICDM (2019), AAAI (2018-2019)
+
+- **Journal Reviewer**
+
+  ACM Transactions on Intelligent Systems and Technology (ACM TIST), Data Mining and Knowledge Discovery, Bioinformatics, Journal of the American Medical Informatics Association (JAMIA)
+
+
 Invited Talks
 ======
 - **Guest Lecture**, Computer Science Department, Washington University in St. Louis, Nov. 8, 2022
@@ -75,26 +68,4 @@ Awards
 - IEEE BIBM Student Travel Grant Award (2019)
 - Biochemistry Student Travel Grant Award, UIUC (2015)
 - Scholarship of Tsinghua Talented Program in Life Sciences, Tsinghua University (2012)
-
-
-Professional Services
-======
-- **Program Committee**
-
-  KDD (2022-2023), ISMB (2023), ACL(2022-2023), NAACL (2022), COLING (2022)
-  
-- **Organization Committee**
-
-  WiML mentor, co-organized with _Women in KDD_ (2022)
-
-  Session chair, IEEE-BigData (2019)
-  
-- **Conference Reviewer**
-
-  KDD (2018-2021), TheWebConf (2021), IJCAI (2021), ICDM (2019), AAAI (2018-2019)
-
-- **Journal Reviewer**
-
-  ACM Transactions on Intelligent Systems and Technology (ACM TIST), Data Mining and Knowledge Discovery, Bioinformatics, Journal of the American Medical Informatics Association (JAMIA)
-
 
