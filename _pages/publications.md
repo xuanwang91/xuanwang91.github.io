@@ -15,6 +15,7 @@ Details of my publications and citations can be found on my [Google Scholar](htt
 
 
 # Before 2023
+\vspace{-1in}
 ## Journal Papers
 1.  **Xuan Wang**, Yu Zhang, Xiang Ren, Yuhao Zhang, Marinka Zitnik, Jingbo Shang, Curtis Langlotz and Jiawei Han, "[Cross-type Biomedical Named Entity Recognition with Deep Multi-Task Learning](https://academic.oup.com/bioinformatics/article/35/10/1745/5126922?guestAccessKey=403bcc14-3eca-4ff0-b9fb-5ecd1c1744d2)", **Bioinformatics** 35.10 (2018): 1745-1752. [[code](https://github.com/yuzhimanhua/Multi-BioNER)]
 2. David Liem, Alexandre, Sanjana Murali, Dibakar Sigdel, Yu Shi, **Xuan Wang**, Jiaming Shen, Howard Choi et al. "[Phrase Mining of Textual Data to Analyze Extracellular Matrix Protein Patterns Across Cardiovascular Disease](https://www.physiology.org/doi/full/10.1152/ajpheart.00175.2018?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed)", **American Journal of Physiology-Heart and Circulatory Physiology**, 1;315(4):H910-H924, 2018
