@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in [Computer Science Department](https://cs.vt.edu/) at Virginia Tech. I am also a member of the [Sanghani Center for Artificial Intelligence and Discovery Analytics](https://sanghani.cs.vt.edu/) in CS@VT.
+I am an Assistant Professor in the [Computer Science Department](https://cs.vt.edu/) at Virginia Tech (VT). I am also a faculty member of the [Sanghani Center for Artificial Intelligence and Discovery Analytics](https://sanghani.cs.vt.edu/) at VT.
 
 I received my Ph.D. in [Computer Science](http://www.cs.uiuc.edu/) from the University of Illinois at Urbana-Champaign (UIUC) under the supervision of Dr. [Jiawei Han](http://hanj.cs.illinois.edu/). I received my M.S. in [Statistics](https://stat.illinois.edu/) and my M.S. in [Biochemistry](https://mcb.illinois.edu/departments/biochemistry/) from UIUC. I received my B.S. in [Biological Science](https://life.tsinghua.edu.cn/) from Tsinghua University, China. 
 
