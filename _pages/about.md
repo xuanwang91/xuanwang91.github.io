@@ -43,5 +43,5 @@ Please email me if you're interested in working with me. **In your email**, plea
 
 
 ## News and Highlights
-- **(6/7/23)** We are grateful to receive a new grant from the Center for Health Behaviors Research at Fralin Biomedical Research Institute to support our research on _AI-guided behavioral health modifier prediction for fetal growth disorder detection_.
-- **(5/11/23)** We are grateful to receive a new grant from Commonwealth Cyber Initiative (CCI) to support our research on _trustworthy multimodal machine learning in healthcare_.
+- **(6/7/23)** We are grateful to receive a new grant from the _Center for Health Behaviors Research at Fralin Biomedical Research Institute_ to support our research on **AI-guided behavioral health modifier prediction for fetal growth disorder detection**.
+- **(5/11/23)** We are grateful to receive a new grant from _Commonwealth Cyber Initiative (CCI)_ to support our research on **trustworthy multimodal machine learning in healthcare**.
