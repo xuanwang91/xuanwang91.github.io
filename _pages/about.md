@@ -19,7 +19,7 @@ My primary research interests are in the fields of Natural Language Processing (
 - **Weakly-supervised** Natural Language Processing
 - **Text-enhanced** Knowledge Graph Construction and Reasoning
 - **Trustworthy** Natural Language Processing
-- **Interdisciplinary** Applications: AI for Science, AI in Healthcare
+- **Interdisciplinary** Applications: AI for Science, AI for Healthcare
 
 
 <!--- 
