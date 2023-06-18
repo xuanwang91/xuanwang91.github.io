@@ -24,8 +24,8 @@ Current Members
 
 Acknowledgement
 ======
-Our work is sponsored by NaCommonwealth Cyber Initiative under award 467648.
-<---
+Our work is sponsored by Commonwealth Cyber Initiative under award 467648.
+<!---
 Any opinions, findings, and conclusions or recommendations expressed herein are those of the authors and should not be interpreted as necessarily representing the views, either expressed or implied, of the U.S. Government. 
 The U.S. Government is authorized to reproduce and distribute reprints for government purposes not withstanding any copyright annotation hereon.
 --->
