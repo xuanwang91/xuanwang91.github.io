@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Service"
+title: "Service, Talks, and Awards"
 permalink: /service/
 author_profile: true
 redirect_from:
