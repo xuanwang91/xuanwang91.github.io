@@ -28,11 +28,7 @@ My primary research interests are in the fields of Natural Language Processing (
 
 <details>
 <summary>Load More</summary>
-
-- Item 4
-- Item 5
-- Item 6
-- ...
+</details>
 
 
 <!--- 
