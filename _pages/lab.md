@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-Current Members
-======
 
 ## PhD Students
 
@@ -22,8 +20,8 @@ Current Members
 - [Daniel Hajialigol](https://www.linkedin.com/in/danielhajialigol/) (Spring 2023)
 
 
-Acknowledgement
-======
+## Acknowledgment
+
 Our work is sponsored by Commonwealth Cyber Initiative under award 467648.
 <!---
 Any opinions, findings, and conclusions or recommendations expressed herein are those of the authors and should not be interpreted as necessarily representing the views, either expressed or implied, of the U.S. Government. 
