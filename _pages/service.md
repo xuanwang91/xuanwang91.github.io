@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Professional Services
-======
+## Professional Services
+
 - **Program Committee**
 
   KDD (2022-2023), ISMB (2023), ACL(2022-2023), NAACL (2022), COLING (2022)
@@ -30,8 +30,8 @@ Professional Services
   ACM Transactions on Intelligent Systems and Technology (ACM TIST), Data Mining and Knowledge Discovery, Bioinformatics, Journal of the American Medical Informatics Association (JAMIA)
 
 
-Invited Talks
-======
+## Invited Talks
+
 - **Guest Lecture**, Computer Science Department, Washington University in St. Louis, Nov. 8, 2022
 
   _Scientific Knowledge Extraction from Massive Text Data_
@@ -61,8 +61,8 @@ Invited Talks
   _Automatic Named Entity Recognition and Evidence Mining in COVID-19 Literature_
 
 
-Awards
-======
+## Awards
+
 - NAACL Best Demo Paper Award (2021)
 - YEE Fellowship, UIUC (2020-2021)
 - IEEE BIBM Student Travel Grant Award (2019)
