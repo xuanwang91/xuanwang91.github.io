@@ -26,6 +26,25 @@ My primary research interests are in the fields of Natural Language Processing (
 - **(6/7/23)** We are grateful to receive a new grant from the Center for Health Behaviors Research at Fralin Biomedical Research Institute to support our research on AI-guided behavioral health modifier prediction for fetal growth disorder detection.
 - **(5/11/23)** We are grateful to receive a new grant from Commonwealth Cyber Initiative (CCI) to support our research on trustworthy multimodal machine learning in healthcare.
 
+## List of Items
+
+- Item 1
+- Item 2
+- Item 3
+<!-- Display a subset of items initially -->
+
+<!-- Load More button -->
+[Load More](javascript:void(0);)<!-- Replace the href value with the appropriate JavaScript function to load more items -->
+
+<!-- Hidden section with additional items -->
+<details>
+<summary>Show More Items</summary>
+
+- Item 4
+- Item 5
+- Item 6
+- ...
+
 
 <!--- 
 ## My Schedule
