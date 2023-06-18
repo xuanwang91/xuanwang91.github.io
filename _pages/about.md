@@ -27,7 +27,7 @@ My primary research interests are in the fields of Natural Language Processing (
 - **(5/11/23)** We are grateful to receive a new grant from Commonwealth Cyber Initiative (CCI) to support our research on trustworthy multimodal machine learning in healthcare.
 
 <details>
-<summary>**Load More**</summary>
+<summary>Load More</summary>
 </details>
 
 
