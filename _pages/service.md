@@ -32,6 +32,10 @@ redirect_from:
 
 ## Invited Talks
 
+- **Invited Talk**, Children's National Hospital, Jun. 12, 2023
+
+  _Biomedical Natural Language Processing and Text Mining_
+  
 - **Guest Lecture**, Computer Science Department, Washington University in St. Louis, Nov. 8, 2022
 
   _Scientific Knowledge Extraction from Massive Text Data_
