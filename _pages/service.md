@@ -13,7 +13,7 @@ redirect_from:
 
 - **Program Committee**
 
-  KDD (2022-2023), ISMB (2023), ACL(2022-2023), NAACL (2022), COLING (2022)
+  KDD (2022-2023), ISMB (2023), ACL(2022-2023), EMNLP (**Area Chair,** 2023), NAACL (2022), COLING (2022)
   
 - **Organization Committee**
 
