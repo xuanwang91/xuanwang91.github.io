@@ -48,14 +48,6 @@ redirect_from:
 
   _Scientific Knowledge Extraction from Massive Text Data_
 
-- **Poster**, NSF Center for Computational Biotechnology and Genomic Medicine, Nov 11, 2021
-
-  _Text Mininig for Biomedicine and Healthcare_
-
-- **Tutorial**, NSF Center for Molecule Maker Lab Institute, Mar. 21  2021
-
-  _Text Mining for Chemistry Literature-Based Scientific Discovery_
-
 - **Guest Lecture**, Computer Science Department, University of California San Diego, Dec. 1, 2020
 
   _Text Mining for Biomedical Literature-Based Scientific Discovery_
