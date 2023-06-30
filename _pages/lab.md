@@ -12,7 +12,7 @@ author_profile: true
 
 - [Zhenyu Bi](https://www.linkedin.com/in/zhenyu-bi-817814178/) (Fall 2023)
 - Meng Lu (Fall 2023)
-- [Hanwen Liu](https://www.linkedin.com/in/hanwen-liu-a244b71a9/) (Fall 2023)
+- [Hanwen Liu](https://www.linkedin.com/in/hanwen-liu-a244b71a9/) (Summer 2023)
 
 
 ## Master Students
@@ -22,7 +22,7 @@ author_profile: true
 
 ## Undergraduate Students
 
-- [Gautam Soni](https://www.linkedin.com/in/gsoni16/) (Fall 2023)
+- [Gautam Soni](https://www.linkedin.com/in/gsoni16/) (Summer 2023)
 
 
 ## Acknowledgment
