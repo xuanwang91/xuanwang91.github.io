@@ -20,6 +20,11 @@ author_profile: true
 - [Daniel Hajialigol](https://www.linkedin.com/in/danielhajialigol/) (Spring 2023)
 
 
+## Undergraduate Students
+
+- [Gautam Soni](https://www.linkedin.com/in/gsoni16/) (Fall 2023)
+
+
 ## Acknowledgment
 
 Our work is sponsored by Commonwealth Cyber Initiative under award 467648.
