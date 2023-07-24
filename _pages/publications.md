@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications and Patents"
 permalink: /publications/
 author_profile: true
 ---
@@ -10,6 +10,9 @@ author_profile: true
 ## 2023
 1. Pengcheng Jiang, Shivam Agarwal, Bowen Jin, **Xuan Wang**, Jimeng Sun and Jiawei Han, “Text Augmented Open Knowledge Graph Completion via Pre-Trained Language Models”, in Proc. 2023 Annual Meeting of the Association for Computational Linguistics (**ACL’23**), Toronto, Canada, July 2023
 2. Ming Zhong, Siru Ouyang, Minhao Jiang, Vivian Hu, Yizhu Jiao, **Xuan Wang** and Jiawei Han “ReactIE: Enhancing Chemical Reaction Extraction with Weak Supervision”, in Proc. 2023 Annual Meeting of the Association for Computational Linguistics (**ACL’23**), Toronto, Canada, July 2023
+
+## Patents
+1. Gaetano Rosielo, Alfio Massimiliano Gliozo, **Xuan Wang**, “Transformer-Based Model Knowledge Graph Link Prediction”. No.US20220327356A1.
 
 ---
 
