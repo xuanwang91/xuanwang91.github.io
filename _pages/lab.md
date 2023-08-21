@@ -18,6 +18,7 @@ author_profile: true
 ## Master Students
 
 - [Daniel Hajialigol](https://www.linkedin.com/in/danielhajialigol/) (Spring 2023)
+- [Sindhura Kommu](https://sindhura-cs.github.io/) (Fall 2023)
 
 
 ## Undergraduate Students
