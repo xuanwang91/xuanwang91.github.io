@@ -11,7 +11,7 @@ author_profile: true
 ## PhD Students
 
 - [Zhenyu Bi](https://www.linkedin.com/in/zhenyu-bi-817814178/) (Fall 2023)
-- Meng Lu (Fall 2023)
+- [Meng Lu](https://www.linkedin.com/in/lu-luca-499092166/) (Fall 2023)
 - [Hanwen Liu](https://www.linkedin.com/in/hanwen-liu-a244b71a9/) (Fall 2023)
 
 
