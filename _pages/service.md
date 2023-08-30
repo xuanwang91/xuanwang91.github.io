@@ -32,6 +32,14 @@ redirect_from:
 
 ## Invited Talks
 
+- **Invited Talk**, VT Engineering Research Seminar, Sep. 8, 2023
+
+  _AI for Science in the Era of Large Language Models_
+
+- **Invited Talk**, VT CS Graduate Seminar, Sep. 1, 2023
+
+  _AI for Science in the Era of Large Language Models_
+  
 - **Invited Talk**, Children's National Hospital, Jun. 12, 2023
 
   _Biomedical Natural Language Processing and Text Mining_
@@ -50,11 +58,11 @@ redirect_from:
 
 - **Guest Lecture**, Computer Science Department, University of California San Diego, Dec. 1, 2020
 
-  _Text Mining for Biomedical Literature-Based Scientific Discovery_
+  _Biomedical Text Mining for Scientific Knowledge Discovery_
 
 - **Invited Talk**, School of Information, The University of Texas at Austin, Apr. 23, 2020
 
-  _Automatic Named Entity Recognition and Evidence Mining in COVID-19 Literature_
+  _Named Entity Recognition and Evidence Mining in COVID-19 Literature_
 
 
 ## Awards
