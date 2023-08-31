@@ -17,9 +17,11 @@ redirect_from:
   
 - **Organization Committee**
 
-  WiML mentor, co-organized with _Women in KDD_ (2022)
+  Program Chair, South NLP Symposium (2024)
 
-  Session chair, IEEE-BigData (2019)
+  Mentor, Women in Machine Learning Workshop (co-organized with Women in KDD, 2022)
+
+  Session Chair, IEEE-BigData (2019)
   
 - **Conference Reviewer**
 
