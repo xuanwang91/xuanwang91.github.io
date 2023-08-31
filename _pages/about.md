@@ -20,12 +20,12 @@ My primary research interests are in the fields of Natural Language Processing (
   - Information extraction, knowledge graph construction, text classification, …
   - Weakly-supervised/few-shot/zero-shot learning
 - **Fact-checking and trustworthy NLP**:
-  - Fact-checking for LLM generation
+  - Fact-checking for generative large language models
   - Trustworthiness: explainability, robustness, privacy, …
 - **AI for sciences; AI for healthcare**:
-  - Brain Large Language Models
-  - Multi-omics Large Language Models
-  - Personalization of Large Language Models
+  - Brain large language models
+  - Multi-omics large language models
+  - Personalization of large language models
 
 ## News and Highlights
 - **(6/7/23)** We are grateful to receive a new grant from the Center for Health Behaviors Research at Fralin Biomedical Research Institute to support our research on AI-guided behavioral health modifier prediction for fetal growth disorder detection.
