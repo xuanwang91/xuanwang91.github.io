@@ -7,6 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+## 2024
+1. Zhenyu Bi, Minghao Xu, Jian Tang, and **Xuan Wang**, "AI for Science in the Era of Large Language Models”, (Conference tutorial) 2024 Annual Meeting of the Association for Computational Linguistics  (**ACL’24**), Long Beach, CA, Aug. 2023
+
 ## 2023
 1. Daniel Hajialigol, Derek Kaknes, Tanner Barbour, Daphne Yao, Chris North, Jimeng Sun, David Liem, and **Xuan Wang**, “DRGCoder: Explainable Clinical Coding for the Early Prediction of Diagnostic-Related Groups”, in Proc. 2023 Conf. on Empirical Methods in Natural Language Processing (**EMNLP’23**) (System Demonstration), Singapore, December 2023
 2. Ming Zhong, Siru Ouyang, Yizhu Jiao, Priyanka Kargupta, Leo Luo, Yanzhen Shen, Bobby Zhou, Xianrui Zhong, Xuan Liu, Hongxiang Li, Jinfeng Xiao, Minhao Jiang, Vivian Hu, **Xuan Wang**, Heng Ji, Martin Burke, Huimin Zhao, and Jiawei Han, “Reaction Miner: An Integrated System for Chemical Reaction Extraction from Textual Data”, in Proc. 2023 Conf. on Empirical Methods in Natural Language Processing (**EMNLP’23**) (System Demonstration), Singapore, December 2023
