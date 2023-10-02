@@ -28,7 +28,7 @@ author_profile: true
 
 ## Acknowledgment
 
-Our work is sponsored by Commonwealth Cyber Initiative under award 467648 and a generous gift from the Amazon + VT Center for Efficient and Robust ML.
+Our work is sponsored by the Commonwealth Cyber Initiative and a generous gift from the Amazon + VT Center for Efficient and Robust ML.
 <!---
 Any opinions, findings, and conclusions or recommendations expressed herein are those of the authors and should not be interpreted as necessarily representing the views, either expressed or implied, of the U.S. Government. 
 The U.S. Government is authorized to reproduce and distribute reprints for government purposes not withstanding any copyright annotation hereon.
