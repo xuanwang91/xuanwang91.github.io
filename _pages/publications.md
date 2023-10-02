@@ -8,8 +8,10 @@ author_profile: true
 {% include base_path %}
 
 ## 2023
-1. Pengcheng Jiang, Shivam Agarwal, Bowen Jin, **Xuan Wang**, Jimeng Sun and Jiawei Han, “Text Augmented Open Knowledge Graph Completion via Pre-Trained Language Models”, in Proc. 2023 Annual Meeting of the Association for Computational Linguistics (**ACL’23**), Toronto, Canada, July 2023
-2. Ming Zhong, Siru Ouyang, Minhao Jiang, Vivian Hu, Yizhu Jiao, **Xuan Wang** and Jiawei Han “ReactIE: Enhancing Chemical Reaction Extraction with Weak Supervision”, in Proc. 2023 Annual Meeting of the Association for Computational Linguistics (**ACL’23**), Toronto, Canada, July 2023
+1. Daniel Hajialigol, Derek Kaknes, Tanner Barbour, Daphne Yao, Chris North, Jimeng Sun, David Liem, and **Xuan Wang**, “DRGCoder: Explainable Clinical Coding for the Early Prediction of Diagnostic-Related Groups”, in Proc. 2023 Conf. on Empirical Methods in Natural Language Processing (**EMNLP’23**) (System Demonstration), Singapore, December 2023
+2. Ming Zhong, Siru Ouyang, Yizhu Jiao, Priyanka Kargupta, Leo Luo, Yanzhen Shen, Bobby Zhou, Xianrui Zhong, Xuan Liu, Hongxiang Li, Jinfeng Xiao, Minhao Jiang, Vivian Hu, **Xuan Wang**, Heng Ji, Martin Burke, Huimin Zhao, and Jiawei Han, “Reaction Miner: An Integrated System for Chemical Reaction Extraction from Textual Data”, in Proc. 2023 Conf. on Empirical Methods in Natural Language Processing (**EMNLP’23**) (System Demonstration), Singapore, December 2023
+3. Pengcheng Jiang, Shivam Agarwal, Bowen Jin, **Xuan Wang**, Jimeng Sun and Jiawei Han, “Text Augmented Open Knowledge Graph Completion via Pre-Trained Language Models”, in Proc. 2023 Findings of Annual Meeting of the Association for Computational Linguistics (**ACL’23**), Toronto, Canada, July 2023
+4. Ming Zhong, Siru Ouyang, Minhao Jiang, Vivian Hu, Yizhu Jiao, **Xuan Wang** and Jiawei Han “ReactIE: Enhancing Chemical Reaction Extraction with Weak Supervision”, in Proc. 2023 Findings of Annual Meeting of the Association for Computational Linguistics (**ACL’23**), Toronto, Canada, July 2023
 
 ## Patents
 1. Gaetano Rosielo, Alfio Massimiliano Gliozo, **Xuan Wang**, “Transformer-Based Model Knowledge Graph Link Prediction”, No.US20220327356A1 (submitted, under IBM Research).
