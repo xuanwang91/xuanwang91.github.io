@@ -29,7 +29,7 @@ My primary research interests are in the fields of Natural Language Processing (
 
 ## News and Highlights
 - **(10/2/23)** We are excited to present our **tutorial** "AI for Science in the Era of Large Language Models" in **ACL 2024**.
-- **(9/6/23)** We are grateful to receive a new grant from the **Amazon + VT Center for Efficient and Robust ML **to support our research on fact-checking in LLMs.
+- **(9/6/23)** We are grateful to receive a new grant from the **Amazon + VT Center for Efficient and Robust ML** to support our research on fact-checking in LLMs.
 - **(6/7/23)** We are grateful to receive a new grant from the Center for Health Behaviors Research at **Fralin Biomedical Research Institute** to support our research on AI-guided behavioral health modifier prediction for fetal growth disorder detection.
 - **(5/11/23)** We are grateful to receive a new grant from **Commonwealth Cyber Initiative (CCI)** to support our research on trustworthy multimodal machine learning in healthcare.
 - **(5/1/23)** **Two papers** are accepted by **ACL 2023**. Congratulations to all the authors!
