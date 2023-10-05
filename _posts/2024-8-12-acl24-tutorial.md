@@ -1,6 +1,6 @@
 ---
 title: 'ACL 2024 Tutorial'
-date:   TBD
+date:   2024-8-12 9am - 12pm
 permalink: /2024-8-12-acl24-tutorial
 tags:
   - acl
