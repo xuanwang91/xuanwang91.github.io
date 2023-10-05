@@ -14,7 +14,7 @@ tags:
 
 Department of Computer Science, University of Illinois at Urbana-Champaign
 
-Time: **9am - 12pm ET, Aug 14, 2022**
+Time: **Aug 14, 2022, 9am - 12pm ET**
 
 Location: **Washington DC, USA**
 
