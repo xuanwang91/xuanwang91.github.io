@@ -14,7 +14,7 @@ tags:
 
 Department of Computer Science, University of Illinois at Urbana-Champaign
 
-Time: **April 26, 2022 15:45 PM - 17:15 PM (CET)**
+Time: **April 26, 2022, 15:45 PM - 17:15 PM (CET)**
 
 Location: **Online, hosted by Lyon, France**
 
