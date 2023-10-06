@@ -1,6 +1,6 @@
 ---
 title: 'The Web Conference 2022 Tutorial'
-date:   2021-12-19 15:45pm - 17:15pm
+date:   2022-4-26 15:45pm - 17:15pm
 permalink: /2021-12-19-www22-tutorial
 tags:
   - www
