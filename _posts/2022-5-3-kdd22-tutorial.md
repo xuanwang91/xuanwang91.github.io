@@ -1,7 +1,7 @@
 ---
 title: 'KDD 2022 Tutorial'
 date:   2022-5-3 9am - 12pm
-permalink: /2022-5-3-kdd22-tutorial
+permalink: /2022-8-14-kdd22-tutorial
 tags:
   - kdd
   - tutorial
