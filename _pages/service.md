@@ -33,6 +33,17 @@ redirect_from:
 
 
 ## Invited Talks
+- **Panelist**, ORNL Core University AI Workshop, Oct. 31, 2023
+
+  _Science in the age of generative AI_
+
+  - **Panelist**, Amazon - Virginia Tech Initiative for Efficient and Robust Machine Learning, Oct. 27, 2023
+    
+  _How can academia compete in the new era of LLMs?_
+
+  - **Invited Talk**, Amazon - Virginia Tech Initiative for Efficient and Robust Machine Learning, Oct. 27, 2023
+
+  _Trustworthy Question Answering with Retrieval-Augmented Large Language Models_
 
 - **Invited Talk**, VT Engineering Research Seminar, Sep. 8, 2023
 
