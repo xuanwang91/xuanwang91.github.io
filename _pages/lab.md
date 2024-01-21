@@ -28,7 +28,7 @@ author_profile: true
 
 ## Acknowledgment
 
-Our work is sponsored by the Commonwealth Cyber Initiative, Children's National Hospital, Fralin Biomedical Research Institute (Virginia Tech), Sanghani Center for AI and Data Analytics (Virginia Tech), and  Virginia Tech Innovation Campus, and the. and a generous gift from the Amazon + Virginia Tech Center for Efficient and Robust Machine Learning.
+Our work is sponsored by the Commonwealth Cyber Initiative, Children's National Hospital, Fralin Biomedical Research Institute (Virginia Tech), Sanghani Center for AI and Data Analytics (Virginia Tech), Virginia Tech Innovation Campus, and a generous gift from the Amazon + Virginia Tech Center for Efficient and Robust Machine Learning.
 <!---
 Any opinions, findings, and conclusions or recommendations expressed herein are those of the authors and should not be interpreted as necessarily representing the views, either expressed or implied, of the U.S. Government. 
 The U.S. Government is authorized to reproduce and distribute reprints for government purposes not withstanding any copyright annotation hereon.
