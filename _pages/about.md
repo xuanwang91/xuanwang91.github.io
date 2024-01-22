@@ -26,6 +26,7 @@ My primary research interests are in the fields of Natural Language Processing (
   - Multi-modal large language models
   - Graph-aware large language models
 - **AI for Sciences; AI for Healthcare**:
+  - Large language models for sciences and healthcare
   - Brain large language models
   - Multi-omics large language models
 
