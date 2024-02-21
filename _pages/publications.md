@@ -8,8 +8,8 @@ author_profile: true
 {% include base_path %}
 
 ## 2024
-1. Zhenyu Bi, Minghao Xu, Jian Tang, and **Xuan Wang**, "AI for Science in the Era of Large Language Models”, in Proc. 2024 Annual Meeting of the Association for Computational Linguistics  (**ACL’24**) (Conference Tutorial), Bangkok, Thailand, August 2024
-
+1. Zhenyu Bi, Minghao Xu, Jian Tang, and **Xuan Wang**, “AI for Science in the Era of Large Language Models”, in Proc. 2024 Annual Meeting of the Association for Computational Linguistics (**ACL’24**) (Conference Tutorial), pages TBD, August 11-16, 2024, Bangkok, Thailand <span style="color:red">(acceptance rate: TBD)</span>
+   
 ## 2023
 1. Priyanka Kargupta, Tanay Komarlu, Susik Yoon, **Xuan Wang**, and Jiawei Han, “MEGClass: Text Classification with Extremely Weak Supervision via Mutually-Enhancing Text Granularities”, in Proc. 2023 Conf. on Findings of Empirical Methods in Natural Language Processing (**EMNLP’23**), Singapore, December 2023
 2. Daniel Hajialigol, Derek Kaknes, Tanner Barbour, Daphne Yao, Chris North, Jimeng Sun, David Liem, and **Xuan Wang**, “DRGCoder: Explainable Clinical Coding for the Early Prediction of Diagnostic-Related Groups”, in Proc. 2023 Conf. on Empirical Methods in Natural Language Processing (**EMNLP’23**) (System Demonstration), Singapore, December 2023
