@@ -22,9 +22,6 @@ My primary research interests are in the fields of Natural Language Processing (
 - **Fact-checking and Trustworthy NLP**:
   - Fact-checking for generative large language models
   - Trustworthy large language models: groundedness, confidence, explainability, …
-- **Multi-modal Foundation Models**:
-  - Multi-modal large language models
-  - Graph-aware large language models
 - **AI for Sciences; AI for Healthcare**:
   - Large language models for sciences and healthcare
   - Brain large language models
