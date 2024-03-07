@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Professional Service
+## Service
 
 - **Program Committee**
 
@@ -17,11 +17,13 @@ redirect_from:
   
 - **Organization Committee**
 
+  Co-Chair, IEEE-BigData (2024), Undergraduate and High School Symposium 
+  
   Program Chair, South NLP Symposium (2024)
 
   Mentor, Women in Machine Learning Workshop (co-organized with Women in KDD, 2022)
 
-  Session Chair, IEEE-BigData (2019)
+  Session Chair, IEEE BigData (2019)
   
 - **Conference Reviewer**
 
@@ -32,7 +34,7 @@ redirect_from:
   ACM Transactions on Intelligent Systems and Technology (ACM TIST), Data Mining and Knowledge Discovery, Bioinformatics, Journal of the American Medical Informatics Association (JAMIA)
 
 
-## Invited Talks
+## Talks
 - **Panelist**, ORNL Core University AI Workshop, Oct. 31, 2023
 
   _Science in the age of generative AI_
