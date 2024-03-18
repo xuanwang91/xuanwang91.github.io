@@ -46,8 +46,6 @@ My primary research interests are in the fields of Natural Language Processing (
 ## My Schedule
 
 You can find my schedule [here](https://outlook.office365.com/owa/calendar/7a9db64927ad4b31ac057a71aa1a21f4@vt.edu/36019279cd6b4fb78bef49139b5b4e834236640486942120667/calendar.html). The "Week" view will present you the details of slots.
-
-<iframe src="https://outlook.office365.com/owa/calendar/7a9db64927ad4b31ac057a71aa1a21f4@vt.edu/36019279cd6b4fb78bef49139b5b4e834236640486942120667/calendar.html" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
  
 
 ## Prospective Students
