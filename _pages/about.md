@@ -29,7 +29,7 @@ My primary research interests are in the fields of Natural Language Processing (
 
 ## News and Highlights
 - **(3/26/24)** Check out our new **survey paper** on [LLMs for diverse biomedical data](https://arxiv.org/abs/2403.15673)! We explored three critical categories of biomedical data: 1) textual data (biomedical literature and health records), 2) biological sequences (DNA/RNA/protein sequences and multi-omics sequencing data), and 3) brain signals (time-series EEG data).
-- **(3/3/24)** We are grateful to receive a new grant from the **Virginia Tech Brain Tech One Health Initiative** to support our research on open-vocabulary brain-to-text translation with large Language Models.
+- **(3/3/24)** We are grateful to receive a new grant from the **Virginia Tech Brain Tech One Health Initiative** to support our research on open-vocabulary brain-to-text translation with large language models.
 - **(1/18/24)** We are grateful to receive a new grant from the **Children's National Hospital + Virginia Tech Initiative** to support our research on weakly-supervised clinical variable extraction with large language models.
 - **(10/10/23)** We are grateful to receive a new grant from the **Virginia Tech Institute for Critical Technology and Applied Science (ICTAS)** to support our research on multi-omics encoding with LLMs for disease progression prediction.
 - **(10/7/23)** **Three papers** are accepted by **EMNLP 2023**. Congratulations to all the authors!
@@ -38,10 +38,10 @@ My primary research interests are in the fields of Natural Language Processing (
 - **(6/7/23)** We are grateful to receive a new grant from the Center for Health Behaviors Research at **Fralin Biomedical Research Institute** to support our research on AI-guided behavioral health modifier prediction for fetal growth disorder detection.
 - **(5/11/23)** We are grateful to receive a new grant from the **Commonwealth Cyber Initiative (CCI)** to support our research on trustworthy multimodal machine learning in healthcare.
 - **(5/1/23)** **Two papers** are accepted by **ACL 2023**. Congratulations to all the authors!
-- **(1/1/23)** I started a new journey as an Assistant Professor in **CS@VT**.
 
 <details>
 <summary>Load More</summary>
+- **(1/1/23)** I started a new journey as an Assistant Professor in **CS@VT**.
 </details>
 
 
