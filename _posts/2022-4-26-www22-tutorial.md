@@ -26,7 +26,7 @@ This tutorial presents a comprehensive overview of recent research and developme
 
 
 ## Tutorial Recording:
-A recording of our tutorial will be available after the conference.
+A recording of our tutorial is available [here](https://www.youtube.com/watch?v=JIbs0WtoIZk&list=PL_4c34HZDoN6P4liXPoFjQiIoZEQLsxD3&index=15).
 
 
 ## Slides:
