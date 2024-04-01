@@ -41,7 +41,9 @@ My primary research interests are in the fields of Natural Language Processing (
 
 <details>
 <summary>Load More</summary>
+  
 - **(1/1/23)** I started a new journey as an Assistant Professor in **CS@VT**.
+
 </details>
 
 
