@@ -8,7 +8,8 @@ author_profile: true
 {% include base_path %}
 
 ## 2024
-1. Zhenyu Bi, Minghao Xu, Jian Tang, and **Xuan Wang**, “AI for Science in the Era of Large Language Models”, in Proc. 2024 Annual Meeting of the Association for Computational Linguistics (**ACL’24**) (Conference Tutorial), pages TBD, August 11-16, 2024, Bangkok, Thailand
+1. Yueyan Gu, **Xuan Wang**, and Farrokh Jazizadeh, “Are Transformers Effective for Time Series Anomaly Detection? – A Case Study in Building Energy Management”, in Proc. 2024 ASCE International Conference on Computing in Civil Engineering (**i3CE'24**), pages TBD, July 28-31, 2024, Pennsylvania, USA, 
+2. Zhenyu Bi, Minghao Xu, Jian Tang, and **Xuan Wang**, “AI for Science in the Era of Large Language Models”, in Proc. 2024 Annual Meeting of the Association for Computational Linguistics (**ACL’24**) (Conference Tutorial), pages TBD, August 11-16, 2024, Bangkok, Thailand
    
 ## 2023
 1. Daniel Hajialigol, Derek Kaknes, Tanner Barbour, Daphne Yao, Chris North, Jimeng Sun, David Liem, and **Xuan Wang**, “DRGCoder: Explainable Clinical Coding for the Early Prediction of Diagnostic-Related Groups”, in Proc. 2023 Conf. on Empirical Methods in Natural Language Processing (**EMNLP’23**) (System Demonstration), pages 373–380, December 6-10, 2023, Singapore
