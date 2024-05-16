@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## 2024
-1. Chufan Gao, **Xuan Wang**, and Jimeng Sun, “TTM-RE: Memory-Augmented Document-Level Relation Extraction”, in Proc. The 62nd Annual Meeting of the Association for Computational Linguistics (\textbf{ACL'24}), pages TBD, August 11–16, 2024, Bangkok, Thailand <span style="color:red">(acceptance rate: TBD%)</span>
+1. Chufan Gao, **Xuan Wang**, and Jimeng Sun, “TTM-RE: Memory-Augmented Document-Level Relation Extraction”, in Proc. The 62nd Annual Meeting of the Association for Computational Linguistics (**ACL'24**), pages TBD, August 11–16, 2024, Bangkok, Thailand <span style="color:red">(acceptance rate: TBD%)</span>
 2. Yueyan Gu, **Xuan Wang**, and Farrokh Jazizadeh, “Are Transformers Effective for Time Series Anomaly Detection? – A Case Study in Building Energy Management”, in Proc. 2024 ASCE International Conference on Computing in Civil Engineering (**i3CE'24**), pages TBD, July 28-31, 2024, Pennsylvania, USA, 
 3. Zhenyu Bi, Minghao Xu, Jian Tang, and **Xuan Wang**, “AI for Science in the Era of Large Language Models”, in Proc. 2024 Annual Meeting of the Association for Computational Linguistics (**ACL’24**) (Conference Tutorial), pages TBD, August 11-16, 2024, Bangkok, Thailand
    
