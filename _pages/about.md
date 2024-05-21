@@ -28,6 +28,7 @@ My primary research interests are in the fields of Natural Language Processing (
   - Multi-omics large language models
 
 ## News and Highlights
+- **(3/3/24)** We are excited and grateful to be funded by **NSF NAIRR Pilot** to support our research on complex reasoning in large language models.
 - **(3/26/24)** Check out our new **survey paper** on [LLMs for diverse biomedical data](https://arxiv.org/abs/2403.15673)! We explored three critical categories of biomedical data: 1) textual data (biomedical literature and health records), 2) biological sequences (DNA/RNA/protein sequences and multi-omics sequencing data), and 3) brain signals (time-series EEG data).
 - **(3/3/24)** We are grateful to receive a new grant from the **Virginia Tech Brain Tech One Health Initiative** to support our research on open-vocabulary brain-to-text translation with large language models.
 - **(1/18/24)** We are grateful to receive a new grant from the **Children's National Hospital + Virginia Tech Initiative** to support our research on weakly-supervised clinical variable extraction with large language models.
