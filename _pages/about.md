@@ -42,7 +42,7 @@ My primary research interests are in the fields of Natural Language Processing (
 - **(5/1/23)** **Two papers** are accepted by **ACL 2023**. Congratulations to all the authors!
 
 <details>
-<summary><b>Load More</b>b></summary>
+<summary><b>Load More</b></summary>
   
 <li><b>(1/1/23)</b> I started a new journey as an Assistant Professor in <b>CS@VT</b>.</li>
 
