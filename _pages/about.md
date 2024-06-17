@@ -28,6 +28,7 @@ My primary research interests are in the fields of Natural Language Processing (
   - Multi-omics large language models
 
 ## News and Highlights
+- **(6/16/24)** **Three papers** are accepted by **ICML'24 AI4Science**. Congratulations to my students, Meng whose paper was accepted as a spotlight, and Hanwen and Sindhura whose papers were accepted as posters!
 - **(5/21/24)** We are excited and grateful to receive an award from **NSF NAIRR Pilot** to support our research on complex reasoning in large language models.
 - **(5/17/24)** **One paper** is accepted by **ACL 2024** and **one paper** is accepted by **KDD 2024**. Congratulations to all the authors!
 - **(3/26/24)** Check out our new **survey paper** on [LLMs for diverse biomedical data](https://arxiv.org/abs/2403.15673)! We explored three critical categories of biomedical data: 1) textual data (biomedical literature and health records), 2) biological sequences (DNA/RNA/protein sequences and multi-omics sequencing data), and 3) brain signals (time-series EEG data).
