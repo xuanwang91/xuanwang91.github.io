@@ -38,13 +38,12 @@ My primary research interests are in the fields of Natural Language Processing (
 - **(10/7/23)** **Three papers** are accepted by **EMNLP 2023**. Congratulations to all the authors!
 - **(10/2/23)** We are excited to present our **tutorial** of "[AI for Science in the Era of Large Language Models](https://xuanwang91.github.io/2024-8-12-acl24-tutorial)" at **ACL 2024**.
 - **(9/6/23)** We are grateful to receive a new grant from the **Amazon + VT Center for Efficient and Robust ML** to support our research on fact-checking in LLMs.
-- **(6/7/23)** We are grateful to receive a new grant from the Center for Health Behaviors Research at **Fralin Biomedical Research Institute** to support our research on AI-guided behavioral health modifier prediction for fetal growth disorder detection.
-- **(5/11/23)** We are grateful to receive a new grant from the **Commonwealth Cyber Initiative (CCI)** to support our research on trustworthy multimodal machine learning in healthcare.
-- **(5/1/23)** **Two papers** are accepted by **ACL 2023**. Congratulations to all the authors!
 
 <details>
 <summary><b>Load More</b></summary>
-  
+<li><b>(6/7/23)** We are grateful to receive a new grant from the Center for Health Behaviors Research at <b>Fralin Biomedical Research Institute</b> to support our research on AI-guided behavioral health modifier prediction for fetal growth disorder detection.</li>
+<li><b>(5/11/23)</b> We are grateful to receive a new grant from the <b>Commonwealth Cyber Initiative (CCI)</b> to support our research on trustworthy multimodal machine learning in healthcare.</li>
+<li><b>(5/1/23)</b> <b>Two papers</b> are accepted by <b>ACL 2023</b>. Congratulations to all the authors!</li>  
 <li><b>(1/1/23)</b> I started a new journey as an Assistant Professor in <b>CS@VT</b>.</li>
 
 </details>
