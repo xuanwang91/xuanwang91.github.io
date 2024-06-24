@@ -55,7 +55,7 @@ You can find my schedule [here](https://outlook.office365.com/owa/calendar/7a9db
  
 
 ## Prospective Students
-My lab at Virginia Tech has openings for **PhD, Master, and Post-doc students** and research internship opportunities for **undergrad students**. We are looking for students with a strong background in <span style="color:blue">NLP, data mining, deep learning, or bioinformatics</span>.
+My lab at Virginia Tech has openings for **PhD/Master students and Post-doc researchers** and research internship opportunities for **undergrad students**. We are looking for students with a strong background in <span style="color:blue">NLP, data mining, deep learning, or bioinformatics</span>.
 
 Please email me if you're interested in working with me. **In your email**, please include the following items:
 - Title as "Prospective Student: YourName - YourAffliation"
