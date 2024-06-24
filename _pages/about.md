@@ -41,12 +41,12 @@ My primary research interests are in the fields of Natural Language Processing (
 
 <details>
 <summary><b>Load More</b></summary>
-<ul>
+<ul style="PADDING-LEFT: 12px">
   <li><b>(6/7/23)</b> We are grateful to receive a new grant from the Center for Health Behaviors Research at <b>Fralin Biomedical Research Institute</b> to support our research on AI-guided behavioral health modifier prediction for fetal growth disorder detection.</li>
   <li><b>(5/11/23)</b> We are grateful to receive a new grant from the <b>Commonwealth Cyber Initiative (CCI)</b> to support our research on trustworthy multimodal machine learning in healthcare.</li>
   <li><b>(5/1/23)</b> <b>Two papers</b> are accepted by <b>ACL 2023</b>. Congratulations to all the authors!</li>  
   <li><b>(1/1/23)</b> I started a new journey as an Assistant Professor in <b>CS@VT</b>.</li>
-<\ul>
+</ul>
 </details>
 
 
