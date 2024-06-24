@@ -65,6 +65,6 @@ Please email me if you're interested in working with me. **In your email**, plea
 - Include a PDF version of your CV.
 
 Due to the high volume of emails, I may not be able to respond to every one I receive. 
-- For prospective PhD/MS students interested in joining our group, please include my name as one of your interested faculty members in your graduate application. This will make it easier for me to locate your application during the review process.
-- For prospective Post-docs, please check out this prestigious [Virginia Tech Presidential Postdoctoral Fellowship](https://www.research.vt.edu/about/postdoctoral-associates/virginia-tech-presidential-postdoctoral-fellowships.html). If you're interested in joining our research group, I would be happy to help you with the application process.
-- For current PhD/MS/undergraduate students at VT, the best way to learn more about our research is to attend my classes, visit my office hours, or engage with my graduate students in DDS 362 and 364.
+- For **prospective PhD/MS students** outside of VT, please include my name as one of your interested faculty members in your graduate application. This will make it easier for me to locate your application during the review process.
+- For **current PhD/MS/undergraduate students** at VT, the best way to learn more about our research is to attend my classes, visit my office hours, or engage with my graduate students in DDS 362 and 364.
+- For **prospective Post-docs**, please check out this prestigious [Virginia Tech Presidential Postdoctoral Fellowship](https://www.research.vt.edu/about/postdoctoral-associates/virginia-tech-presidential-postdoctoral-fellowships.html). If you're interested in joining our research group, I would be happy to help you with the application process.
