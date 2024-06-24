@@ -55,7 +55,7 @@ You can find my schedule [here](https://outlook.office365.com/owa/calendar/7a9db
  
 
 ## Prospective Students
-My lab at Virginia Tech has openings for **PhD students** and research internship opportunities for **master/undergrad students**. We are looking for students with a strong background in <span style="color:blue">NLP, data mining, deep learning, or bioinformatics</span>.
+My lab at Virginia Tech has openings for **PhD, Master, and Post-doc students** and research internship opportunities for **undergrad students**. We are looking for students with a strong background in <span style="color:blue">NLP, data mining, deep learning, or bioinformatics</span>.
 
 Please email me if you're interested in working with me. **In your email**, please include the following items:
 - Title as "Prospective Student: YourName - YourAffliation"
@@ -64,4 +64,7 @@ Please email me if you're interested in working with me. **In your email**, plea
 - Briefly explain your motivations and expectations of working with me.
 - Include a PDF version of your CV.
 
-Due to the high volume of emails, I may not be able to respond to every one I receive. For prospective PhD/MS students interested in joining our group, please include my name as one of your interested faculty members in your graduate application. This will make it easier for me to locate your application during the review process. For undergraduates and MS students at VT, the best way to learn more about our research is to attend my classes, visit my office hours, or engage with my graduate students in DDS 362 and 364.
+Due to the high volume of emails, I may not be able to respond to every one I receive. 
+- For prospective PhD/MS students interested in joining our group, please include my name as one of your interested faculty members in your graduate application. This will make it easier for me to locate your application during the review process.
+- For prospective Post-docs, please check out this prestigious [Virginia Tech Presidential Postdoctoral Fellowship](https://www.research.vt.edu/about/postdoctoral-associates/virginia-tech-presidential-postdoctoral-fellowships.html). If you're interested in joining our research group, I would be happy to help you with the application process.
+- For current PhD/MS/undergraduate students at VT, the best way to learn more about our research is to attend my classes, visit my office hours, or engage with my graduate students in DDS 362 and 364.
