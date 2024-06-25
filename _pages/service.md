@@ -17,7 +17,7 @@ redirect_from:
   
 - **Organization Committee**
 
-  Co-Chair, IEEE-BigData (2024), Undergraduate and High School Symposium 
+  Co-Chair, Undergraduate and High School Symposium, IEEE-BigData (2024)
   
   Program Chair, South NLP Symposium (2024)
 
