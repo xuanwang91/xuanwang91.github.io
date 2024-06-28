@@ -28,6 +28,7 @@ My primary research interests are in the fields of Natural Language Processing (
   - Multi-omics large language models
 
 ## News and Highlights
+- **(6/28/24)** We are grateful to receive a new grant from the <b>Commonwealth Cyber Initiative (CCI)</b> to support our research on EHR digital twin generation with large language models.
 - **(6/16/24)** **Three papers** are accepted by **ICML'24 AI4Science**. Congratulations to my students, Meng whose paper was accepted as a spotlight, and Hanwen and Sindhura whose papers were accepted as posters!
 - **(5/21/24)** We are excited and grateful to receive an award from **NSF NAIRR Pilot** to support our research on complex reasoning in large language models.
 - **(5/17/24)** **One paper** is accepted by **ACL 2024** and **one paper** is accepted by **KDD 2024**. Congratulations to all the authors!
