@@ -28,6 +28,7 @@ My primary research interests are in the fields of Natural Language Processing (
   - Multi-omics large language models
 
 ## News and Highlights
+- **(7/22/24)** We are grateful to receive a new grant from the **Amazon + VT Center for Efficient and Robust ML** to support our research on long-context reasoning in LLMs.
 - **(6/28/24)** We are grateful to receive a new grant from the <b>Commonwealth Cyber Initiative (CCI)</b> to support our research on EHR digital twin generation with large language models.
 - **(6/16/24)** **Three papers** are accepted by **ICML'24 AI4Science**. Congratulations to my students, Meng whose paper was accepted as a spotlight, and Hanwen and Sindhura whose papers were accepted as posters!
 - **(5/21/24)** We are excited and grateful to receive an award from **NSF NAIRR Pilot** to support our research on complex reasoning in large language models.
@@ -38,11 +39,11 @@ My primary research interests are in the fields of Natural Language Processing (
 - **(10/10/23)** We are grateful to receive a new grant from the **Virginia Tech Institute for Critical Technology and Applied Science (ICTAS)** to support our research on multi-omics encoding with LLMs for disease progression prediction.
 - **(10/7/23)** **Three papers** are accepted by **EMNLP 2023**. Congratulations to all the authors!
 - **(10/2/23)** We are excited to present our **tutorial** of "[AI for Science in the Era of Large Language Models](https://xuanwang91.github.io/2024-8-12-acl24-tutorial)" at **ACL 2024**.
-- **(9/6/23)** We are grateful to receive a new grant from the **Amazon + VT Center for Efficient and Robust ML** to support our research on fact-checking in LLMs.
 
 <details>
 <summary><b>Load More</b></summary>
 <ul style="PADDING-LEFT: 12px">
+  <li><b>(9/6/23)</b> We are grateful to receive a new grant from the <b>Amazon + VT Center for Efficient and Robust ML</b> to support our research on fact-checking in LLMs.</li>
   <li><b>(6/7/23)</b> We are grateful to receive a new grant from the Center for Health Behaviors Research at <b>Fralin Biomedical Research Institute</b> to support our research on AI-guided behavioral health modifier prediction for fetal growth disorder detection.</li>
   <li><b>(5/11/23)</b> We are grateful to receive a new grant from the <b>Commonwealth Cyber Initiative (CCI)</b> to support our research on trustworthy multimodal machine learning in healthcare.</li>
   <li><b>(5/1/23)</b> <b>Two papers</b> are accepted by <b>ACL 2023</b>. Congratulations to all the authors!</li>  
