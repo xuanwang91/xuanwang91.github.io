@@ -15,7 +15,7 @@ redirect_from:
 
   KDD (2022-2024), ISMB (2023-2024), TheWebConf (2024), ACL(2022-2024), EMNLP (**Area Chair,** 2023), NAACL (2022-2024), COLING (2022), BigData (2023), SDM (2024), ICML-AI4Science (**Area Chair,** 2024)
   
-- **Organizating Committee**
+- **Organizing Committee**
 
   Co-Chair, Undergraduate and High School Symposium, IEEE-BigData (2024)
   
