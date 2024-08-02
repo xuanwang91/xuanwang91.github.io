@@ -14,13 +14,14 @@ author_profile: true
 - [Zhenyu Bi](https://www.linkedin.com/in/zhenyu-bi-817814178/) (Fall 2023)
 - [Meng Lu](https://www.linkedin.com/in/lu-luca-499092166/) (Fall 2023)
 - [Hanwen Liu](https://www.linkedin.com/in/hanwen-liu-a244b71a9/) (Fall 2023)
-- [Manar Aljohani]() (Fall 2024)
-- [Jun Hou]() (Fall 2024)
+- [Manar Aljohani](https://manarvt.github.io/) (Fall 2024)
+- [Jun Hou](https://www.linkedin.com/in/jun-hou-1392b8149/) (Fall 2024)
 
 
 ## Master Students
 
 - [Sindhura Kommu](https://sindhura-cs.github.io/) (Fall 2023)
+- [Yueyan Gu](https://www.linkedin.com/in/yueyan-gu-291152226/) (Spring 2024, Co-advise with Dr. Farrokh Jazizadeh)
 
 
 ## Undergraduate Students
