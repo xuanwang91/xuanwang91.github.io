@@ -10,23 +10,23 @@ author_profile: true
 
 ## PhD Students
 
-- [Daniel Hajialigol](https://www.linkedin.com/in/danielhajialigol/) (Spring 2023)
-- [Zhenyu Bi](https://www.linkedin.com/in/zhenyu-bi-817814178/) (Fall 2023)
-- [Meng Lu](https://www.linkedin.com/in/lu-luca-499092166/) (Fall 2023)
-- [Hanwen Liu](https://www.linkedin.com/in/hanwen-liu-a244b71a9/) (Fall 2023)
-- [Manar Aljohani](https://manarvt.github.io/) (Fall 2024)
-- [Jun Hou](https://www.linkedin.com/in/jun-hou-1392b8149/) (Fall 2024)
+- [Daniel Hajialigol](https://www.linkedin.com/in/danielhajialigol/) (2023 Spring)
+- [Zhenyu Bi](https://www.linkedin.com/in/zhenyu-bi-817814178/) (2023 Fall)
+- [Meng Lu](https://www.linkedin.com/in/lu-luca-499092166/) (2023 Fall)
+- [Hanwen Liu](https://www.linkedin.com/in/hanwen-liu-a244b71a9/) (2023 Fall)
+- [Manar Aljohani](https://manarvt.github.io/) (2024 Fall)
+- [Jun Hou](https://www.linkedin.com/in/jun-hou-1392b8149/) (2024 Fall)
 
 
 ## Master Students
 
-- [Sindhura Kommu](https://sindhura-cs.github.io/) (Fall 2023)
-- [Yueyan Gu](https://www.linkedin.com/in/yueyan-gu-291152226/) (Spring 2024, Co-advise with Dr. Farrokh Jazizadeh)
+- [Sindhura Kommu](https://sindhura-cs.github.io/) (2023 Fall)
+- [Yueyan Gu](https://www.linkedin.com/in/yueyan-gu-291152226/) (2024 Spring, Co-advise with Dr. Farrokh Jazizadeh)
 
 
 ## Undergraduate Students
 
-- [Gautam Soni](https://www.linkedin.com/in/gsoni16/) (Summer 2023)
+- [Gautam Soni](https://www.linkedin.com/in/gsoni16/) (2023 Fall)
 
 
 ## Acknowledgment
