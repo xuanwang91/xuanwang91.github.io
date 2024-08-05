@@ -1,7 +1,7 @@
 ---
 title: 'EMNLP 2024 Tutorial'
 date:   2024-11-12 9am - 12pm
-permalink: /2024-8-12-emnlp24-tutorial
+permalink: /2024-11-12-emnlp24-tutorial
 tags:
   - acl
   - tutorial
