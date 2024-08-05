@@ -40,7 +40,7 @@ My primary research interests are in the fields of Natural Language Processing (
 - **(1/18/24)** We are grateful to receive a new grant from the **Children's National Hospital + Virginia Tech Initiative** to support our research on weakly-supervised clinical variable extraction with large language models.
 - **(10/10/23)** We are grateful to receive a new grant from the **Virginia Tech Institute for Critical Technology and Applied Science (ICTAS)** to support our research on multi-omics encoding with LLMs for disease progression prediction.
 - **(10/7/23)** **Three papers** are accepted by **EMNLP 2023**. Congratulations to all the authors!
-- **(10/2/23)** We are excited to present our **tutorial** of "[AI for Science in the Era of Large Language Models](https://xuanwang91.github.io/2024-8-12-acl24-tutorial)" at **ACL 2024**.
+- **(10/2/23)** We are excited to present our **tutorial** of "[AI for Science in the Era of Large Language Models](https://xuanwang91.github.io/2024-8-12-acl24-tutorial)" at **EMNLP 2024**.
 
 <details>
 <summary><b>Load More</b></summary>
