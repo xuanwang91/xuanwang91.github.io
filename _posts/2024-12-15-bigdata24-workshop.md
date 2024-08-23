@@ -24,7 +24,7 @@ We accept both **long papers** (up to 10 pages in IEEE 2-column format, includin
 The submission system: [On-Line Paper Submission](https://wi-lab.com/cyberchair/2024/bigdata24/scripts/submit.php?subarea=S19&undisplay_detail=1&wh=/cyberchair/2024/bigdata24/scripts/ws_submit.php).
 
 ## Review
-The review process is **single-blind**, meaning that reviewers remain anonymous, but authors are not. All papers accepted for this workshop will be included in the Workshop Proceedings published by the IEEE Computer Society Press and made available at the IEEE Big Data 2024 Conference. Each accepted paper is required to have at least one author register and present the work at the workshop during the IEEE Big Data 2024 Conference.
+The review process is **single-blind**, meaning that reviewers remain anonymous, but authors are not. All papers accepted for this workshop will be included in the Workshop Proceedings published by the IEEE Computer Society Press and made available at the IEEE Big Data 2024 Conference. Each accepted paper is required to have **at least one author** register and present the work at the workshop during the IEEE Big Data 2024 Conference.
 
 ## Authorship
 The list of authors for submissions must comprise individuals who have made significant contributions to the work presented. The author list, including the order, cannot be altered after submission.
@@ -39,22 +39,22 @@ For software (source codes) or data, as our submission process is single-blind, 
 
 ## Research Topics
 We consider a broad range of subject areas focused on foundation models for science big data. A non-exhaustive list of topics of interest includes:
-• Science Domains: biomedicine, chemistry, math, physics, material science, geography, ...
-• Data Modalities: text, images, tables, graphs, time series, domain-specific data, ...
-• Model Life-cycle: development, analysis, and applications 
-• Evaluation: benchmarks, scalable oversight, evaluation protocols and metrics, human and/or machine evaluation
-• Trustworthiness: factuality, groundedness, uncertainty, explainability, bias and safety, security, privacy, robustness, ... 
-• Compute Efficiency: distillation, compression, quantization, sample efficient methods, memory efficient methods 
-• Engineering: distributed training and inference on different hardware setups, training dynamics, optimization instability 
-• Learning Algorithms: learning, unlearning, meta-learning, model mixing methods, continual learning, ...
-• Inference Algorithms: decoding algorithms, reasoning algorithms, search algorithms, planning algorithms, ...
-• Tools and Code: pre-trained foundation models, integration with tools and APIs, LM-driven software engineering ...
+- **Science Domains**: biomedicine, chemistry, math, physics, material science, geography, ...
+- **Data Modalities**: text, images, tables, graphs, time series, domain-specific data, ...
+- **Model Life-cycle**: development, analysis, and applications 
+- **Evaluation**: benchmarks, scalable oversight, evaluation protocols and metrics, human and/or machine evaluation
+- **Trustworthiness**: factuality, groundedness, uncertainty, explainability, bias and safety, security, privacy, robustness, ... 
+- **Compute Efficiency**: distillation, compression, quantization, sample efficient methods, memory efficient methods 
+- **Engineering**: distributed training and inference on different hardware setups, training dynamics, optimization instability 
+- **Learning Algorithms**: learning, unlearning, meta-learning, model mixing methods, continual learning, ...
+- **Inference Algorithms**: decoding algorithms, reasoning algorithms, search algorithms, planning algorithms, ...
+- **Tools and Code**: pre-trained foundation models, integration with tools and APIs, LM-driven software engineering ...
 
 ## Important Dates
-• **Oct 1, 2024**: Due date for full workshop papers submission 
-• **Nov 4, 2024**: Notification of paper acceptance to authors
-• **Nov 20, 2024**: Camera-ready of accepted papers
-• **Dec 15-18 2024**: Workshops
+- **Oct 1, 2024**: Due date for full workshop papers submission 
+- **Nov 4, 2024**: Notification of paper acceptance to authors
+- **Nov 20, 2024**: Camera-ready of accepted papers
+- **Dec 15-18 2024**: Workshops
 
 ## Organizing Committee
 TBD
