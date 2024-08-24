@@ -10,7 +10,7 @@ tags:
 
 # Foundation Models for Science Big Data
 
-Time: **TBD**
+Time: **Dec 15-18, 2024**
 
 Location: **Washington D.C., USA**
 
@@ -54,7 +54,7 @@ We consider a broad range of subject areas focused on foundation models for scie
 - **Oct 1, 2024**: Due date for full workshop papers submission 
 - **Nov 4, 2024**: Notification of paper acceptance to authors
 - **Nov 20, 2024**: Camera-ready of accepted papers
-- **Dec 15-18 2024**: Workshop date (TBD)
+- **Dec 15-18, 2024**: Workshop date (TBD)
 
 ## Program Chairs
 - **[Xuan Wang](https://xuanwang91.github.io/)**, Virginia Tech
