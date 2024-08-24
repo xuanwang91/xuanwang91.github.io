@@ -19,7 +19,7 @@ redirect_from:
 
   Co-Chair, [Undergraduate and High School Symposium](https://www3.cs.stonybrook.edu/~ieeebigdata2024/SpecialSymposium.html), IEEE-BigData (2024)
   
-  Program Chair, [Foundation Models for Science Big Data](), IEEE-BigData (2024)
+  Program Chair, [Foundation Models for Science Big Data]("/2024-12-15-bigdata24-workshop"), IEEE-BigData (2024)
 
   Program Chair, [South NLP Symposium](https://southnlp.github.io/southnlp2024/) (2024)
 
