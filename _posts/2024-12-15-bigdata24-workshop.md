@@ -1,6 +1,6 @@
 ---
 title: 'BigData 2024 Workshop'
-date:   2024-11-12 9am - 12pm
+date:   2024-12-15 9am - 12pm
 permalink: /2024-12-15-bigdata24-workshop
 tags:
   - bigdata
