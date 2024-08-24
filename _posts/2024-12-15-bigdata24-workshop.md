@@ -56,5 +56,7 @@ We consider a broad range of subject areas focused on foundation models for scie
 - **Nov 20, 2024**: Camera-ready of accepted papers
 - **Dec 15-18 2024**: Workshops
 
-## Organizing Committee
-TBD
+## Program Chairs
+- **[Xuan Wang](https://xuanwang91.github.io/)**, Virginia Tech
+- **[Qi Li](https://sites.google.com/iastate.edu/qili/home?authuser=0)**, Iowa State University
+
