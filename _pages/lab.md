@@ -21,7 +21,9 @@ author_profile: true
 ## Master Students
 
 - [Sindhura Kommu](https://sindhura-cs.github.io/) (2023 Fall)
-- [Yueyan Gu](https://www.linkedin.com/in/yueyan-gu-291152226/) (2024 Spring, Co-advise with Dr. Farrokh Jazizadeh)
+- [Yueyan Gu](https://www.linkedin.com/in/yueyan-gu-291152226/) (2024 Spring)
+- [Priya Pitre](https://scholar.google.com/citations?user=jqkjoJ4AAAAJ&hl=en) (2024 Fall)
+- [Gaurav Srivastava](https://ctrl-gaurav.github.io/#)(2024 Fall)
 
 
 ## Undergraduate Students
