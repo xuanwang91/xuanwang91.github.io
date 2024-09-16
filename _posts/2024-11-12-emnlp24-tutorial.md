@@ -1,6 +1,6 @@
 ---
 title: 'EMNLP 2024 Tutorial'
-date:   2024-11-12 9am - 12pm
+date:   2024-11-16 9am - 12pm
 permalink: /2024-11-12-emnlp24-tutorial
 tags:
   - acl
@@ -16,7 +16,7 @@ Department of Computer Science, Virginia Tech, USA
 
 Mila - Quebec AI Institute, Canada
 
-Time: **November 11, 2024, 9 am - 12 pm EST**
+Time: **November 16, 2024, 9 am - 12 pm EST**
 
 Location: **Miami, Florida**
 
