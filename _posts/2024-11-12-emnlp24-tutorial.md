@@ -16,7 +16,7 @@ Department of Computer Science, Virginia Tech, USA
 
 Mila - Quebec AI Institute, Canada
 
-Time: **TBD**
+Time: **November 11, 2024, 9 am - 12 pm EST**
 
 Location: **Miami, Florida**
 
