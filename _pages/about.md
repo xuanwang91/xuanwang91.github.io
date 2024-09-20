@@ -31,6 +31,9 @@ My primary research interests are in the fields of Natural Language Processing (
 <!---
 - **(7/22/24)** We are grateful to receive a new grant from the **Amazon + VT Center for Efficient and Robust ML** to support our research on long-context reasoning with large language models.
 -->
+- **(10/2/23)** We are excited to present our **tutorial** of "[AI for Science in the Era of Large Language Models](https://xuanwang91.github.io/2024-11-12-emnlp24-tutorial)" at **EMNLP 2024**. Looking forward to seeing everyone in Miami!
+- **(9/9/20)** **One paper** is accepted by **EMNLP'24**. Congratulations to my student Meng for his work on better multi-agent collaboration for LLM-based clinical triage!
+- **(9/9/24)** Congratulations to my student Daniel for receiving the Davenport Leadership Scholarship from CS@VT!
 - **(6/28/24)** We are grateful to receive a new grant from the <b>Commonwealth Cyber Initiative (CCI)</b> to support our research on EHR digital twin generation with large language models.
 - **(6/16/24)** **Three papers** are accepted by **ICML'24 AI4Science**. Congratulations to my students, Meng whose paper was accepted as a spotlight, and Hanwen and Sindhura whose papers were accepted as posters!
 - **(5/21/24)** We are excited and grateful to receive an award from **NSF NAIRR Pilot** to support our research on complex reasoning in large language models. ([VT News](https://news.vt.edu/articles/2024/06/three-virginia-tech-faculty-receive-nairr-pilot-awards-for-proje.html))
@@ -40,7 +43,6 @@ My primary research interests are in the fields of Natural Language Processing (
 - **(1/18/24)** We are grateful to receive a new grant from the **Children's National Hospital + Virginia Tech Initiative** to support our research on weakly-supervised clinical variable extraction with large language models. ([VT News](https://news.vt.edu/articles/2024/08/research-fralinbiomed-fbri-0816.html))
 - **(10/10/23)** We are grateful to receive a new grant from the **Virginia Tech Institute for Critical Technology and Applied Science (ICTAS)** to support our research on multi-omics encoding with LLMs for disease progression prediction.
 - **(10/7/23)** **Three papers** are accepted by **EMNLP 2023**. Congratulations to all the authors!
-- **(10/2/23)** We are excited to present our **tutorial** of "[AI for Science in the Era of Large Language Models](https://xuanwang91.github.io/2024-11-12-emnlp24-tutorial)" at **EMNLP 2024**.
 
 <details>
 <summary><b>Load More</b></summary>
