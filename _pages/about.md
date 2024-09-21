@@ -31,18 +31,18 @@ My primary research interests are in the fields of Natural Language Processing (
 <!---
 - **(7/22/24)** We are grateful to receive a new grant from the **Amazon + VT Center for Efficient and Robust ML** to support our research on long-context reasoning with large language models.
 -->
-- **(9/20/24)** We are excited to present our **tutorial** of "[AI for Science in the Era of Large Language Models](https://xuanwang91.github.io/2024-11-12-emnlp24-tutorial)" at **EMNLP 2024**. Looking forward to seeing everyone in Miami!
+- **(9/20/24)** We are excited to present our **tutorial** of "[AI for Science in the Era of Large Language Models](https://xuanwang91.github.io/2024-11-12-emnlp24-tutorial)" at **EMNLP'24**. Looking forward to seeing everyone in Miami!
 - **(9/20/24)** **One paper** is accepted by **EMNLP'24**. Congratulations to my student Meng for his work on better multi-agent collaboration for LLM-based clinical triage!
 - **(9/9/24)** Congratulations to my student Daniel for receiving the **Davenport Leadership Scholarship** from CS@VT!
 - **(6/28/24)** We are grateful to receive a new grant from the <b>Commonwealth Cyber Initiative (CCI)</b> to support our research on EHR digital twin generation with large language models.
 - **(6/16/24)** **Three papers** are accepted by **ICML'24 AI4Science**. Congratulations to my students, Meng whose paper was accepted as a spotlight, and Hanwen and Sindhura whose papers were accepted as posters!
 - **(5/21/24)** We are excited and grateful to receive an award from **NSF NAIRR Pilot** to support our research on complex reasoning in large language models. ([VT News](https://news.vt.edu/articles/2024/06/three-virginia-tech-faculty-receive-nairr-pilot-awards-for-proje.html))
-- **(5/17/24)** **One paper** is accepted by **ACL 2024** and **one paper** is accepted by **KDD 2024**. Congratulations to all the authors!
+- **(5/17/24)** **One paper** is accepted by **ACL'24** and **one paper** is accepted by **KDD'24**. Congratulations to all the authors!
 - **(3/26/24)** Check out our new **survey paper** on [LLMs for diverse biomedical data](https://arxiv.org/abs/2403.15673)! We explored three critical categories of biomedical data: 1) textual data (biomedical literature and health records), 2) biological sequences (DNA/RNA/protein sequences and multi-omics sequencing data), and 3) brain signals (time-series EEG data).
 - **(3/3/24)** We are grateful to receive a new grant from the **Virginia Tech Brain Tech One Health Initiative** to support our research on open-vocabulary brain-to-text translation with large language models.
 - **(1/18/24)** We are grateful to receive a new grant from the **Children's National Hospital + Virginia Tech Initiative** to support our research on weakly-supervised clinical variable extraction with large language models. ([VT News](https://news.vt.edu/articles/2024/08/research-fralinbiomed-fbri-0816.html))
 - **(10/10/23)** We are grateful to receive a new grant from the **Virginia Tech Institute for Critical Technology and Applied Science (ICTAS)** to support our research on multi-omics encoding with LLMs for disease progression prediction.
-- **(10/7/23)** **Three papers** are accepted by **EMNLP 2023**. Congratulations to all the authors!
+- **(10/7/23)** **Three papers** are accepted by **EMNLP'23**. Congratulations to all the authors!
 
 <details>
 <summary><b>Load More</b></summary>
@@ -50,7 +50,7 @@ My primary research interests are in the fields of Natural Language Processing (
   <li><b>(9/6/23)</b> We are grateful to receive a new grant from the <b>Amazon + VT Center for Efficient and Robust ML</b> to support our research on fact-checking in LLMs. (<a href="https://news.vt.edu/articles/2023/09/amazon-virginia-tech-initiative-announces-support-for-two-amazon.html">VT News</a>)</li>
   <li><b>(6/7/23)</b> We are grateful to receive a new grant from the Center for Health Behaviors Research at <b>Fralin Biomedical Research Institute</b> to support our research on AI-guided behavioral health modifier prediction for fetal growth disorder detection.</li>
   <li><b>(5/11/23)</b> We are grateful to receive a new grant from the <b>Commonwealth Cyber Initiative (CCI)</b> to support our research on trustworthy multimodal machine learning in healthcare. (<a href="https://news.vt.edu/articles/2023/06/research-programs-help-researchers-flex-harder--leap-higher.html">VT News</a>)</li>
-  <li><b>(5/1/23)</b> <b>Two papers</b> are accepted by <b>ACL 2023</b>. Congratulations to all the authors!</li>  
+  <li><b>(5/1/23)</b> <b>Two papers</b> are accepted by <b>ACL'23</b>. Congratulations to all the authors!</li>  
   <li><b>(1/1/23)</b> I started a new journey as an Assistant Professor in <b>CS@VT</b>.</li>
 </ul>
 </details>
