@@ -31,7 +31,7 @@ My primary research interests are in the fields of Natural Language Processing (
 <!---
 - **(7/22/24)** We are grateful to receive a new grant from the **Amazon + VT Center for Efficient and Robust ML** to support our research on long-context reasoning with large language models.
 -->
-- **(5/21/24)** We are grateful to receive yet another award from **NSF NAIRR Pilot** to support our research on network-regulated large language models for multi-omics data analysis. 
+- **(10/2/24)** We are grateful to receive yet another award from **NSF NAIRR Pilot** to support our research on network-regulated large language models for multi-omics data analysis. 
 - **(9/20/24)** We are excited to present our **tutorial** of "[AI for Science in the Era of Large Language Models](https://xuanwang91.github.io/2024-11-12-emnlp24-tutorial)" at **EMNLP'24**. Looking forward to seeing everyone in Miami!
 - **(9/20/24)** **One paper** is accepted by **EMNLP'24**. Congratulations to my student Meng for his work on better multi-agent collaboration for LLM-based clinical triage!
 - **(9/9/24)** Congratulations to my student Daniel for receiving the **Davenport Leadership Scholarship** from CS@VT!
