@@ -13,7 +13,7 @@ redirect_from:
 
 - **Program Committee**
 
-  KDD (2022-2024), ISMB (2023-2024), TheWebConf (2024), ACL(2022-2024), EMNLP (**Area Chair,** 2023), NAACL (2022-2024), COLING (2022), BigData (2023-2024), SDM (2024), ICML-AI4Science (**Area Chair,** 2024), ICLR (2024)
+  KDD (2022-2024), ISMB (2023-2024), TheWebConf (2024), ACL(2022-2024), EMNLP (**Area Chair,** 2023), NAACL (2022-2024), COLING (2022), BigData (2023-2024), SDM (2024), ICML-AI4Science (**Area Chair,** 2024), ICLR (2025)
   
 - **Organizing Committee**
 
