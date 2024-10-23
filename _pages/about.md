@@ -46,7 +46,7 @@ My primary research interests are in the fields of Natural Language Processing (
 <summary><b>Load More</b></summary>
 <ul style="PADDING-LEFT: 12px">
   <li> <b>(3/3/24)</b> We are grateful to receive a new grant from the <b>Virginia Tech Brain Tech One Health Initiative</b> to support our research on open-vocabulary brain-to-text translation with large language models.</li>
-  <li> <b>(1/18/24)</b> We are grateful to receive a new grant from the <b>Children's National Hospital + Virginia Tech Initiative</b> to support our research on weakly-supervised clinical variable extraction with large language models. (<a https://news.vt.edu/articles/2024/08/research-fralinbiomed-fbri-0816.html>VT News</a>)</li>
+  <li> <b>(1/18/24)</b> We are grateful to receive a new grant from the <b>Children's National Hospital + Virginia Tech Initiative</b> to support our research on weakly-supervised clinical variable extraction with large language models. (<a href="https://news.vt.edu/articles/2024/08/research-fralinbiomed-fbri-0816.html">VT News</a>)</li>
   <li> <b>(10/10/23)</b> We are grateful to receive a new grant from the <b>Virginia Tech Institute for Critical Technology and Applied Science (ICTAS)</b> to support our research on multi-omics encoding with LLMs for disease progression prediction.</li>
   <li> <b>(10/7/23)</b> <b>Three papers</b> are accepted by <b>EMNLP'23</b>. Congratulations to all the authors!</li>
   <li><b>(9/6/23)</b> We are grateful to receive a new grant from the <b>Amazon + VT Center for Efficient and Robust ML</b> to support our research on fact-checking in LLMs. (<a href="https://news.vt.edu/articles/2023/09/amazon-virginia-tech-initiative-announces-support-for-two-amazon.html">VT News</a>)</li>
