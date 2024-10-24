@@ -25,11 +25,11 @@ author_profile: true
 - [Priya Pitre](https://scholar.google.com/citations?user=jqkjoJ4AAAAJ&hl=en) (2024 Fall)
 - [Gaurav Srivastava](https://ctrl-gaurav.github.io/#) (2024 Fall)
 
-<!---
+
 ## Undergraduate Students
 
 - [Gautam Soni](https://www.linkedin.com/in/gsoni16/) (2023 Fall)
---->
+
 
 ## Acknowledgment
 
