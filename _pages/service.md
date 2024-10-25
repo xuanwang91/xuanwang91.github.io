@@ -34,7 +34,7 @@ redirect_from:
 
 - **Journal Reviewer**
 
-  **Nature Methods**, Bioinformatics, Journal of the American Medical Informatics Association (JAMIA),
+  **Nature Methods**, Bioinformatics, Journal of the American Medical Informatics Association (JAMIA)
 
   ACM Transactions on Intelligent Systems and Technology (ACM TIST), Data Mining and Knowledge Discovery
 
