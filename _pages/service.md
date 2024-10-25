@@ -10,11 +10,6 @@ redirect_from:
 {% include base_path %}
 
 ## Service
-
-- **Program Committee**
-
-  KDD (2022-2024), ISMB (2023-2024), TheWebConf (2024), ACL(2022-2024), EMNLP (**Area Chair,** 2023), NAACL (2022-2024), COLING (2022), BigData (2023-2024), SDM (2024), ICML-AI4Science (**Area Chair,** 2024), ICLR (2025)
-  
 - **Organizing Committee**
 
   Co-Chair, [Undergraduate and High School Symposium](https://www3.cs.stonybrook.edu/~ieeebigdata2024/SpecialSymposium.html), IEEE-BigData (2024)
@@ -26,14 +21,22 @@ redirect_from:
   Mentor, Women in Machine Learning Workshop (co-organized with Women in KDD, 2022)
 
   Session Chair, IEEE BigData (2019)
-  
-- **Conference Reviewer**
 
-  KDD (2018-2021), TheWebConf (2021), IJCAI (2021), ICDM (2019), AAAI (2018-2019)
+- **Program Committee**
+
+  ARR (2024), ACL(2022-2024), EMNLP (**Area Chair,** 2023), NAACL (2022-2024), COLING (2022)
+
+  KDD (2022-2025), TheWebConf (2024-2025), BigData (2023-2024), SDM (2024)
+
+  ICML-AI4Science (**Area Chair,** 2024), ICLR (2025)
+
+  ISMB (2023-2024)
 
 - **Journal Reviewer**
 
-  **Nature Methods**, Bioinformatics, Journal of the American Medical Informatics Association (JAMIA), ACM Transactions on Intelligent Systems and Technology (ACM TIST), Data Mining and Knowledge Discovery
+  **Nature Methods**, Bioinformatics, Journal of the American Medical Informatics Association (JAMIA),
+
+  ACM Transactions on Intelligent Systems and Technology (ACM TIST), Data Mining and Knowledge Discovery
 
 
 ## Talks
