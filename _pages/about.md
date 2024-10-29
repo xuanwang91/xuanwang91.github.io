@@ -28,7 +28,7 @@ My primary research interests are in the fields of Natural Language Processing (
   - Multi-omics large language models
 
 ## News and Highlights
-- **(10/29/24)** We are excited to present our **tutorial** of "[AI for Science in the Era of Large Language Models]()" at **AAAI'25**. Looking forward to seeing everyone in Philadelphia!
+- **(10/29/24)** We are excited to present our **tutorial** of "[AI for Science in the Era of Large Language Models](https://xuanwang91.github.io/2025-02-25-aaai25-tutorial)" at **AAAI'25**. Looking forward to seeing everyone in Philadelphia!
 - **(10/26/24)** **One paper** is accepted by **IEEE-BigData'24**. Congratulations to my student Hanwen for his work on EEG-to-text translation with multi-view Transformer!
 - **(10/2/24)** We are grateful to receive yet another award from **NSF NAIRR Pilot** to support our research on network-regulated large language models for multi-omics data analysis. 
 - **(9/20/24)** We are excited to present our **tutorial** of "[AI for Science in the Era of Large Language Models](https://xuanwang91.github.io/2024-11-12-emnlp24-tutorial)" at **EMNLP'24**. Looking forward to seeing everyone in Miami!
