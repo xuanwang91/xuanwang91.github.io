@@ -1,7 +1,7 @@
 ---
 title: 'AAAI 2025 Tutorial'
 date:   2025-2-25 9 am - 12:30 pm
-permalink: /2025-2-25-emnlp24-tutorial
+permalink: /2025-02-25-aaai25-tutorial
 tags:
   - aaai
   - tutorial
