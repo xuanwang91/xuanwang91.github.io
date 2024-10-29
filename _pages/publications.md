@@ -6,12 +6,14 @@ author_profile: true
 ---
 
 {% include base_path %}
+## 2025
+1. **Xuan Wang**, “AI for Science in the Era of Large Language Models”, in Proc. of the 39th Annual AAAI Conference on Artificial Intelligence (**AAAI’25**) (Conference Tutorial), pages TBD, February 25-26, 2025, Philadelphia, Pennsylvania
 
 ## 2024
-1. Tran N. Chau, **Xuan Wang**, John M. McDowell, and Song Li, "Advancing Plant Single-Cell Genomics with Foundation Models", **Current Opinion in Plant Biology**, pages TBD <span style="color:red">(impact factor: 8.3)</span>
+1. Tran N. Chau, **Xuan Wang**, John M. McDowell, and Song Li, "Advancing Plant Single-Cell Genomics with Foundation Models", **Current Opinion in Plant Biology**, pages TBD <span style="color:red">(impact factor: 8.3)</span>.
 2. Hanwen Liu, Daniel Hajialigol, Benny Antony, Aiguo Han, and **Xuan Wang**, “EEG2Text: Open Vocabulary EEG-to-Text Translation with Multi-View Transformer”, in Proc. 2024 IEEE International Conference on Big Data (**IEEE-BigData'24**), pages TBD, December 15-18, 2024, Washington DC <span style="color:red">(acceptance rate: TBD%)</span> (Previous version in **ICML'24 AI4Science**)
 3. Meng Lu, Ho Brandon, Ren Dennis, and **Xuan Wang**, “TriageAgent: Towards Better Multi-Agents Collaborations for Large Language Model-Based Clinical Triage”, in Proc. 2024 Conf. on Findings of Empirical Methods in Natural Language Processing (**EMNLP’24**), pages TBD, November 12-16, 2024, Miami, Florida <span style="color:red">(acceptance rate: TBD%)</span> (Previous version in **ICML'24 AI4Science**, <span style="color:red">Spotlight, acceptance rate: 13%</span>)
-4. Zhenyu Bi, Minghao Xu, Jian Tang, and **Xuan Wang**, “AI for Science in the Era of Large Language Models”, in Proc. 2024 Conf. on Findings of Empirical Methods in Natural Language Processing (**EMNLP’24**) (Conference Tutorial), pages TBD, November 12-16, 2024, Miami
+4. Zhenyu Bi, Minghao Xu, Jian Tang, and **Xuan Wang**, “AI for Science in the Era of Large Language Models”, in Proc. 2024 Conf. on Empirical Methods in Natural Language Processing (**EMNLP’24**) (Conference Tutorial), pages TBD, November 12-16, 2024, Miami
 5. Sindhura Kommu, Yizhi Wang, Yue Wang, and **Xuan Wang**, “Gene Regulatory Network Inference from Pre-trained Single-Cell Transcriptomics Transformer with Joint Graph Learning”, The Forty-first International Conference on Machine Learning AI for Science Workshop (**ICML'24 AI4Science**), July 26 or 27, 2024, Vienna, Austria
 6. Sajib Acharjee Dip, Uddip Acharjee Shuvo, Tran Chau, Haoqiu Song, Petra Choi, **Xuan Wang**, and Liqing Zhang, “PathoLM: Identifying pathogenicity from the DNA sequence through the Genome Foundation Model”, The Forty-first International Conference on Machine Learning AI for Science Workshop (**ICML’24 AI4Science**), July 26 or 27, 2024, Vienna, Austria
 7. Brandon Ho, Meng Lu, **Xuan Wang**, and Dennis Ren, "Evaluation of AI Models in Predicting Pediatric Emergency Severity Index Levels", **Pediatric Emergency Care**, pages TBD <span style="color:red">(impact factor: 1.6)</span> (Previous version in **2024 AAP National Conference & Exhibition (Abstract Poster)**)
@@ -19,7 +21,6 @@ author_profile: true
 9. Chufan Gao, **Xuan Wang**, and Jimeng Sun, “TTM-RE: Memory-Augmented Document-Level Relation Extraction”, in Proc. The 62nd Annual Meeting of the Association for Computational Linguistics (**ACL'24**), pages TBD, August 11–16, 2024, Bangkok, Thailand <span style="color:red">(acceptance rate: TBD%)</span>
 10. Chufan Gao,  Xulin Fan, Jimeng Sun, and **Xuan Wang**, “PromptRE: Weakly-Supervised Document-Level Relation Extraction via Prompting-Based Data Programming”, in Proc. The 62nd Annual Meeting of the Association for Computational Linguistics (**ACL'24 KnowledgeLM**), August 11–16, 2024, Bangkok, Thailand
 11. Yueyan Gu, **Xuan Wang**, and Farrokh Jazizadeh, “Are Transformers Effective for Time Series Anomaly Detection? – A Case Study in Building Energy Management”, in Proc. 2024 ASCE International Conference on Computing in Civil Engineering (**i3CE'24**), pages TBD, July 28-31, 2024, Pittsburgh, Pennsylvania
-
    
 ## 2023
 1. Daniel Hajialigol, Derek Kaknes, Tanner Barbour, Daphne Yao, Chris North, Jimeng Sun, David Liem, and **Xuan Wang**, “DRGCoder: Explainable Clinical Coding for the Early Prediction of Diagnostic-Related Groups”, in Proc. 2023 Conf. on Empirical Methods in Natural Language Processing (**EMNLP’23**) (System Demonstration), pages 373–380, December 6-10, 2023, Singapore
