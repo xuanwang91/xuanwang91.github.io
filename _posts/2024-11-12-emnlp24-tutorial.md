@@ -31,7 +31,7 @@ A recording of our tutorial will be available after the conference.
 
 ## Slides \[[Combined]()]:
 - Introduction \[[Slides]()]
-- Part I: Biomedical Text \[[Slides]()]
+- Part I: Scientific Text \[[Slides]()]
 - Part II: Brain Signals \[[Slides]()]
 - Part III: Biological Sequences \[[Slides](https://drive.google.com/file/d/1Vcdbhwf7z2KdSXEbXEZLMDhW0cZkKN0y/view?usp=sharing)]
 - Summary and Future Directions \[[Slides]()]
