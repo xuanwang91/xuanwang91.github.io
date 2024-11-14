@@ -18,7 +18,7 @@ Mila - Quebec AI Institute, Canada
 
 Time: **November 16, 2024, 9 am - 12:30 pm EST**
 
-Location: **Miami, Florida**
+Location: **Miami, Florida @ Monroe Ballroom (Terrace Level)**
 
 
 ## Abstract:
