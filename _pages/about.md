@@ -14,18 +14,19 @@ I received my Ph.D. in [Computer Science](http://www.cs.uiuc.edu/) from the Univ
 
 
 ## Research Interests
-My primary research interests are in the fields of Natural Language Processing (NLP) and Data Mining (DM). I am specifically interested in developing principled data-driven approaches with light human effort for effective and scalable model learning.
+My primary research interests are Natural Language Processing, Data Mining, AI for Sciences, and AI for Healthcare. Some current research directions include:
 
-- **Natural Language Processing (NLP)**:
+- **Natural Language Understanding with Limited Supervision**:
   - Information extraction, knowledge graph construction, text classification, …
   - Weakly-supervised/few-shot/zero-shot learning
-- **Fact-checking and Trustworthy NLP**:
-  - Fact-checking for generative large language models
-  - Trustworthy large language models: groundedness, confidence, explainability, …
-- **AI for Sciences; AI for Healthcare**:
-  - Large language models for sciences and healthcare
-  - Brain large language models
-  - Multi-omics large language models
+- **Complex Reasoning and Planning with Large Language Models (LLM)**:
+  - Complex reasoning with LLMs (multi-hop, long-context, ...)
+  - Multi-agent LLMs for reasoning and planning
+  - Multi-modal LLMs for reasoning and planning
+- **Multi-Modal Science Foundation Models (FMs)**:
+  - Multi-modal integration of science FMs
+  - Interpretability, explainability, and causal inference of science FMs
+  - Text data, multi-omics data, brain signal data, ...
 
 ## News and Highlights
 - **(10/29/24)** We are excited to present our **tutorial** of "[AI for Science in the Era of Large Language Models](https://xuanwang91.github.io/2025-02-25-aaai25-tutorial)" at **AAAI'25**. Looking forward to seeing everyone in Philadelphia!
