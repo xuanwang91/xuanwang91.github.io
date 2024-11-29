@@ -19,7 +19,7 @@ My primary research interests are Natural Language Processing, Data Mining, AI f
 - **Natural Language Understanding with Limited Supervision**:
   - Information extraction, knowledge graph construction, text classification, …
   - Weakly-supervised/few-shot/zero-shot learning
-- **Complex Reasoning and Planning with Large Language Models (LLM)**:
+- **Complex Reasoning and Planning with Large Language Models (LLMs)**:
   - Complex reasoning with LLMs (multi-hop, long-context, ...)
   - Multi-agent LLMs for reasoning and planning
   - Multi-modal LLMs for reasoning and planning
