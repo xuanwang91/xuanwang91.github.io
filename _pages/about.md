@@ -24,7 +24,7 @@ My primary research interests are Natural Language Processing, Data Mining, AI f
   - Multi-agent LLMs for reasoning and planning
   - Multi-modal LLMs for reasoning and planning
 - **Multi-Modal Science Foundation Models (FMs)**:
-  - Multi-modal integration of science FMs
+  - Systematic integration of multi-modal FMs
   - Interpretability, explainability, and causal inference of science FMs
   - Text data, multi-omics data, brain signal data, ...
 
