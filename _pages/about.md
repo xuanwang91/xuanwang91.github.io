@@ -29,6 +29,7 @@ My primary research interests are Natural Language Processing, Data Mining, AI f
   - Text data, multi-omics data, brain signal data, ...
 
 ## News and Highlights
+- **(12/19/24)** We are grateful to receive a new grant from **Cisco Research** to support our research on complex reasoning and planing with large language models.
 - **(10/29/24)** We are excited to present our **tutorial** of "[AI for Science in the Era of Large Language Models](https://xuanwang91.github.io/2025-02-25-aaai25-tutorial)" at **AAAI'25**. Looking forward to seeing everyone in Philadelphia!
 - **(10/26/24)** **One paper** is accepted by **IEEE-BigData'24**. Congratulations to my student Hanwen for his work on EEG-to-text translation with multi-view Transformer!
 - **(10/2/24)** We are grateful to receive yet another award from **NSF NAIRR Pilot** to support our research on network-regulated large language models for multi-omics data analysis. 
