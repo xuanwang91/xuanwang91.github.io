@@ -13,7 +13,6 @@ author_profile: true
 - [Daniel Hajialigol](https://www.linkedin.com/in/danielhajialigol/) (2023 Spring)
 - [Zhenyu Bi](https://www.linkedin.com/in/zhenyu-bi-817814178/) (2023 Fall)
 - [Meng Lu](https://www.linkedin.com/in/lu-luca-499092166/) (2023 Fall)
-- [Hanwen Liu](https://www.linkedin.com/in/hanwen-liu-a244b71a9/) (2023 Fall)
 - [Manar Aljohani](https://manarvt.github.io/) (2024 Fall)
 - [Jun Hou](https://www.linkedin.com/in/jun-hou-1392b8149/) (2024 Fall)
 
@@ -21,9 +20,13 @@ author_profile: true
 ## Master Students
 
 - [Sindhura Kommu](https://sindhura-cs.github.io/) (2023 Fall)
-- [Yueyan Gu](https://www.linkedin.com/in/yueyan-gu-291152226/) (2024 Spring)
 - [Priya Pitre](https://scholar.google.com/citations?user=jqkjoJ4AAAAJ&hl=en) (2024 Fall)
 - [Gaurav Srivastava](https://ctrl-gaurav.github.io/#) (2024 Fall)
+
+
+## Alumni
+- [Yueyan Gu](https://www.linkedin.com/in/yueyan-gu-291152226/) (MS, 2024 Fall): Toward Transformer-based Large Energy Models for Smart Energy Management
+
 
 <!---
 ## Undergraduate Students
