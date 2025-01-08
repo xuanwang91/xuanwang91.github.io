@@ -20,7 +20,7 @@ author_profile: true
 ## Master Students
 
 - [Sindhura Kommu](https://sindhura-cs.github.io/) (2023 Fall)
-- [Priya Pitre](https://scholar.google.com/citations?user=jqkjoJ4AAAAJ&hl=en) (2024 Fall)
+- [Priya Pitre](https://priyapitre.github.io/) (2024 Fall)
 - [Gaurav Srivastava](https://ctrl-gaurav.github.io/#) (2024 Fall)
 
 
