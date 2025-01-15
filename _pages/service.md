@@ -23,7 +23,6 @@ redirect_from:
 
   Mentor, Women in Machine Learning Workshop (co-organized with Women in KDD, 2022)
 
-  Session Chair, IEEE BigData (2019)
 
 - **Program Committee**
 
