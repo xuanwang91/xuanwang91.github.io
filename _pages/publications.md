@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 ## 2025
-1. **Xuan Wang**, “AI for Science in the Era of Large Language Models”, in Proc. of the 39th Annual AAAI Conference on Artificial Intelligence (**AAAI’25**) (Conference Tutorial), pages TBD, February 25-26, 2025, Philadelphia, Pennsylvania
+1. **Xuan Wang**, “AI for Science in the Era of Large Language Models”, in Proc. The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI’25**) (Conference Tutorial), pages TBD, February 25-26, 2025, Philadelphia, Pennsylvania
 
 ## 2024
 1. Tran N. Chau, **Xuan Wang**, John M. McDowell, and Song Li, "Advancing Plant Single-Cell Genomics with Foundation Models", **Current Opinion in Plant Biology**, volume 82, pages 102666. <span style="color:red">(impact factor: 8.3)</span>.
@@ -19,7 +19,7 @@ author_profile: true
 7. Brandon Ho, Meng Lu, **Xuan Wang**, and Dennis Ren, "Evaluation of AI Models in Predicting Pediatric Emergency Severity Index Levels", **Pediatric Emergency Care**, pages 10--1097 <span style="color:red">(impact factor: 1.6)</span> (Previous version in **2024 AAP National Conference & Exhibition, Abstract Poster**)
 8. Tanay Komarlu, Minhao Jiang, **Xuan Wang**, and Jiawei Han, “OntoType: Ontology-Guided and Pre-Trained Language Model Assisted Fine-Grained Entity Typing”, in Proc. 2024 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD'24**), pages 1407--1417, August 25–29, 2024, Barcelona, Spain <span style="color:red">(acceptance rate: 20%)</span>
 9. Chufan Gao, **Xuan Wang**, and Jimeng Sun, “TTM-RE: Memory-Augmented Document-Level Relation Extraction”, in Proc. The 62nd Annual Meeting of the Association for Computational Linguistics (**ACL'24**), pages 443–-458, August 11–16, 2024, Bangkok, Thailand <span style="color:red">(acceptance rate: 21.3%)</span>
-10. Chufan Gao,  Xulin Fan, Jimeng Sun, and **Xuan Wang**, “PromptRE: Weakly-Supervised Document-Level Relation Extraction via Prompting-Based Data Programming”, in Proc. The 1st Workshop on Towards Knowledgeable Language Models, 62nd Annual Meeting of the Association for Computational Linguistics (KnowLLM 2024) (**ACL'24 KnowLLM**), pages 132–-145, August 11–16, 2024, Bangkok, Thailand
+10. Chufan Gao,  Xulin Fan, Jimeng Sun, and **Xuan Wang**, “PromptRE: Weakly-Supervised Document-Level Relation Extraction via Prompting-Based Data Programming”, in Proc. The 1st Workshop on Towards Knowledgeable Language Models (**ACL'24 KnowLLM**), pages 132–-145, August 11–16, 2024, Bangkok, Thailand
 11. Yueyan Gu, **Xuan Wang**, and Farrokh Jazizadeh, “Are Transformers Effective for Time Series Anomaly Detection? – A Case Study in Building Energy Management”, in Proc. 2024 ASCE International Conference on Computing in Civil Engineering (**i3CE'24**), pages TBD, July 28-31, 2024, Pittsburgh, Pennsylvania
    
 ## 2023
