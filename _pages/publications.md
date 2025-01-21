@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 ## 2025
-1. Yueyan Gua, Farrokh Jazizadeh, and **Xuan Wang**, "Toward Large Energy Models for Forecasting: A Comparative Study of Transformers’ Efficacy", **Applied Energy**, volume TBD, pages TBD, 2025 <span style="color:red">(impact factor: 10.1)</span>
+1. Yueyan Gu, Farrokh Jazizadeh, and **Xuan Wang**, "Toward Large Energy Models for Forecasting: A Comparative Study of Transformers’ Efficacy", **Applied Energy**, volume TBD, pages TBD, 2025 <span style="color:red">(impact factor: 10.1)</span>
 2. **Xuan Wang**, “AI for Science in the Era of Large Language Models”, in Proc. The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI’25**) (Conference Tutorial), pages TBD, February 25-26, 2025, Philadelphia, Pennsylvania
 
 ## 2024
