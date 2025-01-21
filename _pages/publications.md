@@ -7,10 +7,11 @@ author_profile: true
 
 {% include base_path %}
 ## 2025
-1. **Xuan Wang**, “AI for Science in the Era of Large Language Models”, in Proc. The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI’25**) (Conference Tutorial), pages TBD, February 25-26, 2025, Philadelphia, Pennsylvania
+1. Yueyan Gua, Farrokh Jazizadeh, and **Xuan Wang**, "Toward Large Energy Models for Forecasting: A Comparative Study of Transformers’ Efficacy", **Applied Energy**, volume TBD, pages TBD, 2025 <span style="color:red">(impact factor: 10.1)</span>
+2. **Xuan Wang**, “AI for Science in the Era of Large Language Models”, in Proc. The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI’25**) (Conference Tutorial), pages TBD, February 25-26, 2025, Philadelphia, Pennsylvania
 
 ## 2024
-1. Tran N. Chau, **Xuan Wang**, John M. McDowell, and Song Li, "Advancing Plant Single-Cell Genomics with Foundation Models", **Current Opinion in Plant Biology**, volume 82, pages 102666. <span style="color:red">(impact factor: 8.3)</span>.
+1. Tran N. Chau, **Xuan Wang**, John M. McDowell, and Song Li, "Advancing Plant Single-Cell Genomics with Foundation Models", **Current Opinion in Plant Biology**, volume 82, pages 102666. <span style="color:red">(impact factor: 8.3)</span>
 2. Hanwen Liu, Daniel Hajialigol, Benny Antony, Aiguo Han, and **Xuan Wang**, “EEG2Text: Open Vocabulary EEG-to-Text Translation with Multi-View Transformer”, in Proc. 2024 IEEE International Conference on Big Data (**IEEE-BigData'24**), pages TBD, December 15-18, 2024, Washington DC <span style="color:red">(acceptance rate: 18.8%)</span> (Previous version in **ICML'24 AI4Science**)
 3. Meng Lu, Ho Brandon, Ren Dennis, and **Xuan Wang**, “TriageAgent: Towards Better Multi-Agents Collaborations for Large Language Model-Based Clinical Triage”, in Proc. 2024 Conf. on Findings of Empirical Methods in Natural Language Processing (**EMNLP’24**), pages 5747--5764, November 12-16, 2024, Miami, Florida <span style="color:red">(acceptance rate: 16.9%)</span> (Previous version in **ICML'24 AI4Science**, <span style="color:red">Spotlight, acceptance rate: 13%</span>)
 4. Zhenyu Bi, Minghao Xu, Jian Tang, and **Xuan Wang**, “AI for Science in the Era of Large Language Models”, in Proc. 2024 Conf. on Empirical Methods in Natural Language Processing (**EMNLP’24**) (Conference Tutorial), pages 32-38, November 12-16, 2024, Miami
