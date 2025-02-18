@@ -7,8 +7,9 @@ author_profile: true
 
 {% include base_path %}
 ## 2025
-1. Yueyan Gu, Farrokh Jazizadeh, and **Xuan Wang**, "Toward Large Energy Models for Forecasting: A Comparative Study of Transformers’ Efficacy", **Applied Energy**, volume TBD, pages TBD, 2025 <span style="color:red">(impact factor: 10.1)</span>
-2. **Xuan Wang**, “AI for Science in the Era of Large Language Models”, in Proc. The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI’25**) (Conference Tutorial), pages TBD, February 25-26, 2025, Philadelphia, Pennsylvania
+1. Jacqueline Urdang, Stephanie Masters, Nneoma Edokobi, Chitra Mukherjee, Arnib Quazi, David A Liem, Monica L. Ahrens, **Xuan Wang**, and Megan Whitham, "Text Phrase-Mining in Identifying and Classifying Maternal Proteins and Genes Across Preeclampsia and Similar Pathologies", **Physiological Reports**, volume TBD, pages TBD, 2025 <span style="color:red">(impact factor: 2.5)</span>
+2. Yueyan Gu, Farrokh Jazizadeh, and **Xuan Wang**, "Toward Large Energy Models for Forecasting: A Comparative Study of Transformers’ Efficacy", **Applied Energy**, volume TBD, pages TBD, 2025 <span style="color:red">(impact factor: 10.1)</span>
+3. **Xuan Wang**, “AI for Science in the Era of Large Language Models”, in Proc. The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI’25**) (Conference Tutorial), pages TBD, February 25-26, 2025, Philadelphia, Pennsylvania
 
 ## 2024
 1. Tran N. Chau, **Xuan Wang**, John M. McDowell, and Song Li, "Advancing Plant Single-Cell Genomics with Foundation Models", **Current Opinion in Plant Biology**, volume 82, pages 102666. <span style="color:red">(impact factor: 8.3)</span>
