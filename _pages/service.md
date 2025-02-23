@@ -26,9 +26,6 @@ redirect_from:
 - ISMB: Reviewer (2023-2025)
 - KDD: Reviewer (2022-2025)
 - TheWebConf: Reviewer (2024-2025)
-- BigData: Reviewer (2023-2024)
-- SDM: Reviewer (2024)
-- COLING: Reviewer (2022)
 
 ## Journal Reviewer
 
@@ -37,7 +34,4 @@ redirect_from:
 - Journal of the American Medical Informatics Association (JAMIA)
 - ACM Transactions on Intelligent Systems and Technology (ACM TIST)
 - INFORMS Journal on Data Science (IJDS)
-- Data Mining and Knowledge Discovery
-- Smart Health
-
   
