@@ -39,11 +39,11 @@ My primary research interests are Natural Language Processing, Data Mining, AI f
 - **(6/16/24)** **Three papers** are accepted by **ICML'24 AI4Science**. Congratulations to my students, Meng whose paper was accepted as a spotlight, and Hanwen and Sindhura whose papers were accepted as posters!
 - **(5/21/24)** We are excited and grateful to receive an award from **NSF NAIRR Pilot** to support our research on complex reasoning in large language models. ([VT News](https://news.vt.edu/articles/2024/06/three-virginia-tech-faculty-receive-nairr-pilot-awards-for-proje.html))
 - **(5/17/24)** **One paper** is accepted by **ACL'24** and **one paper** is accepted by **KDD'24**. Congratulations to all the authors!
-- **(3/26/24)** Check out our new **survey paper** on [LLMs for diverse biomedical data](https://arxiv.org/abs/2403.15673)! We explored three critical categories of biomedical data: 1) textual data (biomedical literature and health records), 2) biological sequences (DNA/RNA/protein sequences and multi-omics sequencing data), and 3) brain signals (time-series EEG data).
 
 <details>
 <summary><b>Load More</b></summary>
 <ul style="PADDING-LEFT: 12px">
+  <li> <b>(3/26/24)</b> Check out our new <b>survey paper</b>b> on <a href="https://arxiv.org/abs/2403.15673">LLMs for diverse biomedical data</a>! We explored three critical categories of biomedical data: 1) textual data (biomedical literature and health records), 2) biological sequences (DNA/RNA/protein sequences and multi-omics sequencing data), and 3) brain signals (time-series EEG data).</li>
   <li> <b>(3/3/24)</b> We are grateful to receive a new grant from the <b>Virginia Tech Brain Tech One Health Initiative</b> to support our research on open-vocabulary brain-to-text translation with large language models.</li>
   <li> <b>(1/18/24)</b> We are grateful to receive a new grant from the <b>Children's National Hospital + Virginia Tech Initiative</b> to support our research on weakly-supervised clinical variable extraction with large language models. (<a href="https://news.vt.edu/articles/2024/08/research-fralinbiomed-fbri-0816.html">VT News</a>)</li>
   <li> <b>(10/10/23)</b> We are grateful to receive a new grant from the <b>Virginia Tech Institute for Critical Technology and Applied Science (ICTAS)</b> to support our research on multi-omics encoding with LLMs for disease progression prediction.</li>
@@ -65,14 +65,7 @@ You can find my schedule [here](https://outlook.office365.com/owa/calendar/7a9db
 ## Prospective Students
 My lab at Virginia Tech has openings for **PhD/Master students and Post-doc researchers** and research internship opportunities for **undergrad students**. We are looking for students with a strong background in <span style="color:blue">NLP, data mining, deep learning, or bioinformatics</span>.
 
-Please email me if you're interested in working with me. **In your email**, please include the following items:
-- Title as "Prospective Student: YourName - YourAffliation"
-- Briefly introduce what research problem you are interested in.
-- Briefly introduce yourself, including education background, research experiences, and programming skills.
-- Briefly explain your motivations and expectations of working with me.
-- Include a PDF version of your CV.
-
-Due to the high volume of emails, I may not be able to respond to every one I receive. 
+Please email me (with your CV) if you're interested in working with me. Due to the high volume of emails, I may not be able to respond to every one I receive. 
 - For **prospective PhD/MS students** outside of VT, please include my name as one of your interested faculty members in your graduate application. This will make it easier for me to locate your application during the review process.
 - For **current PhD/MS/undergraduate students** at VT, the best way to learn more about our research is to attend my classes, visit my office hours, or engage with my graduate students in DDS 362 and 364.
 - For **prospective Post-docs**, please check out this prestigious [Virginia Tech Presidential Postdoctoral Fellowship](https://www.research.vt.edu/about/postdoctoral-associates/virginia-tech-presidential-postdoctoral-fellowships.html). If you're interested in joining our research group, I would be happy to help you with the application process.
