@@ -27,12 +27,12 @@ The capabilities of AI in the realm of science span a wide spectrum, from the at
 A recording of our tutorial can be found after the conference.
 
 
-## Slides \[[Combined]()]:
-- Introduction \[[Slides]()]
-- Part I: Scientific Text \[[Slides]()]
-- Part II: Brain Signals \[[Slides]()]
-- Part III: Biological Sequences \[[Slides]()]
-- Summary \[[Slides]()]
+## Slides \[[Combined](https://drive.google.com/file/d/12i1wKhIIPD_zz15LhnUc3OBDc3Bii4wo/view?usp=sharing)]:
+- Introduction \[[Slides](https://drive.google.com/file/d/1H_7tc72Oy9Oah69fS91vdc8tyqRZ7w5-/view?usp=sharing)]
+- Part I: Scientific Text \[[Slides](https://drive.google.com/file/d/1qfN9Vt_TdTg28WQoFoJeTzSCzNByksTW/view?usp=sharing)]
+- Part II: Brain Signals \[[Slides](https://drive.google.com/file/d/1nLXEgWhguKhmgfi6WlqIWAaW1ndMX3bc/view?usp=sharing)]
+- Part III: Biological Sequences \[[Slides](https://drive.google.com/file/d/1kpcw4M3sBCJGtqnVhXncs7dLotXOQKDp/view?usp=sharing)]
+- Summary \[[Slides](https://drive.google.com/file/d/1NFHdtUi4HNTgrsoRR7yDX7pKKX85Mgk0/view?usp=sharing)]
 
 
 ## Presenters: 
