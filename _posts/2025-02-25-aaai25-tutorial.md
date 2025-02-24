@@ -14,7 +14,7 @@ tags:
 
 Department of Computer Science, Virginia Tech, USA
 
-Time: **February 26, 2025, 8:30 am - 12:30 pm EST**
+Time: **Wednesday 26, 2025, 8:30 am - 12:30 pm EST**
 
 Location: **Philadelphia, Pennsylvania @ Philadelphia Convention Center, Room 119A**
 
