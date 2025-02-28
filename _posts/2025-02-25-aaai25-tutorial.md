@@ -24,7 +24,7 @@ The capabilities of AI in the realm of science span a wide spectrum, from the at
 
 
 ## Tutorial Recording:
-A recording of our tutorial can be found after the conference.
+A recording of our tutorial can be found [here](https://us06web.zoom.us/rec/share/5szJ06AHh2yQF1JHuAupCIhCMTgwfWUN31HryvSk8p5wyQovu5jheL0RsmEfFF7r.yHGNL1q0KZKIodrs).
 
 
 ## Slides \[[Combined](https://drive.google.com/file/d/12i1wKhIIPD_zz15LhnUc3OBDc3Bii4wo/view?usp=sharing)]:
