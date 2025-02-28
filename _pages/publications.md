@@ -6,6 +6,13 @@ author_profile: true
 ---
 
 {% include base_path %}
+## Preprints
+1. Aljohani, Manar, Jun Hou, Sindhura Kommu, and **Xuan Wang**. "A Comprehensive Survey on the Trustworthiness of Large Language Models in Healthcare." arXiv preprint arXiv:2502.15871 (2025).
+2. Srivastava, Gaurav, Shuxiang Cao, and **Xuan Wang**. "Towards Reasoning Ability of Small Language Models." arXiv preprint arXiv:2502.11569 (2025).
+3. Bi, Zhenyu, Sajib Acharjee Dip, Daniel Hajialigol, Sindhura Kommu, Hanwen Liu, Meng Lu, and **Xuan Wang**. "AI for Biomedicine in the Era of Large Language Models." arXiv preprint arXiv:2403.15673 (2024).
+4. Bi, Zhenyu, Daniel Hajialigol, Zhongkai Sun, Jie Hao, and **Xuan Wang**. "STOC-TOT: Stochastic Tree-of-Thought with Constrained Decoding for Complex Reasoning in Multi-Hop Question Answering." arXiv preprint arXiv:2407.03687 (2024).
+5. Hajialigol, Daniel, Hanwen Liu, and **Xuan Wang**. "XAI-Class: Explanation-Enhanced Text Classification with Extremely Weak Supervision." arXiv preprint arXiv:2311.00189 (2023).
+
 ## 2025
 1. Jacqueline Urdang, Stephanie Masters, Nneoma Edokobi, Chitra Mukherjee, Arnib Quazi, David A Liem, Monica L. Ahrens, **Xuan Wang**, and Megan Whitham, "Text Phrase-Mining in Identifying and Classifying Maternal Proteins and Genes Across Preeclampsia and Similar Pathologies", **Physiological Reports**, volume TBD, pages TBD, 2025 <span style="color:red">(impact factor: 2.5)</span>
 2. Yueyan Gu, Farrokh Jazizadeh, and **Xuan Wang**, "Toward Large Energy Models for Forecasting: A Comparative Study of Transformers’ Efficacy", **Applied Energy**, volume TBD, pages TBD, 2025 <span style="color:red">(impact factor: 10.1)</span>
