@@ -12,7 +12,7 @@ redirect_from:
 ## Organizing Committee
 
 - Co-Chair, [Undergraduate and High School Symposium](https://xuanwang91.github.io/2025-ICDM-UGHS/), IEEE-ICDM (2025)
-- Co-Chair, [Undergraduate and High School Symposium]([https://www3.cs.stonybrook.edu/~ieeebigdata2024/SpecialSymposium.html](https://studentpapers-bigdata2024.netlify.app/)), IEEE-BigData (2024)
+- Co-Chair, [Undergraduate and High School Symposium](https://studentpapers-bigdata2024.netlify.app/), IEEE-BigData (2024)
 - Program Chair, [South NLP Symposium](https://southnlp.github.io/southnlp2024/) (2024)
 
 ## Program Committee
