@@ -10,8 +10,7 @@ author_profile: true
 1. Aljohani, Manar, Jun Hou, Sindhura Kommu, and **Xuan Wang**. "A Comprehensive Survey on the Trustworthiness of Large Language Models in Healthcare." arXiv preprint arXiv:2502.15871 (2025).
 2. Srivastava, Gaurav, Shuxiang Cao, and **Xuan Wang**. "Towards Reasoning Ability of Small Language Models." arXiv preprint arXiv:2502.11569 (2025).
 3. Bi, Zhenyu, Sajib Acharjee Dip, Daniel Hajialigol, Sindhura Kommu, Hanwen Liu, Meng Lu, and **Xuan Wang**. "AI for Biomedicine in the Era of Large Language Models." arXiv preprint arXiv:2403.15673 (2024).
-4. Bi, Zhenyu, Daniel Hajialigol, Zhongkai Sun, Jie Hao, and **Xuan Wang**. "STOC-TOT: Stochastic Tree-of-Thought with Constrained Decoding for Complex Reasoning in Multi-Hop Question Answering." arXiv preprint arXiv:2407.03687 (2024).
-5. Hajialigol, Daniel, Hanwen Liu, and **Xuan Wang**. "XAI-Class: Explanation-Enhanced Text Classification with Extremely Weak Supervision." arXiv preprint arXiv:2311.00189 (2023).
+4. Hajialigol, Daniel, Hanwen Liu, and **Xuan Wang**. "XAI-Class: Explanation-Enhanced Text Classification with Extremely Weak Supervision." arXiv preprint arXiv:2311.00189 (2023).
 
 ## 2025
 1. Zhenyu Bi, Daniel Hajialigol, Jie Hao, Zhongkai Sun, and **Xuan Wang**, “StoC-TOT: Stochastic Tree-of-Thought with Constrained Decoding for Complex Reasoning in Multi-Hop Question Answering”, in Proc. 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (**NAACL’25 KnowledgeNLP**), pages TBD, April 29–May 4, 2025, Albuquerque, New Mexico
