@@ -15,12 +15,12 @@ I am an Assistant Professor in the [Department of Computer Science](https://cs.v
 My primary research interests are Natural Language Processing, Data Mining, AI for Sciences, and AI for Healthcare. Some current research directions include:
 
 - **Natural Language Understanding with Limited Supervision**:
-  - Information extraction, knowledge graph construction, text classification, …
+  - Information extraction, knowledge graph construction, text classification, ...
   - Weakly-supervised/few-shot/zero-shot learning
-- **Complex Reasoning and Planning with Large Language Models (LLMs)**:
-  - Complex reasoning with LLMs (multi-hop, long-context, ...)
-  - Multi-agent LLMs for reasoning and planning
-  - Multi-modal LLMs for reasoning and planning
+- **Complex Reasoning and Planning with Language Model Agents**:
+  - Complex reasoning with large language models (multi-hop, long-context, ...)
+  - Multi-agent large language models for reasoning and planning
+  - Efficient small language models for reasoning and planning
 - **Multi-Modal Science Foundation Models (FMs)**:
   - Systematic integration of multi-modal FMs
   - Interpretability, explainability, and causal inference of science FMs
