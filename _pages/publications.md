@@ -7,10 +7,10 @@ author_profile: true
 
 {% include base_path %}
 ## Preprints
-1. Aljohani, Manar, Jun Hou, Sindhura Kommu, and **Xuan Wang**. "A Comprehensive Survey on the Trustworthiness of Large Language Models in Healthcare." arXiv preprint arXiv:2502.15871 (2025).
-2. Srivastava, Gaurav, Shuxiang Cao, and **Xuan Wang**. "Towards Reasoning Ability of Small Language Models." arXiv preprint arXiv:2502.11569 (2025).
-3. Bi, Zhenyu, Sajib Acharjee Dip, Daniel Hajialigol, Sindhura Kommu, Hanwen Liu, Meng Lu, and **Xuan Wang**. "AI for Biomedicine in the Era of Large Language Models." arXiv preprint arXiv:2403.15673 (2024).
-4. Hajialigol, Daniel, Hanwen Liu, and **Xuan Wang**. "XAI-Class: Explanation-Enhanced Text Classification with Extremely Weak Supervision." arXiv preprint arXiv:2311.00189 (2023).
+1. Manar Aljohani, Jun Hou, Sindhura Kommu, and **Xuan Wang**. "A Comprehensive Survey on the Trustworthiness of Large Language Models in Healthcare." arXiv preprint arXiv:2502.15871 (2025).
+2. Gaurav Srivastava, Shuxiang Cao, and **Xuan Wang**. "Towards Reasoning Ability of Small Language Models." arXiv preprint arXiv:2502.11569 (2025).
+3. Zhenyu Bi, Sajib Acharjee Dip, Daniel Hajialigol, Sindhura Kommu, Hanwen Liu, Meng Lu, and **Xuan Wang**. "AI for Biomedicine in the Era of Large Language Models." arXiv preprint arXiv:2403.15673 (2024).
+4. Daniel Hajialigol, Hanwen Liu, and **Xuan Wang**. "XAI-Class: Explanation-Enhanced Text Classification with Extremely Weak Supervision." arXiv preprint arXiv:2311.00189 (2023).
 
 ## 2025
 1. Sindhura Kommu, Yizhi Wang, Yue Wang, and **Xuan Wang**, “Prediction of Gene Regulatory Connections with Joint Single-Cell Foundation Models and Graph-Based Learning”, in Proc. of 2025 International Conference on Intelligent Systems for Molecular Biology (**ISMB’25**), pages TBD, July 20-24, 2025, Liverpool, England <span style="color:red">(acceptance rate: 17.5%)</span>
