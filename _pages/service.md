@@ -21,7 +21,7 @@ redirect_from:
 - ACL: Reviewer (2022-2024)
 - EMNLP: **Area Chair** (2023)
 - NAACL: Reviewer (2022-2024)
-- Neurips: **Area Chair** (2025)
+- NeurIPS: **Area Chair** (2025)
 - ICLR: Reviewer (2025)
 - ICML-AI4Science: **Area Chair** (2024)
 - ISMB: Reviewer (2023-2025)
