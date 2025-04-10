@@ -12,7 +12,7 @@ redirect_from:
 ## Organizing Committee
 
 - Program Chair, [CCI Workshop on AI for Science with Foundation Models]() (2025)
-- Co-Chair, [Undergraduate and High School Symposium](https://xuanwang91.github.io/2025-icdm-ughs/), IEEE-ICDM (2025)
+- Co-Chair, [Undergraduate and High School Symposium](https://xuanwang91.github.io/2025-ICDM-UGHS/), IEEE-ICDM (2025)
 - Co-Chair, [Undergraduate and High School Symposium](https://studentpapers-bigdata2024.netlify.app/), IEEE-BigData (2024)
 - Program Chair, [South NLP Symposium](https://southnlp.github.io/southnlp2024/) (2024)
 
