@@ -29,8 +29,7 @@ My primary research interests are Natural Language Processing, Data Mining, AI f
 ## News and Highlights
 - **(4/12/25)** We are excited to organize the [2025 CCI Workshop on AI for Science with Foundation Models](https://xuanwang91.github.io/2025-cci-workshop/). Looking forward to seeing everyone at the workshop!
 - **(4/12/25)** We are excited to organize the [RAiM 2025: The First International Workshop on Resilient Artificial Intelligence for Manufacturing]() at **ICDM'25**. Looking forward to seeing everyone in DC this year!
-- **(4/12/25)** I am excited to serve as the co-chair for the [Undergraduate and High School Symposium
-](https://2025-icdm-ughs.github.io/) at **ICDM'25**. Looking forward to seeing more bright young AI scientists in DC this year!
+- **(4/12/25)** I am excited to serve as the co-chair for the [Undergraduate and High School Symposium](https://2025-icdm-ughs.github.io/) at **ICDM'25**. Looking forward to seeing more bright young AI scientists in DC this year!
 - **(4/7/25)** **One paper** is accepted by **ISMB'25**. Congratulations to my student Sindhura for her work on the joint single-cell foundation model and graph-based learning!
 - **(12/19/24)** We are grateful to receive a new grant from **Cisco Research** to support our research on complex reasoning and planing with large language models.
 - **(10/29/24)** We are excited to present our **tutorial** of "[AI for Science in the Era of Large Language Models](https://xuanwang91.github.io/2025-02-25-aaai25-tutorial)" at **AAAI'25**. Looking forward to seeing everyone in Philadelphia!
