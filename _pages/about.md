@@ -42,9 +42,6 @@ My primary research interests are Natural Language Processing, Data Mining, AI f
 - **(9/9/24)** Congratulations to my student Daniel for receiving the **Davenport Leadership Scholarship** from CS@VT!
 - **(7/22/24)** We are grateful to receive a new grant from the **Amazon + VT Center for Efficient and Robust ML** to support our research on long-context reasoning with large language models. ([VT News](https://news.vt.edu/articles/2024/10/amazon-virginia-tech-initiative-announces-two-student-fellowship.html?utm_source=cmpgn_news&utm_medium=email&utm_campaign=vtUnirelNewsDailyCMP_Oct2324-fs%20))
 - **(6/28/24)** We are grateful to receive a new grant from the <b>Commonwealth Cyber Initiative (CCI)</b> to support our research on EHR digital twin generation with large language models.
-- **(6/16/24)** **Three papers** are accepted by **ICML'24 AI4Science**. Congratulations to my students, Meng whose paper was accepted as a spotlight, and Hanwen and Sindhura whose papers were accepted as posters!
-- **(5/21/24)** We are excited and grateful to receive an award from **NSF NAIRR Pilot** to support our research on complex reasoning in large language models. ([VT News](https://news.vt.edu/articles/2024/06/three-virginia-tech-faculty-receive-nairr-pilot-awards-for-proje.html))
-- **(5/17/24)** **One paper** is accepted by **ACL'24** and **one paper** is accepted by **KDD'24**. Congratulations to all the authors!
 
 <details>
 <summary><b>Load More</b></summary>
