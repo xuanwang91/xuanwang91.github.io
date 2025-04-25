@@ -49,6 +49,9 @@ My primary research interests are Natural Language Processing, Data Mining, AI f
 <details>
 <summary><b>Load More</b></summary>
 <ul style="PADDING-LEFT: 12px">
+  <li> <b>(6/16/24)</b> <b>Three papers</b> are accepted by <b>ICML'24 AI4Science</b>. Congratulations to my students, Meng whose paper was accepted as a spotlight, and Hanwen and Sindhura whose papers were accepted as posters!</li>
+  <li> <b>(5/21/24)</b> We are excited and grateful to receive an award from <b>NSF NAIRR Pilot</b> to support our research on complex reasoning in large language models. (<a href="https://news.vt.edu/articles/2024/06/three-virginia-tech-faculty-receive-nairr-pilot-awards-for-proje.html">VT News</a>)</li>
+  <li> <b>(5/17/24)</b> <b>One paper</b> is accepted by <b>ACL'24</b> and <b>one paper</b> is accepted by <b>KDD'24</b>. Congratulations to all the authors!</li>
   <li> <b>(3/26/24)</b> Check out our new <b>survey paper</b> on <a href="https://arxiv.org/abs/2403.15673">LLMs for diverse biomedical data</a>! We explored three critical categories of biomedical data: 1) textual data (biomedical literature and health records), 2) biological sequences (DNA/RNA/protein sequences and multi-omics sequencing data), and 3) brain signals (time-series EEG data).</li>
   <li> <b>(3/3/24)</b> We are grateful to receive a new grant from the <b>Virginia Tech Brain Tech One Health Initiative</b> to support our research on open-vocabulary brain-to-text translation with large language models.</li>
   <li> <b>(1/18/24)</b> We are grateful to receive a new grant from the <b>Children's National Hospital + Virginia Tech Initiative</b> to support our research on weakly-supervised clinical variable extraction with large language models. (<a href="https://news.vt.edu/articles/2024/08/research-fralinbiomed-fbri-0816.html">VT News</a>)</li>
