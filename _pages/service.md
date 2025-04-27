@@ -21,7 +21,7 @@ redirect_from:
 
 - ARR: **Area Chair** (2024-2025), Reviewer (2024)
 - ACL: Reviewer (2022-2024)
-- EMNLP: **Area Chair** (2023)
+- EMNLP: **Senior Area Chair** (2025), **Area Chair** (2023)
 - NAACL: Reviewer (2022-2024)
 - NeurIPS: **Area Chair** (2025)
 - ICLR: Reviewer (2025)
