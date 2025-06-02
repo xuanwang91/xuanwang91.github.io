@@ -27,7 +27,7 @@ My primary research interests are Natural Language Processing, Data Mining, AI f
   - Text data, multi-omics data, brain signal data, ...
 
 ## News and Highlights
-- **(5/30/25)** We are excited to organize the workshop of [Beyond Chat: Visual Languages for Embodied Human-LLM Interaction in Sensemaking]() at **VL/HCC'25**. Looking forward to seeing everyone in Raleigh this year!
+- **(5/30/25)** We are excited to organize the workshop of [Beyond Chat: Visual Languages for Embodied Human-LLM Interaction in Sensemaking](https://human-ai-sensemaking.github.io/) at **VL/HCC'25**. Looking forward to seeing everyone in Raleigh this year!
 - **(5/15/24)** **Two papers** are accepted by **ACL'25**. Congratulations to my student Meng for his work on multi-agent LLM for zero-shot IE, and to Priya for her work on improving consensus in multi-agent LLM systems!
 - **(4/25/25)** I am honored to give an invited talk at **I-School UIUC** on **5/9/25**. We will discuss effective and efficient multi-agent language model systems. Thanks to Dr. Yun Huang for the invitation! 
 - **(4/25/25)** I am honored to give a keynote talk at the [Data Science for Smart Manufacturing and Healthcare (**DS2-MH**) Workshop](https://ds2mh.github.io/dssmh25/) at **SDM'25**. Thanks to the workshop organizers for the invitation!
