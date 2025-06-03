@@ -27,7 +27,7 @@ My primary research interests are Natural Language Processing, Data Mining, AI f
   - Text data, multi-omics data, brain signal data, ...
 
 ## News and Highlights
-- **(6/3/25)** We are excited to organize a BoF session on [Bridging Human Study and LLM Agents for Social Simulation]() at **ACL'25**. Looking forward to seeing everyone at ACL this year!
+- **(6/3/25)** We are excited to organize a BoF session on [Bridging Human Study and LLM Agents for Social Simulation]() at **ACL'25**. Looking forward to seeing everyone at ACL'25!
 - **(5/30/25)** We are excited to organize the workshop of [Beyond Chat: Visual Languages for Embodied Human-LLM Interaction in Sensemaking](https://human-ai-sensemaking.github.io/) at **VL/HCC'25**. Looking forward to seeing everyone in Raleigh this year!
 - **(5/16/25)** I am honored to share my thoughts in an interview with the **VT CoE AI Magazine** on the future of AI in healthcare. ([VT CoE AI Magazine](https://eng.vt.edu/magazine/stories/spring-2025/the-future-of-ai.html))
 - **(5/15/24)** **Two papers** are accepted by **ACL'25**. Congratulations to my student Meng for his work on multi-agent LLM for zero-shot IE, and to Priya for her work on improving consensus in multi-agent LLM systems!
