@@ -11,6 +11,7 @@ redirect_from:
 
 ## Organizing Committee
 
+- Program Chair, [BoF Session: Bridging Human Study and LLM Agents for Social Simulation](), ACL (2025)
 - Program Chair, [Beyond Chat: Visual Languages for Embodied Human-LLM Interaction in Sensemaking](https://human-ai-sensemaking.github.io/), VL/HCC (2025)
 - Program Chair, [CCI Workshop on AI for Science with Foundation Models](https://xuanwang91.github.io/2025-cci-workshop/) (2025)
 - Program Chair, [RAiM 2025: The First International Workshop on Resilient Artificial Intelligence for Manufacturing](https://xuanwang91.github.io/2025-ICDM-RAiM/), IEEE-ICDM (2025)
