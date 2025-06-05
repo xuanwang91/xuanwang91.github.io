@@ -37,19 +37,19 @@ My primary research interests are Natural Language Processing, Data Mining, AI f
 - **(4/12/25)** We are excited to organize the [RAiM 2025: The First International Workshop on Resilient Artificial Intelligence for Manufacturing](https://xuanwang91.github.io/2025-ICDM-RAiM/) at **ICDM'25**. Looking forward to seeing everyone in DC this year!
 - **(4/12/25)** I am excited to serve as the co-chair for the [Undergraduate and High School Symposium](https://2025-icdm-ughs.github.io/) at **ICDM'25**. Looking forward to seeing more bright young AI scientists in DC this year!
 - **(4/7/25)** **One paper** is accepted by **ISMB'25**. Congratulations to my student Sindhura for her work on the joint single-cell foundation model and graph-based learning!
-- **(12/19/24)** We are grateful to receive a new grant from **Cisco Research** to support our research on complex reasoning and planing with large language models.
-- **(10/29/24)** We are excited to present our **tutorial** of "[AI for Science in the Era of Large Language Models](https://xuanwang91.github.io/2025-02-25-aaai25-tutorial)" at **AAAI'25**. Looking forward to seeing everyone in Philadelphia!
-- **(10/26/24)** **One paper** is accepted by **IEEE-BigData'24**. Congratulations to my student Hanwen for his work on EEG-to-text translation with multi-view Transformer!
-- **(10/2/24)** We are grateful to receive yet another award from **NSF NAIRR Pilot** to support our research on network-regulated large language models for multi-omics data analysis. 
-- **(9/20/24)** We are excited to present our **tutorial** of "[AI for Science in the Era of Large Language Models](https://xuanwang91.github.io/2024-11-12-emnlp24-tutorial)" at **EMNLP'24**. Looking forward to seeing everyone in Miami!
-- **(9/20/24)** **One paper** is accepted by **EMNLP'24**. Congratulations to my student Meng for his work on better multi-agent collaboration for LLM-based clinical triage!
-- **(9/9/24)** Congratulations to my student Daniel for receiving the **Davenport Leadership Scholarship** from CS@VT!
-- **(7/22/24)** We are grateful to receive a new grant from the **Amazon + VT Center for Efficient and Robust ML** to support our research on long-context reasoning with large language models. ([VT News](https://news.vt.edu/articles/2024/10/amazon-virginia-tech-initiative-announces-two-student-fellowship.html?utm_source=cmpgn_news&utm_medium=email&utm_campaign=vtUnirelNewsDailyCMP_Oct2324-fs%20))
-- **(6/28/24)** We are grateful to receive a new grant from the <b>Commonwealth Cyber Initiative (CCI)</b> to support our research on EHR digital twin generation with large language models.
 
 <details>
 <summary><b>Load More</b></summary>
 <ul style="PADDING-LEFT: 12px">
+  <li><b>(12/19/24)</b> We are grateful to receive a new grant from <b>Cisco Research</b> to support our research on complex reasoning and planing with large language models.</li>
+  <li><b>(10/29/24)</b> We are excited to present our <b>tutorial</b> of <a href="https://xuanwang91.github.io/2025-02-25-aaai25-tutorial">"AI for Science in the Era of Large Language Models"</a> at <b>AAAI'25</b>. Looking forward to seeing everyone in Philadelphia!</li>
+  <li><b>(10/26/24)</b> <b>One paper</b> is accepted by <b>IEEE-BigData'24</b>. Congratulations to my student Hanwen for his work on EEG-to-text translation with multi-view Transformer!</li>
+  <li><b>(10/2/24)</b> We are grateful to receive yet another award from <b>NSF NAIRR Pilot</b> to support our research on network-regulated large language models for multi-omics data analysis.</li>
+  <li><b>(9/20/24)</b> We are excited to present our <b>tutorial</b> of <a href="https://xuanwang91.github.io/2024-11-12-emnlp24-tutorial">"AI for Science in the Era of Large Language Models"</a> at <b>EMNLP'24</b>. Looking forward to seeing everyone in Miami!</li>
+  <li><b>(9/20/24)</b> <b>One paper</b> is accepted by <b>EMNLP'24</b>. Congratulations to my student Meng for his work on better multi-agent collaboration for LLM-based clinical triage!</li>
+  <li><b>(9/9/24)</b> Congratulations to my student Daniel for receiving the <b>Davenport Leadership Scholarship</b> from CS@VT!</li>
+  <li><b>(7/22/24)</b> We are grateful to receive a new grant from the <b>Amazon + VT Center for Efficient and Robust ML</b> to support our research on long-context reasoning with large language models. (<a href="https://news.vt.edu/articles/2024/10/amazon-virginia-tech-initiative-announces-two-student-fellowship.html?utm_source=cmpgn_news&utm_medium=email&utm_campaign=vtUnirelNewsDailyCMP_Oct2324-fs%20">VT News</a>)</li>
+  <li><b>(6/28/24)</b> We are grateful to receive a new grant from the <b>Commonwealth Cyber Initiative (CCI)</b> to support our research on EHR digital twin generation with large language models.</li>
   <li> <b>(6/16/24)</b> <b>Three papers</b> are accepted by <b>ICML'24 AI4Science</b>. Congratulations to my students, Meng whose paper was accepted as a spotlight, and Hanwen and Sindhura whose papers were accepted as posters!</li>
   <li> <b>(5/21/24)</b> We are excited and grateful to receive an award from <b>NSF NAIRR Pilot</b> to support our research on complex reasoning in large language models. (<a href="https://news.vt.edu/articles/2024/06/three-virginia-tech-faculty-receive-nairr-pilot-awards-for-proje.html">VT News</a>)</li>
   <li> <b>(5/17/24)</b> <b>One paper</b> is accepted by <b>ACL'24</b> and <b>one paper</b> is accepted by <b>KDD'24</b>. Congratulations to all the authors!</li>
