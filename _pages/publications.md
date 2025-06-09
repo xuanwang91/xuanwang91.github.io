@@ -7,10 +7,11 @@ author_profile: true
 
 {% include base_path %}
 ## Preprints
-1. Manar Aljohani, Jun Hou, Sindhura Kommu, and **Xuan Wang**. "A Comprehensive Survey on the Trustworthiness of Large Language Models in Healthcare." arXiv preprint arXiv:2502.15871 (2025).
-2. Gaurav Srivastava, Shuxiang Cao, and **Xuan Wang**. "Towards Reasoning Ability of Small Language Models." arXiv preprint arXiv:2502.11569 (2025).
-3. Zhenyu Bi, Sajib Acharjee Dip, Daniel Hajialigol, Sindhura Kommu, Hanwen Liu, Meng Lu, and **Xuan Wang**. "AI for Biomedicine in the Era of Large Language Models." arXiv preprint arXiv:2403.15673 (2024).
-4. Daniel Hajialigol, Hanwen Liu, and **Xuan Wang**. "XAI-Class: Explanation-Enhanced Text Classification with Extremely Weak Supervision." arXiv preprint arXiv:2311.00189 (2023).
+1. Gaurav Srivastava, Zhenyu Bi, Meng Lu, and **Xuan Wang**. "DEBATE, TRAIN, EVOLVE: Self Evolution of Language Model Reasoning." arXiv preprint arXiv:2505.15734 (2025).
+3. Gaurav Srivastava, Shuxiang Cao, and **Xuan Wang**. "Towards Reasoning Ability of Small Language Models." arXiv preprint arXiv:2502.11569 (2025).
+4. Manar Aljohani, Jun Hou, Sindhura Kommu, and **Xuan Wang**. "A Comprehensive Survey on the Trustworthiness of Large Language Models in Healthcare." arXiv preprint arXiv:2502.15871 (2025).
+5. Zhenyu Bi, Sajib Acharjee Dip, Daniel Hajialigol, Sindhura Kommu, Hanwen Liu, Meng Lu, and **Xuan Wang**. "AI for Biomedicine in the Era of Large Language Models." arXiv preprint arXiv:2403.15673 (2024).
+6. Daniel Hajialigol, Hanwen Liu, and **Xuan Wang**. "XAI-Class: Explanation-Enhanced Text Classification with Extremely Weak Supervision." arXiv preprint arXiv:2311.00189 (2023).
 
 ## 2025
 1. Meng Lu, Yuzhang Xie, Zhenyu Bi, Shuxiang Cao, and **Xuan Wang**, “CrossAgentIE: Cross-Type and Cross-Task Multi-Agent LLM Collaboration for Zero-Shot Information Extraction”, in Proc. Findings of the 63rd Annual Meeting of the Association for Computational Linguistics (**ACL’25**), pages TBD, July 27–August 1st, 2025, Vienna, Austria <span style="color:red">(acceptance rate: TBD%)</span>
