@@ -28,7 +28,7 @@ My primary research interests are Natural Language Processing, Data Mining, AI f
 
 ## News and Highlights
 - **(6/30/25)** We are grateful to receive a new grant from **[NVIDIA Academic Grant](https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/)** to support our research on small language model agent systems.
-- **(6/30/25)** We are excited to present at **[Agentic AI Summit](https://rdi.berkeley.edu/events/agentic-ai-summit)** on effective and efficient multi-agent language model systems. Looking forward to seeing everyone in Berkeley this August!
+- **(6/30/25)** We are excited to present at **[Agentic AI Summit](https://rdi.berkeley.edu/events/agentic-ai-summit)** in Berkeley this August, discussing effective and efficient multi-agent language model systems.
 - **(6/3/25)** We are excited to organize a BoF session on [Bridging Human Study and LLM Agents for Social Simulation]() at **ACL'25**. Looking forward to seeing everyone at ACL'25!
 - **(5/30/25)** We are excited to organize the workshop of [Beyond Chat: Visual Languages for Embodied Human-LLM Interaction in Sensemaking](https://human-ai-sensemaking.github.io/) at **VL/HCC'25**. Looking forward to seeing everyone in Raleigh this year!
 - **(5/16/25)** I am honored to share my thoughts in an interview with the **VT CoE AI Magazine** on the future of AI in healthcare. ([VT CoE AI Magazine](https://eng.vt.edu/magazine/stories/spring-2025/the-future-of-ai.html))
