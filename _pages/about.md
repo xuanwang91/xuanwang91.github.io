@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the [Department of Computer Science](https://cs.vt.edu/) at Virginia Tech (VT). I am also a faculty member of the [Sanghani Center for Artificial Intelligence and Data Analytics](https://sanghani.cs.vt.edu/) at VT. I was a recipient of the Nvidia Academic Grant 2025, Cisco Research Award 2025, NSF NAIRR Pilot Award 2024-2025, and NAACL Best Demo Paper Award 2021. I received my Ph.D. in [Computer Science](http://www.cs.uiuc.edu/) from the University of Illinois at Urbana-Champaign (UIUC) under the supervision of Dr. [Jiawei Han](http://hanj.cs.illinois.edu/). During my Ph.D. study, I also worked at IBM Research as a summer intern. I received my M.S. in [Statistics](https://stat.illinois.edu/) and my M.S. in [Biochemistry](https://mcb.illinois.edu/departments/biochemistry/) from UIUC. I received my B.S. in [Biological Science](https://life.tsinghua.edu.cn/) from Tsinghua University, China. Here is my full [CV](https://drive.google.com/file/d/1bg0LmchHziBMgvhKw2NGE-p_Bg4ufyQH/view?usp=sharing).
+I am an Assistant Professor in the [Department of Computer Science](https://cs.vt.edu/) at Virginia Tech (VT). I am also a faculty member of the [Sanghani Center for Artificial Intelligence and Data Analytics](https://sanghani.cs.vt.edu/) at VT. I was a recipient of the **NSF CAREER Award 2025**, Nvidia Academic Grant 2025, Cisco Research Award 2025, and NAACL Best Demo Paper Award 2021. I received my Ph.D. in [Computer Science](http://www.cs.uiuc.edu/) from the University of Illinois at Urbana-Champaign (UIUC) under the supervision of Dr. [Jiawei Han](http://hanj.cs.illinois.edu/). During my Ph.D. study, I also worked at IBM Research as a summer intern. I received my M.S. in [Statistics](https://stat.illinois.edu/) and my M.S. in [Biochemistry](https://mcb.illinois.edu/departments/biochemistry/) from UIUC. I received my B.S. in [Biological Science](https://life.tsinghua.edu.cn/) from Tsinghua University, China. Here is my full [CV](https://drive.google.com/file/d/1bg0LmchHziBMgvhKw2NGE-p_Bg4ufyQH/view?usp=sharing).
 
 
 ## Research Interests
@@ -27,6 +27,7 @@ My primary research interests are Natural Language Processing, Data Mining, AI f
   - Text data, multi-omics data, brain signal data, ...
 
 ## News and Highlights
+- **(7/14/25)** We are grateful to receive the **NSF CAREER Award** to support our research on scientific information extraction from massive text data.
 - **(6/30/25)** We are grateful to receive a new grant from **[NVIDIA Academic Grant](https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/)** to support our research on small language model agent systems.
 - **(6/30/25)** We are excited to present at **[Agentic AI Summit](https://rdi.berkeley.edu/events/agentic-ai-summit)** in Berkeley this August, discussing effective and efficient multi-agent language model systems.
 - **(6/3/25)** We are excited to organize a BoF session on [Bridging Human Study and LLM Agents for Social Simulation](https://xuanwang91.github.io/2025-ACL-BOF/) at **ACL'25**. Looking forward to seeing everyone at ACL'25!
