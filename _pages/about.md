@@ -29,7 +29,7 @@ My primary research interests are Natural Language Processing, Data Mining, AI f
 ## News and Highlights
 - **(7/28/25)** We are grateful to receive the **Google Cloud Research Credits** to support our research on multi-agent language model systems.
 - **(7/14/25)** We are grateful to receive the **NSF CAREER Award** to support our research on scientific information extraction from massive text data.
-- **(6/30/25)** We are grateful to receive a new grant from **NVIDIA Academic Grant** to support our research on small language model agent systems.
+- **(6/30/25)** We are grateful to receive the **NVIDIA Academic Grant** to support our research on small language model agent systems.
 - **(6/30/25)** We are excited to present at [Agentic AI Summit](https://rdi.berkeley.edu/events/agentic-ai-summit) in Berkeley this August, discussing effective and efficient multi-agent language model systems.
 - **(6/3/25)** We are excited to organize a BoF session on [Bridging Human Study and LLM Agents for Social Simulation](https://xuanwang91.github.io/2025-ACL-BOF/) at **ACL'25**. Looking forward to seeing everyone at ACL'25!
 - **(5/30/25)** We are excited to organize the workshop of [Beyond Chat: Visual Languages for Embodied Human-LLM Interaction in Sensemaking](https://human-ai-sensemaking.github.io/) at **VL/HCC'25**. Looking forward to seeing everyone in Raleigh this year!
