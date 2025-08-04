@@ -27,7 +27,7 @@ My primary research interests are Natural Language Processing, Data Mining, AI f
   - Text data, multi-omics data, brain signal data, ...
 
 ## News and Highlights
-- **(8/4/25)** We are thrilled to share that our pitch video on "Towards Intelligent and Resilient U.S. Pharmaceutical Supply Chains via Multi-Agent AI" has been deemed Awardable by the DARPA ERIS Marketplace!
+- **(8/4/25)** We are thrilled to share that our pitch video on "Towards Intelligent and Resilient U.S. Pharmaceutical Supply Chains via Multi-Agent AI" has been deemed Awardable by the **DARPA ERIS Marketplace**!
 - **(7/28/25)** We are grateful to receive the **Google Cloud Research Credits** to support our research on multi-agent language model systems.
 - **(7/14/25)** We are grateful to receive the **NSF CAREER Award** to support our research on scientific information extraction from massive text data.
 - **(6/30/25)** We are grateful to receive the **NVIDIA Academic Grant** to support our research on small language model agent systems.
