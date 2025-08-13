@@ -15,18 +15,18 @@ author_profile: true
 - [Meng Lu](https://www.linkedin.com/in/lu-luca-499092166/) (2023 Fall)
 - [Manar Aljohani](https://manarvt.github.io/) (2024 Fall)
 - [Jun Hou](https://www.linkedin.com/in/jun-hou-1392b8149/) (2024 Fall)
-
+- [Priya Pitre](https://priyapitre.github.io/) (2024 Fall)
+- [Yi Fang](https://www.linkedin.com/in/yi-fang-70519124a/) (2025 Fall)
 
 ## Master Students
 
-- [Sindhura Kommu](https://sindhura-cs.github.io/) (2023 Fall)
-- [Priya Pitre](https://priyapitre.github.io/) (2024 Fall)
 - [Gaurav Srivastava](https://ctrl-gaurav.github.io/#) (2024 Fall)
-
+- [Sneha Aggarwal](https://www.linkedin.com/in/sneha-aggarwal-10866b196/) (2025 Fall)
 
 ## Alumni
-- [Yueyan Gu](https://www.linkedin.com/in/yueyan-gu-291152226/) (MS, 2024 Fall): Toward Transformer-based Large Energy Models for Smart Energy Management
 
+- [Yueyan Gu](https://www.linkedin.com/in/yueyan-gu-291152226/) (MS, 2024 Fall): Toward Transformer-based Large Energy Models for Smart Energy Management
+- [Sindhura Kommu](https://sindhura-cs.github.io/) (MS, 2025 Fall): Towards Network-Guided Large-Scale Foundation Models on Single-Cell Transcriptomics
 
 <!---
 ## Undergraduate Students
