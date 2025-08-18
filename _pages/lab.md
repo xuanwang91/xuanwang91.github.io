@@ -27,8 +27,8 @@ author_profile: true
 
 ## Alumni
 
-- [Sindhura Kommu](https://sindhura-cs.github.io/) (MS, 2025 Fall): Towards Network-Guided Large-Scale Foundation Models on Single-Cell Transcriptomics. Placement after graduation: Senior Machine Learning Engineer at Walmart Labs
-- [Yueyan Gu](https://www.linkedin.com/in/yueyan-gu-291152226/) (MS, 2024 Fall): Toward Transformer-based Large Energy Models for Smart Energy Management. First job after graduation: Applied Scientist at Amazon
+- [Sindhura Kommu](https://sindhura-cs.github.io/) (MS, 2025 Fall): Towards Network-Guided Large-Scale Foundation Models on Single-Cell Transcriptomics. Next position: Senior Machine Learning Engineer at Walmart Labs
+- [Yueyan Gu](https://www.linkedin.com/in/yueyan-gu-291152226/) (MS, 2024 Fall): Toward Transformer-based Large Energy Models for Smart Energy Management. Next position: Applied Scientist at Amazon
 
 
 <!---
