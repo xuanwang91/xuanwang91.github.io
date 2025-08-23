@@ -29,11 +29,11 @@ This tutorial presents a comprehensive overview of recent research and developme
 A recording of our tutorial is available [here](https://www.youtube.com/watch?v=JIbs0WtoIZk&list=PL_4c34HZDoN6P4liXPoFjQiIoZEQLsxD3&index=15).
 
 
-## Slides ([Combined](https://drive.google.com/file/d/1kB17yz7i1FTx4Qsw4VVSWr04pgUskDJJ/view?usp=drive_link)):
-- Introduction \[[Slides](https://drive.google.com/file/d/1ZeHwGA8X9OqBWXRGWnlwZdF7H-cPVsh9/view?usp=drive_link)]
-- Scientific Information Extraction and Analysis \[[Slides](https://drive.google.com/file/d/12bgVjeBlcCYSx_oDKI-oi7xsFcOzF21Q/view?usp=drive_link)]
-- Scientific Information Search and Evidence Mining \[[Slides](https://drive.google.com/file/d/1iHqcuM3ylAe-t1dvQ7n1nzV048LVQtAw/view?usp=drive_link)]
-- Summary and Future Directions \[[Slides](https://drive.google.com/file/d/1k10O0StBxaVsuQyTC2litQtHhmNvvi1Y/view?usp=drive_link)]
+## Slides ([Combined](https://drive.google.com/file/d/1kB17yz7i1FTx4Qsw4VVSWr04pgUskDJJ/view?usp=sharing)):
+- Introduction \[[Slides](https://drive.google.com/file/d/1ZeHwGA8X9OqBWXRGWnlwZdF7H-cPVsh9/view?usp=sharing)]
+- Scientific Information Extraction and Analysis \[[Slides](https://drive.google.com/file/d/12bgVjeBlcCYSx_oDKI-oi7xsFcOzF21Q/view?usp=sharing)]
+- Scientific Information Search and Evidence Mining \[[Slides](https://drive.google.com/file/d/1iHqcuM3ylAe-t1dvQ7n1nzV048LVQtAw/view?usp=sharing)]
+- Summary and Future Directions \[[Slides](https://drive.google.com/file/d/1k10O0StBxaVsuQyTC2litQtHhmNvvi1Y/view?usp=sharing)]
 
 
 ## Presenters: 
