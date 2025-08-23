@@ -26,12 +26,12 @@ Exploring the vast amount of rapidly growing scientific text data is highly bene
 A recording of our tutorial will be available after the conference.
 
 
-## Slides \[[Combined](https://drive.google.com/file/d/181SAySWykCeAmKH2eWa9ClFmxtXmiEE6/view?usp=sharing)]:
-- Introduction \[[Slides](https://drive.google.com/file/d/18SJaPHQaHol5UwS5ITnuqIuzmS1pgrVW/view?usp=sharing)]
-- Part I: Scientific Information Extraction and Analysis \[[Slides](https://drive.google.com/file/d/1MV8nQPTd-8IjJQFao1Pihd4tf91PrEIV/view?usp=sharing)]
-- Part II: Scientific Information Search and Evidence Mining \[[Slides](https://drive.google.com/file/d/1_Y1JNSZcmEP9wHxw7BbMyGpjkXs5U5VP/view?usp=sharing)]
-- Part III: Topic Discovery, Text Classification, and Multi-Dimensional Text Analysis \[[Slides](https://drive.google.com/file/d/1zAPJqt7EZAsEIwSECz4J6oQFpy4pfdGw/view?usp=sharing)]
-- Summary and Future Directions \[[Slides](https://drive.google.com/file/d/1O_h27453Qw3nb_Ah8Fn2ybUUVvXDqsz-/view?usp=sharing)]
+## Slides \[[Combined](https://drive.google.com/file/d/1C_-SoLXN82hfsH8cKKug52a8nrCup3kL/view?usp=drive_link)]:
+- Introduction \[[Slides](https://drive.google.com/file/d/17jk6WtX0uFkt2ij43dzWeKdymmcRZ9hA/view?usp=drive_link)]
+- Part I: Scientific Information Extraction and Analysis \[[Slides](https://drive.google.com/file/d/1qlhRoSf4LqdUTg-97efG4e385PCmrMi8/view?usp=drive_link)]
+- Part II: Scientific Information Search and Evidence Mining \[[Slides](https://drive.google.com/file/d/1bv6Cuu0aGDtAoDYn6qNYLn3TH3ByBlXi/view?usp=drive_link)]
+- Part III: Topic Discovery, Text Classification, and Multi-Dimensional Text Analysis \[[Slides](https://drive.google.com/file/d/1yixBVoJCqjNDzNAxIDXrUXltgDTZITGU/view?usp=drive_link)]
+- Summary and Future Directions \[[Slides]([https://drive.google.com/file/d/1O_h27453Qw3nb_Ah8Fn2ybUUVvXDqsz-/view?usp=sharing](https://drive.google.com/file/d/1CnGbZCkD0lFHA1vbPqMU9GtqF6onB6VA/view?usp=drive_link))]
 
 
 ## Presenters: 
