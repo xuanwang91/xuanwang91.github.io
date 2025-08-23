@@ -31,7 +31,7 @@ A recording of our tutorial will be available after the conference.
 - Part I: Scientific Information Extraction and Analysis \[[Slides](https://drive.google.com/file/d/1qlhRoSf4LqdUTg-97efG4e385PCmrMi8/view?usp=drive_link)]
 - Part II: Scientific Information Search and Evidence Mining \[[Slides](https://drive.google.com/file/d/1bv6Cuu0aGDtAoDYn6qNYLn3TH3ByBlXi/view?usp=drive_link)]
 - Part III: Topic Discovery, Text Classification, and Multi-Dimensional Text Analysis \[[Slides](https://drive.google.com/file/d/1yixBVoJCqjNDzNAxIDXrUXltgDTZITGU/view?usp=drive_link)]
-- Summary and Future Directions \[[Slides]([https://drive.google.com/file/d/1O_h27453Qw3nb_Ah8Fn2ybUUVvXDqsz-/view?usp=sharing](https://drive.google.com/file/d/1CnGbZCkD0lFHA1vbPqMU9GtqF6onB6VA/view?usp=drive_link))]
+- Summary and Future Directions \[[Slides](https://drive.google.com/file/d/1CnGbZCkD0lFHA1vbPqMU9GtqF6onB6VA/view?usp=drive_link)]
 
 
 ## Presenters: 
