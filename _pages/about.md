@@ -47,6 +47,12 @@ My primary research interests are Natural Language Processing, Data Mining, AI f
 <details>
 <summary><b>Load More</b></summary>
 <ul style="PADDING-LEFT: 12px">
+  <li><b>(4/25/25)</b> I am honored to give an invited talk at <b>I-School UIUC</b> on <b>5/9/25</b>. We will discuss effective and efficient multi-agent language model systems. Thanks to Dr. Yun Huang for the invitation!</li>
+  <li><b>(4/25/25)</b> I am honored to give a keynote talk at the <a href="https://ds2mh.github.io/dssmh25/">Data Science for Smart Manufacturing and Healthcare (<b>DS2-MH</b>) Workshop</a> at <b>SDM'25</b>. Thanks to the workshop organizers for the invitation!</li>
+  <li><b>(4/12/25)</b> We are excited to organize the <a href="https://xuanwang91.github.io/2025-cci-workshop/">2025 CCI Workshop on AI for Science with Foundation Models</a>. Looking forward to seeing everyone at the workshop!</li>
+  <li><b>(4/12/25)</b> We are excited to organize the <a href="https://xuanwang91.github.io/2025-ICDM-RAiM/">RAiM 2025: The First International Workshop on Resilient Artificial Intelligence for Manufacturing</a> at <b>ICDM'25</b>. Looking forward to seeing everyone in DC this year!</li>
+  <li><b>(4/12/25)</b> I am excited to serve as the co-chair for the <a href="https://2025-icdm-ughs.github.io/">Undergraduate and High School Symposium</a> at <b>ICDM'25</b>. Looking forward to seeing more bright young AI scientists in DC this year!</li>
+  <li><b>(4/7/25)</b> <b>One paper</b> is accepted by <b>ISMB'25</b>. Congratulations to my student Sindhura for her work on the joint single-cell foundation model and graph-based learning!</li>
   <li><b>(12/19/24)</b> We are grateful to receive a new grant from <b>Cisco Research</b> to support our research on complex reasoning and planing with large language models.</li>
   <li><b>(10/29/24)</b> We are excited to present our <b>tutorial</b> of <a href="https://xuanwang91.github.io/2025-02-25-aaai25-tutorial">"AI for Science in the Era of Large Language Models"</a> at <b>AAAI'25</b>. Looking forward to seeing everyone in Philadelphia!</li>
   <li><b>(10/26/24)</b> <b>One paper</b> is accepted by <b>IEEE-BigData'24</b>. Congratulations to my student Hanwen for his work on EEG-to-text translation with multi-view Transformer!</li>
