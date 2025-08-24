@@ -37,12 +37,6 @@ My primary research interests are Natural Language Processing, Data Mining, AI f
 - **(5/30/25)** We are excited to organize the workshop of [Beyond Chat: Visual Languages for Embodied Human-LLM Interaction in Sensemaking](https://human-ai-sensemaking.github.io/) at **VL/HCC'25**. Looking forward to seeing everyone in Raleigh this year!
 - **(5/16/25)** I am honored to share my thoughts in an interview with the **VT CoE AI Magazine** on the future of AI in healthcare. ([VT CoE AI Magazine](https://eng.vt.edu/magazine/stories/spring-2025/the-future-of-ai.html))
 - **(5/15/24)** **Two papers** are accepted by **ACL'25**. Congratulations to my student Meng for his work on multi-agent LLM for zero-shot IE, and to Priya for her work on improving consensus in multi-agent LLM systems!
-- **(4/25/25)** I am honored to give an invited talk at **I-School UIUC** on **5/9/25**. We will discuss effective and efficient multi-agent language model systems. Thanks to Dr. Yun Huang for the invitation! 
-- **(4/25/25)** I am honored to give a keynote talk at the [Data Science for Smart Manufacturing and Healthcare (**DS2-MH**) Workshop](https://ds2mh.github.io/dssmh25/) at **SDM'25**. Thanks to the workshop organizers for the invitation!
-- **(4/12/25)** We are excited to organize the [2025 CCI Workshop on AI for Science with Foundation Models](https://xuanwang91.github.io/2025-cci-workshop/). Looking forward to seeing everyone at the workshop!
-- **(4/12/25)** We are excited to organize the [RAiM 2025: The First International Workshop on Resilient Artificial Intelligence for Manufacturing](https://xuanwang91.github.io/2025-ICDM-RAiM/) at **ICDM'25**. Looking forward to seeing everyone in DC this year!
-- **(4/12/25)** I am excited to serve as the co-chair for the [Undergraduate and High School Symposium](https://2025-icdm-ughs.github.io/) at **ICDM'25**. Looking forward to seeing more bright young AI scientists in DC this year!
-- **(4/7/25)** **One paper** is accepted by **ISMB'25**. Congratulations to my student Sindhura for her work on the joint single-cell foundation model and graph-based learning!
 
 <details>
 <summary><b>Load More</b></summary>
