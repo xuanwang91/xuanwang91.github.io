@@ -21,7 +21,6 @@ author_profile: true
 
 ## Master Students
 
-- [Sneha Aggarwal](https://www.linkedin.com/in/sneha-aggarwal-10866b196/) (2025 Fall)
 - [Gaurav Srivastava](https://ctrl-gaurav.github.io/#) (2024 Fall)
 
 
