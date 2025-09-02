@@ -30,7 +30,7 @@ My primary research interests are Natural Language Processing, Data Mining, AI f
 - **(8/20/25)** **Four papers** are accepted by **EMNLP'25**. Congratulations to my students, Gaurav, Jun, and Manar, for their work on LLM agents, multi-modal learning, and trustworthy LLMs!
 - **(8/4/25)** We are thrilled to share that our pitch video on "Towards Intelligent and Resilient U.S. Pharmaceutical Supply Chains via Multi-Agent AI" has been deemed Awardable by the **DARPA ERIS Marketplace**!
 - **(7/28/25)** We are grateful to receive the **Google Cloud Research Credits** to support our research on multi-agent language model systems.
-- **(7/14/25)** We are grateful to receive the **NSF CAREER Award** to support our research on scientific information extraction from massive text data.
+- **(7/14/25)** We are grateful to receive the **NSF CAREER Award** to support our research on scientific information extraction from massive text data. ([VT News](https://news.vt.edu/articles/2025/08/eng-cs-career-award-makes-sense-of-scientific-discovery.html?utm_source=cmpgn_news&utm_medium=email&utm_campaign=vtUnirelNewsDailyCMP_sept225-fs))
 - **(6/30/25)** We are grateful to receive the **NVIDIA Academic Grant** to support our research on small language model agent systems.
 - **(6/30/25)** We are excited to present at [Agentic AI Summit](https://rdi.berkeley.edu/events/agentic-ai-summit) in Berkeley this August, discussing effective and efficient multi-agent language model systems.
 - **(6/3/25)** We are excited to organize a BoF session on [Bridging Human Study and LLM Agents for Social Simulation](https://xuanwang91.github.io/2025-ACL-BOF/) at **ACL'25**. Looking forward to seeing everyone at ACL'25!
