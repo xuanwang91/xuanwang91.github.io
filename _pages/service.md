@@ -34,6 +34,7 @@ redirect_from:
 ## Journal Reviewer
 
 - **Nature Methods**
+- **Cell Genomics**
 - Bioinformatics
 - Journal of the American Medical Informatics Association (JAMIA)
 - ACM Transactions on Intelligent Systems and Technology (ACM TIST)
