@@ -29,7 +29,7 @@ My primary research interests are Natural Language Processing, Data Mining, AI f
 ## News and Highlights
 - **(10/8/25)** I am honored to give an invited talk at **[William & Mary]()** on small, open-source, and multi-modal language model agents for science and society!
 - **(9/28/25)** We are thrilled to share that our pitch video on "MERA: (Meta)Genome-based Risk Assessment Web Server" has been deemed Awardable by the **DARPA ERIS Marketplace**!
-- **(9/15/25)** We are excited to present our **tutorial** of "[AI-Driven Multimodal Frameworks for Healthcare Decision-Making]()" at **ICDM'25**. Looking forward to seeing everyone in DC!
+- **(9/15/25)** We are excited to present our **tutorial** of "[AI-Driven Multimodal Frameworks for Healthcare Decision-Making](https://people.cs.vt.edu/jiamingcui/icdm25/index.html)" at **ICDM'25**. Looking forward to seeing everyone in DC!
 - **(9/10/25)** I am honored to give an invited talk at **[UIUC I-School CIRSS Seminar](https://ischool.illinois.edu/news-events/events/2025/09/10/ai-disruption-speaker-series-xuan-wang)** on small, open-source, and multi-modal language model agents for science and society!
 - **(8/20/25)** **Four papers** are accepted by **EMNLP'25**. Congratulations to my students, Gaurav, Jun, and Manar, for their work on LLM agents, multi-modal learning, and trustworthy LLMs!
 - **(8/4/25)** We are thrilled to share that our pitch video on "Towards Intelligent and Resilient U.S. Pharmaceutical Supply Chains via Multi-Agent AI" has been deemed Awardable by the **DARPA ERIS Marketplace**!
