@@ -27,6 +27,7 @@ My primary research interests are Natural Language Processing, Data Mining, AI f
   - Text data, multi-omics data, brain signal data, ...
 
 ## News and Highlights
+- **(10/29/25)** I am honored to receive the **ICDM Young Female Scholar Award in Data Science** at ICDM'25!
 - **(10/20/25)** **One paper** is accepted by **AACL'25**. Congratulations to my student Zhenyu for their work on multi-agent LLM collaboration!
 - **(10/8/25)** I am honored to give an invited talk at **[William & Mary]()** on small, open-source, and multi-modal language model agents for science and society!
 - **(9/28/25)** We are thrilled to share that our pitch video on "MERA: (Meta)Genome-based Risk Assessment Web Server" has been deemed Awardable by the **DARPA ERIS Marketplace**!
