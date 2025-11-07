@@ -12,6 +12,9 @@ author_profile: true
 3. Xiaowen Zhang, Zhenyu Bi, **Xuan Wang**, Tiziana Di Matteo, and Rupert AC Croft. "Bridging Literature and the Universe Via A Multi-Agent Large Language Model System." arXiv preprint arXiv:2507.08958 (2025).
 4. Zhenyu Bi, Sajib Acharjee Dip, Daniel Hajialigol, Sindhura Kommu, Hanwen Liu, Meng Lu, and **Xuan Wang**. "AI for Biomedicine in the Era of Large Language Models." arXiv preprint arXiv:2403.15673 (2024).
 
+## 2026
+1. Zhenyu Bi, Meng Lu, Yang Li, Swastik Roy, Weijie Guan, Morteza Ziyadi, **Xuan Wang**. "OptAgent: Optimizing Multi-Agent LLM Interactions Through Verbal Reinforcement Learning for Enhanced Reasoning." in Proc. Findings of the International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics 2025 (**IJCNLP-AACL’25**), pages TBD, December 20-24, 2025, Mumbai, India <span style="color:red">(acceptance rate: TBD%)</span>
+
 ## 2025
 1. Zhenyu Bi, Meng Lu, Yang Li, Swastik Roy, Weijie Guan, Morteza Ziyadi, **Xuan Wang**. "OptAgent: Optimizing Multi-Agent LLM Interactions Through Verbal Reinforcement Learning for Enhanced Reasoning." in Proc. Findings of the International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics 2025 (**IJCNLP-AACL’25**), pages TBD, December 20-24, 2025, Mumbai, India <span style="color:red">(acceptance rate: TBD%)</span>
 2. Gaurav Srivastava, Shuxiang Cao, **Xuan Wang**, “ThinkSLM: Towards Reasoning in Small Language Models”, in Proc. 2025 Conf. of Empirical Methods in Natural Language Processing (**EMNLP’25**), pages TBD, November 5-9, 2025, Suzhou, China <span style="color:red">(acceptance rate: TBD%)</span>
