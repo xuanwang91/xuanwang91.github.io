@@ -30,7 +30,7 @@ My primary research interests are Natural Language Processing, Data Mining, AI f
 - **(11/7/25)** **One paper** is accepted by **AAAI'26**. Congratulations to my student Zhenyu for their work on small language models as a judge for reasoning evaluation!
 - **(10/31/25)** I am honored to give an invited talk at **[UMass Lowell CS Colloquia](https://www.uml.edu/sciences/computer-science/news/colloquia.aspx)** on small, open-source, and multi-modal language model agents for science and society!
 - **(10/29/25)** I am honored to receive the **ICDM Young Female Scholar Award in Data Science** at ICDM'25!
-- **(10/20/25)** **One paper** is accepted by **AACL'25**. Congratulations to my student Zhenyu for their work on multi-agent LLM collaboration!
+- **(10/20/25)** **One research paper and one demo paper** are accepted by **AACL'25**. Congratulations to my student Zhenyu for their work on multi-agent LLM collaboration!
 - **(10/8/25)** I am honored to give an invited talk at **[William & Mary]()** on small, open-source, and multi-modal language model agents for science and society!
 - **(9/28/25)** We are thrilled to share that our pitch video on "MERA: (Meta)Genome-based Risk Assessment Web Server" has been deemed Awardable by the **DARPA ERIS Marketplace**!
 - **(9/15/25)** We are excited to present our **tutorial** of "[AI-Driven Multimodal Frameworks for Healthcare Decision-Making](https://people.cs.vt.edu/jiamingcui/icdm25/index.html)" at **ICDM'25**. Looking forward to seeing everyone in DC!
