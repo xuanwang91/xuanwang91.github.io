@@ -34,6 +34,7 @@ redirect_from:
 ## Journal Reviewer
 
 - **Nature Methods**
+- **Nature Communications**
 - **Cell Genomics**
 - Bioinformatics
 - Journal of the American Medical Informatics Association (JAMIA)
