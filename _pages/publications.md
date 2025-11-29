@@ -7,9 +7,10 @@ author_profile: true
 
 {% include base_path %}
 ## Preprints
-1. Gaurav Srivastava, Aafiya Hussain, Zhenyu Bi, Swastik Roy, Priya Pitre, Meng Lu, Morteza Ziyadi, and **Xuan Wang**. "BeyondBench: Benchmark-Free Evaluation of Reasoning in Language Models." arXiv preprint arXiv:2509.24210 (2025).
-2. Gaurav Srivastava, Aafiya Hussain, Sriram Srinivasan, and **Xuan Wang**. "LLMThinkBench: Towards Basic Math Reasoning and Overthinking in Large Language Models." arXiv preprint arXiv:2507.04023 (2025).
-3. Zhenyu Bi, Sajib Acharjee Dip, Daniel Hajialigol, Sindhura Kommu, Hanwen Liu, Meng Lu, and **Xuan Wang**. "AI for Biomedicine in the Era of Large Language Models." arXiv preprint arXiv:2403.15673 (2024).
+1. Meng Lu, Ran Xu, Yi Fang, Wenxuan Zhang, Yue Yu, Gaurav Srivastava, Yuchen Zhuang, Mohamed Elhoseiny, Charles Fleming, Carl Yang, Zhengzhong Tu, Yang Xie, Guanghua Xiao, Hanrui Wang, Di Jin, Wenqi Shi, **Xuan Wang**. "Scaling Agentic Reinforcement Learning for Tool-Integrated Reasoning in VLMs.” arXiv preprint arXiv:2511.19773 (2025).
+2. Gaurav Srivastava, Aafiya Hussain, Zhenyu Bi, Swastik Roy, Priya Pitre, Meng Lu, Morteza Ziyadi, and **Xuan Wang**. "BeyondBench: Benchmark-Free Evaluation of Reasoning in Language Models." arXiv preprint arXiv:2509.24210 (2025).
+3. Gaurav Srivastava, Aafiya Hussain, Sriram Srinivasan, and **Xuan Wang**. "LLMThinkBench: Towards Basic Math Reasoning and Overthinking in Large Language Models." arXiv preprint arXiv:2507.04023 (2025).
+4. Zhenyu Bi, Sajib Acharjee Dip, Daniel Hajialigol, Sindhura Kommu, Hanwen Liu, Meng Lu, and **Xuan Wang**. "AI for Biomedicine in the Era of Large Language Models." arXiv preprint arXiv:2403.15673 (2024).
 
 ## 2026
 1. Zhenyu Bi, Gaurav Srivastava, Yang Li, Swastik Roy, Meng Lu, Morteza Ziyadi, **Xuan Wang**. "JudgeBoard: Benchmarking and Enhancing Small Language Models for Reasoning Evaluation." in Proc. The 40th Annual AAAI Conference on Artificial Intelligence (**AAAI’26**), pages TBD, January 20-27, 2026, Singapore <span style="color:red">(acceptance rate: 17.6%)</span>
