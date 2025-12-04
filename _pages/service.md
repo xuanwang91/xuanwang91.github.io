@@ -21,7 +21,7 @@ redirect_from:
 ## Program Committee
 
 - **ARR**: **Senior Area Chair** (2025-2026), **Area Chair** (2024-2025)
-- **ACL**: **Senior Area Chair** (2026), Reviewer (2022-2024)
+- **ACL**: **Senior Area Chair** (2026)
 - **EMNLP**: **Senior Area Chair** (2025), **Area Chair** (2023)
 - NAACL: Reviewer (2022-2024)
 - **NeurIPS**: **Area Chair** (2025)
