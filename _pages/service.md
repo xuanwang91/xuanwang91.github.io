@@ -20,11 +20,11 @@ redirect_from:
 
 ## Program Committee
 
-- ARR: **Senior Area Chair** (2025), **Area Chair** (2024-2025)
-- ACL: Reviewer (2022-2024)
-- EMNLP: **Senior Area Chair** (2025), **Area Chair** (2023)
+- **ARR**: **Senior Area Chair** (2025-2026), **Area Chair** (2024-2025)
+- **ACL**: **Senior Area Chair** (2026), Reviewer (2022-2024)
+- **EMNLP**: **Senior Area Chair** (2025), **Area Chair** (2023)
 - NAACL: Reviewer (2022-2024)
-- NeurIPS: **Area Chair** (2025)
+- **NeurIPS**: **Area Chair** (2025)
 - ICLR: Reviewer (2025)
 - ICML-AI4Science: **Area Chair** (2024)
 - ISMB: Reviewer (2023-2025)
