@@ -35,6 +35,7 @@ redirect_from:
 
 - **Nature Methods**
 - **Nature Communications**
+- **Cell**
 - **Cell Genomics**
 - Bioinformatics
 - Journal of the American Medical Informatics Association (JAMIA)
