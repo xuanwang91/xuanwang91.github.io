@@ -14,7 +14,9 @@ author_profile: true
 5. Zhenyu Bi, Sajib Acharjee Dip, Daniel Hajialigol, Sindhura Kommu, Hanwen Liu, Meng Lu, and **Xuan Wang**. "AI for Biomedicine in the Era of Large Language Models." arXiv preprint arXiv:2403.15673 (2024).
 
 ## 2026
-1. Zhenyu Bi, Gaurav Srivastava, Yang Li, Swastik Roy, Meng Lu, Morteza Ziyadi, **Xuan Wang**. "JudgeBoard: Benchmarking and Enhancing Small Language Models for Reasoning Evaluation." in Proc. The 40th Annual AAAI Conference on Artificial Intelligence (**AAAI’26**), pages TBD, January 20-27, 2026, Singapore <span style="color:red">(acceptance rate: 17.6%)</span>
+1. **Xuan Wang**, Shuxiang Cao, Yuchen Zhuang, Wenqi Shi, “Towards Effective and Efficient Multi-Agent Language Model Systems: Foundations, Prospects, and Applications”, in Proc. of the 64th Annual Meeting of the Association for Computational Linguistics (**ACL’26**) (Conference
+Tutorial), pages TBD, July 2-7, 2026, San Diego, California
+2. Zhenyu Bi, Gaurav Srivastava, Yang Li, Swastik Roy, Meng Lu, Morteza Ziyadi, **Xuan Wang**. "JudgeBoard: Benchmarking and Enhancing Small Language Models for Reasoning Evaluation." in Proc. The 40th Annual AAAI Conference on Artificial Intelligence (**AAAI’26**), pages TBD, January 20-27, 2026, Singapore <span style="color:red">(acceptance rate: 17.6%)</span>
 
 ## 2025
 1. Xiaowen Zhang, Zhenyu Bi, **Xuan Wang**, Tiziana Di Matteo, and Rupert AC Croft. "Bridging Literature and the Universe Via A Multi-Agent Large Language Model System." in Proc. the International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics 2025 (**IJCNLP-AACL’25**), (System Demonstration), pages TBD, December 20-24, 2025, Mumbai, India
