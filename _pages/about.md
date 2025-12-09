@@ -33,22 +33,22 @@ My primary research interests are Natural Language Processing, Data Mining, AI f
 - **(10/29/25)** I am honored to receive the **ICDM Young Female Scholar Award in Data Science** at ICDM'25!
 - **(10/20/25)** **One paper and one demo** are accepted by **AACL'25**. Congratulations to my student Zhenyu for their work on multi-agent LLM collaboration!
 - **(10/8/25)** I am honored to give an invited talk at **[William & Mary]()** on small, open-source, and multi-modal language model agents for science and society!
-- **(9/28/25)** We are thrilled to share that our pitch video on "MERA: (Meta)Genome-based Risk Assessment Web Server" has been deemed Awardable by the **DARPA ERIS Marketplace**!
 - **(9/15/25)** We are excited to present our **tutorial** of "[AI-Driven Multimodal Frameworks for Healthcare Decision-Making](https://people.cs.vt.edu/jiamingcui/icdm25/index.html)" at **ICDM'25**. Looking forward to seeing everyone in DC!
 - **(9/10/25)** I am honored to give an invited talk at **[UIUC I-School CIRSS Seminar](https://ischool.illinois.edu/news-events/events/2025/09/10/ai-disruption-speaker-series-xuan-wang)** on small, open-source, and multi-modal language model agents for science and society!
 - **(8/20/25)** **Four papers** are accepted by **EMNLP'25**. Congratulations to my students, Gaurav, Jun, and Manar, for their work on LLM agents, multi-modal learning, and trustworthy LLMs!
-- **(8/4/25)** We are thrilled to share that our pitch video on "Towards Intelligent and Resilient U.S. Pharmaceutical Supply Chains via Multi-Agent AI" has been deemed Awardable by the **DARPA ERIS Marketplace**!
-- **(7/28/25)** We are grateful to receive the **Google Cloud Research Credits** to support our research on multi-agent language model systems.
-- **(7/14/25)** We are grateful to receive the **NSF CAREER Award** to support our research on scientific information extraction from massive text data. ([VT News](https://news.vt.edu/articles/2025/08/eng-cs-career-award-makes-sense-of-scientific-discovery.html?utm_source=cmpgn_news&utm_medium=email&utm_campaign=vtUnirelNewsDailyCMP_sept225-fs))
-- **(6/30/25)** We are grateful to receive the **NVIDIA Academic Grant** to support our research on small language model agent systems.
-- **(6/30/25)** We are excited to present at [Agentic AI Summit](https://rdi.berkeley.edu/events/agentic-ai-summit) in Berkeley this August, discussing effective and efficient multi-agent language model systems.
-- **(6/3/25)** We are excited to organize a BoF session on [Bridging Human Study and LLM Agents for Social Simulation](https://xuanwang91.github.io/2025-ACL-BOF/) at **ACL'25**. Looking forward to seeing everyone at ACL'25!
-- **(5/16/25)** I am honored to share my thoughts in an interview with the **VT CoE AI Magazine** on the future of AI in healthcare. ([VT CoE AI Magazine](https://eng.vt.edu/magazine/stories/spring-2025/the-future-of-ai.html))
-- **(5/15/24)** **Two papers** are accepted by **ACL'25**. Congratulations to my student Meng for his work on multi-agent LLM for zero-shot IE, and to Priya for her work on improving consensus in multi-agent LLM systems!
+
 
 <details>
 <summary><b>Load More</b></summary>
 <ul style="PADDING-LEFT: 12px">
+  <li><b>(8/4/25)</b> We are thrilled to share that our pitch video on "<b>Towards Intelligent and Resilient U.S. Pharmaceutical Supply Chains via Multi-Agent AI</b>" has been deemed Awardable by the <b>DARPA ERIS Marketplace</b>!</li>
+<li><b>(7/28/25)</b> We are grateful to receive the <b>Google Cloud Research Credits</b> to support our research on multi-agent language model systems.</li>
+<li><b>(7/14/25)</b> We are grateful to receive the <b>NSF CAREER Award</b> to support our research on scientific information extraction from massive text data. (<a href="https://news.vt.edu/articles/2025/08/eng-cs-career-award-makes-sense-of-scientific-discovery.html?utm_source=cmpgn_news&utm_medium=email&utm_campaign=vtUnirelNewsDailyCMP_sept225-fs">VT News</a>)</li>
+<li><b>(6/30/25)</b> We are grateful to receive the <b>NVIDIA Academic Grant</b> to support our research on small language model agent systems.</li>
+<li><b>(6/30/25)</b> We are excited to present at <a href="https://rdi.berkeley.edu/events/agentic-ai-summit"><b>Agentic AI Summit</b></a> in Berkeley this August, discussing effective and efficient multi-agent language model systems.</li>
+<li><b>(6/3/25)</b> We are excited to organize a BoF session on <a href="https://xuanwang91.github.io/2025-ACL-BOF/"><b>Bridging Human Study and LLM Agents for Social Simulation</b></a> at <b>ACL'25</b>. Looking forward to seeing everyone at ACL'25!</li>
+<li><b>(5/16/25)</b> I am honored to share my thoughts in an interview with the <b>VT CoE AI Magazine</b> on the future of AI in healthcare. (<a href="https://eng.vt.edu/magazine/stories/spring-2025/the-future-of-ai.html">VT CoE AI Magazine</a>)</li>
+<li><b>(5/15/24)</b> <b>Two papers</b> are accepted by <b>ACL'25</b>. Congratulations to my student Meng for his work on multi-agent LLM for zero-shot IE, and to Priya for her work on improving consensus in multi-agent LLM systems!</li>
   <li><b>(4/25/25)</b> I am honored to give an invited talk at <b>I-School UIUC</b> on <b>5/9/25</b>. We will discuss effective and efficient multi-agent language model systems. Thanks to Dr. Yun Huang for the invitation!</li>
   <li><b>(4/25/25)</b> I am honored to give a keynote talk at the <a href="https://ds2mh.github.io/dssmh25/">Data Science for Smart Manufacturing and Healthcare (<b>DS2-MH</b>) Workshop</a> at <b>SDM'25</b>. Thanks to the workshop organizers for the invitation!</li>
   <li><b>(4/12/25)</b> We are excited to organize the <a href="https://xuanwang91.github.io/2025-cci-workshop/">2025 CCI Workshop on AI for Science with Foundation Models</a>. Looking forward to seeing everyone at the workshop!</li>
