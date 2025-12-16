@@ -27,6 +27,7 @@ My primary research interests are Natural Language Processing, Data Mining, AI f
   - Text data, multi-omics data, brain signal data, ...
 
 ## News and Highlights
+- **(12/16/25)** We are grateful to receive a new grant from the **Commonwealth Cyber Initiative (CCI)** to support our research on A Secure Low-Code Platform for Scalable Multi-Agent AI Deployment.
 - **(12/9/25)** We are excited to present our **tutorial** of "[Towards Effective and Efficient Multi-Agent Language Model Systems: Foundations, Prospects, and Applications]()" at **ACL'26**. Looking forward to seeing everyone in San Diego!
 - **(11/7/25)** **One paper** is accepted by **AAAI'26**. Congratulations to my student Zhenyu for their work on small language models as a judge for reasoning evaluation!
 - **(10/31/25)** I am honored to give an invited talk at **[UMass Lowell CS Colloquia](https://www.uml.edu/sciences/computer-science/news/colloquia.aspx)** on small, open-source, and multi-modal language model agents for science and society!
