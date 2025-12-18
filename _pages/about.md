@@ -12,7 +12,7 @@ I am an Assistant Professor in the [Department of Computer Science](https://cs.v
 
 
 ## Research Interests
-My primary research interests are Natural Language Processing, Data Mining, AI for Sciences, and AI for Healthcare. Some current research directions include:
+My research focuses on _**Small, Open-Source, and Multimodal Language Model Agents for Science and Society**_, with applications in robotics, biomedicine, and social studies. Below are some research directions:
 
 - **Natural Language Understanding with Limited Supervision**:
   - Information extraction, knowledge graph construction, text classification, ...
