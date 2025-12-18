@@ -27,6 +27,7 @@ My primary research interests are Natural Language Processing, Data Mining, AI f
   - Text data, multi-omics data, brain signal data, ...
 
 ## News and Highlights
+- **(12/18/25)** We are grateful to receive a new **Cisco Research Award** to support our research on VideoGym: Verifiable Video Understanding with Tool-Augmented Reasoning and Online Reinforcement Learning.
 - **(12/16/25)** We are grateful to receive a new grant from the **Commonwealth Cyber Initiative (CCI)** to support our research on A Secure Low-Code Platform for Scalable Multi-Agent AI Deployment.
 - **(12/9/25)** We are excited to present our **tutorial** of "[Towards Effective and Efficient Multi-Agent Language Model Systems: Foundations, Prospects, and Applications]()" at **ACL'26**. Looking forward to seeing everyone in San Diego!
 - **(11/7/25)** **One paper** is accepted by **AAAI'26**. Congratulations to my student Zhenyu for their work on small language models as a judge for reasoning evaluation!
@@ -56,7 +57,7 @@ My primary research interests are Natural Language Processing, Data Mining, AI f
   <li><b>(4/12/25)</b> We are excited to organize the <a href="https://xuanwang91.github.io/2025-ICDM-RAiM/">RAiM 2025: The First International Workshop on Resilient Artificial Intelligence for Manufacturing</a> at <b>ICDM'25</b>. Looking forward to seeing everyone in DC this year!</li>
   <li><b>(4/12/25)</b> I am excited to serve as the co-chair for the <a href="https://2025-icdm-ughs.github.io/">Undergraduate and High School Symposium</a> at <b>ICDM'25</b>. Looking forward to seeing more bright young AI scientists in DC this year!</li>
   <li><b>(4/7/25)</b> <b>One paper</b> is accepted by <b>ISMB'25</b>. Congratulations to my student Sindhura for her work on the joint single-cell foundation model and graph-based learning!</li>
-  <li><b>(12/19/24)</b> We are grateful to receive a new grant from <b>Cisco Research</b> to support our research on complex reasoning and planing with large language models.</li>
+  <li><b>(12/19/24)</b> We are grateful to receive a new grant from <b>Cisco Research Award</b> to support our research on complex reasoning and planing with large language models.</li>
   <li><b>(10/29/24)</b> We are excited to present our <b>tutorial</b> of <a href="https://xuanwang91.github.io/2025-02-25-aaai25-tutorial">"AI for Science in the Era of Large Language Models"</a> at <b>AAAI'25</b>. Looking forward to seeing everyone in Philadelphia!</li>
   <li><b>(10/26/24)</b> <b>One paper</b> is accepted by <b>IEEE-BigData'24</b>. Congratulations to my student Hanwen for his work on EEG-to-text translation with multi-view Transformer!</li>
   <li><b>(10/2/24)</b> We are grateful to receive yet another award from <b>NSF NAIRR Pilot</b> to support our research on network-regulated large language models for multi-omics data analysis.</li>
