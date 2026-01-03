@@ -22,6 +22,9 @@ author_profile: true
 
 - [Gaurav Srivastava](https://ctrl-gaurav.github.io/#) (2024 Fall)
 
+## Undergraduate Interns
+
+- Haoran Xu (Tsinghua University, ECE Department, 2025 Fall)
 
 ## Alumni
 
