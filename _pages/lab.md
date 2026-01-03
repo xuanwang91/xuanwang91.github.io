@@ -16,7 +16,6 @@ author_profile: true
 - [Manar Aljohani](https://manarvt.github.io/) (2024 Fall)
 - [Meng Lu](https://www.linkedin.com/in/lu-luca-499092166/) (2023 Fall)
 - [Zhenyu Bi](https://www.linkedin.com/in/zhenyu-bi-817814178/) (2023 Fall)
-- [Daniel Hajialigol](https://www.linkedin.com/in/danielhajialigol/) (2023 Spring)
 
 
 ## Master Students
