@@ -7,12 +7,13 @@ author_profile: true
 
 {% include base_path %}
 ## Preprints
-1. Chris Latimer, Nicoló Boschi, Andrew Neeser, Chris Bartholomew, Gaurav Srivastava, **Xuan Wang**, and Naren Ramakrishnan. "Hindsight is 20/20: Building Agent Memory that Retains, Recalls, and Reflects." arXiv preprint arXiv:2512.12818 (2025).
-2. Yi Fang, Haoran Xu, Jiaxin Han, Sirui Ding, Yizhi Wang, Yue Wang, and **Xuan Wang**. "BioArc: Discovering Optimal Neural Architectures for Biological Foundation Models." arXiv preprint arXiv:2512.00283 (2025).
-3. Meng Lu, Ran Xu, Yi Fang, Wenxuan Zhang, Yue Yu, Gaurav Srivastava, Yuchen Zhuang, Mohamed Elhoseiny, Charles Fleming, Carl Yang, Zhengzhong Tu, Yang Xie, Guanghua Xiao, Hanrui Wang, Di Jin, Wenqi Shi, **Xuan Wang**. "Scaling Agentic Reinforcement Learning for Tool-Integrated Reasoning in VLMs.” arXiv preprint arXiv:2511.19773 (2025).
-4. Gaurav Srivastava, Aafiya Hussain, Zhenyu Bi, Swastik Roy, Priya Pitre, Meng Lu, Morteza Ziyadi, and **Xuan Wang**. "BeyondBench: Benchmark-Free Evaluation of Reasoning in Language Models." arXiv preprint arXiv:2509.24210 (2025).
-5. Gaurav Srivastava, Aafiya Hussain, Sriram Srinivasan, and **Xuan Wang**. "LLMThinkBench: Towards Basic Math Reasoning and Overthinking in Large Language Models." arXiv preprint arXiv:2507.04023 (2025).
-6. Zhenyu Bi, Sajib Acharjee Dip, Daniel Hajialigol, Sindhura Kommu, Hanwen Liu, Meng Lu, and **Xuan Wang**. "AI for Biomedicine in the Era of Large Language Models." arXiv preprint arXiv:2403.15673 (2024).
+1. Meng Lu, Yuxing Lu, Yuchen Zhuang, Megan Mullins, Yang Xie, Guanghua Xiao, Charles Fleming, Wenqi Shi, and **Xuan Wang**. "MEDVISTAGYM: A Scalable Training Environment for Thinking with Medical Images via Tool-Integrated Reinforcement Learning." arXiv preprint arXiv:2601.07107 (2026).
+2. Chris Latimer, Nicoló Boschi, Andrew Neeser, Chris Bartholomew, Gaurav Srivastava, **Xuan Wang**, and Naren Ramakrishnan. "Hindsight is 20/20: Building Agent Memory that Retains, Recalls, and Reflects." arXiv preprint arXiv:2512.12818 (2025).
+3. Yi Fang, Haoran Xu, Jiaxin Han, Sirui Ding, Yizhi Wang, Yue Wang, and **Xuan Wang**. "BioArc: Discovering Optimal Neural Architectures for Biological Foundation Models." arXiv preprint arXiv:2512.00283 (2025).
+4. Meng Lu, Ran Xu, Yi Fang, Wenxuan Zhang, Yue Yu, Gaurav Srivastava, Yuchen Zhuang, Mohamed Elhoseiny, Charles Fleming, Carl Yang, Zhengzhong Tu, Yang Xie, Guanghua Xiao, Hanrui Wang, Di Jin, Wenqi Shi, **Xuan Wang**. "Scaling Agentic Reinforcement Learning for Tool-Integrated Reasoning in VLMs.” arXiv preprint arXiv:2511.19773 (2025).
+5. Gaurav Srivastava, Aafiya Hussain, Zhenyu Bi, Swastik Roy, Priya Pitre, Meng Lu, Morteza Ziyadi, and **Xuan Wang**. "BeyondBench: Benchmark-Free Evaluation of Reasoning in Language Models." arXiv preprint arXiv:2509.24210 (2025).
+6. Gaurav Srivastava, Aafiya Hussain, Sriram Srinivasan, and **Xuan Wang**. "LLMThinkBench: Towards Basic Math Reasoning and Overthinking in Large Language Models." arXiv preprint arXiv:2507.04023 (2025).
+7. Zhenyu Bi, Sajib Acharjee Dip, Daniel Hajialigol, Sindhura Kommu, Hanwen Liu, Meng Lu, and **Xuan Wang**. "AI for Biomedicine in the Era of Large Language Models." arXiv preprint arXiv:2403.15673 (2024).
 
 ## 2026
 1. **Xuan Wang**, Shuxiang Cao, Yuchen Zhuang, Wenqi Shi, “Towards Effective and Efficient Multi-Agent Language Model Systems: Foundations, Prospects, and Applications”, in Proc. of the 64th Annual Meeting of the Association for Computational Linguistics (**ACL’26**) (Conference
