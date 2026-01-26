@@ -11,7 +11,6 @@ author_profile: true
 2. Chris Latimer, Nicoló Boschi, Andrew Neeser, Chris Bartholomew, Gaurav Srivastava, **Xuan Wang**, and Naren Ramakrishnan. "Hindsight is 20/20: Building Agent Memory that Retains, Recalls, and Reflects." arXiv preprint arXiv:2512.12818 (2025).
 3. Yi Fang, Haoran Xu, Jiaxin Han, Sirui Ding, Yizhi Wang, Yue Wang, and **Xuan Wang**. "BioArc: Discovering Optimal Neural Architectures for Biological Foundation Models." arXiv preprint arXiv:2512.00283 (2025).
 4. Meng Lu, Ran Xu, Yi Fang, Wenxuan Zhang, Yue Yu, Gaurav Srivastava, Yuchen Zhuang, Mohamed Elhoseiny, Charles Fleming, Carl Yang, Zhengzhong Tu, Yang Xie, Guanghua Xiao, Hanrui Wang, Di Jin, Wenqi Shi, **Xuan Wang**. "Scaling Agentic Reinforcement Learning for Tool-Integrated Reasoning in VLMs.” arXiv preprint arXiv:2511.19773 (2025).
-5. Gaurav Srivastava, Aafiya Hussain, Zhenyu Bi, Swastik Roy, Priya Pitre, Meng Lu, Morteza Ziyadi, and **Xuan Wang**. "BeyondBench: Benchmark-Free Evaluation of Reasoning in Language Models." arXiv preprint arXiv:2509.24210 (2025).
 6. Gaurav Srivastava, Aafiya Hussain, Sriram Srinivasan, and **Xuan Wang**. "LLMThinkBench: Towards Basic Math Reasoning and Overthinking in Large Language Models." arXiv preprint arXiv:2507.04023 (2025).
 7. Zhenyu Bi, Sajib Acharjee Dip, Daniel Hajialigol, Sindhura Kommu, Hanwen Liu, Meng Lu, and **Xuan Wang**. "AI for Biomedicine in the Era of Large Language Models." arXiv preprint arXiv:2403.15673 (2024).
 
