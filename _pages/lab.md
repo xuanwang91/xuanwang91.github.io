@@ -24,7 +24,7 @@ author_profile: true
 
 ## Undergraduate Interns
 
-- [Haoran Xu]() (Tsinghua University, ECE Department, 2025 Fall)
+- [Haoran Xu]() (Tsinghua ECE, 2025 Fall) -> PhD in UMich ECE
 
 ## Alumni
 
