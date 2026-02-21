@@ -27,6 +27,7 @@ My research focuses on _**Small, Open-Source, and Multimodal Language Model Agen
   - Text data, multi-omics data, brain signal data, ...
 
 ## News and Highlights
+- **(2/21/26)** **One paper** is accepted by **CVPR'26**. Congratulations to my student Meng for their work on tool-augmented reasoning in VLM agents!
 - **(1/30/26)** We are excited to present our **tutorial** of "[Large Language Models and Agentic AI for Biomedical Informatics]()" at **ISMB'26**. Looking forward to seeing everyone in DC!
 - **(1/26/26)** **One paper** is accepted by **ICLR'26**. Congratulations to my student Gaurav for their work on benchmark-free evaluation of language model reasoning!
 - **(12/18/25)** We are grateful to receive a new **Cisco Research Award** to support our research on VideoGym: Verifiable Video Understanding with Tool-Augmented Reasoning and Online Reinforcement Learning.
