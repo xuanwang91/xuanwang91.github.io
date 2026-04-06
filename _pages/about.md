@@ -27,6 +27,7 @@ My research focuses on _**Small, Open-Source, and Multimodal Language Model Agen
   - Text data, multi-omics data, brain signal data, ...
 
 ## News and Highlights
+- **(4/6/26)** **Two papers** are accepted by **ACL'26**. Congratulations to my student Gaurav for their work on LLM overthinking!
 - **(4/6/26)** I am honored to receive the **VT COE Outstanding New Assistant Professor Award**!
 - **(2/21/26)** **One paper** is accepted by **CVPR'26**. Congratulations to my student Meng for their work on tool-augmented reasoning in VLM agents!
 - **(1/30/26)** We are excited to present our **tutorial** of "[Large Language Models and Agentic AI for Biomedical Informatics]()" at **ISMB'26**. Looking forward to seeing everyone in DC!
