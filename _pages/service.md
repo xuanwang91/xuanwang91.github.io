@@ -15,6 +15,7 @@ redirect_from:
 - Program Chair, [RAiM 2025: The First International Workshop on Resilient Artificial Intelligence for Manufacturing](https://xuanwang91.github.io/2025-ICDM-RAiM/), (**ICDM 2025**)
 - Co-Chair, [Undergraduate and High School Symposium](https://2025-icdm-ughs.github.io/), (**ICDM 2025**)
 - Co-Chair, [Undergraduate and High School Symposium](https://studentpapers-bigdata2024.netlify.app/), (**BigData 2024**)
+
 <!---
 - Program Chair, [CCI Workshop on AI for Science with Foundation Models](https://xuanwang91.github.io/2025-cci-workshop/) (2025)
 - Program Chair, [South NLP Symposium](https://southnlp.github.io/southnlp2024/) (2024)
