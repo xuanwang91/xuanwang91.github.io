@@ -38,7 +38,7 @@ You can find my schedule [here](https://outlook.office365.com/owa/calendar/7a9db
 
 ## Prospective Students
 
-My lab at Virginia Tech has openings for **PhD/MS students, Postdoc researchers**, and research internship opportunities for **undergraduate and master’s students**.
+My lab at Virginia Tech has openings for **PhD/MS students, Postdoc researchers**, and research internship opportunities for **undergraduate students**.
 
 We are interested in students with strong backgrounds in <span style="color:blue">machine learning, deep learning, large language models, and systems for AI</span>. Prior experience in areas such as <span style="color:blue">efficient training/inference, multimodal learning, or agent-based systems</span> is a plus.
 
