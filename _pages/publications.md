@@ -15,15 +15,15 @@ My research focuses on **efficient and reliable foundation model systems**, with
 - [**EMNLP 2025**] ThinkSLM: Towards Reasoning in Small Language Models. Gaurav Srivastava, Shuxiang Cao, and **Xuan Wang**.
 - [**EMNLP 2025**] DEBATE, TRAIN, EVOLVE: Self-Evolution of Language Model Reasoning. Gaurav Srivastava, Zhenyu Bi, Meng Lu, and **Xuan Wang**.
 
+## Multimodal Foundation Models
+- [*arXiv 2025*] BioArc: Discovering Optimal Neural Architectures for Biological Foundation Models. Yi Fang, Haoran Xu, Jiaxin Han, Sirui Ding, Yizhi Wang, Yue Wang, and **Xuan Wang**.
+- [**CVPR 2026**] Scaling Agentic Reinforcement Learning for Tool-Integrated Reasoning in VLMs. Meng Lu, Ran Xu, Yi Fang, Wenxuan Zhang, Yue Yu, Gaurav Srivastava, Yuchen Zhuang, Mohamed Elhoseiny, Charles Fleming, Carl Yang, Zhengzhong Tu, Yang Xie, Guanghua Xiao, Hanrui Wang, Di Jin, Wenqi Shi, and **Xuan Wang**.
+- [**EMNLP 2025**] BTW: A Non-Parametric Variance Stabilization Framework for Multimodal Model Integration. Jun Hou, Le Wang, and **Xuan Wang**.
+
 ## Agentic and Multi-Agent Systems
 - [**ACL 2025**] CrossAgentIE: Cross-Type and Cross-Task Multi-Agent LLM Collaboration for Zero-Shot Information Extraction. Meng Lu, Yuzhang Xie, Zhenyu Bi, Shuxiang Cao, and **Xuan Wang**.
 - [**ACL 2025**] ConsensAgent: Towards Efficient and Effective Consensus in Multi-Agent LLM Interactions Through Sycophancy Mitigation. Priya Pitre, Naren Ramakrishnan, and **Xuan Wang**.
 - [**EMNLP 2024**] TriageAgent: Towards Better Multi-Agents Collaborations for Large Language Model-Based Clinical Triage. Meng Lu, Ho Brandon, Ren Dennis, and **Xuan Wang**.
-
-## Multimodal Learning in Real-World Environments
-- [*arXiv 2025*] BioArc: Discovering Optimal Neural Architectures for Biological Foundation Models. Yi Fang, Haoran Xu, Jiaxin Han, Sirui Ding, Yizhi Wang, Yue Wang, and **Xuan Wang**.
-- [**CVPR 2026**] Scaling Agentic Reinforcement Learning for Tool-Integrated Reasoning in VLMs. Meng Lu, Ran Xu, Yi Fang, Wenxuan Zhang, Yue Yu, Gaurav Srivastava, Yuchen Zhuang, Mohamed Elhoseiny, Charles Fleming, Carl Yang, Zhengzhong Tu, Yang Xie, Guanghua Xiao, Hanrui Wang, Di Jin, Wenqi Shi, and **Xuan Wang**.
-- [**EMNLP 2025**] BTW: A Non-Parametric Variance Stabilization Framework for Multimodal Model Integration. Jun Hou, Le Wang, and **Xuan Wang**.
 
 ## Reliable and Trustworthy AI Systems
 - [**EMNLP 2025**] A Comprehensive Survey on the Trustworthiness of Large Language Models in Healthcare. Manar Aljohani, Jun Hou, Sindhura Kommu, and **Xuan Wang**.
