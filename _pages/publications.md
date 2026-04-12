@@ -9,7 +9,7 @@ author_profile: true
 
 My research focuses on **efficient and reliable foundation model systems**, with an emphasis on post-training, inference, and agentic decision-making in multimodal and real-world environments. For a full publication list, please see my [CV](https://drive.google.com/file/d/1bg0LmchHziBMgvhKw2NGE-p_Bg4ufyQH/view?usp=sharing) and  [Google Scholar](https://scholar.google.com/citations?user=_IVJi6UAAAAJ&hl=en).
 
-## Efficient Foundation Model Systems
+## Efficient Foundation Models
 - [*arXiv 2026*] EffGen: Enabling Small Language Models as Capable Autonomous Agents. Gaurav Srivastava, Aafiya Hussain, Chi Wang, Yingyan Celine Lin, and **Xuan Wang**.
 - [**ICLR 2026**] BeyondBench: Benchmark-Free Evaluation of Reasoning in Language Models. Gaurav Srivastava, Aafiya Hussain, Zhenyu Bi, Swastik Roy, Priya Pitre, Meng Lu, Morteza Ziyadi, and **Xuan Wang**.
 - [**EMNLP 2025**] ThinkSLM: Towards Reasoning in Small Language Models. Gaurav Srivastava, Shuxiang Cao, and **Xuan Wang**.
