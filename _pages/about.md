@@ -14,7 +14,7 @@ My research focuses on **efficient and reliable foundation model systems**, with
 
 I received my Ph.D. in [Computer Science](http://www.cs.uiuc.edu/) from the University of Illinois at Urbana-Champaign (UIUC) under the supervision of Dr. [Jiawei Han](http://hanj.cs.illinois.edu/). During my Ph.D. study, I also worked at IBM Research as a summer intern. I received my M.S. in [Statistics](https://stat.illinois.edu/) and my M.S. in [Biochemistry](https://mcb.illinois.edu/departments/biochemistry/) from UIUC. I received my B.S. in [Biological Science](https://life.tsinghua.edu.cn/) from Tsinghua University, China.
 
-Here is my full [CV](https://drive.google.com/file/d/1bg0LmchHziBMgvhKw2NGE-p_Bg4ufyQH/view?usp=sharing).
+Some of our representative work can be found on this [page](https://xuanwang91.github.io/publications/). All detailed can be found in my full [CV](https://drive.google.com/file/d/1bg0LmchHziBMgvhKw2NGE-p_Bg4ufyQH/view?usp=sharing).
 
 ## News and Highlights
 - **(4/6/26)** **Two papers** are accepted by **ACL'26**. Congratulations to my student Gaurav for their work on LLM overthinking!
