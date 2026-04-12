@@ -22,22 +22,18 @@ author_profile: true
 
 - [Gaurav Srivastava](https://ctrl-gaurav.github.io/#) (2024 Fall)
 
-## Undergraduate Interns
-
-- [Haoran Xu]() (Tsinghua ECE, 2025 Fall) -> PhD in UMich ECE
-
-## Alumni
-
-- [Priya Pitre](https://priyapitre.github.io/) (MS, 2025 Spring): Toward Deliberative AI: Multi-Agent LLMs for Real-World Reasoning. Next position: PhD Student at Virginia Tech
-- [Sindhura Kommu](https://sindhura-cs.github.io/) (MS, 2025 Fall): Toward Network-Guided Large-Scale Foundation Models on Single-Cell Transcriptomics. **Next position:** Senior Machine Learning Engineer at Walmart Labs
-- [Yueyan Gu](https://www.linkedin.com/in/yueyan-gu-291152226/) (MS, 2024 Fall): Toward Transformer-based Large Energy Models for Smart Energy Management. **Next position:** Applied Scientist at Amazon
-
 
 <!---
 ## Undergraduate Students
-
-- [Gautam Soni](https://www.linkedin.com/in/gsoni16/) (2023 Fall)
 --->
+
+
+## Alumni
+- [Priya Pitre](https://priyapitre.github.io/) (MS, 2025 Spring): Toward Deliberative AI: Multi-Agent LLMs for Real-World Reasoning. Next position: PhD Student at Virginia Tech
+- [Sindhura Kommu](https://sindhura-cs.github.io/) (MS, 2025 Fall): Toward Network-Guided Large-Scale Foundation Models on Single-Cell Transcriptomics. **Next position:** Senior Machine Learning Engineer at Walmart Labs
+- [Yueyan Gu](https://www.linkedin.com/in/yueyan-gu-291152226/) (MS, 2024 Fall): Toward Transformer-based Large Energy Models for Smart Energy Management. **Next position:** Applied Scientist at Amazon
+- [Haoran Xu]() (UG, Tsinghua ECE, 2025 Fall): Optimal Neural Architecture Search for Multi-Omics Data. **Next position:** PhD in UMich ECE
+
 
 ## Acknowledgment
 
