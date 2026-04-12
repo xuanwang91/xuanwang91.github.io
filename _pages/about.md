@@ -35,5 +35,5 @@ You can find my schedule [here](https://outlook.office365.com/owa/calendar/7a9db
 ---> 
 
 ## Prospective Students
-My lab at Virginia Tech has openings for PhD/MS students, Postdoc researchers, and research internship opportunities for undergraduate students.
+My lab at Virginia Tech has openings for **PhD/MS students, Postdoc researchers**, and research internship opportunities for **undergraduate students**. If you are interested in working with me, please check this [page]().
 
