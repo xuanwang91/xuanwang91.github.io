@@ -8,23 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the [Department of Computer Science](https://cs.vt.edu/) at Virginia Tech (VT). I am also a faculty member of the [Sanghani Center for Artificial Intelligence and Data Analytics](https://sanghani.cs.vt.edu/) at VT. I was a recipient of the **NSF CAREER Award 2025**, Nvidia Academic Grant 2025, Cisco Research Award 2025, NSF NAIRR Pilot Award 2024 - 2025, and NAACL Best Demo Paper Award 2021. I received my Ph.D. in [Computer Science](http://www.cs.uiuc.edu/) from the University of Illinois at Urbana-Champaign (UIUC) under the supervision of Dr. [Jiawei Han](http://hanj.cs.illinois.edu/). During my Ph.D. study, I also worked at IBM Research as a summer intern. I received my M.S. in [Statistics](https://stat.illinois.edu/) and my M.S. in [Biochemistry](https://mcb.illinois.edu/departments/biochemistry/) from UIUC. I received my B.S. in [Biological Science](https://life.tsinghua.edu.cn/) from Tsinghua University, China. Here is my full [CV](https://drive.google.com/file/d/1bg0LmchHziBMgvhKw2NGE-p_Bg4ufyQH/view?usp=sharing).
+I am an Assistant Professor in the [Department of Computer Science](https://cs.vt.edu/) at Virginia Tech (VT), and a faculty member of the [Sanghani Center for Artificial Intelligence and Data Analytics](https://sanghani.cs.vt.edu/). 
 
+My research focuses on **efficient and reliable foundation model systems**, with an emphasis on post-training, inference, and agentic decision-making. I am particularly interested in **multimodal and real-world settings**, including scientific and embodied settings, where models must operate under complex, interactive environments.
 
-## Research Interests
-My research focuses on _**Small, Open-Source, and Multimodal Language Model Agents for Science and Society**_, with applications in robotics, biomedicine, and social studies. Below are some research directions:
+My work has been recognized by the **NSF CAREER Award (2025)**, NVIDIA Academic Grant (2025), Cisco Research Award (2025), and the NAACL Best Demo Paper Award (2021).
 
-- **Natural Language Understanding with Limited Supervision**:
-  - Information extraction, knowledge graph construction, text classification, ...
-  - Weakly-supervised/few-shot/zero-shot learning
-- **Complex Reasoning and Planning with Language Model Agents**:
-  - Complex reasoning with large language models (multi-hop, long-context, ...)
-  - Multi-agent large language models for reasoning and planning
-  - Efficient small language models for reasoning and planning
-- **Multi-Modal Science Foundation Models (FMs)**:
-  - Systematic integration of multi-modal FMs
-  - Interpretability, explainability, and causal inference of science FMs
-  - Text data, multi-omics data, brain signal data, ...
+I received my Ph.D. in [Computer Science](http://www.cs.uiuc.edu/) from the University of Illinois at Urbana-Champaign (UIUC), advised by Dr. [Jiawei Han](http://hanj.cs.illinois.edu/). My background spans computer science, statistics, and biochemistry, with degrees from UIUC and [Tsinghua University](https://life.tsinghua.edu.cn/).
+
+Here is my full [CV](https://drive.google.com/file/d/1bg0LmchHziBMgvhKw2NGE-p_Bg4ufyQH/view?usp=sharing).
 
 ## News and Highlights
 - **(4/6/26)** **Two papers** are accepted by **ACL'26**. Congratulations to my student Gaurav for their work on LLM overthinking!
