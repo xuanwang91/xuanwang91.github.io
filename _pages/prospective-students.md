@@ -9,26 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-## Organizing Committee
+## Prospective Students
 
-- Program Chair, [BoF Session: Bridging Human Study and LLM Agents for Social Simulation](https://xuanwang91.github.io/2025-ACL-BOF/), (**ACL 2025**)
-- Program Chair, [CCI Workshop on AI for Science with Foundation Models](https://xuanwang91.github.io/2025-cci-workshop/) (2025)
-- Program Chair, [RAiM 2025: The First International Workshop on Resilient Artificial Intelligence for Manufacturing](https://xuanwang91.github.io/2025-ICDM-RAiM/), (**ICDM 2025**)
-- Co-Chair, [Undergraduate and High School Symposium](https://2025-icdm-ughs.github.io/), (**ICDM 2025**)
-- Co-Chair, [Undergraduate and High School Symposium](https://studentpapers-bigdata2024.netlify.app/), (**BigData 2024**)
-- Program Chair, [South NLP Symposium](https://southnlp.github.io/southnlp2024/) (2024)
+My lab at Virginia Tech has openings for **PhD/MS students, Postdoc researchers**, and research internship opportunities for **undergraduate students**.
 
-## Program Committee
+We are interested in students with strong backgrounds in <span style="color:blue">machine learning, deep learning, large language models, and systems for AI</span>. Prior experience in areas such as <span style="color:blue">efficient training/inference, multimodal learning, or agent-based systems</span> is a plus.
 
-- **ARR**: **Senior Area Chair** (2025-2026), **Area Chair** (2024-2025)
-- **ACL**: **Senior Area Chair** (2026)
-- **EMNLP**: **Senior Area Chair** (2025-2026), **Area Chair** (2023)
-- **NeurIPS**: **Area Chair** (2025-2026)
+Please **email me (with your CV)** if you are interested in working with me. Due to the high volume of emails, I may not be able to respond to every inquiry.
 
-## Journal Reviewer
-
-- **Nature Methods**
-- **Nature Communications**
-- **Cell**
-- **Cell Genomics**
-  
+- For **prospective PhD students** outside of VT, please include my name as one of your interested faculty members in your application so I can easily locate your materials during the review process.
+- For **current VT students**, the best way to learn more about our research is to attend my classes, visit office hours, or interact with my students in DDS 362 and 364.
+- For **prospective Postdoc researchers**, I encourage applications to the <a href="https://www.research.vt.edu/about/postdoctoral-associates/virginia-tech-presidential-postdoctoral-fellowships.html">Virginia Tech Presidential Postdoctoral Fellowship</a>, and I would be happy to support strong candidates.
