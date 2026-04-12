@@ -23,13 +23,7 @@ redirect_from:
 - **ARR**: **Senior Area Chair** (2025-2026), **Area Chair** (2024-2025)
 - **ACL**: **Senior Area Chair** (2026)
 - **EMNLP**: **Senior Area Chair** (2025-2026), **Area Chair** (2023)
-- NAACL: Reviewer (2022-2024)
 - **NeurIPS**: **Area Chair** (2025-2026)
-- ICLR: Reviewer (2025)
-- ICML-AI4Science: **Area Chair** (2024)
-- ISMB: Reviewer (2023-2025)
-- KDD: Reviewer (2022-2025)
-- TheWebConf: Reviewer (2024-2025)
 
 ## Journal Reviewer
 
@@ -37,8 +31,4 @@ redirect_from:
 - **Nature Communications**
 - **Cell**
 - **Cell Genomics**
-- Bioinformatics
-- Journal of the American Medical Informatics Association (JAMIA)
-- ACM Transactions on Intelligent Systems and Technology (ACM TIST)
-- INFORMS Journal on Data Science (IJDS)
   
