@@ -21,8 +21,8 @@ My research focuses on **efficient and reliable foundation model systems**, with
 - [**EMNLP 2025**] BTW: A Non-Parametric Variance Stabilization Framework for Multimodal Model Integration. Jun Hou, Le Wang, and **Xuan Wang**.
 
 ## Agentic and Multi-Agent Systems
-- [**ACL 2025**] CrossAgentIE: Cross-Type and Cross-Task Multi-Agent LLM Collaboration for Zero-Shot Information Extraction. Meng Lu, Yuzhang Xie, Zhenyu Bi, Shuxiang Cao, and **Xuan Wang**.
 - [**ACL 2025**] ConsensAgent: Towards Efficient and Effective Consensus in Multi-Agent LLM Interactions Through Sycophancy Mitigation. Priya Pitre, Naren Ramakrishnan, and **Xuan Wang**.
+- [**ACL 2025**] CrossAgentIE: Cross-Type and Cross-Task Multi-Agent LLM Collaboration for Zero-Shot Information Extraction. Meng Lu, Yuzhang Xie, Zhenyu Bi, Shuxiang Cao, and **Xuan Wang**.
 - [**EMNLP 2024**] TriageAgent: Towards Better Multi-Agents Collaborations for Large Language Model-Based Clinical Triage. Meng Lu, Ho Brandon, Ren Dennis, and **Xuan Wang**.
 
 ## Reliable and Trustworthy AI Systems
