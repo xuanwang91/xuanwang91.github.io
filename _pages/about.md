@@ -28,12 +28,12 @@ Here is my full [CV](https://drive.google.com/file/d/1bg0LmchHziBMgvhKw2NGE-p_Bg
 - **(11/7/25)** **One paper** is accepted by **AAAI'26**. Congratulations to my student Zhenyu for their work on small language models as a judge for reasoning evaluation!
 - **...**
 
-<!---
+
 ## My Schedule
 
 You can find my schedule [here](https://outlook.office365.com/owa/calendar/7a9db64927ad4b31ac057a71aa1a21f4@vt.edu/36019279cd6b4fb78bef49139b5b4e834236640486942120667/calendar.html). The "Week" view will present you the details of slots.
----> 
 
+<!---
 ## Prospective Students
 My lab at Virginia Tech has openings for **PhD/MS students, Postdoc researchers**, and research internship opportunities for **undergraduate students**. If you are interested in working with me, please check this [page](https://xuanwang91.github.io/prospective-students/).
-
+--->
