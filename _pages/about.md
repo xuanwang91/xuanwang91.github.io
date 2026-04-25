@@ -17,7 +17,7 @@ I received my Ph.D. in [Computer Science](http://www.cs.uiuc.edu/) from the Univ
 Here is my full [CV](https://drive.google.com/file/d/1bg0LmchHziBMgvhKw2NGE-p_Bg4ufyQH/view?usp=sharing).
 
 ## News and Highlights
-- **(4/13/26)** Congratulations to my student Gaurav for receiving the **Outstanding MS Research Award** from VT CS!
+- **(4/13/26)** Congratulations to my student Gaurav for receiving the **VT CS Outstanding MS Research Award**!
 - **(4/6/26)** **Two papers and one demo paper** are accepted by **ACL'26**. Congratulations to my student Gaurav for their work on LLM overthinking!
 - **(4/6/26)** I am honored to receive the **VT COE Outstanding New Assistant Professor Award**!
 - **(2/21/26)** **One paper** is accepted by **CVPR'26**. Congratulations to my student Meng for their work on tool-augmented reasoning in VLM agents!
