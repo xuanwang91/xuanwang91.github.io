@@ -22,7 +22,7 @@ My research focuses on **efficient and reliable foundation model systems**, with
 
 ## Agentic and Multi-Agent Systems
 - [**ICML 2026**] [A Diagnostic Study of Multi-Agent LLMs for Real-World Debates](). Priya Pitre, Gaurav Srivastava, Lu Zhang, Le Wang, Naren Ramakrishnan, and **Xuan Wang**.
-- - [**ACL 2025**] [ConsensAgent: Towards Efficient and Effective Consensus in Multi-Agent LLM Interactions Through Sycophancy Mitigation](https://aclanthology.org/2025.findings-acl.1141.pdf). Priya Pitre, Naren Ramakrishnan, and **Xuan Wang**.
+- [**ACL 2025**] [ConsensAgent: Towards Efficient and Effective Consensus in Multi-Agent LLM Interactions Through Sycophancy Mitigation](https://aclanthology.org/2025.findings-acl.1141.pdf). Priya Pitre, Naren Ramakrishnan, and **Xuan Wang**.
 - [**ACL 2025**] [CrossAgentIE: Cross-Type and Cross-Task Multi-Agent LLM Collaboration for Zero-Shot Information Extraction](https://aclanthology.org/2025.findings-acl.718.pdf). Meng Lu, Yuzhang Xie, Zhenyu Bi, Shuxiang Cao, and **Xuan Wang**.
 - [**EMNLP 2024**] [TriageAgent: Towards Better Multi-Agents Collaborations for Large Language Model-Based Clinical Triage](https://aclanthology.org/2024.findings-emnlp.329.pdf). Meng Lu, Ho Brandon, Ren Dennis, and **Xuan Wang**.
 
