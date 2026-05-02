@@ -30,7 +30,7 @@ author_profile: true
 
 ## Alumni
 - [Priya Pitre](https://priyapitre.github.io/) (MS, 2025 Spring) -> PhD in VT CS
-- [Sindhura Kommu](https://sindhura-cs.github.io/) (MS, 2025 Fall) -> Senior ML Engineer at Walmart Labs
+- [Sindhura Kommu](https://sindhura-cs.github.io/) (MS, 2025 Spring) -> Senior ML Engineer at Walmart Labs
 - [Yueyan Gu](https://www.linkedin.com/in/yueyan-gu-291152226/) (MS, 2024 Fall) -> Applied Scientist at Amazon
 - [Haoran Xu]() (UG, Tsinghua ECE, 2025 Fall) -> PhD in UMich ECE
 
