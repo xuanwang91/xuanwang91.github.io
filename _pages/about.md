@@ -27,7 +27,6 @@ Here is my full [CV](https://drive.google.com/file/d/1bg0LmchHziBMgvhKw2NGE-p_Bg
 - **(12/18/25)** We are grateful to receive a new **Cisco Research Award** to support our research on VideoGym: Verifiable Video Understanding with Tool-Augmented Reasoning and Online Reinforcement Learning.
 - **(12/16/25)** We are grateful to receive a new grant from the **Commonwealth Cyber Initiative (CCI)** to support our research on A Secure Low-Code Platform for Scalable Multi-Agent AI Deployment.
 - **(12/9/25)** We are excited to present our **tutorial** of "[Towards Effective and Efficient Multi-Agent Language Model Systems: Foundations, Prospects, and Applications]()" at **ACL'26**. Looking forward to seeing everyone in San Diego!
-- **(11/7/25)** **One paper** is accepted by **AAAI'26**. Congratulations to my student Zhenyu for their work on small language models as a judge for reasoning evaluation!
 - **...**
 
 
