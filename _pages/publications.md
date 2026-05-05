@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-My research focuses on **efficient and reliable foundation model systems**, with an emphasis on post-training, inference, and agentic decision-making in multimodal and real-world environments. For a full publication list, please see my [CV](https://drive.google.com/file/d/1bg0LmchHziBMgvhKw2NGE-p_Bg4ufyQH/view?usp=sharing) and  [Google Scholar](https://scholar.google.com/citations?user=_IVJi6UAAAAJ&hl=en).
+I develop **scalable and reliable multi-agent foundation model systems** for _decision-making in complex multimodal real-world environments_. My work is motivated by **high-stakes domains** such as science and healthcare. For a full publication list, please see my [CV](https://drive.google.com/file/d/1bg0LmchHziBMgvhKw2NGE-p_Bg4ufyQH/view?usp=sharing) and  [Google Scholar](https://scholar.google.com/citations?user=_IVJi6UAAAAJ&hl=en).
 
 ## Efficient Foundation Models
 - [**ICML 2026**] [EffGen: Enabling Small Language Models as Capable Autonomous Agents](https://arxiv.org/pdf/2602.00887). Gaurav Srivastava, Aafiya Hussain, Chi Wang, Yingyan Celine Lin, and **Xuan Wang**.
