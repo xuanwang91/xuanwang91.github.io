@@ -16,7 +16,7 @@ I develop **scalable and reliable multi-agent foundation model systems** for _de
 - [**EMNLP 2025**] [DEBATE, TRAIN, EVOLVE: Self-Evolution of Language Model Reasoning](https://aclanthology.org/2025.emnlp-main.1666.pdf). Gaurav Srivastava, Zhenyu Bi, Meng Lu, and **Xuan Wang**.
 
 ## Multimodal Foundation Models
-- [**ICML 2026**] [BioArc: Discovering Optimal Neural Architectures for Biological Foundation Models](https://arxiv.org/abs/2512.00283). Yi Fang, Haoran Xu, Jiaxin Han, Sirui Ding, Yizhi Wang, Yue Wang, and **Xuan Wang**.
+- [**ICML 2026**] [BioArc: Discovering Optimal Neural Architectures for Biological Foundation Models](https://arxiv.org/pdf/2512.00283). Yi Fang, Haoran Xu, Jiaxin Han, Sirui Ding, Yizhi Wang, Yue Wang, and **Xuan Wang**.
 - [**CVPR 2026**] [Scaling Agentic Reinforcement Learning for Tool-Integrated Reasoning in VLMs](https://arxiv.org/pdf/2511.19773). Meng Lu, Ran Xu, Yi Fang, Wenxuan Zhang, Yue Yu, Gaurav Srivastava, Yuchen Zhuang, Mohamed Elhoseiny, Charles Fleming, Carl Yang, Zhengzhong Tu, Yang Xie, Guanghua Xiao, Hanrui Wang, Di Jin, Wenqi Shi, and **Xuan Wang**.
 - [**EMNLP 2025**] [BTW: A Non-Parametric Variance Stabilization Framework for Multimodal Model Integration](https://aclanthology.org/2025.findings-emnlp.815.pdf). Jun Hou, Le Wang, and **Xuan Wang**.
 
