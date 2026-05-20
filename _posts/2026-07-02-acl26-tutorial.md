@@ -31,8 +31,8 @@ A recording of our tutorial can be found after the conference.
 - Introduction \[[Slides]()]
 - Part I: Small Language Model Agents \[[Slides]()]
 - Part II: Agents in Industry \[[Slides]()]
-- Part III: Agents in Science \[[Slides]()]
-- Part IV: Agents in Healthcare \[[Slides]()]
+- Part III: Agents in Healthcare \[[Slides]()]
+- Part IV: Agents in Science \[[Slides]()]
 - Summary \[[Slides]()]
 
 
