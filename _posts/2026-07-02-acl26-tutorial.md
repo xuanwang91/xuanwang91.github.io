@@ -16,7 +16,7 @@ tags:
 
 Time: **July 2, 2026, 9 am - 12:30 pm EST**
 
-Location: **San Diego, CA, Grand Hyatt Manchester San Diego (Harbor G - I)**
+Location: **San Diego, CA @ Grand Hyatt Manchester San Diego, Harbor G - I**
 
 
 ## Abstract:
