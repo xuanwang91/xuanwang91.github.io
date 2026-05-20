@@ -14,8 +14,6 @@ tags:
 
 <sup>1</sup>Virginia Tech, <sup>2</sup>NVIDIA Corporation, <sup>3</sup>Google DeepMind, <sup>4</sup>University of Texas Southwestern Medical Center
 
-Mila - Quebec AI Institute, Canada
-
 Time: **July 2, 2026, 9 am - 12:30 pm EST**
 
 Location: **San Diego, CA, Grand Hyatt Manchester San Diego (Harbor G - I)**
