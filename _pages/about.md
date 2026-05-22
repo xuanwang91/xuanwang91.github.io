@@ -26,7 +26,7 @@ Here is my full [CV](https://drive.google.com/file/d/1bg0LmchHziBMgvhKw2NGE-p_Bg
 - **(1/26/26)** **One paper** is accepted by **ICLR'26**. Congratulations to my student Gaurav for their work on benchmark-free evaluation of language model reasoning!
 - **(12/18/25)** We are grateful to receive a new **Cisco Research Award** to support our research on VideoGym: Verifiable Video Understanding with Tool-Augmented Reasoning and Online Reinforcement Learning.
 - **(12/16/25)** We are grateful to receive a new grant from the **Commonwealth Cyber Initiative (CCI)** to support our research on A Secure Low-Code Platform for Scalable Multi-Agent AI Deployment.
-- **(12/9/25)** We are excited to present our **tutorial** of "[Towards Effective and Efficient Multi-Agent Language Model Systems: Foundations, Prospects, and Applications]()" at **ACL'26**. Looking forward to seeing everyone in San Diego!
+- **(12/9/25)** We are excited to present our **tutorial** of "[Towards Effective and Efficient Multi-Agent Language Model Systems: Foundations, Prospects, and Applications](https://xuanwang91.github.io/2026-07-02-acl26-tutorial)" at **ACL'26**. Looking forward to seeing everyone in San Diego!
 - **...**
 
 
