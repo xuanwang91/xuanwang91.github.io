@@ -17,6 +17,7 @@ I received my Ph.D. in [Computer Science](http://www.cs.uiuc.edu/) from the Univ
 Here is my full [CV](https://drive.google.com/file/d/1bg0LmchHziBMgvhKw2NGE-p_Bg4ufyQH/view?usp=sharing).
 
 ## News and Highlights
+- **(6/13/26)** **One paper** is accepted by **MICCAI'26**. Congratulations to my student Meng for their work on tool-augmented VLM for endovascular intervention modeling!
 - **(4/30/26)** **Three papers** are accepted by **ICML'26**. Congratulations to my students Gaurav, Yi, and Priya for their work on SLM agentic framework, foundation model architecture search, and multi-agent coordination under real-world conditions without ground truth!
 - **(4/13/26)** Congratulations to my student Gaurav for receiving the **VT CS Outstanding MS Research Award**!
 - **(4/6/26)** **Two papers and one demo paper** are accepted by **ACL'26**. Congratulations to my student Gaurav for their work on LLM overthinking!
