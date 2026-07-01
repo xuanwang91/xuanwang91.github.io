@@ -27,13 +27,13 @@ Multi-agent systems powered by large language models (LLMs) offer a promising pa
 A recording of our tutorial can be found after the conference.
 
 
-## Slides \[[Combined]()]:
-- Introduction \[[Slides]()]
-- Part I: Small Language Model Agents \[[Slides]()]
-- Part II: Agents in Industry \[[Slides]()]
-- Part III: Agents in Healthcare \[[Slides]()]
-- Part IV: Agents in Science \[[Slides]()]
-- Summary \[[Slides]()]
+## Slides \[[Combined](https://drive.google.com/file/d/1EPBNZbQtYgyI2elh1nU8RFpf6sgL9W1-/view?usp=sharing)]:
+- Introduction \[[Slides](https://drive.google.com/file/d/1FZYKbk1C2jUTqrpq4QLOyofa7H51agBo/view?usp=sharing)]
+- Part I: Small Language Model Agents \[[Slides](https://drive.google.com/file/d/1crL_kix5RhA7tpIih5__m1dM6i0327w0/view?usp=drive_link)]
+- Part II: Agents in Industry \[[Slides](https://drive.google.com/file/d/1dFnxuqkC16IJVu59EUQJbnGNla0UvWRv/view?usp=drive_link)]
+- Part III: Agents in Healthcare \[[Slides](https://drive.google.com/file/d/1Rb_fr6pf7xpHfh68iSS80CzhQiq_7-TV/view?usp=drive_link)]
+- Part IV: Agents in Science \[[Slides](https://drive.google.com/file/d/1-VFicMP4x5R_OenyOZGtJ2eJvoRNlxcx/view?usp=drive_link)]
+- Summary \[[Slides](https://drive.google.com/file/d/1ea5PgoQa0uwQ6Nn6FKut7kMcjsQvBtG-/view?usp=drive_link)]
 
 
 ## Presenters: 
