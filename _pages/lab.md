@@ -18,17 +18,16 @@ author_profile: true
 - [Zhenyu Bi](https://www.linkedin.com/in/zhenyu-bi-817814178/) (2023 Fall)
 
 
+<!---
 ## Master Students
 
-- [Gaurav Srivastava](https://ctrl-gaurav.github.io/#) (2024 Fall)
 
-
-<!---
 ## Undergraduate Students
 --->
 
 
 ## Alumni
+- [Gaurav Srivastava](https://ctrl-gaurav.github.io/#) (MS, 2026 Spring) -> Research Engineer II at Dell Global Office of the CTO
 - [Priya Pitre](https://priyapitre.github.io/) (MS, 2025 Spring) -> PhD in VT CS
 - [Sindhura Kommu](https://sindhura-cs.github.io/) (MS, 2025 Spring) -> Senior ML Engineer at Walmart Labs
 - [Yueyan Gu](https://www.linkedin.com/in/yueyan-gu-291152226/) (MS, 2024 Fall) -> Applied Scientist at Amazon
