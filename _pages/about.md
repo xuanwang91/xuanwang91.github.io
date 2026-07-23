@@ -17,9 +17,9 @@ I received my Ph.D. in [Computer Science](http://www.cs.uiuc.edu/) from the Univ
 Here is my full [CV](https://drive.google.com/file/d/1bg0LmchHziBMgvhKw2NGE-p_Bg4ufyQH/view?usp=sharing).
 
 ## News and Highlights
-- **(7/22/26)** We are grateful to receive an **NSF PCL-Test Bed award** (4 years, $20M total; PI: Dr. Rose Hu) for the project AI-enabled, Cloud-based Self-Driving Nanofabrication Node for Accelerating Semiconductor Research and Education.
-- **(7/22/26)** We are grateful to receive an **NIH NIA R21 award** (2 years, $460K total; PI: Dr. Huaiyang Zhong) for the project Advancing Chronic Pain Care in Rural Seniors: Machine Learning and Natural Language Processing to Improve Understanding, Assessment, and Comorbidity Risk Prediction.
-- **(7/22/26)** We are grateful to receive a **USDA NIFA award** (3 years, $799K total; PI: Dr. Klaus Moeltner) for the project Developing and Evaluating Fine-Tuned Synthetic Agents as a Foundational Paradigm for Nonmarket Valuation and Benefit Transfer.
+- **(7/22/26)** We are grateful to receive an **NSF PCL-Test Bed grant** (4 years, $20M total; PI: Dr. Rose Hu) for the project AI-enabled, Cloud-based Self-Driving Nanofabrication Node for Accelerating Semiconductor Research and Education.
+- **(7/22/26)** We are grateful to receive an **NIH NIA R21 grant** (2 years, $460K total; PI: Dr. Huaiyang Zhong) for the project Advancing Chronic Pain Care in Rural Seniors: Machine Learning and Natural Language Processing to Improve Understanding, Assessment, and Comorbidity Risk Prediction.
+- **(7/22/26)** We are grateful to receive a **USDA NIFA grant** (3 years, $799K total; PI: Dr. Klaus Moeltner) for the project Developing and Evaluating Fine-Tuned Synthetic Agents as a Foundational Paradigm for Nonmarket Valuation and Benefit Transfer.
 - **(6/13/26)** **One paper** is accepted by **MICCAI'26**. Congratulations to my student Meng for their work on tool-augmented VLM for endovascular intervention modeling!
 - **(4/30/26)** **Three papers** are accepted by **ICML'26**. Congratulations to my students Gaurav, Yi, and Priya for their work on SLM agentic framework, foundation model architecture search, and multi-agent coordination under real-world conditions without ground truth!
 - **(4/13/26)** Congratulations to my student Gaurav for receiving the **VT CS Outstanding MS Research Award**!
