@@ -12,7 +12,7 @@ author_profile: true
 
 - [Yi Fang](https://www.linkedin.com/in/yi-fang-70519124a/) (2025 Fall)
 - [Priya Pitre](https://priyapitre.github.io/) (2024 Fall)
-- [Jun Hou](https://www.linkedin.com/in/jun-hou-1392b8149/) (2024 Fall)
+- [Jun Hou](https://junehou.github.io/) (2024 Fall)
 - [Manar Aljohani](https://manarvt.github.io/) (2024 Fall)
 - [Meng Lu](https://www.linkedin.com/in/lu-luca-499092166/) (2023 Fall)
 - [Zhenyu Bi](https://www.linkedin.com/in/zhenyu-bi-817814178/) (2023 Fall)
