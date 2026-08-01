@@ -10,11 +10,9 @@ redirect_from:
 
 I am an Assistant Professor in the [Department of Computer Science](https://cs.vt.edu/) at Virginia Tech (VT), and a faculty member of the [Sanghani Center for Artificial Intelligence and Data Analytics](https://sanghani.cs.vt.edu/). 
 
-I develop **scalable and reliable multi-agent foundation model systems** for _decision-making in complex multimodal real-world environments_. My work is motivated by **high-stakes domains** such as science and healthcare. My work has been recognized by the **NSF CAREER Award (2025)**, NVIDIA Academic Grant (2025), Cisco Research Award (2025-2026), and the NAACL Best Demo Paper Award (2021).
+I develop **scalable and reliable multi-agent foundation model systems** for _decision-making in complex multimodal real-world environments_. My work is motivated by **high-stakes domains** such as science and healthcare. My work has been recognized by the **NSF CAREER Award (2025)**, NVIDIA Academic Grant (2025), Cisco Research Award (2025-2026), and the NAACL Best Demo Paper Award (2021). Our research is sponsored by NSF, NIH, USDA, and generous gifts from Nvidia, Amazon, and Cisco. 
 
-I received my Ph.D. in [Computer Science](http://www.cs.uiuc.edu/) from the University of Illinois at Urbana-Champaign (UIUC) under the supervision of Dr. [Jiawei Han](http://hanj.cs.illinois.edu/). During my Ph.D. study, I also worked at IBM Research as a summer intern. I received my M.S. in [Statistics](https://stat.illinois.edu/) and my M.S. in [Biochemistry](https://mcb.illinois.edu/departments/biochemistry/) from UIUC. I received my B.S. in [Biological Science](https://life.tsinghua.edu.cn/) from Tsinghua University, China.
-
-Here is my full [CV](https://drive.google.com/file/d/1bg0LmchHziBMgvhKw2NGE-p_Bg4ufyQH/view?usp=sharing).
+I received my Ph.D. in [Computer Science](http://www.cs.uiuc.edu/) from the University of Illinois at Urbana-Champaign (UIUC) under the supervision of Dr. [Jiawei Han](http://hanj.cs.illinois.edu/). During my Ph.D. study, I also worked at IBM Research as a summer intern. I received my M.S. in [Statistics](https://stat.illinois.edu/) and my M.S. in [Biochemistry](https://mcb.illinois.edu/departments/biochemistry/) from UIUC. I received my B.S. in [Biological Science](https://life.tsinghua.edu.cn/) from Tsinghua University, China. Here is my full [CV](https://drive.google.com/file/d/1bg0LmchHziBMgvhKw2NGE-p_Bg4ufyQH/view?usp=sharing).
 
 ## News and Highlights
 - **(7/22/26)** We are grateful to receive an **NSF PCL-Test Bed grant** (4 years, $20M total; PI: Dr. Rose Hu) for the project AI-enabled, Cloud-based Self-Driving Nanofabrication Node for Accelerating Semiconductor Research and Education.
