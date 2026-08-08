@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Tutorials"
+title: "Conference Tutorials"
 permalink: /tutorials/
 author_profile: true
 redirect_from:
@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-## Conference Tutorials
 
 - [**NeurIPS 2026**] [Towards the Science of Multi-Agent Communication](). Yi Fang, Yu Zhang, Xuan Wang.
 - [**ISMB 2026**] [Large Language Models and Agentic AI for Biomedical Informatics](https://www.iscb.org/ismb2026/whats-happening/tutorials#ip2). Mark Gerstein, Xiangru Tang, Xuan Wang, Wenqi Shi.
