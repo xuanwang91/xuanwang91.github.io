@@ -1,21 +1,20 @@
----
-layout: compress
----
-
-{% include base_path %}
-
 <!doctype html>
 <html lang="{{ site.locale | default: 'en-US' | slice: 0,2 }}" class="no-js">
   <head>
     {% include head.html %}
+    {% include head/custom.html %}
   </head>
   <body>
     {% include header.html %}
+
     <main class="site-shell page-content">
       {{ content }}
     </main>
+
     <div class="site-shell">
       {% include footer.html %}
     </div>
+
+    {% include scripts.html %}
   </body>
 </html>
