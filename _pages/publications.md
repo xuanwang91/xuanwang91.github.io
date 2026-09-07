@@ -19,11 +19,11 @@ I develop **scalable and reliable foundation models and agentic systems** for au
 - [**EMNLP 2025**] [BTW: A Non-Parametric Variance Stabilization Framework for Multimodal Model Integration](https://aclanthology.org/2025.findings-emnlp.815.pdf). Jun Hou, Le Wang, and **Xuan Wang**.
 
 ## Agentic and Multi-Agent Systems
-- [**ICML 2026**] [A Diagnostic Study of Multi-Agent LLMs for Real-World Debates](). Priya Pitre, Gaurav Srivastava, Lu Zhang, Le Wang, Naren Ramakrishnan, and **Xuan Wang**.
+- [**ICML 2026**] [A Diagnostic Study of Multi-Agent LLMs for Real-World Debates](https://icml.cc/virtual/2026/poster/66089). Priya Pitre, Gaurav Srivastava, Lu Zhang, Le Wang, Naren Ramakrishnan, and **Xuan Wang**.
 - [**ACL 2025**] [ConsensAgent: Towards Efficient and Effective Consensus in Multi-Agent LLM Interactions Through Sycophancy Mitigation](https://aclanthology.org/2025.findings-acl.1141.pdf). Priya Pitre, Naren Ramakrishnan, and **Xuan Wang**.
 - [**ACL 2025**] [CrossAgentIE: Cross-Type and Cross-Task Multi-Agent LLM Collaboration for Zero-Shot Information Extraction](https://aclanthology.org/2025.findings-acl.718.pdf). Meng Lu, Yuzhang Xie, Zhenyu Bi, Shuxiang Cao, and **Xuan Wang**.
 - [**EMNLP 2024**] [TriageAgent: Towards Better Multi-Agents Collaborations for Large Language Model-Based Clinical Triage](https://aclanthology.org/2024.findings-emnlp.329.pdf). Meng Lu, Ho Brandon, Ren Dennis, and **Xuan Wang**.
 
 ## Reliable and Trustworthy AI Systems
-- [**EMNLP 2026**] [EDGE: Error Dependency Graph-Guided Multi-Error Attribution in Multi-Agent LLM Systems](). Jun Hou, Priya Pitre, Yi Fang, and **Xuan Wang**.
+- [**EMNLP 2026**] [EDGE: Error Dependency Graph-Guided Multi-Error Attribution in Multi-Agent LLM Systems](https://arxiv.org/html/2609.01360v1). Jun Hou, Priya Pitre, Yi Fang, and **Xuan Wang**.
 - [**EMNLP 2025**] [A Comprehensive Survey on the Trustworthiness of Large Language Models in Healthcare](https://aclanthology.org/2025.findings-emnlp.356.pdf). Manar Aljohani, Jun Hou, Sindhura Kommu, and **Xuan Wang**.
