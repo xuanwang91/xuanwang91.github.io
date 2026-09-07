@@ -27,7 +27,7 @@ redirect_from:
 - **EMNLP**: **Senior Area Chair** (2025-2026), **Area Chair** (2023)
 - **NAACL**: **Senior Area Chair** (2027)
 - **NeurIPS**: **Area Chair** (2025-2026)
-- **NeurIPS**: **Area Chair** (2027)
+- **ICLR**: **Area Chair** (2027)
 
 ## Journal Reviewer
 
