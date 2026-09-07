@@ -1,4 +1,4 @@
-# Xuan Wang — Academic Website
+# Xuan Wang - Academic Website
 
 Personal academic website of Xuan Wang, Assistant Professor of Computer Science at Virginia Tech.
 
