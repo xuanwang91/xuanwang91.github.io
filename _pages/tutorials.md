@@ -1,10 +1,6 @@
 ---
-layout: archive
-title: "Conference Tutorials"
+title: "Tutorials"
 permalink: /tutorials/
-author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
