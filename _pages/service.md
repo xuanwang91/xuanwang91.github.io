@@ -22,16 +22,10 @@ redirect_from:
 
 ## Program Committee
 
-- **ACL**: **Senior Area Chair** (2026)
-- **EMNLP**: **Senior Area Chair** (2025-2026)
-- **NAACL**: **Senior Area Chair** (2027)
-- **NeurIPS**: **Area Chair** (2025-2026)
-- **ICLR**: **Area Chair** (2027)
+- **ACL**: **Senior Area Chair** (2026), **EMNLP**: **Senior Area Chair** (2025-2026), **NAACL**: **Senior Area Chair** (2027)
+- **NeurIPS**: **Area Chair** (2025-2026), **ICLR**: **Area Chair** (2027)
 
 ## Journal Reviewer
 
-- **ACM Computing Surveys (CSUR)**, Associate Editor
-- **Nature Methods**
-- **Nature Communications**
-- **Cell**
+**ACM Computing Surveys (CSUR)**, Associate Editor, **Nature Methods**, **Nature Communications**, **Cell**
   
