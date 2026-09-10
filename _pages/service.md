@@ -34,5 +34,4 @@ redirect_from:
 - **Nature Methods**
 - **Nature Communications**
 - **Cell**
-- **Cell Genomics**
   
