@@ -16,17 +16,18 @@ redirect_from:
 - Co-Chair, [Undergraduate and High School Symposium](https://studentpapers-bigdata2024.netlify.app/), (**BigData 2024**)
 - Program Chair, [South NLP Symposium](https://southnlp.github.io/southnlp2024/) (2024)
 
-<!---
-- Program Chair, [CCI Workshop on AI for Science with Foundation Models](https://xuanwang91.github.io/2025-cci-workshop/) (2025)
---->
-
 ## Program Committee
 
-- **ACL**: **Senior Area Chair** (2026); **EMNLP**: **Senior Area Chair** (2025-2026); **NAACL**: **Senior Area Chair** (2027)
-- **NeurIPS**: **Area Chair** (2025-2026); **ICLR**: **Area Chair** (2027)
+- **ACL**: **Senior Area Chair** (2026)
+- **EMNLP**: **Senior Area Chair** (2025-2026)
+- **NAACL**: **Senior Area Chair** (2027)
+- **NeurIPS**: **Area Chair** (2025-2026)
+- **ICLR**: **Area Chair** (2027)
 
 ## Journal Reviewer
 
 - **ACM Computing Surveys (CSUR)**: Associate Editor
-- **Nature Methods**, **Nature Communications**, **Cell**
+- **Nature Methods**
+- **Nature Communications**
+- **Cell**
   
