@@ -19,7 +19,7 @@ I received my Ph.D. in [Computer Science](http://www.cs.uiuc.edu/) from the Univ
 - **(9/1/26)** We are grateful to receive a **USDA NIFA grant** (2 years, $300K total; PI: Dr. Jingqiu Liao) for the project An Adaptive AI Framework For Interpretable And Scalable Source Tracking Of Salmonella Using Whole Genome Sequencing Data.
 - **(9/1/26)** We are grateful to receive a **USDA NIFA grant** (3 years, $799K total; PI: Dr. Klaus Moeltner) for the project Developing and Evaluating Fine-Tuned Synthetic Agents as a Foundational Paradigm for Nonmarket Valuation and Benefit Transfer.
 --->
-- **(9/24/26)** **One paper** is accepted by **NeurIPS'26**. Congratulations to Meng and collaborators for their work on co-evolving visual environments for vision-language model reasoning!
+- **(9/24/26)** **One paper** is accepted by **NeurIPS'26**. Congratulations to my student Meng for their work on co-evolving visual environments for vision-language model reasoning!
 - **(9/24/26)** We are excited to present a **tutorial** of [Towards The Science of Multi-Agent Communication]() at **NeurIPS 2026**! Looking forward to seeing everyone in Atlanta in December!
 - **(8/29/26)** We are grateful to receive an **NIH NIBIB R01 grant** (4 years, $2.79M total; PI: Dr. Aiguo Han) for the project *Advancing Pulse-Echo Speed-of-Sound Imaging: Toward Accurate, Robust, and Fast Methods for Practical Use*.
 - **(8/21/26)** We are grateful to receive an **NSF NAIRR Pilot award** (1 year, 20K GPU Hours on NCSA Delta) for the project *Efficient Multimodal Long Context Reasoning via Parameter Generation*.
