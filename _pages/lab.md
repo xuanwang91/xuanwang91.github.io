@@ -33,7 +33,7 @@ permalink: /lab/
 
 ## Acknowledgment
 
-This research is sponsored by NSF 2442253, 2607580, NIH 1R21AG091260-01, R01EB039768, USDA NIFA, Commonwealth Cyber Initiative, and generous gifts from Amazon, Nvidia, and Cisco. This research is supported by an Amazon Research Award, Spring 2026 Build on Trainium Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not reflect the views of Amazon. This research used the Delta system at the National Center for Supercomputing Applications \[award OAC 2005572\] through allocation \[NAIRR240202\] from the Advanced Cyberinfrastructure Coordination Ecosystem: Services & Support (ACCESS) program, which is supported by National Science Foundation grants #2138259, #2138286, #2138307, #2137603, and #2138296.
+This research is sponsored by NSF 2442253, 2607580, NIH 1R21AG091260-01, R01EB039768, USDA NIFA, Commonwealth Cyber Initiative, and generous gifts from Amazon, Nvidia, and Cisco. This research is supported by an Amazon Research Award, Spring 2026 Build on Trainium. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not reflect the views of Amazon. This research used the Delta system at the National Center for Supercomputing Applications \[award OAC 2005572\] through allocation \[NAIRR240202\] from the Advanced Cyberinfrastructure Coordination Ecosystem: Services & Support (ACCESS) program, which is supported by National Science Foundation grants #2138259, #2138286, #2138307, #2137603, and #2138296.
 
 
 
