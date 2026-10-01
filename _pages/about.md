@@ -19,6 +19,7 @@ I received my Ph.D. in [Computer Science](http://www.cs.uiuc.edu/) from the Univ
 - **(9/1/26)** We are grateful to receive a **USDA NIFA grant** (2 years, $300K total; PI: Dr. Jingqiu Liao) for the project An Adaptive AI Framework For Interpretable And Scalable Source Tracking Of Salmonella Using Whole Genome Sequencing Data.
 - **(9/1/26)** We are grateful to receive a **USDA NIFA grant** (3 years, $799K total; PI: Dr. Klaus Moeltner) for the project Developing and Evaluating Fine-Tuned Synthetic Agents as a Foundational Paradigm for Nonmarket Valuation and Benefit Transfer.
 --->
+- **(10/01/26)** We are grateful to receive the **Google ML and Systems Junior Faculty Award** in recognition of our work in *Scalable and Reliable Learning Systems*.
 - **(9/25/26)** We are grateful to receive an **Amazon Research Award** for the project *Trainium-Native Post-Training for Tool-Integrated Agentic Reasoning Alignment*.
 - **(9/24/26)** **One paper** is accepted by **NeurIPS'26**. Congratulations to my student Meng for their work on co-evolving visual environments for vision-language model reasoning!
 - **(9/24/26)** We are excited to present a **tutorial** of [Towards The Science of Multi-Agent Communication]() at **NeurIPS 2026**! Looking forward to seeing everyone in Atlanta in December!
