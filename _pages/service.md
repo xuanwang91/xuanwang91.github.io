@@ -21,6 +21,7 @@ redirect_from:
 - **ACL**: **Senior Area Chair** (2026-2027)
 - **EMNLP**: **Senior Area Chair** (2025-2026)
 - **NAACL**: **Senior Area Chair** (2027)
+- **ICML**: **Area Chair** (2027)
 - **NeurIPS**: **Area Chair** (2025-2026)
 - **ICLR**: **Area Chair** (2027)
 
@@ -30,4 +31,5 @@ redirect_from:
 - **Nature Methods**
 - **Nature Communications**
 - **Cell**
+- - **Cell Genomics**
   
