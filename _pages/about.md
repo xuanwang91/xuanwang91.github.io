@@ -22,7 +22,7 @@ I received my Ph.D. in [Computer Science](http://www.cs.uiuc.edu/) from the Univ
 - **(10/01/26)** We are grateful to receive the **Google ML and Systems Junior Faculty Award** in recognition of our work in *Scalable and Reliable Learning Systems*.
 - **(9/25/26)** We are grateful to receive an **Amazon Research Award** for the project *Trainium-Native Post-Training for Tool-Integrated Agentic Reasoning Alignment*.
 - **(9/24/26)** **One paper** is accepted by **NeurIPS'26**. Congratulations to my student Meng for their work on co-evolving visual environments for vision-language model reasoning!
-- **(9/24/26)** We are excited to present a **tutorial** of [Towards The Science of Multi-Agent Communication]() at **NeurIPS 2026**! Looking forward to seeing everyone in Atlanta in December!
+- **(9/24/26)** We are excited to present a **tutorial** of [Towards The Science of Multi-Agent Communication](/2026-12-09-neurips26-tutorial) at **NeurIPS 2026**! Looking forward to seeing everyone in Atlanta in December!
 - **(8/29/26)** We are grateful to receive an **NIH NIBIB R01 grant** (4 years, $2.79M total; PI: Dr. Aiguo Han) for the project *Advancing Pulse-Echo Speed-of-Sound Imaging: Toward Accurate, Robust, and Fast Methods for Practical Use*.
 - **(8/21/26)** We are grateful to receive an **NSF NAIRR Pilot award** (1 year, 20K GPU Hours on NCSA Delta) for the project *Efficient Multimodal Long Context Reasoning via Parameter Generation*.
 - **(8/21/26)** **Two papers** are accepted by **EMNLP'26**. Congratulations to my student Jun for their work on multi-agent error detection and attribution with causal graph building!
