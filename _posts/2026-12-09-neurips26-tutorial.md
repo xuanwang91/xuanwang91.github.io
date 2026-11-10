@@ -29,7 +29,7 @@ A recording of our tutorial will be released after the conference.
 
 ## Slides:
 - Introduction \[[Slides]()]
-- Part I: Unified Science of Multi-Agent Communication \[[Slides]()]
+- Part I: Unified Theory of Multi-Agent Communication \[[Slides]()]
 - Part II: LLM-Based Multi-Agent Communication \[[Slides]()]
 - Summary: Evaluation and Reliability \[[Slides]()]
 
