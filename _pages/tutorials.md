@@ -5,7 +5,7 @@ permalink: /tutorials/
 
 {% include base_path %}
 
-- [**NeurIPS 2026**] [Towards the Science of Multi-Agent Communication](). Yi Fang, Yu Zhang, Xuan Wang.
+- [**NeurIPS 2026**] [Towards the Science of Multi-Agent Communication](/2026-12-09-neurips26-tutorial). Yi Fang, Yu Zhang, Xuan Wang.
 - [**ISMB 2026**] [Large Language Models and Agentic AI for Biomedical Informatics](https://www.iscb.org/ismb2026/whats-happening/tutorials#ip2). Mark Gerstein, Xiangru Tang, Xuan Wang, Wenqi Shi.
 - [**ACL 2026**] [Towards Effective and Efficient Multi-Agent Language Model Systems: Foundations, Prospects, and Applications](/2026-07-02-acl26-tutorial). Xuan Wang, Shuxiang Cao, Yuchen Zhuang, Wenqi Shi.
 - [**ICDM 2025**] [AI-Driven Multimodal Frameworks for Healthcare Decision-Making](https://people.cs.vt.edu/jiamingcui/icdm25/index.html). Jiaming Cui, Xuan Wang, Zhe Zeng, Hongru Du.
