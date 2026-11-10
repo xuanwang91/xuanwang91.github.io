@@ -1,47 +1,47 @@
 ---
-title: 'ACL 2026 Tutorial'
-date:   2026-07-02 9 am - 12:30 pm
-permalink: /2026-07-02-acl26-tutorial
+title: 'NeurIPS 2026 Tutorial'
+date:   2026-12-09 9 am - 12:30 pm
+permalink: /2026-12-09-neurips26-tutorial
 tags:
-  - acl
+  - neurips
   - tutorial
   - 2026
 ---
 
 # Towards Effective and Efficient Multi-Agent Language Model Systems: Foundations, Prospects, and Applications
 
-[Xuan Wang](https://xuanwang91.github.io/)<sup>1</sup>, [Shuxiang Cao](https://www.physics.ox.ac.uk/our-people/caos)<sup>2</sup>, [Yuchen Zhuang](https://night-chen.github.io/)<sup>3</sup>, [Wenqi Shi](https://wshi83.github.io/)<sup>4</sup>
+[Yi Fang](https://yifang99.github.io/)<sup>1</sup>, [Yu Zhang](https://yuz9yuz.github.io/)<sup>1</sup>, [Xuan Wang](https://xuanwang91.github.io/)<sup>1</sup>
 
-<sup>1</sup>Virginia Tech, <sup>2</sup>NVIDIA Corporation, <sup>3</sup>Google DeepMind, <sup>4</sup>University of Texas Southwestern Medical Center
+<sup>1,3</sup>Virginia Tech, <sup>2</sup>Texas A&M
 
-Time: **July 2, 2026, 9 am - 12:30 pm EST**
+Time: **December 9, 2026, Time TBD**
 
-Location: **San Diego, CA @ Grand Hyatt Manchester San Diego, Harbor G - I**
+Location: **Atlanta, GA @ Georgia World Congress Center, Room TBD**
 
 
 ## Abstract:
-Multi-agent systems powered by large language models (LLMs) offer a promising paradigm for tackling complex reasoning, decision-making, and problem-solving tasks. However, achieving both effectiveness and efficiency in such systems remains a critical challenge. This tutorial introduces recent advances in building effective and efficient multi-agent LLM systems, focusing on three core components. First, we discuss the design of individual LLM agents. We present state-of-the-art techniques for enabling capable agents using efficient and compact LLMs, including model distillation, dynamic routing, and memory- and compute-efficient serving, providing a foundation for scalable and responsive agent design under resource constraints. Second, we cover coordination and communication among agents, crucial for collective performance, highlighting methods for improving multi-agent reasoning and decision-making through prompt and graph optimization, sycophancy mitigation, and structured LLM-based frameworks. Last, we explore real-world applications of LLM agents in areas such as industry, healthcare, quantum computing, and various scientific domains.
+Research on multi-agent communication has fragmented into three paradigms that evolved in isolation: Multi-Agent Reinforcement Learning (MARL), Emergent Language (EL), and LLM-based agents. This tutorial presents a unified science of multi-agent communication spanning all three. We model communication as a state-perturbation operator on the receiver’s state, derive from it a Format × Content taxonomy (Sensory, Symbolic, Latent, and Parameter formats crossed with Facts, Self-state, Intent, and Control content), introduce the Communication Pentagram for task-independent channel evaluation (Bandwidth, Computational Cost, Robustness, Generalization, Interpretability), and distill cross-paradigm design principles with a transfer principle for porting techniques between paradigms. The tutorial equips a broad NeurIPS audience with a common mathematical ground, a working taxonomy, and a roadmap for designing, evaluating, and securing the communication layer of agent systems.
 
 
 ## Tutorial Recording:
-A recording of our tutorial can be found [here](https://us06web.zoom.us/rec/play/agVd3rELnAImLsAwJOLENcbf5oDwMLjv-4Hb--2yiWvHKjkuqD4e0MR7lYack0kllGt84c3L-1yaDDW-.n0PcehM_BguHIoW4?accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1783007066000&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2FVAY_Tg9Xye8g5NZ3ubYWScEsbI0OrfUxyomBdQ9j3jAsIL01pFxTVu-tCoS9BNc.n-w4Y2ZJxuFmirxO%3FstartTime%3D1783007066000).
+A recording of our tutorial will be released after the conference.
 
 
 ## Slides:
-- Introduction \[[Slides](https://drive.google.com/file/d/1FZYKbk1C2jUTqrpq4QLOyofa7H51agBo/view?usp=sharing)]
-- Part I: Small Language Model Agents \[[Slides](https://drive.google.com/file/d/1crL_kix5RhA7tpIih5__m1dM6i0327w0/view?usp=drive_link)]
-- Part II: Agents in Industry \[[Slides](https://drive.google.com/file/d/1dFnxuqkC16IJVu59EUQJbnGNla0UvWRv/view?usp=drive_link)]
-- Part III: Agents in Healthcare \[[Slides](https://docs.google.com/presentation/d/1oBMPYr_m6MQoUaAu4iN5y7XbuUogMw5D/edit?usp=sharing&ouid=109696240950426383790&rtpof=true&sd=true)]
-- Part IV: Agents in Science \[[Slides](https://drive.google.com/file/d/1oAoLRWriC67sSos76T6rF8RAnSQNUTsQ/view?usp=sharing)]
-- Summary \[[Slides](https://drive.google.com/file/d/1ea5PgoQa0uwQ6Nn6FKut7kMcjsQvBtG-/view?usp=drive_link)]
+- Introduction \[[Slides]()]
+- Part I: Unified Science of Multi-Agent Communication \[[Slides]()]
+- Part II: LLM-Based Multi-Agent Communication \[[Slides]()]
+- Part IV: Summary: Evaluation and Reliability \[[Slides]()]
 
 
 ## Presenters: 
 
 |-------------|-------------|
-| ![Xuan](https://github.com/xuanwang91/xuanwang91.github.io/blob/master/images/img/Xuan2016.jpg?raw=True) | **Xuan Wang** is an Assistant Professor in the Department of Computer Science at Virginia Tech. Her research interests are in natural language processing, data mining, AI for sciences, and AI for healthcare. Xuan was a recipient of the NSF CAEER Award 2025, Cisco Research Award 2025, NSF NAIRR Pilot Award 2024-2025, and NAACL Best Demo Paper Award 2021. Xuan has served as a Program Chair of the SouthNLP Symposium 2024 (>150 participants), from more than 20 universities across the USA. She has also served as a Program Chair for the Undergraduate and High School Symposium at IEEEBigData 2024 and IEEE-ICDM 2025. She has also served as a Senior Area Chair, Area Chair, and Program Committee in major AI conferences (e.g., ARR, ACL, EMNLP, NAACL, NeurIPS, ICLR, KDD). Xuan has delivered tutorials in AAAI 2025, EMNLP 2024, KDD 2022, TheWebConf 2022, and IEEE-BigData 2019. |
-| ![Shuxiang](https://github.com/xuanwang91/xuanwang91.github.io/blob/master/images/img/Shuxiang_Cao.jpeg?raw=True) | **Shuxiang Cao** is a Senior Research Scientist at NVIDIA and a Long Term Visitor in the Department of Physics at the University of Oxford. His research is at the intersection of quantum technology, artificial intelligence, and high-performance computing. He obtained his PhD in Physics (Quantum Technology) from the University of Oxford, where he worked on superconducting quantum computers. At NVIDIA, his work focuses on advancing artificial intelligence for science, including the development of large language model applications for scientific research and autonomous laboratories that accelerate scientific discovery. Dr. Cao has published in high profile journals in physics, including Physical Review Letters, Physics Reports, and Science Advances, as well as at computer science conferences, including NeurIPS, ACL, and EMNLP. |
-| ![Yuchen](https://github.com/xuanwang91/xuanwang91.github.io/blob/master/images/img/Yuchen_Zhuang.png?raw=True) | **Yuchen Zhuang** is a Research Scientist at Google DeepMind. His research focuses on language intelligence, with the goal of developing LLM-based agents that can show human-like reasoning and planning on challenging real-world tasks. His experience covers model pre-training, instruction fine-tuning, reinforcement learning from human feedback (RLHF), and evaluation. He has published more than 30 papers in top AI venues such as NeurIPS, ICLR, ICML, ACL, EMNLP, NAACL, UAI, and KDD. He has received the 2024 J.P. Morgan PhD Fellowship Award, the NeurIPS 2023 Scholar Award, and the Best SIGBio Paper Award at ACM BCB. He serves as an Area Chair and Program Committee member in major AI conferences (e.g., ARR, ACL, EMNLP, NAACL, NeurIPS, ICLR, ICML). |
-| ![Wenqi](https://github.com/xuanwang91/xuanwang91.github.io/blob/master/images/img/Wenqi_Shi.png?raw=True) | **Wenqi Shi** is an Assistant Professor in the Department of Health Data Science and Biostatistics at the University of Texas Southwestern Medical Center. Her research focuses on the intersection of AI and healthcare, advancing both foundational algorithms and agentic systems for precision and personalized medicine. Her recent work includes developing LLMs for translational medicine, advancing agentic AI for biomedical discovery, and promoting responsible AI practices to improve clinical research and care. She has received the NVIDIA Academic Grant Program Award (2025), the Texas Advanced Computing Center (TACC) Pilot Award (2025), the Best SIGBio Paper Award at ACM BCB (2023), and recognition as a Rising Star in EECS (2023). She has served as Finance Co-Chair of ACM BCB 2025, Publication Co-Chair of IEEE BHI 2025 (both >300 participants), and as an Area Chair or Program Committee member in major AI and healthcare conferences (e.g., ACL, EMNLP, NAACL, NeurIPS, ICLR, ICML, BCB, BIBM). |
+|-------------|-------------|
+| ![Yi]() | **Yi Fang** is a Ph.D. student in Computer Science at Virginia Tech, advised by Dr. Xuan Wang, and the lead author of the [comprehensive survey of multi-agent communication](https://yifang99.github.io/Towards-The-Science-of-Agent-Communication/) on which this tutorial is based (currently under review). His research focuses on multi-agent systems and inter-agent communication across reinforcement learning and LLM-based agents. |
+|-------------|-------------|
+| ![Yu]() | **Yu Zhang** is an Assistant Professor of Computer Science and Engineering at Texas A&M University. He received his Ph.D. from the University of Illinois Urbana-Champaign, advised by Prof. Jiawei Han; his dissertation received the ACM SIGKDD Dissertation Award Runner-Up in 2025. His research focuses on LLM agents for scientific research and LLM agents with structural knowledge. He serves as a Senior Area Chair for ACL and EMNLP and an Area Chair for KDD and NeurIPS, and has delivered four conference tutorials, most recently at WSDM 2026. |
+| ![Xuan](https://github.com/xuanwang91/xuanwang91.github.io/blob/master/images/img/Xuan2016.jpg?raw=True) | **Xuan Wang** is an Assistant Professor in the Department of Computer Science at Virginia Tech. Her research interests are in natural language processing, data mining, AI for sciences, and AI for healthcare. Xuan was a recipient of the NSF CAEER Award 2025, Cisco Research Award 2025, NSF NAIRR Pilot Award 2024-2025, and NAACL Best Demo Paper Award 2021. Xuan has served as a Program Chair of the SouthNLP Symposium 2024 (>150 participants), from more than 20 universities across the USA. She has also served as a Program Chair for the Undergraduate and High School Symposium at IEEEBigData 2024 and IEEE-ICDM 2025. She has also served as a Senior Area Chair, Area Chair, and Program Committee in major AI conferences (e.g., ARR, ACL, EMNLP, NAACL, NeurIPS, ICLR, KDD). Xuan has delivered tutorials in ACL 2026, AAAI 2025, EMNLP 2024, KDD 2022, TheWebConf 2022, and IEEE-BigData 2019. |
+
 
 
