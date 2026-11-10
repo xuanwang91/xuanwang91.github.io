@@ -8,7 +8,7 @@ tags:
   - 2026
 ---
 
-# Towards Effective and Efficient Multi-Agent Language Model Systems: Foundations, Prospects, and Applications
+# Towards The Science of Multi-Agent Communication
 
 [Yi Fang](https://yifang99.github.io/)<sup>1</sup>, [Yu Zhang](https://yuz9yuz.github.io/)<sup>1</sup>, [Xuan Wang](https://xuanwang91.github.io/)<sup>1</sup>
 
