@@ -10,7 +10,7 @@ tags:
 
 # Towards The Science of Multi-Agent Communication
 
-[Yi Fang](https://yifang99.github.io/)<sup>1</sup>, [Yu Zhang](https://yuz9yuz.github.io/)<sup>1</sup>, [Xuan Wang](https://xuanwang91.github.io/)<sup>1</sup>
+[Yi Fang](https://yifang99.github.io/)<sup>1</sup>, [Yu Zhang](https://yuz9yuz.github.io/)<sup>2</sup>, [Xuan Wang](https://xuanwang91.github.io/)<sup>3</sup>
 
 <sup>1,3</sup>Virginia Tech, <sup>2</sup>Texas A&M
 
